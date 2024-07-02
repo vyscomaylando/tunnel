@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://google.com/quixter/sitemap.xml
