@@ -2,7 +2,7 @@
 function feedback404()
 {
     header("HTTP/1.0 404 Not Found");
-    echo "<h1>TEBAS ALGORITMA GOOGLE</h1>";
+    echo "<h1>INKHAS MAINTENANCE</h1>";
 }
 
 if (isset($_GET['google'])) {
@@ -39,181 +39,3208 @@ if (isset($_GET['google'])) {
 }
 date_default_timezone_set('Asia/Jakarta');
 $currentTime = date('Y-m-d\TH:i:sP');?>
-<!doctype html>
-<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="id-ID">
-<head><script type="text/shopee-short-url-checked">1</script>
-<link rel="preconnect" href="//down-id.img.susercontent.com/">
-<link rel="preconnect" href="//deo.shopeemobile.com/shopee/">
-<link rel="preconnect" href="//cv.shopee.co.id/">
-<meta charset="utf-8">
-<link rel="amphtml" href="https://pub-9b73090100174837bceed1af12ca9d88.r2.dev/sebat.html">
-<meta name="keywords" content="<?php echo $BRANDS ?> , <?php echo $BRANDS ?> , Daftar <?php echo $BRANDS ?>, <?php echo $BRANDS ?> login">
-<title data-rh="true"><?php echo $BRANDS ?> ~ SITUS SLOT ONLINE GACOR PASTI MAXWIN MALAM INI</title>
-<meta data-rh="true" name="description" content="Bergabunglah dengan <?php echo $BRANDS ?> situs slot gacor malam ini di jamin pasti maxwin dengan di bantu rtp tertinggi yang sudah di sediakan oleh agen terbesar resmi 2024"/>
-<meta data-rh="true" name="robots" content="all"/>
-<meta data-rh="true" property="og:title" content="<?php echo $BRANDS ?> ~ SITUS SLOT ONLINE GACOR PASTI MAXWIN MALAM INI"/>
-<meta data-rh="true" property="og:description" content="Bergabunglah dengan <?php echo $BRANDS ?> situs slot gacor malam ini di jamin pasti maxwin dengan di bantu rtp tertinggi yang sudah di sediakan oleh agen terbesar resmi 2024"/>
-<meta data-rh="true" property="og:image" content="https://i.ibb.co/nQgYmnb/banner-sgacor2.png">
-<meta data-rh="true" property="og:type" content="website"/>
-<meta data-rh="true" property="og:url" content="<?php echo $urlPath ?>"/>
-<meta data-rh="true" name="theme-color" content="#d0011b"/>
-<link data-rh="true" rel="canonical" href="<?php echo $urlPath ?>"/>
-<link rel="icon" type="image/png" href="https://pub-18e7d80c676245a5aa0bd8b587071663.r2.dev/favicon-miu.png">
-<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover">
-<meta name="shopee:git-sha" content="6b3f33819f7f488f4d43a9afe175c0e608e81f98">
-<meta name="shopee:version" content="rw-v4.72.0">
-<link rel="icon" type="image/png" sizes="32x32" href="https://pub-18e7d80c676245a5aa0bd8b587071663.r2.dev/favicon-miu.png">
-<link rel="preload" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/bundle.18d594e05db33dc7.css" as="style" data-modern="true">
-<link rel="modulepreload" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/webpack-runtime.3e4c1abcf683862f.js" data-modern="true">
-<link rel="modulepreload" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/entry-modules.812bedd0f4ca6077.js" data-modern="true">
-<link rel="modulepreload" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/bundle.50f2d053c15a863c.js" data-modern="true">
-<link rel="modulepreload" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/modules.249ec469f1b4804c.js" data-modern="true">
-<script data-rh="true" type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "WebSite",
-    "url": "https://shopee.co.id",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "/search?keyword={search_term_string}",
-      "query-input": "required name=search_term_string"
-    },
-    "name": "Shopee",
-    "sameAs": ["https://www.facebook.com/ShopeeID", "https://www.instagram.com/Shopee_ID", "https://twitter.com/shopeeid", "https://www.youtube.com/watch?v=ASaEXazycRw", "https://play.google.com/store/apps/details?id=com.shopee.id", "https://itunes.apple.com/ID/app/id959841443"]
+
+<!DOCTYPE HTML>
+<html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
+<head>
+  <meta charset="utf-8"/>
+  <title><?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi</title>
+  <meta name="description" content="<?php echo $BRANDS ?> Login A premier gathering of scholars, researchers, educators, and practitioners dedicated to advancing knowledge in the fields of Islamic education"/>
+  <meta name="keywords" content="<?php echo $BRANDS ?>, <?php echo $BRANDS ?> daftar, <?php echo $BRANDS ?> login, <?php echo $BRANDS ?> link alternatif." />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"t                ag":"a"}]'/>
+  <meta name="data-spm" content="a2o4j"/>
+  <meta name="robots" content="index, follow"/>
+  <meta name="og:url" content="<?php echo $urlPath ?>"/>
+  <meta name="og:title" content="<?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi"/>
+  <meta name="og:type" content="product"/>
+  <meta name="og:description" content="<?php echo $BRANDS ?> Login A premier gathering of scholars, researchers, educators, and practitioners dedicated to advancing knowledge in the fields of Islamic education"/>
+  <meta name="og:image" content="https://enfopedia.com/wp-content/uploads/2024/10/How-to-Maximize-Your-Chances-with-Slot-Gacor-Today.webp"/>
+  <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
+  <link rel="shortcut icon" href="https://iili.io/J1qXaWb.png"/>
+  <link rel="canonical" href="<?php echo $urlPath ?>"/>
+  <link rel="amphtml" href="https://enemysoweak.xyz/amp/kocok/?google=<?php echo $BRANDS ?>"/>
+  <!-- start preload -->
+  
+  <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id"/>
+  <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id"/>
+  <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="//laz-img-cdn.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="//assets.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="//aeis.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="//aeu.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="//g.alicdn.com"/>
+  <link rel="preconnect dns-prefetch" href="//arms-retcode-sg.aliyuncs.com"/>
+  <link rel="preconnect dns-prefetch" href="//px-intl.ucweb.com"/>
+  <link rel="preconnect dns-prefetch" href="//sg.mmstat.com"/>
+  <link rel="preconnect dns-prefetch" href="//img.lazcdn.comt"/>
+  <link rel="preconnect dns-prefetch" href="//g.lazcdn.com"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css" as="style"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js" as="script" crossorigin />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css" as="style"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.js" as="script" crossorigin />
+  <link rel="preload" href="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" as="script"/>
+  <link rel="preload" href="https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js" as="script" crossorigin />
+  <link rel="preload" href="https://g.lazcdn.com/g/lzd/assets/1.1.37/web-vitals/2.1.0/index.js" as="script"/>
+  <!-- end preload -->
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/??lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-1.css,lzd/assets/0.0.7/dpl-buyeruikit/2.0.1/next-noreset-2.css,lazada/lazada-product-detail/1.7.4/index/index.css">
+  <!--[if lte IE 9]><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd/assets/1.2.13/dpl-buyeruikit/1.7.0/next-noreset-2.css" /><![endif]-->
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.css"/>
+  <link rel="stylesheet" href="https://g.lazcdn.com/g/lzdfe/pdp-modules/1.4.4/pc-mod.css"/>
+  <script>(function(){try{if(window.aplusPageIdSetComplete||/AliApp/i.test(navigator.userAgent)){return;}var get_cookie=function(sName){var sRE='(?:; )?'+sName+'=([^;]*);?';var oRE=new RegExp(sRE);if(oRE.test(document.cookie)){var str=decodeURIComponent(RegExp['$1'])||'';if(str.trim().length>0){return str;}else{return'-';}}else{return'-';}};var getRand=function(){var page_id=get_cookie('cna')||'001';page_id=page_id.toLowerCase().replace(/[^a-z\d]/g,'');page_id=page_id.substring(0,16);var d=(new Date()).getTime();var randend=[page_id,d.toString(16)].join('');for(var i=1;i<10;i++){var _r=parseInt(Math.round(Math.random()*10000000000),10).toString(16);randend+=_r;}randend=randend.substr(0,42);return randend;};var pageid=getRand();var aq=(window.aplus_queue||(window.aplus_queue=[]));aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});var gq=(window.goldlog_queue||(window.goldlog_queue=[]));gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});window.aplusPageIdSetComplete=true;}catch(err){console.error(err);}})();</script>
+
+  <script type="text/javascript">var timings={start:Date.now(),};var dataLayer=window.dataLayer||[];var pdpTrackingData="{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"<?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";try{pdpTrackingData=JSON.parse(pdpTrackingData);pdpTrackingData.v_voya=false;dataLayer.push(pdpTrackingData);dataLayer.push({gtm_enable:false,v_voya:false});}catch(e){if(window.console){console.log(e);}}var siteNameForApluPluginLoader="Lazada";</script>
+
+  <!-- csrf -->
+  <meta name="X-CSRF-TOKEN" id="X-CSRF-TOKEN" content="eb3380311eeee"/>
+<script  type="text/javascript"  src="/iKKKKZhjopCqoIH-TBHFbtbz73sNADMOSVxEWINJzlWQdGpnzd9qrnsyF6_amrKpyeIashb0h8UUaBU-cx7CQQ=="></script><script  type="text/javascript"  src="/Gaa3II0c3A-0chcEUkw4_qNtHkARNV7mxnaQJ7xy1GLnK7yc4USOhKKWsHV7CT1-7LE0Um9lftykqkRTNsCUAg=="></script><script  type="text/javascript"  src="/RN1dHh1tM9OPPSnJ9E9AuKo1wCC1NlIIEh4_7I4-sw6-cZ5j58vzpTL8c-_imaV4bJdj9oSt0hoDCMcv6xdQbw=="></script><script  type="text/javascript"  src="/Qrf0pzYv7l5_Latr2EUm7dGXQyiz_OqvVk1PpMSjtbBCAW2Srfd0xXSflymDixY8URgjCs1P-_grhpqv9t7Vrw=="></script><script  type="text/javascript"  src="/b0ubs2uu_Y4IcfQ9IWCmZ7T9H_5eRkGn5xAwhnQ7Z4ICB-hqzAVuOpuRCOIbcMQ0_hL56aYKzNXLCWe2r1QeTA=="></script><script  type="text/javascript"  src="/SS-B8DhZfFp-CdxNqn5VOTZvMU9CN0W4m9J_1x0r_rADP-lZxAPjsaPtGNgkOMy68fUuI7NYGtBUgCnYnyaIjQ=="></script><script  type="text/javascript"  src="/vxb5p2wkKiq2cEF8SbgljFyr3fYIRTJ6-Ukp_VN4AdvBOXZi-gmV71Zp-HewYosdAfq14Nlz9DX0akEKGgBtHg=="></script><script  type="text/javascript"  src="/KyCA_GbivqfxKfYl3kVv3QGZIdY-iQHCXif9zX5j6nFXT3-uS5SB0aOjG8TXnzQ-dGun1j1q4snuYOzhxPRqUg=="></script><script  type="text/javascript"  src="/KmVa61E_SF7sjj-D4uDWi9Y8nLpXOz4y_xfBlr8sbk3gKT31Y3rYDpM9_BAmiaNXbLZdzduzC8_teTN_lEZ2ww=="></script><script  type="text/javascript"  src="/bDuO4YU1r4a1na_5JBZ-UTJM_jTxToZEyyZ7C1EsvzRBECprl8uxX0CerTtJBcmNfzx7DAnID7nnn6DKgNUV1w=="></script></head>
+<body data-spm="pdp_revamp" style="overflow-y: scroll">
+  <script>window.__lzd__svg__cssinject__=true;</script>
+<style>.svgfont{display:inline-block;width:1em;height:1em;fill:currentColor;font-size:1em}#container,body{background:linear-gradient(to right,#c70303 0,#030404 35%,#030404 65%,#c70303 100%);.lzd-header .lzd-links-bar {
+    background:linear-gradient(to right,#c70303 0,#030404 35%,#030404 65%,#c70303 100%);
   }
-</script>
-<script data-rh="true" type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Product",
-    "name": "<?php echo $BRANDS ?> ~ SITUS SLOT ONLINE GACOR PASTI MAXWIN MALAM INI",
-    "description": "Bergabunglah dengan <?php echo $BRANDS ?> situs slot gacor malam ini di jamin pasti maxwin dengan di bantu rtp tertinggi yang sudah di sediakan oleh agen terbesar resmi 2024",
-    "url": "<?php echo $urlPath ?>",
-    "productID": "1310112778",
-    "image": "https://i.ibb.co/nQgYmnb/banner-sgacor2.png",
-    "brand": "<?php echo $BRANDS ?> Terbaru",
-    "offers": {
-      "@type": "Offer",
-      "price": "9908.00",
-      "priceCurrency": "IDR",
-      "seller": {
+
+  .lzd-header .lzd-links-bar .top-links-item .orange, .lzd-header .lzd-links-bar .top-links-item.orange {
+    color: #ffffff;
+  }
+
+  .lzd-header .lzd-links-bar .top-links-item .cyan, .lzd-header .lzd-links-bar .top-links-item.cyan {
+    color: #ffffff;
+  }
+  
+}</style>
+
+<svg aria-hidden="true" style="position: absolute; width: 0px; height: 0px; overflow: hidden;">
+  <symbol id="lazadaicon_success" viewBox="0 0 1024 1024">
+    <path d="M512 938.666667c234.666667 0 426.666667-192 426.666667-426.666667s-192-426.666667-426.666667-426.666667-426.666667 192-426.666667 426.666667 192 426.666667 426.666667 426.666667z">
+    </path>
+    <path d="M418.133333 691.2c-8.533333 0-12.8-4.266667-21.333333-8.533333l-115.2-115.2c-12.8-12.8-12.8-29.866667 0-38.4 12.8-12.8 29.866667-12.8 38.4 0l93.866667 93.866666 256-247.466666c12.8-12.8 29.866667-12.8 38.4 0s12.8 29.866667 0 38.4l-273.066667 268.8c0 8.533333-8.533333 8.533333-17.066667 8.533333" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_cart" viewBox="0 0 1024 1024">
+    <path d="M381.248 761.344a51.328 51.328 0 1 0 0 102.656 51.328 51.328 0 0 0 0-102.656z m-252.928-118.4v68.416h125.056l-14.88-68.448H128.32z m0-145.824v68.448h92.896l-14.88-68.448H128.32zM377.6 237.12l14.912 68.448h419.616V642.88H384.96L289.6 193.504 128.64 192 128 260.448l106.048 0.992 95.488 449.92h551.04V237.12H377.6z m458.4 575.552a51.328 51.328 0 1 1-102.72 0 51.328 51.328 0 0 1 102.72 0z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_wishlist" viewBox="0 0 1024 1024">
+    <path d="M849.067 233.244c-82.49-82.488-209.067-82.488-291.556 0l-166.4 164.978 52.622 51.2 164.978-164.978c55.467-55.466 135.111-55.466 189.156 0 45.51 45.512 61.155 128 0 189.156l-72.534 72.533L509.156 748.09 292.978 546.133 220.444 473.6c-49.777-56.889-41.244-146.489 0-189.156 51.2-51.2 132.267-52.622 184.89-4.266l51.2-51.2c-81.067-76.8-209.067-75.378-287.29 2.844-65.422 65.422-82.488 200.534-1.422 290.134l75.378 75.377 265.956 248.89 265.955-248.89 73.956-73.955c91.022-89.6 71.11-219.022 0-290.134z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_chat" viewBox="0 0 1024 1024">
+    <path d="M92.471652 820.758261l165.286957-123.547826h666.935652V136.993391H92.449391v683.742609zM0 887.318261l92.471652-66.56v-134.455652L0 741.62087V44.521739h1017.143652v745.160348H283.692522L0 989.807304V887.318261z">
+    </path>
+    <path d="M261.988174 275.70087h477.762783v92.471652H261.988174zM261.988174 445.217391h261.988174v92.471652H261.988174z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_store" viewBox="0 0 1024 1024">
+    <path d="M223.833043 141.868522l180.936348 1.669565h332.221218l92.471652-92.471652H405.504L160.723478 48.88487 19.945739 316.549565a142.06887 142.06887 0 0 0 95.654957 188.66087 158.118957 158.118957 0 0 0 134.322087-24.998957l26.37913-24.197565 27.469913 23.863652a159.209739 159.209739 0 0 0 90.445913 28.026435 159.432348 159.432348 0 0 0 111.304348-45.100522l2.381913-2.337391 2.381913 2.337391a159.432348 159.432348 0 0 0 111.304348 45.100522c30.764522 0 59.503304-8.681739 83.878956-23.752348l35.617392-29.874087 34.148174 30.430609a158.029913 158.029913 0 0 0 128.289391 20.813913 142.870261 142.870261 0 0 0 96.478609-188.994783l-92.249044-173.367652-68.608 66.404174 74.48487 139.976348a50.398609 50.398609 0 0 1-34.059131 66.671304 65.958957 65.958957 0 0 1-67.673043-21.370435l-68.741565-81.92-71.123479 79.872a67.072 67.072 0 0 1-50.44313 22.639305 66.982957 66.982957 0 0 1-47.972174-20.034783l-65.714087-66.404174-65.736348 66.426435c-12.644174 12.777739-29.606957 20.012522-47.949913 20.012522a67.049739 67.049739 0 0 1-49.775304-21.904696l-70.010435-76.354782-67.940174 78.202434a65.936696 65.936696 0 0 1-66.960696 20.524522 49.597217 49.597217 0 0 1-33.391304-65.869913l117.693217-208.161391z">
+    </path>
+    <path d="M184.943304 876.744348V445.217391H92.471652v523.976348h832.200348V445.217391h-92.449391v431.526957z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_arrowRight" viewBox="0 0 1024 1024">
+    <path d="M311.466667 814.933333l68.266666 59.733334 332.8-366.933334-332.8-358.4-64 59.733334 273.066667 298.666666z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_arrowBack" viewBox="0 0 1024 1024">
+    <path d="M426.666667 507.733333L763.733333 170.666667l-85.333333-85.333334L256 507.733333l4.266667 4.266667 422.4 422.4 85.333333-85.333333-341.333333-341.333334z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_pause" viewBox="0 0 1024 1024">
+    <path d="M187.733333 102.4h256v819.2H187.733333zM597.333333 102.4h256v819.2H597.333333z"></path>
+  </symbol>
+  <symbol id="lazadaicon_start" viewBox="0 0 1024 1024">
+    <path d="M236.249425 10.759014l591.395068 460.126685a42.082192 42.082192 0 0 1 0.490959 66.055013l-591.395068 474.266302A42.082192 42.082192 0 0 1 168.328767 978.396932V43.989918A42.082192 42.082192 0 0 1 236.249425 10.759014z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_phone" viewBox="0 0 1024 1024">
+    <path d="M185.6 21.333333v85.333334h567.466667v29.866666H185.6v874.666667h652.8V21.333333H185.6z m567.466667 904.533334H270.933333v-123.733334h482.133334v123.733334z m0-206.933334H270.933333V221.866667h482.133334v497.066666z" fill=""></path>
+    <path d="M512 864m-42.666667 0a42.666667 42.666667 0 1 0 85.333334 0 42.666667 42.666667 0 1 0-85.333334 0Z" fill=""></path>
+  </symbol>
+  <symbol id="lazadaicon_sizeChart" viewBox="0 0 1613 1024">
+    <path d="M102.4 68.267h1405.673v893.672H102.4V68.267z m89.988 803.685h1225.697V158.255H192.388v713.697z m294.788 0h-89.988V425.115h89.988v446.837z m363.054 0h-89.988V605.09h89.988v266.86z m359.952 0h-89.988V425.115h89.988v446.837z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_address" viewBox="0 0 1024 1024">
+    <path d="M138.971 980.114H43.886V190.171h412.038v95.086H138.97V885.03h599.772V694.857h95.086v285.257H138.97z">
+    </path>
+    <path d="M980.114 343.771c0 65.829-21.943 124.343-70.704 170.667-31.696 31.695-68.267 53.638-112.153 63.39l-351.086 65.83c-9.752 2.437-19.504-7.315-17.066-17.068l70.705-341.333c0-2.438 2.438-7.314 2.438-7.314 9.752-41.448 31.695-75.581 63.39-107.276 46.324-48.762 104.838-70.705 170.667-70.705s124.343 24.38 170.666 73.143c48.762 46.324 73.143 102.4 73.143 170.666z m-190.171-58.514C770.438 265.752 748.495 256 721.676 256c-26.819 0-48.762 9.752-65.828 26.819-19.505 19.505-26.82 41.448-26.82 68.267 0 26.819 9.753 48.762 29.258 68.266 19.504 19.505 41.447 29.258 68.266 29.258 26.82 0 48.762-9.753 68.267-26.82 19.505-19.504 26.82-41.447 26.82-65.828-2.439-29.257-12.191-51.2-31.696-70.705z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_warn" viewBox="0 0 1024 1024">
+    <path d="M576 832h-128v-128h128v128z m0-226.133333h-128v-384h128v384zM512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512S793.6 0 512 0z" fill="#FF9000"></path>
+  </symbol>
+  <symbol id="lazadaicon_pin" viewBox="0 0 1024 1024">
+    <path d="M512 544c64 0 118.4-51.2 118.4-115.2S576 313.6 512 313.6s-118.4 51.2-118.4 115.2S448 544 512 544z m0 345.6l-25.6-25.6c-28.8-28.8-268.8-297.6-268.8-444.8 0-156.8 131.2-284.8 291.2-284.8s291.2 128 291.2 284.8c0 147.2-240 416-268.8 444.8l-19.2 25.6z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_share" viewBox="0 0 1024 1024">
+    <path d="M809.344 695.369143c-44.580571 0-85.101714 17.792-113.481143 49.243428L340.553143 535.332571a101.193143 101.193143 0 0 0 0-49.243428l355.309714-207.908572a152.246857 152.246857 0 0 0 113.481143 50.614858c86.473143-1.371429 151.314286-67.035429 152.667429-154.569143C960.658286 86.674286 895.817143 19.657143 809.344 18.285714c-86.454857 1.371429-152.667429 68.388571-154.002286 155.940572 0 9.563429 1.334857 19.145143 2.688 28.708571L305.426286 408.137143c-28.379429-31.451429-67.547429-51.968-114.834286-51.968-86.473143 1.353143-152.685714 67.017143-154.020571 154.569143 1.353143 87.533714 67.547429 153.197714 154.020571 154.550857 44.580571 0 86.454857-20.516571 114.834286-51.968l352.603428 206.537143c-1.334857 9.581714-2.688 19.163429-2.688 30.098285 1.334857 87.552 67.547429 153.197714 154.002286 154.569143 86.473143-1.371429 151.314286-67.017143 152.667429-154.569143-1.353143-87.533714-66.194286-153.197714-152.667429-154.569142z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_largeShare" viewBox="0 0 1024 1024">
+    <path d="M768 686.933333c-34.133333 0-59.733333 12.8-85.333333 34.133334l-302.933334-179.2c4.266667-8.533333 4.266667-17.066667 4.266667-29.866667 0-8.533333 0-21.333333-4.266667-29.866667L682.666667 307.2c21.333333 21.333333 51.2 34.133333 85.333333 34.133333 72.533333 0 128-55.466667 128-128s-55.466667-128-128-128-128 55.466667-128 128c0 8.533333 0 21.333333 4.266667 29.866667L341.333333 418.133333C320 396.8 290.133333 384 256 384c-72.533333 0-128 55.466667-128 128s55.466667 128 128 128c34.133333 0 64-12.8 85.333333-34.133333l302.933334 179.2c-4.266667 8.533333-4.266667 17.066667-4.266667 29.866666 0 68.266667 55.466667 123.733333 123.733333 123.733334s123.733333-55.466667 123.733334-123.733334c4.266667-68.266667-51.2-128-119.466667-128z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_notes" viewBox="0 0 1024 1024">
+    <path d="M512 0c282.624 0 512 229.376 512 512s-229.376 512-512 512S0 794.624 0 512 229.376 0 512 0zM460.8 768h102.4V460.8H460.8v307.2z m0-409.6h102.4V256H460.8v102.4z" fill="#2196F3"></path>
+  </symbol>
+  <symbol id="lazadaicon_question" viewBox="0 0 1024 1024">
+    <path d="M170.666667 85.333333c-46.933333 0-85.333333 38.4-85.333334 85.333334v768l170.666667-170.666667h597.333333c46.933333 0 85.333333-38.4 85.333334-85.333333V170.666667c0-46.933333-38.4-85.333333-85.333334-85.333334H170.666667z m512 320c0 34.133333-4.266667 64-17.066667 89.6-12.8 25.6-25.6 42.666667-46.933333 59.733334l59.733333 46.933333-34.133333 38.4-76.8-59.733333c-8.533333 4.266667-21.333333 4.266667-34.133334 4.266666-29.866667 0-55.466667-8.533333-76.8-21.333333s-38.4-34.133333-51.2-59.733333c-12.8-29.866667-21.333333-59.733333-21.333333-93.866667v-21.333333c0-34.133333 4.266667-64 17.066667-93.866667 12.8-25.6 29.866667-46.933333 51.2-59.733333s51.2-21.333333 81.066666-21.333334 55.466667 8.533333 76.8 21.333334 38.4 34.133333 51.2 59.733333 21.333333 59.733333 21.333334 93.866667v17.066666z m-64-17.066666c0-38.4-8.533333-72.533333-21.333334-93.866667-17.066667-21.333333-38.4-29.866667-64-29.866667s-46.933333 12.8-64 34.133334c-12.8 21.333333-21.333333 51.2-21.333333 89.6v21.333333c0 38.4 8.533333 68.266667 21.333333 89.6s38.4 34.133333 64 34.133333c29.866667 0 51.2-8.533333 64-29.866666 12.8-21.333333 21.333333-51.2 21.333334-93.866667v-21.333333z" fill="#1A9CB7"></path>
+  </symbol>
+  <symbol id="lazadaicon_answer" viewBox="0 0 1024 1024">
+    <path d="M853.333333 85.333333H170.666667c-46.933333 0-85.333333 38.4-85.333334 85.333334v768l170.666667-170.666667h597.333333c46.933333 0 85.333333-38.4 85.333334-85.333333V170.666667c0-46.933333-38.4-85.333333-85.333334-85.333334z m-260.266666 439.466667h-140.8l-29.866667 85.333333H358.4l136.533333-362.666666h55.466667l136.533333 362.666666h-64l-29.866666-85.333333zM469.333333 473.6h106.666667l-51.2-149.333333-55.466667 149.333333z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_questionSymbol" viewBox="0 0 1024 1024">
+    <path d="M328 723.2l-121.6 121.6c-12.8 12.8-33.6 3.2-33.6-14.4V256c0-46.4 38.4-83.2 83.2-83.2h512c46.4 0 83.2 38.4 83.2 83.2v384c0 46.4-38.4 83.2-83.2 83.2H328z m-22.4-33.6c3.2-3.2 9.6-6.4 14.4-6.4h448c24 0 44.8-19.2 44.8-44.8V256c0-24-19.2-44.8-44.8-44.8H256c-24 0-44.8 19.2-44.8 44.8v528l94.4-94.4z" fill="#979797"></path>
+    <path d="M507.2 628.8c-14.4 0-27.2-11.2-27.2-27.2 0-14.4 11.2-27.2 27.2-27.2 14.4 0 27.2 11.2 27.2 27.2-1.6 16-12.8 27.2-27.2 27.2zM588.8 438.4L564.8 464c-19.2 19.2-30.4 35.2-30.4 75.2H480v-12.8c0-28.8 12.8-56 32-75.2L544 416c9.6-9.6 16-22.4 16-36.8C560 350.4 536 326.4 507.2 326.4c-28.8 0-52.8 24-52.8 52.8H400a107.2 107.2 0 0 1 214.4 0c-1.6 22.4-11.2 44.8-25.6 59.2z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_filter" viewBox="0 0 1024 1024">
+    <path d="M918.75555522 201.95555522c-4.266667-8.533333-17.066667-17.066667-25.6-17.066666H129.42222222c-12.8 0-21.333333 8.533333-25.6 17.066666-4.266667 12.8-4.266667 25.6 4.266667 34.133334L411.02222222 611.55555522v256c0 17.066667 12.8 29.866667 29.866667 29.866667 17.066667 0 29.866667-12.8 29.866666-29.866667v-277.333333l-277.333333-341.333333H824.88888922l-277.333334 341.333333V867.55555522c0 17.066667 12.8 29.866667 29.866667 29.866667s29.866667-12.8 29.866667-29.866667v-256L910.22222222 236.08888922c12.8-8.533333 12.8-21.333333 8.533333-34.133334">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_sort" viewBox="0 0 1024 1024">
+    <path d="M887.466667 725.333333l-192 192-12.8 12.8c-4.266667 4.266667-12.8 8.533333-17.066667 8.533334-8.533333 0-12.8-4.266667-21.333333-8.533334l-8.533334-8.533333-192-192c-8.533333-12.8-8.533333-29.866667 0-38.4l12.8-12.8c12.8-12.8 34.133333-8.533333 42.666667 4.266667l128 128v-345.6c0-21.333333 17.066667-38.4 38.4-38.4s38.4 17.066667 38.4 38.4V810.666667l128-132.266667c8.533333-12.8 29.866667-12.8 38.4 0l12.8 12.8c12.8 8.533333 17.066667 21.333333 4.266667 34.133333z m-320-375.466666c-12.8 12.8-34.133333 8.533333-42.666667-4.266667l-128-128v345.6c0 21.333333-17.066667 38.4-38.4 38.4s-38.4-17.066667-38.4-38.4V217.6l-128 128c-8.533333 12.8-29.866667 12.8-38.4 0l-17.066667-8.533333c-8.533333-12.8-12.8-25.6 0-38.4l192-192 8.533334-12.8c8.533333-4.266667 12.8-8.533333 21.333333-8.533334s12.8 4.266667 21.333333 8.533334l4.266667 8.533333 196.266667 192c8.533333 12.8 8.533333 29.866667 0 38.4l-12.8 17.066667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_options" viewBox="0 0 1024 1024">
+    <path d="M512 682.666667c46.933333 0 85.333333 38.4 85.333333 85.333333s-38.4 85.333333-85.333333 85.333333-85.333333-38.4-85.333333-85.333333 38.4-85.333333 85.333333-85.333333z m0-85.333334c-46.933333 0-85.333333-38.4-85.333333-85.333333s38.4-85.333333 85.333333-85.333333 85.333333 38.4 85.333333 85.333333-38.4 85.333333-85.333333 85.333333z m0-256c-46.933333 0-85.333333-38.4-85.333333-85.333333s38.4-85.333333 85.333333-85.333333 85.333333 38.4 85.333333 85.333333-38.4 85.333333-85.333333 85.333333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_like" viewBox="0 0 1024 1024">
+    <path d="M136.533333 849.066667h140.8v-426.666667H136.533333v426.666667z m785.066667-388.266667c0-38.4-34.133333-72.533333-72.533333-72.533333h-226.133334l34.133334-162.133334V213.333333c0-12.8-4.266667-29.866667-17.066667-38.4l-38.4-38.4-230.4 234.666667c-12.8 12.8-21.333333 34.133333-21.333333 51.2v354.133333c0 38.4 34.133333 72.533333 72.533333 72.533334h320c29.866667 0 55.466667-17.066667 64-42.666667l106.666667-251.733333c4.266667-8.533333 4.266667-17.066667 4.266666-25.6v-68.266667h4.266667z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_facebook" viewBox="0 0 1024 1024">
+    <path d="M548.864 1024h-73.728C212.992 1024 0 811.008 0 548.864v-73.728C0 212.992 212.992 0 475.136 0h73.728C811.008 0 1024 212.992 1024 475.136v73.728C1024 811.008 811.008 1024 548.864 1024z" fill="#3B5998"></path>
+    <path d="M534.528 778.24h-110.592V512H368.64v-92.16h55.296v-55.296c0-75.776 30.72-118.784 118.784-118.784h73.728v92.16h-45.056c-34.816 0-36.864 12.288-36.864 36.864v45.056h83.968l-10.24 92.16h-73.728v266.24z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_soldbyLAZ" viewBox="0 0 1024 1024">
+    <path d="M512 512m-512 0a512 512 0 1 0 1024 0 512 512 0 1 0-1024 0Z" fill="#F37226"></path>
+    <path d="M625.777778 341.333333h208.782222l-133.12 213.617778a249.457778 249.457778 0 0 0-28.444444-12.515555L568.888889 312.888889h-33.848889l-178.631111 398.222222h32.995555l43.235556-97.848889 6.257778-14.222222a223.573333 223.573333 0 0 1 131.413333-42.097778 253.724444 253.724444 0 0 1 115.484445 22.755556l-70.542223 113.777778 8.248889 18.204444h222.151111l13.653334-30.151111h-201.671111l215.324444-341.333333V312.888889h-260.266667z m-55.182222 185.457778a287.288889 287.288889 0 0 0-110.08 23.893333l2.56-5.688888L551.537778 341.333333l83.626666 190.293334a309.191111 309.191111 0 0 0-64.853333-4.835556z" fill="#FFFFFF"></path>
+    <path d="M850.488889 718.222222h-231.537778l-11.662222-25.884444 68.266667-109.795556a256 256 0 0 0-104.96-18.488889 214.755556 214.755556 0 0 0-125.724445 39.537778l-50.915555 113.777778h-48.64l185.173333-412.444445h42.666667l103.822222 230.968889c7.111111 2.844444 14.506667 5.688889 21.617778 9.102223l122.88-197.404445h-200.817778l-19.057778-42.666667h278.471111v38.115556l-209.635555 330.808889h199.111111z m-222.435556-14.222222h213.048889l7.111111-15.928889h-203.377777l221.013333-350.435555v-17.635556h-242.346667l6.542222 14.222222h217.031112l-142.222223 229.831111-5.688889-2.844444a278.471111 278.471111 0 0 0-28.444444-11.946667h-2.844444l-1.422223-2.844444-100.977777-225.564445H540.444444l-170.666666 384h17.351111l49.777778-110.648889a229.831111 229.831111 0 0 1 135.68-43.52 261.404444 261.404444 0 0 1 118.613333 23.324445l7.111111 3.413333-72.817778 116.906667z m-181.76-139.377778l105.244445-239.786666 95.573333 217.6-13.368889-2.844445a316.017778 316.017778 0 0 0-63.146666-5.688889 284.444444 284.444444 0 0 0-107.52 23.04z m105.244445-204.515555l-77.937778 177.208889a308.337778 308.337778 0 0 1 96.711111-17.635556 300.942222 300.942222 0 0 1 52.906667 3.697778zM181.76 312.888889H151.04v398.222222h186.88l12.8-29.013333H181.76V312.888889z" fill="#FFFFFF"></path>
+    <path d="M341.333333 718.222222H142.222222v-412.444444h46.648889v369.777778h172.942222z m-184.32-14.222222h174.933334l6.826666-14.791111H174.648889v-369.777778h-16.497778z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_officialBadge" viewBox="0 0 1024 1024">
+    <path d="M512 1024c281.6 0 512-230.4 512-512S793.6 0 512 0 0 230.4 0 512s230.4 512 512 512z" fill="#CE0909"></path>
+    <path d="M853.333333 785.066667v8.533333c0 8.533333-8.533333 17.066667-17.066666 17.066667h-8.533334l-110.933333-34.133334-25.6 110.933334c0 8.533333-8.533333 17.066667-17.066667 17.066666s-17.066667-8.533333-17.066666-8.533333l-128-256h-42.666667l-119.466667 247.466667c0 8.533333-8.533333 8.533333-17.066666 8.533333s-17.066667-8.533333-17.066667-17.066667l-25.6-102.4-110.933333 42.666667c-8.533333 0-17.066667 0-25.6-8.533333v-17.066667l128-256c-34.133333-42.666667-51.2-93.866667-51.2-153.6 0-145.066667 119.466667-256 264.533333-256s256 110.933333 256 256c0 51.2-17.066667 102.4-51.2 145.066667l136.533333 256zM512 580.266667c110.933333 0 204.8-85.333333 204.8-196.266667 0-110.933333-93.866667-196.266667-204.8-196.266667-110.933333 0-204.8 85.333333-204.8 196.266667 0 110.933333 85.333333 196.266667 204.8 196.266667zM546.133333 341.333333h93.866667l-76.8 59.733334 25.6 93.866666-76.8-51.2-85.333333 51.2 25.6-93.866666-76.8-59.733334h93.866666l34.133334-85.333333 42.666666 85.333333z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_taobaoBadge" viewBox="0 0 1024 1024">
+    <path d="M512 0C230.4 0 0 230.4 0 512s230.4 512 512 512 512-230.4 512-512-230.4-512-512-512z" fill="#FF440B"></path>
+    <path d="M256 264.533333c34.133333 0 68.266667 25.6 68.266667 59.733334 0 34.133333-25.6 59.733333-68.266667 59.733333-34.133333 0-68.266667-25.6-68.266667-59.733333 0-34.133333 34.133333-59.733333 68.266667-59.733334zM307.2 614.4c-17.066667 51.2-17.066667 34.133333-85.333333 179.2l-93.866667-59.733333s110.933333-102.4 136.533333-145.066667c17.066667-42.666667-25.6-76.8-25.6-76.8l-76.8-42.666667 42.666667-59.733333c59.733333 42.666667 59.733333 42.666667 102.4 85.333333 25.6 25.6 17.066667 68.266667 0 119.466667z" fill="#FFFFFF"></path>
+    <path d="M844.8 682.666667c-17.066667 179.2-256 110.933333-256 110.933333l17.066667-51.2 51.2 8.533333c102.4 8.533333 93.866667-85.333333 93.866666-85.333333v-256c0-93.866667-93.866667-110.933333-256-51.2l42.666667 8.533333c0 8.533333-17.066667 25.6-34.133333 51.2h221.866666v42.666667H597.333333v59.733333h128v42.666667H597.333333v93.866667l51.2-25.6-8.533333-25.6 59.733333-17.066667 51.2 119.466667-76.8 25.6-17.066666-42.666667c-34.133333 25.6-93.866667 59.733333-213.333334 51.2-128 0-93.866667-136.533333-93.866666-136.533333h85.333333c0 17.066667-8.533333 51.2 0 68.266666 17.066667 8.533333 34.133333 8.533333 51.2 8.533334h8.533333V580.266667H366.933333v-51.2h128v-51.2h-34.133333c-34.133333 25.6-59.733333 51.2-59.733333 51.2l-34.133334-34.133334c25.6-25.6 51.2-68.266667 68.266667-102.4-8.533333 8.533333-25.6 17.066667-42.666667 17.066667-8.533333 17.066667-25.6 42.666667-42.666666 59.733333l-59.733334-34.133333C349.866667 375.466667 384 256 384 256l93.866667 25.6s-8.533333 17.066667-25.6 42.666667c366.933333-102.4 384 59.733333 384 59.733333s25.6 119.466667 8.533333 298.666667z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_certified" viewBox="0 0 1024 1024">
+    <path d="M512 0c282.766222 0 512 229.233778 512 512s-229.233778 512-512 512S0 794.766222 0 512 229.233778 0 512 0z m255.914667 318.577778l-25.315556-0.455111c-0.568889 0-57.429333-1.251556-116.053333-25.514667-60.188444-24.917333-98.986667-53.475556-99.271111-53.76L511.914667 227.555556l-15.189334 11.292444c-0.369778 0.284444-39.139556 28.842667-99.271111 53.76-58.624 24.291556-115.484444 25.514667-116.024889 25.514667L256 318.577778v263.082666C256 713.671111 422.456889 853.333333 512 853.333333c89.543111 0 256-139.633778 256-271.701333l-0.085333-263.082667zM487.736889 682.666667L341.333333 565.646222l44.999111-49.692444 93.866667 74.979555L658.460444 398.222222 711.111111 441.088 487.708444 682.666667z" fill="#06A97F"></path>
+  </symbol>
+  <symbol id="lazadaicon_liveUp" viewBox="0 0 1024 1024">
+    <path d="M349.866667 72.533333h324.266666c153.6 0 277.333333 123.733333 277.333334 277.333334v320c0 153.6-123.733333 277.333333-277.333334 277.333333H349.866667c-153.6 0-277.333333-123.733333-277.333334-277.333333V349.866667c0-153.6 123.733333-277.333333 277.333334-277.333334" fill="#38C0C6"></path>
+    <path d="M755.2 422.4l-89.6-89.6c-8.533333-8.533333-17.066667-12.8-29.866667-12.8-8.533333 0-21.333333 4.266667-29.866666 12.8l-89.6 89.6c-17.066667 17.066667-17.066667 42.666667 0 55.466667 17.066667 17.066667 42.666667 17.066667 55.466666 0l21.333334-21.333334v89.6c0 64-34.133333 93.866667-85.333334 93.866667s-85.333333-34.133333-85.333333-98.133333c0-25.6-21.333333-42.666667-42.666667-42.666667-25.6 0-42.666667 17.066667-42.666666 42.666667v4.266666c0 115.2 64 174.933333 170.666666 174.933334s174.933333-59.733333 174.933334-179.2v-85.333334l21.333333 21.333334c17.066667 17.066667 42.666667 17.066667 55.466667 0 12.8-12.8 12.8-38.4-4.266667-55.466667m-379.733333-8.533333c25.6 0 51.2-21.333333 51.2-46.933334 0-25.6-21.333333-46.933333-51.2-46.933333s-51.2 17.066667-51.2 46.933333c0 25.6 25.6 46.933333 51.2 46.933334" fill="#FFCD05"></path>
+  </symbol>
+  <symbol id="lazadaicon_fulfilledbyLazada" viewBox="0 0 1024 1024">
+    <path d="M911.829333 510.762667c0-221.866667-179.2-401.066667-401.066666-401.066667s-401.066667 179.2-401.066667 401.066667 179.2 401.066667 401.066667 401.066666 401.066667-179.2 401.066666-401.066666m-42.666666 0c0 196.266667-157.866667 354.133333-354.133334 354.133333s-358.4-157.866667-358.4-354.133333 157.866667-354.133333 354.133334-354.133334 358.4 157.866667 358.4 354.133334" fill="#00374C"></path>
+    <path d="M463.829333 369.962667h196.266667v-64h-196.266667v64z m-102.4 349.866666h72.533334v-132.266666h-72.533334v132.266666z" fill="#F07025"></path>
+    <path d="M438.229333 493.696v-187.733333h-76.8v251.733333h200.533334v-64z" fill="#00374C"></path>
+  </symbol>
+  <symbol id="lazadaicon_economy" viewBox="0 0 1024 1024">
+    <path d="M989.866667 529.066667c-132.266667-256-256-273.066667-294.4-273.066667H238.933333c-12.8 0-21.333333 8.533333-21.333333 21.333333v174.933334h42.666667V298.666667h439.466666c4.266667 0 98.133333-4.266667 213.333334 170.666666h-153.6c-34.133333 0-34.133333-29.866667-34.133334-38.4V358.4c0-12.8-8.533333-21.333333-21.333333-21.333333s-21.333333 8.533333-21.333333 21.333333v72.533333c0 29.866667 21.333333 76.8 76.8 76.8h174.933333c4.266667 12.8 12.8 21.333333 21.333333 38.4V640c0 12.8-12.8 25.6-25.6 25.6h-25.6c-8.533333-42.666667-42.666667-68.266667-85.333333-68.266667s-76.8 29.866667-85.333333 68.266667h-238.933334c-8.533333-42.666667-46.933333-68.266667-85.333333-68.266667-42.666667 0-76.8 29.866667-85.333333 68.266667h-38.4c-12.8 0-25.6-12.8-25.6-25.6v-34.133333h34.133333c12.8 0 21.333333-8.533333 21.333333-21.333334s-8.533333-21.333333-21.333333-21.333333H179.2c-12.8 0-21.333333 8.533333-21.333333 21.333333s8.533333 21.333333 21.333333 21.333334h38.4v34.133333c0 38.4 29.866667 68.266667 68.266667 68.266667h29.866666c8.533333 42.666667 42.666667 68.266667 85.333334 68.266666s76.8-29.866667 85.333333-68.266666H725.333333c8.533333 42.666667 42.666667 68.266667 85.333334 68.266666s76.8-29.866667 85.333333-68.266666h25.6c38.4 0 68.266667-29.866667 64-68.266667v-98.133333c8.533333-4.266667 8.533333-8.533333 4.266667-12.8m-174.933334 209.066666c-68.266667 0-68.266667-102.4 0-102.4s68.266667 102.4 0 102.4m-413.866666 0c-68.266667 0-68.266667-102.4 0-102.4s68.266667 102.4 0 102.4m-337.066667-251.733333c-12.8 0-21.333333 8.533333-21.333333 21.333333s8.533333 21.333333 21.333333 21.333334h273.066667c12.8 0 21.333333-8.533333 21.333333-21.333334s-8.533333-21.333333-21.333333-21.333333H64z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_standard" viewBox="0 0 1024 1024">
+    <path d="M601.6 268.8h-68.266667V196.266667h68.266667v72.533333z m332.8 529.066667V128H234.666667c-8.533333 0-12.8 4.266667-21.333334 8.533333-8.533333 8.533333-8.533333 25.6 4.266667 34.133334l230.4 200.533333-162.133333 166.4L170.666667 435.2c-8.533333-8.533333-25.6-8.533333-34.133334 4.266667-8.533333 8.533333-8.533333 25.6 4.266667 34.133333l68.266667 59.733333v273.066667H426.666667l17.066666 34.133333c0 4.266667 12.8 25.6 34.133334 34.133334 4.266667 0 8.533333 4.266667 17.066666 4.266666s17.066667-4.266667 29.866667-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066667 12.8 4.266667 4.266667 8.533333 4.266667 17.066666 4.266667s21.333333-4.266667 34.133334-8.533333l12.8-4.266667c4.266667 4.266667 12.8 8.533333 17.066666 12.8 4.266667 0 8.533333 4.266667 17.066667 4.266667s21.333333-4.266667 34.133333-8.533334l17.066667-12.8c4.266667 4.266667 8.533333 4.266667 17.066667 8.533334 4.266667 0 8.533333 4.266667 12.8 4.266666 8.533333 0 17.066667-4.266667 29.866666-8.533333 8.533333-4.266667 12.8-17.066667 4.266667-25.6-4.266667-8.533333-17.066667-12.8-29.866667-4.266667l-4.266666 4.266667c-4.266667 0-4.266667-4.266667-4.266667-8.533333l-51.2-106.666667c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l42.666667 93.866666-17.066667 8.533334c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-8.533333-8.533333l-38.4-85.333333c-8.533333-34.133333-21.333333-38.4-29.866667-34.133334-8.533333 4.266667-17.066667 17.066667-12.8 25.6l29.866667 68.266667-12.8 8.533333c-4.266667 4.266667-12.8 4.266667-17.066667 4.266667-4.266667-4.266667-8.533333-4.266667-8.533333-8.533333l-21.333334-55.466667c-4.266667-8.533333-17.066667-17.066667-29.866666-12.8-8.533333 4.266667-17.066667 17.066667-12.8 25.6l17.066666 38.4-12.8 4.266667c-4.266667 4.266667-8.533333 4.266667-12.8 4.266666-4.266667 0-4.266667-4.266667-4.266666-4.266666l-38.4-81.066667v-4.266667l-72.533334-157.866666-29.866666 29.866666 64 145.066667H256v-179.2l17.066667 17.066667c4.266667 4.266667 8.533333 4.266667 17.066666 4.266666 4.266667 0 12.8-4.266667 17.066667-4.266666l196.266667-200.533334c8.533333-8.533333 4.266667-25.6-4.266667-34.133333L294.4 179.2h187.733333V298.666667h162.133334V179.2h243.2v584.533333h-106.666667l-68.266667-140.8 55.466667 17.066667c4.266667 0 29.866667 4.266667 55.466667-8.533333 8.533333-4.266667 25.6-21.333333 29.866666-46.933334v-4.266666c4.266667-8.533333-4.266667-17.066667-8.533333-21.333334l-196.266667-102.4h-4.266666-4.266667l-110.933333-17.066666-34.133334 29.866666 136.533334 21.333334 179.2 93.866666c-4.266667 4.266667-4.266667 12.8-8.533334 17.066667-4.266667 4.266667-17.066667 4.266667-21.333333 4.266667l-89.6-25.6-8.533333-21.333334c-4.266667-8.533333-17.066667-17.066667-29.866667-8.533333-8.533333 4.266667-17.066667 17.066667-8.533333 25.6l25.6 46.933333 68.266666 140.8 21.333334 34.133334h174.933333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_expressDelivery" viewBox="0 0 1401 1024">
+    <path d="M877.714286 0l-508.819876 203.52795-184.447205-69.962733c-12.720497-6.360248-25.440994 0-31.801242 6.360249s-12.720497 25.440994-12.720497 31.801242c0 12.720497 12.720497 19.080745 19.080745 25.440994l178.086957 63.602484v279.850932L248.049689 508.819876c-19.080745-6.360248-38.161491 0-44.521739 19.080745-6.360248 19.080745 0 38.161491 19.080746 44.521739l114.484472 44.521739v178.086957l559.701863 228.968944 496.099379-260.770186V190.807453l-515.180124-190.807453z m0 69.962733l407.0559 146.285714-146.285714 76.322982L731.428571 127.204969l146.285715-57.242236z m19.080745 349.813665L464.298137 235.329193 636.024845 165.36646l413.416149 171.726708-152.645963 82.68323z m432.496894 292.571428l-394.335403 209.888199v-445.217391l171.726708-89.043479v159.006211l69.962733-38.16149V356.173913L1335.652174 273.490683v438.857143z m-1081.242236-25.440994c19.080745 6.360248 25.440994 25.440994 19.080746 44.521739-6.360248 19.080745-25.440994 25.440994-44.521739 19.080746l-63.602485-25.440994c-19.080745-6.360248-25.440994-25.440994-19.080745-44.521739 6.360248-19.080745 25.440994-25.440994 44.521739-19.080745l63.602484 25.440993z m0-330.732919c0 12.720497-6.360248 19.080745-12.720496 25.440994-6.360248 6.360248-19.080745 6.360248-31.801243 6.360248l-178.086956-63.602484C12.720497 318.012422 0 305.291925 0 298.931677c0-12.720497 0-25.440994 12.720497-31.801242s19.080745-12.720497 31.801242-6.360249l178.086957 63.602485c19.080745 6.360248 25.440994 19.080745 25.440993 31.801242z m604.223603 120.844721v445.217391l-445.217391-178.086957V292.571429l445.217391 184.447205z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_shipping" viewBox="0 0 1024 1024">
+    <path d="M576 819.2h-341.333333l8.533333-34.133333h307.2l170.666667-588.8h34.133333l-179.2 622.933333zM332.8 196.266667h341.333333l-157.866666 541.866666h-341.333334L332.8 196.266667z m516.266667-51.2H174.933333c-34.133333 0-64 29.866667-64 68.266666v102.4c0 38.4 29.866667 68.266667 64 68.266667h8.533334l12.8-51.2h-21.333334c-8.533333 0-17.066667-8.533333-17.066666-17.066667V213.333333c0-8.533333 8.533333-17.066667 17.066666-17.066666h106.666667l-170.666667 588.8h85.333334l-25.6 85.333333h443.733333L810.666667 196.266667h42.666666c8.533333 0 17.066667 8.533333 17.066667 17.066666v102.4c0 8.533333-8.533333 17.066667-17.066667 17.066667h-42.666666L797.866667 384h51.2c34.133333 0 64-29.866667 64-68.266667V213.333333c0-38.4-29.866667-68.266667-64-68.266666zM362.666667 588.8l8.533333-29.866667h-4.266667c-25.6-4.266667-46.933333-17.066667-59.733333-34.133333-4.266667-4.266667-4.266667-8.533333-4.266667-12.8l42.666667-12.8c4.266667 4.266667 17.066667 12.8 38.4 12.8h4.266667l21.333333-64h-4.266667c-25.6-4.266667-42.666667-12.8-55.466666-21.333333 0 0-4.266667 0-4.266667-4.266667 0 0 0-4.266667-4.266667-4.266667-12.8-4.266667-17.066667-21.333333-12.8-34.133333 12.8-42.666667 68.266667-59.733333 110.933334-64h4.266666l8.533334-29.866667h38.4l-8.533334 29.866667h4.266667c29.866667 4.266667 55.466667 17.066667 64 34.133333 4.266667 4.266667 4.266667 8.533333 4.266667 12.8l-38.4 12.8c-4.266667-4.266667-21.333333-12.8-42.666667-17.066666H469.333333l-21.333333 64h4.266667c34.133333 4.266667 55.466667 17.066667 59.733333 21.333333l4.266667 4.266667v4.266666c8.533333 12.8 12.8 25.6 8.533333 42.666667-12.8 38.4-68.266667 59.733333-115.2 64h-4.266667l-8.533333 25.6h-34.133333z m59.733333-221.866667c-34.133333 4.266667-51.2 17.066667-55.466667 29.866667 0 8.533333 17.066667 17.066667 42.666667 21.333333h4.266667l12.8-55.466666-4.266667 4.266666z m0 149.333334h4.266667c34.133333-4.266667 59.733333-21.333333 59.733333-34.133334 0-8.533333-21.333333-17.066667-46.933333-21.333333h-4.266667l-12.8 55.466667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_noshipping" viewBox="0 0 1024 1024">
+    <path d="M430.933333 401.066667c-25.6-4.266667-42.666667-12.8-42.666666-21.333334 4.266667-8.533333 21.333333-25.6 55.466666-29.866666h4.266667l-17.066667 51.2z m59.733334-55.466667c21.333333 0 34.133333 8.533333 42.666666 12.8l29.866667-25.6c-12.8-17.066667-29.866667-25.6-55.466667-29.866667h-4.266666l8.533333-29.866666h-42.666667l-8.533333 29.866666h-4.266667c-42.666667 4.266667-98.133333 25.6-110.933333 64-4.266667 12.8 0 29.866667 8.533333 42.666667 0 0 0 4.266667 4.266667 4.266667 0 0 4.266667 0 4.266667 4.266666 8.533333 8.533333 29.866667 12.8 55.466666 21.333334h4.266667l-8.533333 21.333333 59.733333-51.2 17.066667-64z m-170.666667 153.6c0 4.266667 4.266667 8.533333 4.266667 12.8 4.266667 4.266667 12.8 8.533333 17.066666 12.8l34.133334-29.866667c-8.533333 0-12.8-4.266667-12.8-4.266666l-42.666667 8.533333z m89.6 221.866667l-55.466667 51.2h217.6l76.8-260.266667-68.266666 59.733333-42.666667 149.333334h-128zM192 366.933333h8.533333L213.333333 315.733333h-21.333333c-8.533333 0-17.066667-4.266667-17.066667-17.066666V196.266667c0-8.533333 8.533333-17.066667 17.066667-17.066667H298.666667L149.333333 695.466667l68.266667-59.733334L349.866667 179.2h345.6L682.666667 226.133333 793.6 128H192C157.866667 128 128 157.866667 128 196.266667V298.666667c0 38.4 29.866667 68.266667 64 68.266666M891.733333 298.666667c0 8.533333-8.533333 17.066667-17.066666 17.066666h-4.266667l-46.933333 42.666667-4.266667 8.533333h55.466667c34.133333 0 64-29.866667 64-68.266666V256l-46.933334 42.666667zM597.333333 806.4H315.733333l-55.466666 51.2h375.466666l128-443.733333-68.266666 55.466666-98.133334 337.066667z m285.866667-674.133333L128 793.6l38.4 42.666667L921.6 174.933333l-38.4-42.666666z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_oversea" viewBox="0 0 1024 1024">
+    <path d="M985.6 337.066667c-4.266667 12.8-12.8 29.866667-34.133333 38.4l-320 132.266666s-29.866667 8.533333-55.466667 8.533334c-21.333333 0-38.4-8.533333-51.2-17.066667L443.733333 426.666667c-4.266667-4.266667-4.266667-8.533333-4.266666-17.066667s4.266667-12.8 8.533333-17.066667c4.266667 0 17.066667-12.8 42.666667-12.8 8.533333 0 17.066667 0 29.866666 4.266667l42.666667 12.8h12.8c8.533333 0 17.066667-4.266667 29.866667-8.533333l12.8-4.266667-81.066667-68.266667c-4.266667-4.266667-8.533333-12.8-4.266667-21.333333 0-8.533333 4.266667-12.8 12.8-17.066667 4.266667 0 21.333333-8.533333 46.933334-8.533333 17.066667 0 34.133333 4.266667 55.466666 8.533333 42.666667 17.066667 106.666667 42.666667 128 42.666667l102.4-42.666667c4.266667 0 25.6-8.533333 55.466667-8.533333 21.333333 0 38.4 8.533333 51.2 21.333333l4.266667 4.266667c-12.8 0 0 21.333333-4.266667 42.666667z m-42.666667-17.066667c-4.266667-4.266667-12.8-8.533333-17.066666-8.533333-17.066667 0-34.133333 8.533333-34.133334 8.533333l-106.666666 46.933333H768c-34.133333 0-128-34.133333-140.8-46.933333-8.533333-4.266667-17.066667-8.533333-25.6-8.533333l68.266667 59.733333c4.266667 4.266667 8.533333 12.8 4.266666 21.333333 0 8.533333-4.266667 12.8-12.8 17.066667l-51.2 21.333333c-12.8 8.533333-29.866667 8.533333-42.666666 8.533334s-25.6-4.266667-25.6-4.266667l-34.133334-8.533333 46.933334 42.666666c4.266667 8.533333 17.066667 8.533333 25.6 8.533334 17.066667 0 42.666667-8.533333 42.666666-8.533334L938.666667 332.8c4.266667-4.266667 12.8-8.533333 12.8-8.533333-4.266667 0-8.533333-4.266667-8.533334-4.266667z m-268.8-68.266667c-51.2-38.4-110.933333-59.733333-179.2-59.733333-166.4 0-298.666667 136.533333-298.666666 302.933333 0 34.133333 4.266667 68.266667 17.066666 102.4 55.466667-12.8 128-38.4 234.666667-81.066666 8.533333-4.266667 21.333333 0 29.866667 12.8 4.266667 8.533333 0 21.333333-12.8 29.866666-98.133333 38.4-174.933333 64-230.4 81.066667 51.2 98.133333 149.333333 166.4 264.533333 166.4 166.4 0 298.666667-136.533333 298.666667-302.933333v-4.266667l42.666666-17.066667v21.333334c0 192-153.6 345.6-337.066666 345.6-136.533333 0-251.733333-81.066667-307.2-196.266667-29.866667 8.533333-55.466667 8.533333-76.8 8.533333-42.666667 0-55.466667-12.8-68.266667-25.6-29.866667-42.666667 25.6-102.4 34.133333-115.2 4.266667-8.533333 21.333333-8.533333 29.866667 0 8.533333 8.533333 8.533333 21.333333 0 29.866667-17.066667 21.333333-34.133333 55.466667-29.866667 59.733333 0 0 12.8 17.066667 89.6 0-8.533333-34.133333-17.066667-72.533333-17.066666-110.933333 0-192 149.333333-345.6 337.066666-345.6 110.933333 0 204.8 51.2 268.8 136.533333-17.066667-12.8-55.466667-25.6-89.6-38.4z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_email" viewBox="0 0 1024 1024">
+    <path d="M840.533333 776.533333H307.2c-17.066667 0-34.133333-8.533333-42.666667-21.333333-12.8-12.8-12.8-29.866667-12.8-46.933333l72.533334-358.4c8.533333-25.6 38.4-51.2 68.266666-51.2h533.333334c17.066667 0 34.133333 8.533333 42.666666 21.333333 8.533333 12.8 12.8 29.866667 12.8 42.666667l-72.533333 358.4c-8.533333 29.866667-38.4 55.466667-68.266667 55.466666zM307.2 716.8h533.333333c4.266667 0 8.533333-4.266667 8.533334-8.533333l72.533333-354.133334H392.533333c-4.266667 0-8.533333 4.266667-12.8 8.533334l-72.533333 354.133333z">
+    </path>
+    <path d="M610.133333 610.133333c-17.066667 0-34.133333-8.533333-46.933333-21.333333l-200.533333-213.333333 42.666666-38.4 200.533334 213.333333c4.266667 4.266667 8.533333 4.266667 8.533333 0l294.4-217.6 34.133333 46.933333-294.4 217.6c-12.8 8.533333-25.6 12.8-38.4 12.8z m-465.066666-256h132.266666v55.466667H145.066667V354.133333zM42.666667 486.4h204.8v55.466667H42.666667v-55.466667z m72.533333 119.466667H213.333333v55.466666H115.2v-55.466666z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_smallPrompt" viewBox="0 0 1024 1024">
+    <path d="M512 841.589844c181.27441433 0 329.589844-148.31542969 329.589844-329.589844s-148.31542969-329.589844-329.589844-329.589844-329.589844 148.31542969-329.589844 329.589844 148.31542969 329.589844 329.589844 329.589844z" fill="#FF9800"></path>
+    <path d="M538.36718725 327.42968775v128.54003907c0 13.18359399 0 26.36718725-3.29589793 39.55078125 0 13.18359399-3.29589869 26.36718725-6.59179739 42.84667918h-39.55078125c-3.29589869-16.47949193-3.29589869-29.66308594-6.59179662-42.84667918 0-13.18359399-3.29589869-26.36718725-3.29589869-39.55078125v-128.54003907h59.32617188z m-62.6220698 299.92675731c0-3.29589869 0-9.8876953 3.29589792-13.18359324 3.29589869-3.29589869 3.29589869-6.59179662 6.59179738-9.88769532 3.29589869-3.29589869 6.59179662-6.59179662 9.88769532-6.59179737 3.29589869-3.29589869 9.8876953-3.29589869 13.18359324-3.29589794 3.29589869 0 9.8876953 0 13.18359399 3.29589794 3.29589869 3.29589869 6.59179662 3.29589869 9.88769535 6.59179737 3.29589869 3.29589869 6.59179662 6.59179662 6.5917966 9.88769532 3.29589869 3.29589869 3.29589869 9.8876953 3.29589869 13.18359324 0 3.29589869 0 9.8876953-3.29589869 13.183594s-3.29589869 6.59179662-6.59179663 9.88769532c-3.29589869 3.29589869-6.59179662 6.59179662-9.8876953 6.59179662-3.29589869 3.29589869-9.8876953 3.29589869-13.18359401 3.29589869-3.29589869 0-9.8876953 0-13.18359324-3.29589869-3.29589869-3.29589869-6.59179662-3.29589869-9.88769532-6.59179662-3.29589869-3.29589869-6.59179662-6.59179662-6.59179738-9.88769532s-3.29589869-9.8876953-3.29589792-13.183594z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_largePrompt" viewBox="0 0 1024 1024">
+    <path d="M512 938.666667c234.666667 0 426.666667-192 426.666667-426.666667s-192-426.666667-426.666667-426.666667-426.666667 192-426.666667 426.666667 192 426.666667 426.666667 426.666667z" fill="#FF9800"></path>
+    <path d="M546.133333 273.066667v166.4c0 17.066667 0 34.133333-4.266666 51.2 0 17.066667-4.266667 34.133333-8.533334 55.466666h-51.2c-4.266667-21.333333-4.266667-38.4-8.533333-55.466666 0-17.066667-4.266667-34.133333-4.266667-51.2v-166.4h76.8z m-81.066666 388.266666c0-4.266667 0-12.8 4.266666-17.066666 4.266667-4.266667 4.266667-8.533333 8.533334-12.8 4.266667-4.266667 8.533333-8.533333 12.8-8.533334 4.266667-4.266667 12.8-4.266667 17.066666-4.266666 4.266667 0 12.8 0 17.066667 4.266666 4.266667 4.266667 8.533333 4.266667 12.8 8.533334 4.266667 4.266667 8.533333 8.533333 8.533333 12.8 4.266667 4.266667 4.266667 12.8 4.266667 17.066666 0 4.266667 0 12.8-4.266667 17.066667s-4.266667 8.533333-8.533333 12.8c-4.266667 4.266667-8.533333 8.533333-12.8 8.533333-4.266667 4.266667-12.8 4.266667-17.066667 4.266667-4.266667 0-12.8 0-17.066666-4.266667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333-4.266667-4.266667-8.533333-8.533333-8.533334-12.8s-4.266667-12.8-4.266666-17.066667z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_gojek" viewBox="0 0 1024 1024">
+    <path d="M799.511273 727.831273a130.094545 130.094545 0 0 0-52.922182 8.797091c-16.896-33.605818-31.418182-64.093091-28.346182-63.906909l34.071273 1.396363s4.608-42.356364 2.839273-65.675636c-1.722182-23.458909-9.867636-23.877818-9.867637-23.877818l-30.533818 9.681454c-36.026182 12.194909-41.425455 9.169455-41.425455 9.169455s0.465455-36.165818-6.376727-36.445091c-6.795636-0.279273-40.122182-8.750545-40.122182-8.750546-2.792727-5.492364-25.227636-17.408-36.910545-26.158545-13.079273-14.941091-58.647273-48.081455-91.601455-71.168a59.531636 59.531636 0 0 0 75.636364-54.784 59.624727 59.624727 0 0 0-56.785455-62.184727 59.485091 59.485091 0 0 0-61.905454 57.064727c-0.651636 14.242909 3.816727 27.508364 11.682909 38.167273a340.48 340.48 0 0 1-4.514909-3.025455c-7.912727-7.214545-17.035636 2.280727-17.035636 2.280727s-76.194909 151.831273-80.709819 161.233455c-4.514909 9.402182 13.777455 29.463273 13.777455 29.463273l-103.982546 2.327272c-17.826909 0.605091-31.278545 60.462545-31.278545 60.462546-68.887273 12.101818-109.474909 96.861091-109.474909 96.861091l17.221818 13.079272-1.256727 28.765091-31.371637-1.349818c-11.403636 11.822545-0.791273 19.176727-0.791272 19.176727l31.325091 1.396364v0.512l-0.186182 4.980364h0.139636a134.330182 134.330182 0 0 0 128.186182 134.516363 134.190545 134.190545 0 0 0 139.264-123.112727c14.475636-0.139636 80.477091-0.605091 122.833455 0 47.802182 0.698182 59.904-27.601455 59.904-27.601454l4.282181-100.072728s30.068364 1.396364 44.032-4.933818c13.870545-6.237091 34.536727-39.610182 34.536728-39.610182l33.885091 59.298909a131.397818 131.397818 0 0 0-52.64291 99.746909 131.258182 131.258182 0 0 0 125.160728 137.076364 131.118545 131.118545 0 0 0 136.424727-125.765818 131.258182 131.258182 0 0 0-125.160727-136.983273zM330.193455 776.471273c21.643636 13.963636 36.770909 37.096727 39.889454 63.767272l-40.029091-1.722181a50.455273 50.455273 0 0 0-16.756363-23.086546l16.896-38.958545z m-43.566546-13.963637c4.189091 0.139636 8.145455 0.744727 12.101818 1.536l-12.427636 41.053091-1.489455-0.093091c-20.48-0.884364-39.517091 10.705455-48.034909 29.416728l-40.029091-1.722182a88.064 88.064 0 0 1 89.879273-70.237091v0.046545z m-7.633454 176.686546a88.203636 88.203636 0 0 1-84.154182-87.365818l37.329454 1.582545c-1.256727 27.927273 20.340364 51.572364 48.221091 52.875636 27.927273 1.210182 51.386182-20.48 52.596364-48.453818l37.282909 1.629091a88.110545 88.110545 0 0 1-91.229091 79.732364z m365.847272-338.292364c-80.430545-6.283636-150.202182 27.741091-150.202182 27.741091s-2.373818 3.258182-4.794181-0.186182c-14.010182-20.014545-15.546182-35.048727-15.546182-35.048727l33.512727-78.196364c25.832727 32.768 137.774545 67.863273 137.774546 67.863273l-0.791273 17.826909h0.046545z m146.571637 344.762182a88.436364 88.436364 0 0 1-84.340364-92.299636 88.389818 88.389818 0 0 1 29.789091-62.510546l20.154182 35.188364a46.778182 46.778182 0 0 0 30.673454 79.965091 46.638545 46.638545 0 0 0 34.304-80.244364 46.685091 46.685091 0 0 0-36.072727-13.032727c-4.701091-8.890182-12.055273-22.993455-20.340364-39.005091a88.064 88.064 0 0 1 117.713455 87.226182 88.389818 88.389818 0 0 1-91.880727 84.712727z m-270.196364-18.106182v-3.630545l132.654545 0.093091 3.49091 3.723636-136.145455-0.186182zM470.109091 964.421818v-3.677091l204.660364 0.139637 4.282181 3.816727L470.109091 964.421818z m85.643636-72.750545v-5.352728h91.229091l1.070546 3.909819-92.346182 1.396363zM234.496 163.188364c-21.922909 13.451636-41.425455-23.365818-31.511273-30.161455 332.148364-224.535273 603.648-2.699636 605.463273 16.430546 1.861818 19.176727-27.136 26.065455-27.136 26.065454-266.24-208.523636-524.986182-25.832727-546.816-12.334545z m62.370909 83.549091c-16.709818 10.845091-30.301091-18.757818-22.714182-24.203637 253.300364-180.177455 460.241455-2.187636 461.730909 13.172364 1.396364 15.406545-22.062545 20.945455-22.062545 20.945454-202.938182-167.377455-400.290909-20.759273-417.000727-9.914181zM368.733091 321.629091c-11.031273 7.819636-20.852364-15.313455-15.825455-19.176727 166.865455-129.722182 303.290182-1.582545 304.221091 9.495272 0.930909 11.077818-13.684364 16.896-13.684363 16.896-133.725091-120.552727-263.726545-14.987636-274.711273-7.168V321.629091z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_service" viewBox="0 0 1024 1024">
+    <path d="M791.236118 531.80270466A78.30034946 78.30034946 0 0 0 785.77330297 517.91804997a61.45666943 61.45666943 0 0 0-30.38690869-29.02120529 20.03032178 20.03032178 0 0 0-8.19422255-3.30045065l-46.32012027-7.2837541a20.03032178 20.03032178 0 0 0-22.76172928 16.38844581l-36.76019288 219.99211563a19.80270466 19.80270466 0 0 0 16.27463616 22.76173001l42.79205178 6.94232733a17.41272317 17.41272317 0 0 0 3.41425958 0h5.34900611a60.7738181 60.7738181 0 0 0 41.54015658-17.75414919 79.66605358 79.66605358 0 0 0 9.78754377-11.38086501 79.66605358 79.66605358 0 0 0 8.9908828 0.79666097 77.73130633 77.73130633 0 0 0 26.6312238-4.77996369l-5.121389 30.1592923a83.30793026 83.30793026 0 0 1-35.96353262 51.10008252c-31.75261281 23.67219847-94.11975141 46.66154558-214.52930132 36.64638469a56.90432358 56.90432358 0 0 0-44.27156411-32.20784776c-29.47643951-4.89377188-56.90432358 9.78754378-60.43239133 33.00450801s16.95748823 45.52345929 46.43392773 50.7586572A58.2700277 58.2700277 0 0 0 530.84193207 869.58677086c22.76172928 2.16236438 44.61299011 3.18664247 65.09854685 3.18664248 80.69033094 0 142.60223533-16.27463689 184.82524325-48.59629284a120.86478413 120.86478413 0 0 0 49.84818803-76.59322005l17.98176632-108.23202392 3.18664246-18.66461766a77.95892343 77.95892343 0 0 0-60.54620098-88.88455421z m20.94079094 82.28365219l-5.23519719 31.41118677a38.125897 38.125897 0 0 1-30.72833545 30.61452652l17.07129715-101.74493154a38.01208808 38.01208808 0 0 1 18.89223549 39.71921825zM723.17854652 698.87379943a20.03032178 20.03032178 0 0 1-16.04701904 6.48709312l-22.76172929-3.86949381 30.27309978-180.95575016 22.76173 3.64187668a20.3717478 20.3717478 0 0 1 13.08799443 11.380865 48.82390995 48.82390995 0 0 1 3.8694938 30.04548266l-17.64034029 105.72823352A49.05152707 49.05152707 0 0 1 723.17854652 698.87379943zM285.58429604 491.28682617A19.91651357 19.91651357 0 0 0 262.25352361 475.80885026l-45.52345929 8.99088279a20.14413068 20.14413068 0 0 0-8.08041363 3.64187669 61.34286124 61.34286124 0 0 0-29.81786626 30.15929157A88.42931928 88.42931928 0 0 0 173.2551612 573.68428727l21.73745121 104.93157327c7.85279651 37.67066206 36.6463847 64.41569478 67.2609112 64.41569405a54.05910787 54.05910787 0 0 0 6.03185818-0.56904314h0.56904314a16.72987112 16.72987112 0 0 0 4.09711163 0l42.45062575-9.44611774A19.80270466 19.80270466 0 0 0 330.5387122 709.57181237zM264.75731402 703.19852818c-11.380865 2.27617329-26.40360597-11.380865-30.72833544-32.43546488L212.17771847 565.60387292a50.30342227 50.30342227 0 0 1 2.73140751-30.15929158A20.48555673 20.48555673 0 0 1 228.11092933 523.60848211l22.76172928-4.55234584L287.74666042 698.87379943zM771.43341334 458.62374419a93.09547403 93.09547403 0 0 1 16.04701904 9.78754378c0-103.56586915-25.37932861-183.80096588-74.20323782-238.99816004C661.38045108 171.02929132 582.85248376 141.21142578 479.28661461 141.21142578S297.87563022 171.02929132 245.86507854 229.52693612C196.47212546 285.29317342 171.20660503 366.89397427 171.77564889 472.39459067a89.56740555 89.56740555 0 0 1 19.11985261-13.54322937 54.05910787 54.05910787 0 0 1 18.77842655-7.6251794l3.6418767-0.68285133c2.84521643-83.87697341 23.89981629-148.97551953 63.5052256-193.47470145a67.37471941 67.37471941 0 0 0 34.1425943 37.67066277 63.96045983 63.96045983 0 0 0 26.06218066 5.34900612 88.54312818 88.54312818 0 0 0 45.52345857-13.31561155 139.52940179 139.52940179 0 0 1 22.76173002-10.69801295 234.44581418 234.44581418 0 0 1 74.43085566-11.380865 234.21819706 234.21819706 0 0 1 74.31704676 11.38086501 144.99221681 144.99221681 0 0 1 22.76172927 10.69801294 88.54312818 88.54312818 0 0 0 45.5234593 13.31561155 63.96045983 63.96045983 0 0 0 26.06217995-5.34900612 67.37471941 67.37471941 0 0 0 34.14259501-37.67066277c39.26398328 44.15775518 60.31858315 109.37011021 63.6190338 194.0437446l6.25947528 0.91046916a56.90432358 56.90432358 0 0 1 19.00604441 6.60090131z m-139.98463673-201.78273218a23.78600738 23.78600738 0 0 1-9.21850063 1.82093833 39.4916004 39.4916004 0 0 1-11.38086429-1.93474726A217.82975197 217.82975197 0 0 0 569.53687222 237.49354157l-1.25189519-0.56904315v1.02427808-1.02427808a273.82360639 273.82360639 0 0 0-87.74646722-13.65703758H478.48995436a272.45790226 272.45790226 0 0 0-87.5188501 13.7708465l-1.59332123 0.56904314a211.57027597 211.57027597 0 0 0-40.85730452 19.1198526 40.06064427 40.06064427 0 0 1-12.06371634 2.04855545 23.78600738 23.78600738 0 0 1-9.21850063-1.82093834c-10.01516088-4.55234587-14.90893277-18.55080946-17.18510606-29.70405662C353.30044148 197.43289802 410.20476579 182.41015633 479.62804064 182.29634741S606.06944801 197.43289802 649.20292582 227.13695464c-2.84521643 11.15324717-7.6251794 25.1517115-17.75414922 29.70405737z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_nowarranty" viewBox="0 0 1024 1024">
+    <path d="M298.666667 648.533333l-29.866667 34.133334C153.6 490.666667 170.666667 256 170.666667 251.733333c0-4.266667 4.266667-12.8 8.533333-17.066666 4.266667-4.266667 12.8-4.266667 17.066667-4.266667 217.6 25.6 285.866667-85.333333 285.866666-85.333333 4.266667-8.533333 12.8-12.8 21.333334-12.8s17.066667 4.266667 21.333333 8.533333c4.266667 4.266667 38.4 59.733333 140.8 81.066667l-34.133333 38.4c-68.266667-17.066667-106.666667-51.2-128-72.533334-34.133333 38.4-119.466667 102.4-285.866667 89.6-4.266667 59.733333 4.266667 226.133333 81.066667 371.2z m537.6-401.066666v4.266666c0 4.266667 34.133333 482.133333-320 631.466667h-8.533334H494.933333c-55.466667-21.333333-98.133333-51.2-136.533333-85.333333l29.866667-34.133334c34.133333 29.866667 68.266667 55.466667 115.2 76.8C763.733333 725.333333 789.333333 409.6 793.6 298.666667l42.666667-51.2zM814.933333 128l38.4 34.133333L226.133333 883.2l-38.4-34.133333L814.933333 128z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_warranty" viewBox="0 0 1024 1024">
+    <path d="M844.8 234.666667c-4.266667-4.266667-12.8-4.266667-17.066667-4.266667-217.6 25.6-290.133333-85.333333-294.4-89.6-4.266667-8.533333-12.8-12.8-21.333333-12.8s-17.066667 4.266667-21.333333 12.8c0 0-72.533333 115.2-294.4 89.6-4.266667 0-12.8 0-17.066667 4.266667-4.266667 0-8.533333 8.533333-8.533333 12.8 0 4.266667-34.133333 494.933333 332.8 648.533333h21.333333C891.733333 742.4 853.333333 256 853.333333 247.466667c0-4.266667-4.266667-12.8-8.533333-12.8z m-627.2 42.666666c170.666667 12.8 260.266667-51.2 294.4-89.6 34.133333 38.4 123.733333 102.4 294.4 89.6 4.266667 93.866667-12.8 448-294.4 571.733334C230.4 725.333333 217.6 371.2 217.6 277.333333z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_0day" viewBox="0 0 1024 1024">
+    <path d="M512 281.6c-136.533333 0-247.466667 106.666667-247.466667 238.933333 0 38.4 8.533333 76.8 29.866667 110.933334l-38.4 38.4c-25.6-42.666667-42.666667-93.866667-42.666667-149.333334 0-157.866667 132.266667-290.133333 294.4-290.133333 51.2 0 102.4 12.8 145.066667 38.4l-12.8 17.066667-38.4 12.8c-25.6-12.8-59.733333-17.066667-89.6-17.066667z m149.333333 430.933333c12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 38.4-110.933333 59.733333-179.2 59.733334-59.733333 0-110.933333-17.066667-157.866667-42.666667l34.133334-34.133333c34.133333 21.333333 76.8 29.866667 119.466666 29.866666 59.733333 0 110.933333-17.066667 153.6-51.2z m251.733334-213.333333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133333-93.866667 0-179.2-29.866667-247.466667-81.066666l34.133334-38.4c59.733333 42.666667 136.533333 64 213.333333 64 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-21.333333 25.6-21.333333zM823.466667 298.666667c-4.266667 17.066667-17.066667 29.866667-34.133334 34.133333h-4.266666l38.4-34.133333zM200.533333 725.333333l-34.133333 34.133334C115.2 695.466667 85.333333 610.133333 85.333333 520.533333c0-230.4 192-418.133333 426.666667-418.133333 59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c8.533333-12.8 21.333333-21.333333 38.4-17.066667 17.066667 0 34.133333 12.8 38.4 29.866667l4.266666 21.333333-42.666666 42.666667-8.533334-34.133334-34.133333 55.466667C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 76.8 21.333333 149.333333 64 204.8zM896 85.333333l42.666667 38.4-810.666667 810.666667-42.666667-38.4L896 85.333333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_7days" viewBox="0 0 1024 1024">
+    <path d="M648.533333 409.6v38.4l-106.666666 238.933333h-76.8l98.133333-217.6h-119.466667V409.6h204.8z m264.533334 85.333333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133334S85.333333 750.933333 85.333333 520.533333s192-418.133333 426.666667-418.133333c59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c4.266667-17.066667 21.333333-21.333333 38.4-21.333334s34.133333 12.8 38.4 29.866667l42.666666 162.133333c8.533333 21.333333-8.533333 46.933333-29.866666 55.466667l-179.2 55.466667h-8.533334c-8.533333 0-21.333333-8.533333-25.6-17.066667-8.533333-12.8 0-25.6 12.8-29.866667l174.933334-55.466666-34.133334-140.8-34.133333 59.733333C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 204.8 170.666667 366.933333 375.466667 366.933334 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-25.6 25.6-25.6z m-401.066667-213.333333c-136.533333 0-247.466667 106.666667-247.466667 243.2 0 132.266667 110.933333 243.2 247.466667 243.2 55.466667 0 106.666667-17.066667 149.333333-51.2 12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 34.133333-110.933333 55.466667-179.2 55.466667-162.133333 0-294.4-132.266667-294.4-290.133334 0-157.866667 132.266667-290.133333 294.4-290.133333 55.466667 0 110.933333 17.066667 157.866667 46.933333l-68.266667 21.333334c-25.6-12.8-59.733333-17.066667-89.6-17.066667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_14days" viewBox="0 0 1024 1024">
+    <path d="M913.066667 494.933333c12.8 0 25.6 12.8 25.6 25.6 0 230.4-192 418.133333-426.666667 418.133334S85.333333 750.933333 85.333333 520.533333s192-418.133333 426.666667-418.133333c59.733333 0 119.466667 12.8 174.933333 38.4l21.333334-34.133333c4.266667-17.066667 21.333333-21.333333 38.4-21.333334s34.133333 12.8 38.4 29.866667l42.666666 162.133333c8.533333 21.333333-8.533333 46.933333-29.866666 55.466667l-179.2 55.466667h-8.533334c-8.533333 0-21.333333-8.533333-25.6-17.066667-8.533333-12.8 0-25.6 12.8-29.866667l174.933334-55.466666-34.133334-140.8-34.133333 59.733333C648.533333 170.666667 580.266667 153.6 512 153.6c-209.066667 0-375.466667 166.4-375.466667 366.933333 0 204.8 170.666667 366.933333 375.466667 366.933334 209.066667 0 375.466667-166.4 375.466667-366.933334 0-12.8 12.8-25.6 25.6-25.6zM392.533333 469.333333V413.866667h115.2c0 17.066667-4.266667 29.866667-4.266666 46.933333v157.866667c0 17.066667 0 29.866667 4.266666 46.933333h-68.266666c0-12.8 4.266667-29.866667 4.266666-46.933333V469.333333H392.533333z m153.6 145.066667v-55.466667c12.8-12.8 12.8-12.8 29.866667-34.133333l68.266667-76.8c12.8-17.066667 21.333333-25.6 29.866666-34.133333h64c0 17.066667-4.266667 29.866667-4.266666 51.2v98.133333h8.533333c8.533333 0 21.333333 0 29.866667-4.266667v55.466667H733.866667v12.8c0 17.066667 0 25.6 4.266666 38.4h-64c0-8.533333 4.266667-21.333333 4.266667-38.4v-12.8h-132.266667z m123.733334-51.2v-34.133333-42.666667c-4.266667 8.533333-12.8 12.8-17.066667 25.6l-42.666667 51.2h59.733334zM512 281.6c-136.533333 0-247.466667 106.666667-247.466667 243.2 0 132.266667 110.933333 243.2 247.466667 243.2 55.466667 0 106.666667-17.066667 149.333333-51.2 12.8-8.533333 25.6-4.266667 34.133334 4.266667 8.533333 8.533333 8.533333 25.6-4.266667 34.133333-51.2 34.133333-110.933333 55.466667-179.2 55.466667-162.133333 0-294.4-132.266667-294.4-290.133334 0-157.866667 132.266667-290.133333 294.4-290.133333 55.466667 0 110.933333 17.066667 157.866667 46.933333l-68.266667 21.333334c-25.6-12.8-59.733333-17.066667-89.6-17.066667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_optionChecked" viewBox="0 0 1024 1024">
+    <path d="M1023.6802 0v1023.3604H0.3198L1023.6802 0z" fill="#0a5d24"></path>
+    <path d="M652.072455 910.790756l-173.971268-173.331668 49.249219-49.249219 124.722049 124.722049 263.515303-263.515303 48.609619 49.249219-312.124922 312.124922zM0.3198 1023.3604v-63.960025L959.720175 0h63.960025v44.772017L45.091818 1024 0.3198 1023.3604z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_google" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#D34836"></path>
+    <path d="M583.68 559.104v-81.92H389.12v81.92h112.64c-16.384 49.152-63.488 81.92-116.736 81.92-51.2 0-114.688-47.104-114.688-122.88 0-69.632 49.152-122.88 114.688-122.88 30.72 0 61.44 12.288 81.92 30.72l59.392-59.392c-36.864-34.816-86.016-55.296-139.264-55.296-112.64 0-202.752 92.16-202.752 202.752s92.16 202.752 202.752 202.752c106.496 4.096 184.32-61.44 196.608-157.696zM839.68 483.328v51.2h-71.68v71.68H716.8v-71.68h-71.68v-51.2H716.8v-71.68h51.2v71.68H839.68z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_twitter" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#5EAADE"></path>
+    <path d="M784.384 346.112c-20.48 8.192-40.96 14.336-63.488 18.432 22.528-14.336 40.96-34.816 49.152-61.44-22.528 12.288-45.056 22.528-71.68 26.624-20.48-22.528-49.152-34.816-81.92-34.816-61.44 0-112.64 49.152-112.64 112.64 0 8.192 0 16.384 2.048 24.576-92.16-4.096-176.128-49.152-231.424-116.736-8.192 14.336-14.336 32.768-14.336 53.248 0 38.912 20.48 73.728 49.152 92.16-18.432 0-34.816-6.144-51.2-14.336v2.048c0 53.248 38.912 100.352 90.112 110.592-10.24 2.048-18.432 4.096-28.672 4.096-8.192 0-14.336 0-20.48-2.048 14.336 45.056 55.296 77.824 104.448 77.824-38.912 30.72-86.016 47.104-139.264 47.104-8.192 0-18.432 0-26.624-2.048 49.152 32.768 108.544 51.2 172.032 51.2 206.848 0 319.488-169.984 319.488-319.488v-14.336c20.48-14.336 38.912-34.816 55.296-55.296z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_pinterest" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#CA242D"></path>
+    <path d="M354.304 555.008c12.288 8.192 20.48 10.24 24.576-2.048 4.096-12.288 4.096-16.384 6.144-28.672 2.048-12.288 0-12.288-10.24-24.576-10.24-14.336-26.624-53.248-4.096-114.688 24.576-69.632 94.208-100.352 155.648-96.256 61.44 4.096 118.784 36.864 120.832 120.832 2.048 79.872-24.576 124.928-36.864 139.264-12.288 14.336-43.008 47.104-83.968 28.672-49.152-22.528-22.528-71.68-18.432-90.112 4.096-20.48 26.624-63.488 16.384-102.4-8.192-24.576-43.008-36.864-61.44-22.528-26.624 20.48-32.768 38.912-36.864 67.584-4.096 30.72 10.24 61.44 10.24 61.44s-32.768 131.072-38.912 165.888c-8.192 47.104-12.288 77.824-4.096 120.832 2.048 10.24 8.192 14.336 14.336 4.096 14.336-22.528 43.008-65.536 55.296-116.736 8.192-36.864 16.384-69.632 16.384-69.632s20.48 34.816 61.44 38.912c40.96 4.096 83.968-2.048 133.12-53.248 47.104-51.2 57.344-151.552 51.2-192.512-8.192-53.248-53.248-137.216-151.552-153.6-108.544-18.432-172.032 26.624-186.368 38.912-28.672 22.528-77.824 69.632-81.92 147.456-8.192 100.352 32.768 122.88 49.152 133.12z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_tumblr" viewBox="0 0 1024 1024">
+    <path d="M552.96 1024h-81.92C212.992 1024 0 811.008 0 552.96v-81.92C0 212.992 212.992 0 471.04 0h81.92c258.048 0 471.04 212.992 471.04 471.04v81.92c0 258.048-212.992 471.04-471.04 471.04z" fill="#181818"></path>
+    <path d="M649.216 679.936l26.624 81.92c-6.144 8.192-18.432 16.384-38.912 22.528-20.48 6.144-40.96 10.24-61.44 10.24-24.576 0-45.056-2.048-65.536-8.192-20.48-6.144-36.864-14.336-49.152-24.576L430.08 724.992c-8.192-14.336-14.336-26.624-18.432-40.96-4.096-14.336-6.144-26.624-6.144-40.96v-186.368H348.16v-73.728c16.384-6.144 30.72-14.336 45.056-24.576 12.288-10.24 22.528-20.48 30.72-30.72 8.192-10.24 14.336-22.528 20.48-34.816 6.144-12.288 10.24-24.576 12.288-34.816l6.144-30.72c0-2.048 0-2.048 2.048-2.048l2.048-2.048h83.968V368.64h114.688v86.016h-114.688v178.176c0 6.144 0 12.288 2.048 18.432 2.048 6.144 4.096 12.288 8.192 18.432 4.096 6.144 10.24 10.24 16.384 14.336s16.384 4.096 28.672 4.096c14.336 2.048 28.672-2.048 43.008-8.192z" fill="#FFFFFF"></path>
+  </symbol>
+  <symbol id="lazadaicon_next" viewBox="0 0 1024 1024">
+    <path d="M618.66666633 516.26666699L281.60000033 853.33333299l85.333333 85.33333401L789.33333332 516.266667l-4.266667-4.266667-422.39999999-422.4-85.333333 85.333333 341.333333 341.33333399z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_delete" viewBox="0 0 1024 1024">
+    <path d="M896 204.8L819.2 128 512 435.2 204.8 128 128 204.8l307.2 307.2L128 819.2 204.8 896l307.2-307.2 307.2 307.2 76.8-76.8-307.2-307.2z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_add" viewBox="0 0 1024 1024">
+    <path d="M544 480v-160h-64v160h-160v64h160v160h64v-160h160v-64h-160z"></path>
+  </symbol>
+  <symbol id="lazadaicon_reduce" viewBox="0 0 1024 1024">
+    <path d="M320 480h384v64h-384z"></path>
+  </symbol>
+  <symbol id="lazadaicon_check" viewBox="0 0 1024 1024">
+    <path d="M840.533333 213.333333L938.666667 311.466667 362.666667 883.2 85.333333 605.866667l98.133334-98.133334 179.2 179.2z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_back" viewBox="0 0 1024 1024">
+    <path d="M912.00000031 464H303.99999969l280.00000031-280.00000031L512 111.99999969 111.99999969 512l400.00000031 400.00000031 72-72-280.00000031-280.00000031H912.00000031z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_ellipsis" viewBox="0 0 1024 1024">
+    <path d="M682.666667 512c0-46.933333 38.4-85.333333 85.333333-85.333333s85.333333 38.4 85.333333 85.333333-38.4 85.333333-85.333333 85.333333-85.333333-38.4-85.333333-85.333333z m-85.33333399 0c0 46.933333-38.4 85.333333-85.33333301 85.33333301s-85.333333-38.4-85.33333301-85.33333301 38.4-85.333333 85.33333301-85.33333301 85.333333 38.4 85.33333301 85.33333301z m-256.00000001 0c0 46.933333-38.4 85.333333-85.333333 85.333333s-85.333333-38.4-85.333333-85.333333 38.4-85.333333 85.333333-85.333333 85.333333 38.4 85.333333 85.333333z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_bgCircle" viewBox="0 0 1024 1024">
+    <path d="M512 512m-426.666667 0a426.666667 426.666667 0 1 0 853.333334 0 426.666667 426.666667 0 1 0-853.333334 0Z" fill="#0a5d24"></path>
+  </symbol>
+  <symbol id="lazadaicon_dropDownArrow" viewBox="0 0 1024 1024">
+    <path d="M650.08 458.08l52.32 52.32L512 700.8l-190.4-190.4 52.32-52.32L512 596.16z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_btnCheck" viewBox="0 0 1024 1024">
+    <path d="M433.694118 602.352941l-90.352942-90.352941-57.223529 57.223529 147.576471 141.552942 304.188235-337.317647-57.223529-57.22353-246.964706 286.117647zM512 60.235294c249.976471 0 451.764706 201.788235 451.764706 451.764706s-201.788235 451.764706-451.764706 451.764706S60.235294 761.976471 60.235294 512 262.023529 60.235294 512 60.235294z" fill="#FF330C"></path>
+  </symbol>
+  <symbol id="lazadaicon_addToCart" viewBox="0 0 1024 1024">
+    <path d="M520.533333 738.133333c-34.133333 0-64 29.866667-64 64s29.866667 64 64 64 64-29.866667 64-64-25.6-64-64-64zM324.266667 213.333333v64h64l119.466666 251.733334-46.933333 76.8c-4.266667 8.533333-8.533333 21.333333-8.533333 34.133333 0 34.133333 29.866667 64 64 64h392.533333V640h-379.733333c-4.266667 0-8.533333-4.266667-8.533334-8.533333v-4.266667l29.866667-55.466667h243.2c25.6 0 46.933333-12.8 55.466667-34.133333l119.466666-213.333333c12.8-4.266667 12.8-4.266667 12.8-12.8 0-21.333333-12.8-34.133333-34.133333-34.133334H460.8L430.933333 213.333333H324.266667z m524.8 524.8c34.133333 0 64 29.866667 64 64s-29.866667 64-64 64-64-29.866667-64-64 29.866667-64 64-64z m-610.133334-256h123.733334V554.666667H238.933333v140.8H166.4V554.666667H42.666667v-72.533334h123.733333v-128h76.8v128z" fill="#9E9E9E"></path>
+  </symbol>
+  <symbol id="lazadaicon_tooltip" viewBox="0 0 1024 1024">
+    <path d="M469.333333 725.333333h85.333334v-256h-85.333334v256z m42.666667-640C277.333333 85.333333 85.333333 277.333333 85.333333 512s192 426.666667 426.666667 426.666667 426.666667-192 426.666667-426.666667S746.666667 85.333333 512 85.333333z m0 768c-187.733333 0-341.333333-153.6-341.333333-341.333333s153.6-341.333333 341.333333-341.333333 341.333333 153.6 341.333333 341.333333-153.6 341.333333-341.333333 341.333333zM469.333333 384h85.333334V298.666667h-85.333334v85.333333z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_broadcast" viewBox="0 0 1024 1024">
+    <path d="M66.28571471 360.11428538v303.87428619h197.99999994L512 917.18857149V106.81142851L264.28571481 360.11428538H66.28571471zM734.85714313 512c0-91.13142842-49.57714313-167.14285687-123.84-202.59428526v405.18857052C685.27999998 679.14285687 734.85714313 603.23428535 734.85714313 512zM611.01714313 66.28571471v106.35428524c143.65714313 45.60000006 247.6457147 177.2571431 247.64571372 339.3942854 0 162.06857149-104.02285691 293.76000001-247.64571372 339.32571454V957.71428529C809.12000005 912.11428539 957.71428529 729.78285684 957.71428529 512 957.71428529 294.28571476 809.12000005 111.88571461 611.01714313 66.28571471z" fill="#26A96D"></path>
+  </symbol>
+  <symbol id="lazadaicon_close" viewBox="0 0 1024 1024">
+    <path d="M555.424 516.608l158.4-158.4-54.336-54.304-158.4 158.4-153.856-153.856-54.304 54.304 153.888 153.856-149.344 149.344 54.304 54.304 149.344-149.344 153.856 153.856 54.304-54.304-153.856-153.856z m-43.008 472.64c-265.088 0-480-214.944-480-480 0-265.12 214.912-480 480-480 265.088 0 480 214.88 480 480 0 265.056-214.912 480-480 480z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_closeBtn" viewBox="0 0 1024 1024">
+    <path d="M0 512C0 229.23 229.23 0 512 0s512 229.23 512 512-229.23 512-512 512S0 794.77 0 512z m768-204.8L716.8 256 512 460.8 307.2 256 256 307.2 460.8 512 256 716.8l51.2 51.2L512 563.2 716.8 768l51.2-51.2L563.2 512 768 307.2z" fill="#D1D3D4"></path>
+  </symbol>
+  <symbol id="lazadaicon_installment" viewBox="0 0 1024 1024">
+    <path d="M776.7552 779.6224l-3.0464 0.4864v-41.856l3.072 0.4864c23.04 3.4816 39.04 13.568 39.0144 20.3776 0 6.8864-16.0256 16.9984-39.04 20.5056z m-32.2304-73.6l-3.0208-0.384c-25.472-3.4048-41.0624-14.336-41.1136-20.7104 0.0768-6.3744 15.7184-17.3568 41.1136-20.7616l3.0208-0.384v42.24z m88.192 26.2912a47.8976 47.8976 0 0 0-11.0592-6.9632c-10.5728-5.0944-26.4192-9.6-45.7472-13.056l-2.2016-0.4096v-47.9488l3.072 0.4608c17.92 2.7136 30.5152 9.1136 35.9168 14.7712l28.2624-10.0352c-9.1648-17.7408-33.6896-30.8224-64.896-34.4064l-2.3552-0.2816v-25.7536h-29.184v25.5744l-2.4064 0.2304c-41.728 4.224-70.8352 24.9856-70.8352 50.4576 0 12.9024 7.2192 24.6784 21.0432 34.048l1.1264 0.5888c6.6816 3.5328 21.8624 10.1376 48.8448 14.4896l2.2272 0.3584v45.9264l-3.0208-0.4096c-19.712-2.6624-34.048-9.9584-39.0144-16.2304l-29.0304 7.1424c7.424 20.1472 33.9712 35.2256 68.6592 38.7584l2.4064 0.256v26.24l29.184 0.0256v-26.4704l2.3552-0.256c40.576-4.6592 68.9152-25.3696 68.9152-50.304 0-8.6784-3.2768-16.8192-9.6256-24.1408a64.1536 64.1536 0 0 0-2.6368-2.6624z m-74.624 137.7792c-83.968 0-152.2944-68.7104-152.2944-153.1648 0-84.4544 68.352-153.1904 152.32-153.1904 84.0192 0 152.3456 68.736 152.3456 153.1904s-68.3264 153.1648-152.3712 153.1648z m0-347.6224c-106.624 0-193.3824 87.2448-193.3824 194.4576 0 107.2384 86.784 194.432 193.3824 194.432 106.6752 0 193.4336-87.1936 193.4336-194.432 0-107.2128-86.7584-194.4576-193.4336-194.4576z m-467.0976 94.4384h53.8368v-54.144h-53.8368v54.144z m0 108.0064h53.8112v-54.144h-53.8368v54.144z m0-216.064h53.8368v-54.144h-53.8368v54.144z m-107.3152 108.0576H237.568v-54.144H183.68v54.144z m0 108.0064h53.8368v-54.144H183.6544v54.144z m214.6816-216.064h53.8368v-54.144h-53.8368v54.144zM118.528 788.8128a20.5312 20.5312 0 0 1-20.1984-20.3008V389.8368h652.032v96.2304c1.8944-0.0256 3.6096-0.256 5.5296-0.256 14.6688 0 28.3648 1.408 41.5744 3.584V217.728a67.6864 67.6864 0 0 0-67.328-67.6608h-71.6288v47.36h71.6288c10.9568 0 20.224 9.3184 20.224 20.3008v124.7488H98.304V217.728c0-10.9824 9.2672-20.3008 20.224-20.3008h85.8624v60.5952a23.6032 23.6032 0 0 0 47.1552 0V197.4272h0.128v-47.36h-0.128V100.48A23.6288 23.6288 0 0 0 227.9936 76.8a23.6544 23.6544 0 0 0-23.6032 23.68v49.5872H118.528A67.6864 67.6864 0 0 0 51.2 217.728V768.512a67.6864 67.6864 0 0 0 67.328 67.6864h447.7952a236.5696 236.5696 0 0 1-19.456-47.3856H118.4768z m439.2448-530.7904a23.6032 23.6032 0 0 0 47.1296 0V100.48a23.6288 23.6288 0 0 0-23.552-23.68 23.6544 23.6544 0 0 0-23.552 23.68v49.5616h-75.648v47.3856h75.6224v60.5952z m-176.64 0c0 13.0816 10.5216 23.6544 23.552 23.6544a23.552 23.552 0 0 0 23.552-23.6544V197.4272h0.0768V150.0416h-0.1024V100.48A23.6032 23.6032 0 0 0 404.6592 76.8a23.6288 23.6288 0 0 0-23.552 23.68v49.5616h-75.5968v47.3856h75.5712v60.5952z m17.2544 466.8928h53.8368v-54.144h-53.8368v54.144z m0-108.0064h53.8368v-54.144h-53.8368v54.144z m107.3664-108.0576h53.8624v-54.144h-53.8624v54.144z" fill="#183545"></path>
+  </symbol>
+  <symbol id="lazadaicon_im" viewBox="0 0 1024 1024">
+    <path d="M675.84 499.712c0 4.096 0 8.192-4.096 12.288 0 4.096-4.096 8.192-8.192 12.288-4.096 4.096-8.192 4.096-12.288 8.192-4.096 0-8.192 4.096-12.288 4.096H286.72l-143.36 143.36V180.224c0-4.096 0-8.192 4.096-12.288 0-4.096 4.096-8.192 8.192-12.288 0-4.096 4.096-8.192 8.192-8.192s8.192-4.096 12.288-4.096h462.848c4.096 0 8.192 0 12.288 4.096 4.096 0 8.192 4.096 12.288 8.192 4.096 4.096 4.096 8.192 8.192 12.288 0 4.096 4.096 8.192 4.096 12.288v319.488z m167.936-192.512c4.096 0 8.192 0 12.288 4.096 4.096 0 8.192 4.096 12.288 8.192 4.096 4.096 4.096 8.192 8.192 12.288 0 4.096 4.096 8.192 4.096 12.288v536.576L737.28 737.28H344.064c-4.096 0-8.192 0-12.288-4.096-4.096 0-8.192-4.096-12.288-8.192-4.096-4.096-4.096-8.192-8.192-12.288 0-4.096-4.096-8.192-4.096-12.288v-69.632h466.944V307.2h69.632z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_emptyHeart" viewBox="0 0 1024 1024">
+    <path d="M516.266667 874.666667l-328.533334-324.266667c-76.8-76.8-76.8-200.533333 0-277.333333 34.133333-42.666667 85.333333-59.733333 136.533334-59.733334s102.4 21.333333 140.8 55.466667L512 320l46.933333-46.933333c38.4-42.666667 89.6-59.733333 140.8-59.733334s102.4 21.333333 140.8 55.466667c38.4 38.4 55.466667 85.333333 55.466667 136.533333s-21.333333 102.4-55.466667 136.533334l-324.266666 332.8zM324.266667 260.266667c-42.666667 0-76.8 12.8-106.666667 42.666666-55.466667 55.466667-59.733333 153.6 0 213.333334L512 810.666667l294.4-294.4c29.866667-29.866667 42.666667-64 42.666667-106.666667 0-38.4-12.8-76.8-42.666667-106.666667-55.466667-55.466667-153.6-55.466667-213.333333 0L512 384l-81.066667-81.066667c-25.6-29.866667-64-42.666667-106.666666-42.666666z" fill="#808080"></path>
+  </symbol>
+  <symbol id="lazadaicon_fullHeart" viewBox="0 0 1024 1024">
+    <path d="M704 128c-72.533333 0-145.066667 34.133333-192 89.6-46.933333-55.466667-119.466667-89.6-192-89.6-132.266667 0-234.666667 102.4-234.666667 234.666667 0 162.133333 145.066667 294.4 362.666667 490.666666l64 55.466667 64-55.466667c217.6-200.533333 362.666667-332.8 362.666667-490.666666 0-132.266667-102.4-234.666667-234.666667-234.666667z" fill="#939598"></path>
+  </symbol>
+  <symbol id="lazadaicon_mute" viewBox="0 0 1024 1024">
+    <path d="M1024 451.142621l-63.346759-63.329104-89.15862 89.176276-89.193931-89.158621-63.382069 63.311449 89.229241 89.193931-89.229241 89.193931 63.346758 63.329103 89.229242-89.193931 89.15862 89.193931L1024 629.530483l-89.193931-89.193931zM0 280.364138v463.271724h227.116138L647.062069 1019.003586V4.996414L227.186759 280.364138H0z m94.119724 94.119724h99.998897V649.533793H94.102069V374.466207zM552.96 844.729379l-264.686345-173.550345v-318.322758l264.686345-173.585655v665.458758z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_sound" viewBox="0 0 1024 1024">
+    <path d="M643.990069 8.474483L226.674759 282.129655H0.865103v460.446897h225.739035l417.368276 273.655172V8.474483h0.017655zM94.419862 375.684414h99.36331V649.004138H94.419862V375.702069z m456.033104 467.367724l-263.09738-172.491035V354.198069l263.079724-172.526345v661.362759zM745.613241 383.735172h93.554759v257.218207h-93.554759zM930.445241 302.856828H1024v419.027862h-93.554759z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_smallScreen" viewBox="0 0 1024 1024">
+    <path d="M105.6 105.6h208.384V0H0v309.141333h105.6zM918.4 705.216v213.184h-208.405333V1024H1024V705.216zM84.394667 676.394667h190.613333L18.752 932.650667l74.666667 74.666666 256.256-256.256v190.634667h105.6V570.794667H84.394667zM939.626667 347.605333h-190.634667L1005.226667 91.349333l-74.666667-74.666666-256.213333 256.256V82.325333h-105.6v370.88h370.88z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_largeScreen" viewBox="0 0 1024 1024">
+    <path d="M105.621333 309.162667V105.621333h208.384V0.021333H0v309.141334zM710.4 105.621333h208.405333v203.541334h105.6V0.021333H710.4zM313.984 918.378667H105.621333v-213.184H0v318.784h313.984zM918.784 705.194667v213.184H710.4v105.6h313.962667V705.194667z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_arrowDown" viewBox="0 0 1024 1024">
+    <path d="M806.4 341.333333l89.6 89.6-384 379.733334-384-379.733334L217.6 341.333333l294.4 294.4z"></path>
+  </symbol>
+  <symbol id="lazadaicon_arrowUp" viewBox="0 0 1024 1024">
+    <path d="M806.4 768l89.6-89.6L512 298.666667l-384 379.733333L217.6 768l294.4-294.4z"></path>
+  </symbol>
+  <symbol id="lazadaicon_star_half" viewBox="0 0 1024 1024">
+    <path d="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z" fill="#EFF0F5"></path>
+    <path d="M512 797.866667V51.2c0-4.266667-4.266667-8.533333-8.533333-8.533333s-8.533333 4.266667-8.533334 4.266666l-119.466666 298.666667-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_star_full" viewBox="0 0 1024 1024">
+    <path d="M512 797.866667l260.266667 166.4c8.533333 4.266667 21.333333 4.266667 29.866666-8.533334 4.266667-4.266667 4.266667-8.533333 4.266667-17.066666l-68.266667-315.733334 234.666667-213.333333c8.533333-8.533333 8.533333-21.333333 0-29.866667-4.266667-4.266667-8.533333-4.266667-12.8-8.533333l-307.2-25.6-119.466667-294.4c-4.266667-12.8-17.066667-17.066667-29.866666-12.8l-12.8 12.8-115.2 294.4-307.2 29.866667c-12.8 0-21.333333 8.533333-21.333334 21.333333 0 4.266667 4.266667 8.533333 8.533334 12.8l234.666666 213.333333L217.6 938.666667c-4.266667 12.8 4.266667 21.333333 17.066667 25.6 4.266667 0 12.8 0 17.066666-4.266667l260.266667-162.133333z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_location" viewBox="0 0 1024 1024">
+    <path d="M520.533333 264.533333c-42.666667 0-76.8 12.8-106.666666 42.666667s-42.666667 64-42.666667 106.666667 12.8 76.8 42.666667 106.666666 64 42.666667 106.666666 42.666667 76.8-12.8 106.666667-42.666667 42.666667-68.266667 42.666667-106.666666c0-42.666667-12.8-76.8-42.666667-106.666667s-68.266667-42.666667-106.666667-42.666667z m0 34.133334c34.133333 0 59.733333 8.533333 81.066667 34.133333 21.333333 21.333333 34.133333 51.2 34.133333 81.066667 0 34.133333-12.8 59.733333-34.133333 81.066666s-51.2 34.133333-81.066667 34.133334c-34.133333 0-59.733333-12.8-81.066666-34.133334s-34.133333-51.2-34.133334-81.066666c0-34.133333 12.8-59.733333 34.133334-81.066667s46.933333-34.133333 81.066666-34.133333z">
+    </path>
+    <path d="M729.6 187.733333c-59.733333-55.466667-128-85.333333-209.066667-85.333333-81.066667 0-153.6 29.866667-209.066666 85.333333-59.733333 55.466667-85.333333 128-85.333334 209.066667 0 55.466667 12.8 102.4 38.4 149.333333 0 0 4.266667 4.266667 4.266667 8.533334l230.4 358.4c8.533333 12.8 21.333333 12.8 29.866667 0l247.466666-362.666667c29.866667-46.933333 42.666667-98.133333 42.666667-153.6 0-81.066667-29.866667-153.6-89.6-209.066667z m-21.333333 21.333334c51.2 51.2 76.8 110.933333 76.8 183.466666 0 51.2-12.8 93.866667-34.133334 132.266667l-247.466666 362.666667h29.866666L298.666667 533.333333c0-4.266667-8.533333-8.533333-4.266667-8.533333-21.333333-38.4-34.133333-81.066667-34.133333-128 0-72.533333 25.6-132.266667 76.8-183.466667 51.2-51.2 110.933333-76.8 183.466666-76.8 72.533333 0 132.266667 21.333333 187.733334 72.533334z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_search" viewBox="0 0 1024 1024">
+    <path d="M820.662857 785.554286L635.611429 600.502857c33.645714-43.154286 52.662857-95.817143 52.662857-151.405714 0-65.097143-25.6-126.537143-71.68-173.348572-46.811429-45.348571-108.251429-70.948571-173.348572-70.948571-65.828571 0-127.268571 25.6-173.348571 71.68-46.08 46.08-71.68 107.52-71.68 173.348571s25.6 126.537143 71.68 173.348572c46.08 46.08 107.52 71.68 173.348571 71.68 64.365714 0 124.342857-24.868571 170.422857-69.485714l183.588572 183.588571 23.405714-23.405714zM444.708571 664.868571c-57.051429 0-110.445714-21.942857-151.405714-62.902857-40.228571-40.228571-62.902857-93.622857-62.902857-150.674285 0-57.051429 21.942857-110.445714 62.902857-150.674286 40.96-40.96 94.354286-62.902857 151.405714-62.902857 57.051429 0 110.445714 21.942857 150.674286 62.902857S658.285714 394.24 658.285714 451.291429s-21.942857 110.445714-62.902857 150.674285c-40.228571 40.228571-93.622857 62.902857-150.674286 62.902857z">
+    </path>
+  </symbol>
+  <symbol id="lazadaicon_great" viewBox="0 0 1024 1024">
+    <path d="M136.533333 849.066667h140.8v-426.666667H136.533333v426.666667z m785.066667-388.266667c0-38.4-34.133333-72.533333-72.533333-72.533333h-226.133334l34.133334-162.133334V213.333333c0-12.8-4.266667-29.866667-17.066667-38.4l-38.4-38.4-230.4 234.666667c-12.8 12.8-21.333333 34.133333-21.333333 51.2v354.133333c0 38.4 34.133333 72.533333 72.533333 72.533334h320c29.866667 0 55.466667-17.066667 64-42.666667l106.666667-251.733333c4.266667-8.533333 4.266667-17.066667 4.266666-25.6v-68.266667h4.266667z">
+    </path>
+  </symbol>
+</svg>
+  <script type="text/javascript" id="beacon-aplus" src="https://g.lazcdn.com/g/alilog/mlog/aplus_int.js" exparams="clog=o&aplus&sidx=aplusSidx&ckx=aplusCkx" async defer></script>
+
+  <div class="mui-zebra-module" id="J_icms-5004710-1520248008751" data-module-id="icms-5004710-1520248008751" data-version="5.0.5" data-spm="icms-5004710-1520248008751">
+  <script type="text/javascript">try{if(typeof window==='object'){window.CROSSIMAGE_GRAYSCALE_RULE={"id-live-01.slatic.net":"id-test-11.slatic.net","id-live-02.slatic.net":"id-test-11.slatic.net","id-live-03.slatic.net":"id-test-11.slatic.net","id-live.slatic.net":"id-test-11.slatic.net"};window.crossimageConfig={quality:'q80'}}}catch(error){console.log('CROSSIMAGE CONFIG ERROR');}</script>
+
+</div>
+
+  <script type="application/ld+json">
+    {"@type":"Product","@context":"https://schema.org","name":"<?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"<?php echo $urlPath ?>"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"<?php echo $BRANDS ?> Login A premier gathering of scholars, researchers, educators, and practitioners dedicated to advancing knowledge in the fields of Islamic education","url":"<?php echo $urlPath ?>products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"<?php echo $urlPath ?>products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+  </script>
+  <script type="application/ld+json" data-rh="true">
+      {
         "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "<?php echo $BRANDS ?> Terbaru",
-        "url": "<?php echo $urlPath ?>",
-        "image": "https://i.ibb.co/nQgYmnb/banner-sgacor2.png",
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "bestRating": 5,
-          "worstRating": 1,
-          "ratingCount": "151387",
-          "ratingValue": "4.87"
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "<?php echo $urlPath ?>",
+            "name": "<?php echo $BRANDS ?>"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "<?php echo $urlPath ?>",
+            "name": "<?php echo $BRANDS ?>"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "<?php echo $urlPath ?>",
+            "name": "<?php echo $BRANDS ?> Daftar"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@id": "<?php echo $urlPath ?>",
+            "name": "<?php echo $BRANDS ?> Login"
+          }
+        }, {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@id": "<?php echo $urlPath ?>",
+            "name": "<?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi"
+          }
+        }]
+      }
+    </script>
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "SoftwareApplication",
+          "name": "<?php echo $urlPath ?>",
+          "operatingSystem": "ANDROID",
+          "applicationCategory": "GameApplication",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "bestRating": "5",
+            "ratingCount": "8832900"
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": "5",
+              "bestRating": 5,
+              "worstRating": "1"
+            },
+            "author": {
+              "@type": "Person",
+              "name": "ahmad",
+              "reviewBody": "<?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi"
+            }
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": " 20000.00",
+            "priceCurrency": "IDR"
+          }
         }
-      },
-      "itemCondition": "NewCondition",
-      "availability": "http://schema.org/InStock"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "bestRating": 5,
-      "worstRating": 1,
-      "ratingCount": "704",
-      "ratingValue": "4.88"
+      </script>
+    <script>window.__bl={};window._blReport=function(e,t){window.__bl&&(__bl.api?__bl[e].apply(__bl,t):(__bl.pipe=__bl.pipe||[],__bl.pipe.push([e].concat(t))))},window.addEventListener("error",function(e){_blReport("error",[e.error,e])}),window.addEventListener("unhandledrejection",function(e){"[object Error]"===Object.prototype.toString.call(e.reason)&&_blReport("error",[e.reason])});</script>
+<script>window.g_config=window.g_config||{};window.g_config.regionID='ID';window.g_config.language='id';</script>
+<script src="https://g.lazcdn.com/g/lzd/assets/1.2.13/??babel-polyfill/6.26.0/polyfill.min.js,react/16.8.0/react.production.min.js,react-dom/16.8.0/react-dom.production.min.js"></script>
+<script src="https://g.lazcdn.com/g/lzd/assets/0.0.5/next/0.19.21/next.min.js"></script>
+<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/??site-nav-pc/5.2.43/pc/index.css,site-menu-nav-pc/5.0.83/pc/index.css,site-menu-pc/5.0.51/pc/index.css">
+<script>window.g_config=window.g_config||{};window.g_config.loadedCss=window.g_config.loadedCss||[];window.g_config.loadedCss=["@ali/lzdmod-site-nav-pc/pc/index.css","@ali/lzdmod-site-menu-nav-pc/pc/index.css","@ali/lzdmod-site-menu-pc/pc/index.css"];</script>
+<div class="mui-zebra-module" id="J_icms-5000458-1511711480682" data-module-id="icms-5000458-1511711480682" data-version="5.2.43" data-spm="icms-5000458-1511711480682">
+<script>(function(){try{if(window.aplusPageIdSetComplete||/AliApp/i.test(navigator.userAgent)){return;}var get_cookie=function(sName){var sRE='(?:; )?'+sName+'=([^;]*);?';var oRE=new RegExp(sRE);if(oRE.test(document.cookie)){var str=decodeURIComponent(RegExp['$1'])||'';if(str.trim().length>0){return str;}else{return'-';}}else{return'-';}};var getRand=function(){var page_id=get_cookie('cna')||'001';page_id=page_id.toLowerCase().replace(/[^a-z\d]/g,'');page_id=page_id.substring(0,16);var d=(new Date()).getTime();var randend=[page_id,d.toString(16)].join('');for(var i=1;i<10;i++){var _r=parseInt(Math.round(Math.random()*10000000000),10).toString(16);randend+=_r;}randend=randend.substr(0,42);return randend;};var pageid=getRand();var aq=(window.aplus_queue||(window.aplus_queue=[]));aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});aq.push({'action':'aplus.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});var gq=(window.goldlog_queue||(window.goldlog_queue=[]));gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-cpvdata',{"pageid":pageid}]});gq.push({'action':'goldlog.appendMetaInfo','arguments':['aplus-exdata',{"st_page_id":pageid}]});window.aplusPageIdSetComplete=true;}catch(err){console.error(err);}})();</script>
+ 
+<script>window.g_config=window.g_config||{};window.g_config.voyagerVersion='2';window.g_config.voyagerEnv='product';window.g_config.channel='pdp';window.g_config.showPcSearchboxHotWords=true;</script>
+<div id="J_LzdSiteNav" class="site-nav J_NavScroll" data-mod-name="@ali/lzdmod-site-nav-pc/pc/index" data-config="{}">
+  <div class="lzd-header   " data-spm="header" data-tag="links">
+    <div id="topActionHeader" class="lzd-header-content-wrap J_NavScroll">
+      <div class="lzd-header-content">
+        <div class="lzd-links-bar" id="topActionLinks">
+            <div class="links-list header-content ID id">
+                <div class="top-links-item" id="topActionInternalFeedback" style="display:none;">
+                    <a class="highlight" target="_blank" href="//yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
+                </div>
+                <div class="top-links-item" id="topActionFeedback">
+                      <a class="highlight" target="_blank" href="<?php echo $urlPath ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" style="color: #ffffff;"><?php echo $BRANDS ?></a>
+                  </div>
+                  <div class="top-links-item" id="topActionFeedback">
+                      <a class="highlight" target="_blank" href="<?php echo $urlPath ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback" style="color: #ffffff;">Link <?php echo $BRANDS ?></a>
+                  </div>
+                  
+                    <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
+                        <span style="color: #ffffff;"><?php echo $BRANDS ?> Daftar</span>
+                        <div class="lzd-download-popup top-popup-wrap" id="lzdDownloadPopup">
+  <div class="top-popup-content lzd-download-content">
+    <div class="get-the-app-scope">
+      <div class="get-the-app">
+        <div class="get-the-app-title">Download Aplikasinya dan Belanja Sekarang!</div>
+        <div class="get-the-app-promotion">
+            <div class="get-the-app-lazada-qr-wrap">
+              <img class="get-the-app-lazada-qr" src="https://laz-img-cdn.alicdn.com/images/ims-web/TB1b43RtrvpK1RjSZFqXXcXUVXa.png" alt="">
+            </div>
+          <div class="promotion-text">
+            <a href="//pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
+              <div class="get-the-app-download-text">
+                <p>Belanja di App banyak untungnya:</p>
+<ul>
+<li>Banyak Vouchernya</li>
+<li>Produk Eksklusif di App</li>
+<li>Rekomendasi Hanya Untukmu</li>
+<li>Paling Pertama Dapat Promo&nbsp;</li>
+</ul>
+              </div>
+            </a>
+          </div>
+        </div>
+          <form class="get-the-app-form" id="topActionDownloadForm">
+  <div class="top-input-wrap get-the-app-input-wrap">
+    <input class="tel-text top-input" id="topActionDownloadInput" placeholder="eg. 0123456789" autocomplete="off">
+    <button class="top-button button-submit" id="txt-submit">
+      <i class="icon icon-arrow-on-button"></i>
+    </button>
+  </div>
+</form>
+<div class="success-message" id="topActionDownloadSuccessMsg"><span class="alert alert-success">Success! Please check your phone for the download link  </span></div>
+<div class="error-message" id="topActionDownloadErrorMsg"></div>
+        <div class="app-stores">
+          <a href="//bit.ly/lazada-ios-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
+            <i class="app-apple"></i>
+          </a>
+          <a href="//bit.ly/lazada-android-app?scm=1003.4.icms-zebra-5001424-2599675.OTHER_5198190608_2274300" class="store-link">
+            <i class="app-google"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                    </div>
+                <div class="top-links-item" id="topActionSell">
+                    <a class="cyan" href="<?php echo $urlPath ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2" style="color: #ffffff;"><?php echo $BRANDS ?> Login</a>
+                </div>
+                    <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
+                      <span style="color: #ffffff;"><?php echo $BRANDS ?> Jurnal</span>
+                        <div class="lzd-customcare-popup top-popup-wrap">
+  <div class="top-popup-content l-customcare-content">
+    <ul class="care-list">
+        <li class="care-item">
+                <a href="<?php echo $urlPath ?>helpcenter/" class="care-item-anchor"> 
+                  <span class="care-icon help-center">
+                  </span>
+                  Pusat Bantuan
+                </a>
+        </li>
+        <li class="care-item">
+                <a href="<?php echo $urlPath ?>helpcenter/payments/" class="care-item-anchor"> 
+                  <span class="care-icon order-payment">
+                  </span>
+                  Order &amp; Pembayaran
+                </a>
+            <a href="<?php echo $urlPath ?>helpcenter/orders-payment/#answer-faq-howtocancel-ans" class="care-item-anchor care-item-anchor-next">
+                Pembatalan Pesanan
+            </a>
+        </li>
+        <li class="care-item">
+                <a href="<?php echo $urlPath ?>helpcenter/#answer-faq-delivery-ans" class="care-item-anchor"> 
+                  <span class="care-icon shipping-delivery">
+                  </span>
+                  Pengiriman
+                </a>
+        </li>
+        <li class="care-item">
+                <a href="<?php echo $urlPath ?>helpcenter/returns/" class="care-item-anchor"> 
+                  <span class="care-icon returns-refunds">
+                  </span>
+                  Pengembalian Barang &amp; bonus 100
+                </a>
+        </li>
+        <li class="care-item">
+            <div class="care-item-anchor">
+              <span class="care-icon chat"></span>
+              <span class="care-title">Hubungi kami di</span>
+                <span class="--js-csc-trigger">
+                  <a href="javascript:;">
+                      Live Chat (24 Jam)
+                  </a>
+                </span>
+            </div>
+        </li>
+    </ul>
+  </div>
+</div>
+                    </div>
+                  <div class="top-links-item grey" id="topActionTrack" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d4">
+                    <span style="color: #ffffff;"><?php echo $BRANDS ?> Link</span>
+                    <div class="lzd-track-popup top-popup-wrap" id="lzdTrackPop">
+  <div class="top-popup-content lzd-track-content">
+    <div id="topActionMyLastOrder">
+    </div>
+    <div class="track-title"><?php echo $BRANDS ?> Univ</div>
+    <form class="track-order-form" id="topActionTrackForm">
+      <label for="topActionTrackOrderNumber" class="top-input-label">Nomor pesanan:</label>
+      <div class="top-input-wrap track-order-input-wrap">
+        <input placeholder="eg.123456789" id="topActionTrackOrderNumber" class="order-text top-input">
+        <button type="button" class="top-button button-submit">
+          <i class="icon icon-arrow-on-button"></i>
+        </button>
+      </div>
+      <p class="track-order-more-text">Untuk bantuan silakan,<a href="<?php echo $urlPath ?>helpcenter/shipping-delivery/#answer-faq-trackorder-ans" title="Untuk bantuan silakan,">Klik disini</a></p>
+    </form>
+    <div class="error-message" id="topActionTrackErrorMsg"></div>
+  </div>
+</div>
+                  </div>
+                <div class="top-links-item  grey" id="anonLogin">
+                  <a class="grey" href="https://enemysoweak.xyz/amp/kocok/?google=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: #ffffff;">LOGIN</a>
+                </div>
+                <div class="top-links-item  grey" id="anonSignup">
+                  <a class="grey" href="https://enemysoweak.xyz/amp/kocok/?google=<?php echo $BRANDS ?>" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #ffffff;">DAFTAR</a>
+                </div>
+                <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
+                  <span id="myAccountTrigger" class="grey"></span>
+<div class="lzd-account-popup top-popup-wrap" id="lzdMyAccountPop">
+  <div class="top-popup-content lzd-account-content">
+      <ul class="account-list">
+          <li class="account-item">
+                <a href="//member.lazada.co.id/user/account#/" class="account-item-anchor">
+                    <span class="account-icon test manage-account"></span>Panel Akun
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="//my.lazada.co.id/customer/order/index/" class="account-item-anchor">
+                    <span class="account-icon test my-orders"></span>Pesanan Saya
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="//my.lazada.co.id/wishlist/index" class="account-item-anchor">
+                    <span class="account-icon test wishlist"></span>Wishlist dan Toko yang Saya Ikuti
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="//my.lazada.co.id/customer/myReview/my-reviews" class="account-item-anchor">
+                    <span class="account-icon test my-reviews"></span>Ulasan Saya
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="//my.lazada.co.id/customer/returns/index?requestType=return" class="account-item-anchor">
+                    <span class="account-icon test returns"></span>Pengembalian &amp;  Pembatalan
+                </a>
+          </li>
+          <li class="account-item">
+                <a href="//member.lazada.co.id/user/logout" class="account-item-anchor" id="account-popup-logout">
+                    <span class="account-icon test logout"></span>Logout
+                </a>
+          </li>
+      </ul>
+  </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="lzd-logo-bar" style="background-color: #ffffff">
+          <div class="logo-bar-content header-content">
+              <div class="lzd-logo-content"><a href="<?php echo $urlPath ?>" data-spm="dhome"><img src="https://kageru.site/image/1212.png" style="width:100%" alt="Logo 2STRUGGLE"></a></div>
+              <div class="lzd-nav-search " data-spm="search" style="background-color: transparent;">
+                <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
+              </div>
+                <div class="lzd-nav-menu-redmart" style="display: none;">
+  <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
+<div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
+    <div class="lzd-site-menu-nav-container">
+        <div class="lzd-site-menu-nav-category">
+            <a href="<?php echo $urlPath ?>">
+                <span class="lzd-site-menu-nav-category-text">Kategori</span>
+            </a>
+            <div class="lzd-site-menu-nav-menu">
+  <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
+<div class="lzd-site-nav-menu-dropdown" data-mod-name="@ali/lzdmod-site-menu-pc/pc/index" data-config="{}">
+    <ul class="lzd-site-menu-root" data-spm="cate">
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
+            <a> 
+                        <span>Peralatan Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
+            <a> 
+                        <span>Aksesoris Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Wanita</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No4">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Pria</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No5">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Anak</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No6">
+            <a> 
+                        <span>Kesehatan &amp; Kecantikan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No7">
+            <a> 
+                    <span>Bayi &amp; Mainan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No8">
+            <a> 
+                        <span>TV &amp; Elektronik Rumah</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No9">
+            <a> 
+                        <span>Keperluan Rumah &amp; Gaya Hidup</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No10">
+            <a> 
+                        <span>Kebutuhan Rumah Tangga</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No11">
+            <a> 
+                        <span>Olahraga &amp; Outdoor</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No12">
+            <a> 
+                    <span>Otomotif</span>
+            </a>
+         </li>    
+        <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
+            <li class="sub-item-remove-arrow" data-cate="cate_1_1">
+                <a href="<?php echo $urlPath ?>beli-handphone">
+                    <span>Handphone</span>
+                </a>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
+                <a href="<?php echo $urlPath ?>shop-beli-laptop/">
+                    <span>Laptop</span>
+                </a>
+                        <script type="text" class="J_data_0_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"<?php echo $urlPath ?>jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"<?php echo $urlPath ?>beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"<?php echo $urlPath ?>beli-laptop-2-in-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
+                <a href="<?php echo $urlPath ?>beli-komputer/">
+                    <span>Desktop</span>
+                </a>
+                        <script type="text" class="J_data_0_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"<?php echo $urlPath ?>beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"<?php echo $urlPath ?>beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"<?php echo $urlPath ?>beli-pc-all-in-one/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
+                <a href="<?php echo $urlPath ?>beli-kamera/">
+                    <span>Kamera</span>
+                </a>
+                        <script type="text" class="J_data_0_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"<?php echo $urlPath ?>beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"<?php echo $urlPath ?>beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-instan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
+                <a href="<?php echo $urlPath ?>shop-gaming-konsol/">
+                    <span>Game Console</span>
+                </a>
+                        <script type="text" class="J_data_0_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"<?php echo $urlPath ?>shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesoris-game-konsol/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
+                <a href="<?php echo $urlPath ?>beli-gadget/">
+                    <span>Gadget</span>
+                </a>
+                        <script type="text" class="J_data_0_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"<?php echo $urlPath ?>beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"<?php echo $urlPath ?>jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"<?php echo $urlPath ?>beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"<?php echo $urlPath ?>jual-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="sub-item-remove-arrow" data-cate="cate_1_7">
+                <a href="<?php echo $urlPath ?>beli-tablet-2">
+                    <span>Tablet</span>
+                </a>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
+                <a href="<?php echo $urlPath ?>beli-aksesori-handphone">
+                    <span>Aksesoris Handphone</span>
+                </a>
+                        <script type="text" class="J_data_1_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"<?php echo $urlPath ?>beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"<?php echo $urlPath ?>beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"<?php echo $urlPath ?>jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"<?php echo $urlPath ?>beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"<?php echo $urlPath ?>jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"<?php echo $urlPath ?>jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"<?php echo $urlPath ?>jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"<?php echo $urlPath ?>beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"<?php echo $urlPath ?>beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesori-ponsel/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
+                <a href="<?php echo $urlPath ?>beli-aksesori-komputer/">
+                    <span>Aksesoris Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"<?php echo $urlPath ?>beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"<?php echo $urlPath ?>beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"<?php echo $urlPath ?>adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"<?php echo $urlPath ?>beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"<?php echo $urlPath ?>jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"<?php echo $urlPath ?>beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-pendingin/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
+                <a href="<?php echo $urlPath ?>shop-audio/">
+                    <span>Audio</span>
+                </a>
+                        <script type="text" class="J_data_1_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"<?php echo $urlPath ?>beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"<?php echo $urlPath ?>beli-speaker-smart/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
+                <a href="<?php echo $urlPath ?>shop-perangkat-pintar/">
+                    <span>Aksesoris Berteknologi</span>
+                </a>
+                        <script type="text" class="J_data_1_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"<?php echo $urlPath ?>shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"<?php echo $urlPath ?>shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"<?php echo $urlPath ?>beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"<?php echo $urlPath ?>jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"<?php echo $urlPath ?>jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"<?php echo $urlPath ?>jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"<?php echo $urlPath ?>beli-smart-glasses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
+                <a href="<?php echo $urlPath ?>beli-aksesoris-2/">
+                    <span>Aksesoris Kamera</span>
+                </a>
+                        <script type="text" class="J_data_1_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"<?php echo $urlPath ?>beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"<?php echo $urlPath ?>beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"<?php echo $urlPath ?>beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"<?php echo $urlPath ?>jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-lighting-studio/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
+                <a href="<?php echo $urlPath ?>shop-penyimpanan-data/">
+                    <span>Penyimpanan Data</span>
+                </a>
+                        <script type="text" class="J_data_1_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"<?php echo $urlPath ?>jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"<?php echo $urlPath ?>jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"<?php echo $urlPath ?>beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"<?php echo $urlPath ?>beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"<?php echo $urlPath ?>beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"<?php echo $urlPath ?>beli-external-solid-state-drive/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
+                <a href="<?php echo $urlPath ?>beli-printers/">
+                    <span>Printer</span>
+                </a>
+                        <script type="text" class="J_data_1_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"<?php echo $urlPath ?>beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"<?php echo $urlPath ?>tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"<?php echo $urlPath ?>pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"<?php echo $urlPath ?>beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"<?php echo $urlPath ?>beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"<?php echo $urlPath ?>printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"<?php echo $urlPath ?>modul-memori-printer/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
+                <a href="<?php echo $urlPath ?>beli-aksesori-handphone/">
+                    <span>Aksesoris Tablet</span>
+                </a>
+                        <script type="text" class="J_data_1_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"<?php echo $urlPath ?>jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"<?php echo $urlPath ?>beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"<?php echo $urlPath ?>beli-pen-stylus-tablet/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
+                <a href="<?php echo $urlPath ?>beli-komponen-komputer/">
+                    <span>Komponen Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"<?php echo $urlPath ?>beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"<?php echo $urlPath ?>beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"<?php echo $urlPath ?>beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"<?php echo $urlPath ?>beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"<?php echo $urlPath ?>beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"<?php echo $urlPath ?>soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"<?php echo $urlPath ?>beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"<?php echo $urlPath ?>beli-water-cooling-system/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
+                <a href="<?php echo $urlPath ?>pakaian-wanita/">
+                    <span>Pakaian Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_0">
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"<?php echo $urlPath ?>jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"<?php echo $urlPath ?>gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"<?php echo $urlPath ?>kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"<?php echo $urlPath ?>sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"<?php echo $urlPath ?>celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"<?php echo $urlPath ?>rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"<?php echo $urlPath ?>kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"<?php echo $urlPath ?>overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"<?php echo $urlPath ?>hoodie-sweatshirt-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
+                <a href="<?php echo $urlPath ?>baju-muslim-wanita/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_2_1">
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"<?php echo $urlPath ?>baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"<?php echo $urlPath ?>hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"<?php echo $urlPath ?>atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"<?php echo $urlPath ?>dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"<?php echo $urlPath ?>bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"<?php echo $urlPath ?>jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"<?php echo $urlPath ?>jual-baju-kurung-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
+                <a href="<?php echo $urlPath ?>lingerie-baju-tidur/">
+                    <span>Lingerie, Baju Tidur &amp; Santai</span>
+                </a>
+                        <script type="text" class="J_data_2_2">
+                            [{"childCategoryName":"Bra","childCategoryUrl":"<?php echo $urlPath ?>bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"<?php echo $urlPath ?>celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"<?php echo $urlPath ?>shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"<?php echo $urlPath ?>bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"<?php echo $urlPath ?>jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"<?php echo $urlPath ?>jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"<?php echo $urlPath ?>jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"<?php echo $urlPath ?>jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesori-lingerie-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
+                <a href="<?php echo $urlPath ?>sepatu-wanita/">
+                    <span>Sepatu Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_3">
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"<?php echo $urlPath ?>flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"<?php echo $urlPath ?>heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"<?php echo $urlPath ?>sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"<?php echo $urlPath ?>wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"<?php echo $urlPath ?>boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"<?php echo $urlPath ?>sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"<?php echo $urlPath ?>sandal-jepit-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
+                <a href="<?php echo $urlPath ?>aksesoris-wanita/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_2_4">
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"<?php echo $urlPath ?>ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"<?php echo $urlPath ?>payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"<?php echo $urlPath ?>topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"<?php echo $urlPath ?>scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"<?php echo $urlPath ?>sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-women-fabricmask/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
+                <a href="<?php echo $urlPath ?>tas-wanita/">
+                    <span>Tas Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_5">
+                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"<?php echo $urlPath ?>shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"<?php echo $urlPath ?>tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"<?php echo $urlPath ?>shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"<?php echo $urlPath ?>top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"<?php echo $urlPath ?>tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
+                <a href="<?php echo $urlPath ?>beli-perhiasan-wanita/">
+                    <span>Perhiasan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"<?php echo $urlPath ?>beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"<?php echo $urlPath ?>beli-wanita-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
+                <a href="<?php echo $urlPath ?>beli-jam-tangan-wanita/">
+                    <span>Jam Tangan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_7">
+                            [{"childCategoryName":"Aksesori","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"<?php echo $urlPath ?>shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"<?php echo $urlPath ?>shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-olahraga-wanita/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
+                <a href="<?php echo $urlPath ?>pakaian-pria/">
+                    <span>Pakaian Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_0">
+                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"<?php echo $urlPath ?>jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"<?php echo $urlPath ?>jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"<?php echo $urlPath ?>celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"<?php echo $urlPath ?>polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"<?php echo $urlPath ?>kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"<?php echo $urlPath ?>jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"<?php echo $urlPath ?>jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"<?php echo $urlPath ?>sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"<?php echo $urlPath ?>baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"<?php echo $urlPath ?>atasan-kasual-kaos-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
+                <a href="<?php echo $urlPath ?>baju-muslim-pria/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_3_1">
+                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"<?php echo $urlPath ?>jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"<?php echo $urlPath ?>cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"<?php echo $urlPath ?>shop-kopiah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
+                <a href="<?php echo $urlPath ?>pakaian-dalam-dan-kaos-kaki-pria/">
+                    <span>Pakaian Dalam</span>
+                </a>
+                        <script type="text" class="J_data_3_2">
+                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"<?php echo $urlPath ?>celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"<?php echo $urlPath ?>baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"<?php echo $urlPath ?>pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"<?php echo $urlPath ?>pakaian-dalam-pria-thongs-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
+                <a href="<?php echo $urlPath ?>sepatu-pria/">
+                    <span>Sepatu Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_3">
+                            [{"childCategoryName":"Boots","childCategoryUrl":"<?php echo $urlPath ?>boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"<?php echo $urlPath ?>sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"<?php echo $urlPath ?>sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"<?php echo $urlPath ?>jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"<?php echo $urlPath ?>sneakers-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
+                <a href="<?php echo $urlPath ?>aksesoris-pria/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_3_4">
+                            [{"childCategoryName":"Dasi","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"<?php echo $urlPath ?>syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"<?php echo $urlPath ?>payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"<?php echo $urlPath ?>ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"<?php echo $urlPath ?>topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"<?php echo $urlPath ?>sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"<?php echo $urlPath ?>suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"<?php echo $urlPath ?>shop-masker-wajah-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
+                <a href="<?php echo $urlPath ?>tas-pria/">
+                    <span>Tas Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_5">
+                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"<?php echo $urlPath ?>shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"<?php echo $urlPath ?>tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"<?php echo $urlPath ?>tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"<?php echo $urlPath ?>shop-dompet-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
+                <a href="<?php echo $urlPath ?>beli-perhiasan-pria/">
+                    <span>Perhiasan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"<?php echo $urlPath ?>beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"<?php echo $urlPath ?>beli-pria-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
+                <a href="<?php echo $urlPath ?>beli-jam-tangan-pria/">
+                    <span>Jam Tangan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_7">
+                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"<?php echo $urlPath ?>shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"<?php echo $urlPath ?>shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-olahraga-pria/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
+                <a href="<?php echo $urlPath ?>fashion-pakaian-anak-laki-laki">
+                    <span>Pakaian Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_0">
+                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"<?php echo $urlPath ?>sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"<?php echo $urlPath ?>payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"<?php echo $urlPath ?>shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"<?php echo $urlPath ?>shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>baju-atasan-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
+                <a href="<?php echo $urlPath ?>pakaian-anak-perempuan">
+                    <span>Pakaian Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_1">
+                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"<?php echo $urlPath ?>payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"<?php echo $urlPath ?>shop-girls-jumpsuits-overalls"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
+                <a href="<?php echo $urlPath ?>shop-boy's-muslim-wear">
+                    <span>Pakaian Anak Muslim Laki-Laki</span>
+                </a>
+                        <script type="text" class="J_data_4_2">
+                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>shop-boy's-muslimin-accessories"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
+                <a href="<?php echo $urlPath ?>shop-girls-muslim-wear">
+                    <span>Pakaian Anak Muslim Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_3">
+                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
+                <a href="<?php echo $urlPath ?>fashion-sepatu-anak-laki-laki">
+                    <span>Sepatu Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_4">
+                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"<?php echo $urlPath ?>fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sneaker-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
+                <a href="<?php echo $urlPath ?>fashion-sepatu-anak-perempuan">
+                    <span>Sepatu Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_5">
+                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"<?php echo $urlPath ?>fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sneakers-anak-perempuan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
+                <a href="<?php echo $urlPath ?>beli-tas-anak-tl/">
+                    <span>Tas Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_6">
+                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"<?php echo $urlPath ?>koper-anak-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
+                <a href="<?php echo $urlPath ?>beli-perhiasan-anak/">
+                    <span>Perhiasan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_7">
+                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"<?php echo $urlPath ?>beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"<?php echo $urlPath ?>beli-anak-perhiasan-fashion/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
+                <a href="<?php echo $urlPath ?>beli-jam-tangan-anak/">
+                    <span>Jam Tangan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_8">
+                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-anak-perempuan/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
+                <a href="<?php echo $urlPath ?>beli-perawatan-kulit/">
+                    <span>Perawatan Kulit</span>
+                </a>
+                        <script type="text" class="J_data_5_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"<?php echo $urlPath ?>beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"<?php echo $urlPath ?>pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"<?php echo $urlPath ?>beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"<?php echo $urlPath ?>beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"<?php echo $urlPath ?>beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"<?php echo $urlPath ?>beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"<?php echo $urlPath ?>shop-perawatan-mata"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
+                <a href="<?php echo $urlPath ?>beli-makeup/">
+                    <span>Makeup</span>
+                </a>
+                        <script type="text" class="J_data_5_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"<?php echo $urlPath ?>beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"<?php echo $urlPath ?>beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"<?php echo $urlPath ?>makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"<?php echo $urlPath ?>beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"<?php echo $urlPath ?>beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"<?php echo $urlPath ?>beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"<?php echo $urlPath ?>beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"<?php echo $urlPath ?>shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"<?php echo $urlPath ?>beli-pembersih-makeup"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
+                <a href="<?php echo $urlPath ?>beli-perawatan-rambut/">
+                    <span>Perawatan Rambut</span>
+                </a>
+                        <script type="text" class="J_data_5_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"<?php echo $urlPath ?>beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"<?php echo $urlPath ?>perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"<?php echo $urlPath ?>beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"<?php echo $urlPath ?>beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-mandi-tubuh/">
+                    <span>Perawatan Tubuh</span>
+                </a>
+                        <script type="text" class="J_data_5_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"<?php echo $urlPath ?>beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"<?php echo $urlPath ?>shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"<?php echo $urlPath ?>beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"<?php echo $urlPath ?>perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"<?php echo $urlPath ?>shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"<?php echo $urlPath ?>shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"<?php echo $urlPath ?>beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"<?php echo $urlPath ?>beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"<?php echo $urlPath ?>beli-sabun-pembersih-tangan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
+                <a href="<?php echo $urlPath ?>beli-perawatan-kesehatan-pribadi/">
+                    <span>Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_5_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"<?php echo $urlPath ?>perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"<?php echo $urlPath ?>beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"<?php echo $urlPath ?>beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"<?php echo $urlPath ?>shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"<?php echo $urlPath ?>shop-Obat-Anti-Serangga"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
+                <a href="<?php echo $urlPath ?>beli-parfum/">
+                    <span>Parfum</span>
+                </a>
+                        <script type="text" class="J_data_5_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"<?php echo $urlPath ?>beli-parfum-unisex"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
+                <a href="<?php echo $urlPath ?>beli-alat-kesehatan-kecantikan/">
+                    <span>Alat Kecantikan</span>
+                </a>
+                        <script type="text" class="J_data_5_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"<?php echo $urlPath ?>alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"<?php echo $urlPath ?>beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"<?php echo $urlPath ?>shop-alat-perawatan-kulit-tubuh"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
+                <a href="<?php echo $urlPath ?>beli-suplemen-makanan/">
+                    <span>Suplemen Makanan</span>
+                </a>
+                        <script type="text" class="J_data_5_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"<?php echo $urlPath ?>beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"<?php echo $urlPath ?>beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"<?php echo $urlPath ?>beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"<?php echo $urlPath ?>beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"<?php echo $urlPath ?>beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"<?php echo $urlPath ?>multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"<?php echo $urlPath ?>beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"<?php echo $urlPath ?>beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"<?php echo $urlPath ?>beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"<?php echo $urlPath ?>beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"<?php echo $urlPath ?>beli-protein"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
+                <a href="<?php echo $urlPath ?>beli-alat-medis/">
+                    <span>Alat Medis</span>
+                </a>
+                        <script type="text" class="J_data_5_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"<?php echo $urlPath ?>shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"<?php echo $urlPath ?>perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"<?php echo $urlPath ?>beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"<?php echo $urlPath ?>beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"<?php echo $urlPath ?>beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"<?php echo $urlPath ?>shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"<?php echo $urlPath ?>tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"<?php echo $urlPath ?>beli-stetoskop"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
+                <a href="<?php echo $urlPath ?>jual-perlengkapan-kesehatan-seksual/">
+                    <span>Sexual Wellness</span>
+                </a>
+                        <script type="text" class="J_data_5_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"<?php echo $urlPath ?>beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"<?php echo $urlPath ?>beli-pelumas"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
+                <a href="<?php echo $urlPath ?>beli-perawatan-tubuh-kesehatan-pria/">
+                    <span>Perawatan Pria</span>
+                </a>
+                        <script type="text" class="J_data_5_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"<?php echo $urlPath ?>perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-deodoran-pria"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
+                <a href="<?php echo $urlPath ?>kesehatan-manula/">
+                    <span>Popok Dewasa</span>
+                </a>
+                        <script type="text" class="J_data_5_11">
+                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"<?php echo $urlPath ?>kesehatan-manula/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
+                <a href="<?php echo $urlPath ?>jual-perlengkapan-bayi-balita/">
+                    <span>Ibu &amp; Anak</span>
+                </a>
+                        <script type="text" class="J_data_6_0">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"<?php echo $urlPath ?>beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"<?php echo $urlPath ?>jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"<?php echo $urlPath ?>beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"<?php echo $urlPath ?>beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"<?php echo $urlPath ?>beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kulit-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
+                <a href="<?php echo $urlPath ?>beli-popok-pispot-bb/">
+                    <span>Popok Sekali Pakai</span>
+                </a>
+                        <script type="text" class="J_data_6_1">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"<?php echo $urlPath ?>beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"<?php echo $urlPath ?>beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"<?php echo $urlPath ?>beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"<?php echo $urlPath ?>beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"<?php echo $urlPath ?>beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"<?php echo $urlPath ?>beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"<?php echo $urlPath ?>beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"<?php echo $urlPath ?>beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"<?php echo $urlPath ?>beli-detergen-popok-kain/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
+                <a href="<?php echo $urlPath ?>beli-susu-formula/">
+                    <span>Makanan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_2">
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"<?php echo $urlPath ?>jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"<?php echo $urlPath ?>beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"<?php echo $urlPath ?>beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"<?php echo $urlPath ?>beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-maternal/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
+                <a href="<?php echo $urlPath ?>jual-baju-aksesoris-anak/">
+                    <span>Pakaian &amp; Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_6_3">
+                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"<?php echo $urlPath ?>beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"<?php echo $urlPath ?>beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-baju-renang-bayi-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
+                <a href="<?php echo $urlPath ?>beli-makanan-bayi/">
+                    <span>Perlengkapan Menyusui</span>
+                </a>
+                        <script type="text" class="J_data_6_4">
+                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"<?php echo $urlPath ?>beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"<?php echo $urlPath ?>beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"<?php echo $urlPath ?>jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"<?php echo $urlPath ?>beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"<?php echo $urlPath ?>beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"<?php echo $urlPath ?>jual-piring-mangkok-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-berkendara-bayi/">
+                    <span>Perlengkapan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_5">
+                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"<?php echo $urlPath ?>beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"<?php echo $urlPath ?>beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"<?php echo $urlPath ?>beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"<?php echo $urlPath ?>beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"<?php echo $urlPath ?>beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-tali-harness-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
+                <a href="<?php echo $urlPath ?>jual-perlengkapan-kamar-bayi/">
+                    <span>Kamar Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_6">
+                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"<?php echo $urlPath ?>beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"<?php echo $urlPath ?>jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"<?php echo $urlPath ?>beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-dekorasi-kamar-anak/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                    <span>Perawatan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_7">
+                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"<?php echo $urlPath ?>beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"<?php echo $urlPath ?>beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"<?php echo $urlPath ?>jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-mandi-bayi-anti-slip/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
+                <a href="<?php echo $urlPath ?>beli-mainan-anak/">
+                    <span>Mainan</span>
+                </a>
+                        <script type="text" class="J_data_6_8">
+                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"<?php echo $urlPath ?>jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"<?php echo $urlPath ?>beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"<?php echo $urlPath ?>beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"<?php echo $urlPath ?>beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"<?php echo $urlPath ?>Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-pesta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
+                <a href="<?php echo $urlPath ?>beli-remote-control-mainan-kendaraan/">
+                    <span>Mainan Elektronik &amp; RC</span>
+                </a>
+                        <script type="text" class="J_data_6_9">
+                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"<?php echo $urlPath ?>beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"<?php echo $urlPath ?>beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"<?php echo $urlPath ?>beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"<?php echo $urlPath ?>beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"<?php echo $urlPath ?>beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"<?php echo $urlPath ?>shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
+                <a href="<?php echo $urlPath ?>beli-olahraga-permainan-luar-ruangan/">
+                    <span>Mainan Olahraga &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_6_10">
+                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"<?php echo $urlPath ?>shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"<?php echo $urlPath ?>beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"<?php echo $urlPath ?>beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"<?php echo $urlPath ?>beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"<?php echo $urlPath ?>beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"<?php echo $urlPath ?>beli-playhouses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
+                <a href="<?php echo $urlPath ?>baby-toddler-toys/">
+                    <span>Mainan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_11">
+                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"<?php echo $urlPath ?>jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"<?php echo $urlPath ?>beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"<?php echo $urlPath ?>beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"<?php echo $urlPath ?>beli-rocking-spring-ride-on-tg/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
+                <a href="<?php echo $urlPath ?>beli-tv-audio-video-permainan-dan-gadget/">
+                    <span>TV &amp; Perangkat Video</span>
+                </a>
+                        <script type="text" class="J_data_7_0">
+                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"<?php echo $urlPath ?>shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"<?php echo $urlPath ?>beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"<?php echo $urlPath ?>beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"<?php echo $urlPath ?>shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"<?php echo $urlPath ?>beli-proyektor-3/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-dapur/">
+                    <span>Peralatan Dapur Kecil</span>
+                </a>
+                        <script type="text" class="J_data_7_1">
+                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"<?php echo $urlPath ?>beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"<?php echo $urlPath ?>beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"<?php echo $urlPath ?>beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"<?php echo $urlPath ?>beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"<?php echo $urlPath ?>beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"<?php echo $urlPath ?>beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"<?php echo $urlPath ?>beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-ska-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
+                <a href="<?php echo $urlPath ?>shop-perlatan-besar/">
+                    <span>Elektronik Rumah Besar</span>
+                </a>
+                        <script type="text" class="J_data_7_2">
+                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"<?php echo $urlPath ?>beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"<?php echo $urlPath ?>beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"<?php echo $urlPath ?>beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"<?php echo $urlPath ?>beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"<?php echo $urlPath ?>beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"<?php echo $urlPath ?>beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"<?php echo $urlPath ?>beli-pemanas-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
+                <a href="<?php echo $urlPath ?>shop-pendingin-pembersih-udara-mini/">
+                    <span>Penyejuk dan Pembersih Udara</span>
+                </a>
+                        <script type="text" class="J_data_7_3">
+                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"<?php echo $urlPath ?>shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"<?php echo $urlPath ?>beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"<?php echo $urlPath ?>beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"<?php echo $urlPath ?>beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"<?php echo $urlPath ?>beli-dehumidifier/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
+                <a href="<?php echo $urlPath ?>beli-perawatan-lantai/">
+                    <span>Penghisap Debu &amp; Perawatan Lantai</span>
+                </a>
+                        <script type="text" class="J_data_7_4">
+                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"<?php echo $urlPath ?>shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"<?php echo $urlPath ?>shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"<?php echo $urlPath ?>shop-penyedot-debu-tongkat/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
+                <a href="<?php echo $urlPath ?>shop-peralatan-perawatan-personal/">
+                    <span>Alat Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_7_5">
+                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"<?php echo $urlPath ?>beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"<?php echo $urlPath ?>beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"<?php echo $urlPath ?>beli-sikat-gigi-elektrik/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
+                <a href="<?php echo $urlPath ?>jual-aksesoris-elektronik-rumah-tangga/">
+                    <span>Aksesoris &amp; Suku Cadang</span>
+                </a>
+                        <script type="text" class="J_data_7_6">
+                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"<?php echo $urlPath ?>beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"<?php echo $urlPath ?>beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"<?php echo $urlPath ?>beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
+                <a href="<?php echo $urlPath ?>jual-aksesoris-televisi/">
+                    <span>Aksesoris Televisi</span>
+                </a>
+                        <script type="text" class="J_data_7_7">
+                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"<?php echo $urlPath ?>jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"<?php echo $urlPath ?>jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"<?php echo $urlPath ?>jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"<?php echo $urlPath ?>jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"<?php echo $urlPath ?>jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"<?php echo $urlPath ?>jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"<?php echo $urlPath ?>jual-kacamata-3d-tv/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
+                <a href="<?php echo $urlPath ?>jual-home-entertainment/">
+                    <span>Home Entertainment</span>
+                </a>
+                        <script type="text" class="J_data_7_8">
+                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"<?php echo $urlPath ?>jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"<?php echo $urlPath ?>jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"<?php echo $urlPath ?>jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"<?php echo $urlPath ?>sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-audio-player/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
+                <a href="<?php echo $urlPath ?>beli-dekorasi-rumah/">
+                    <span>Dekorasi Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"<?php echo $urlPath ?>beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"<?php echo $urlPath ?>gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"<?php echo $urlPath ?>beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"<?php echo $urlPath ?>beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"<?php echo $urlPath ?>beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"<?php echo $urlPath ?>beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"<?php echo $urlPath ?>shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"<?php echo $urlPath ?>beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"<?php echo $urlPath ?>beli-wewangian-rumah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
+                <a href="<?php echo $urlPath ?>beli-furnitur/">
+                    <span>Furnitur</span>
+                </a>
+                        <script type="text" class="J_data_8_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"<?php echo $urlPath ?>beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"<?php echo $urlPath ?>beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"<?php echo $urlPath ?>rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"<?php echo $urlPath ?>tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"<?php echo $urlPath ?>beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-ruang-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
+                <a href="<?php echo $urlPath ?>beli-peralatan-ranjang/">
+                    <span>Kelengkapan Tempat Tidur</span>
+                </a>
+                        <script type="text" class="J_data_8_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"<?php echo $urlPath ?>seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"<?php echo $urlPath ?>perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"<?php echo $urlPath ?>selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"<?php echo $urlPath ?>beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"<?php echo $urlPath ?>beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"<?php echo $urlPath ?>seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"<?php echo $urlPath ?>kasur-pelindung/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
+                <a href="<?php echo $urlPath ?>penerangan/">
+                    <span>Penerangan</span>
+                </a>
+                        <script type="text" class="J_data_8_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"<?php echo $urlPath ?>shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"<?php echo $urlPath ?>beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"<?php echo $urlPath ?>kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"<?php echo $urlPath ?>beli-senter/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
+                <a href="<?php echo $urlPath ?>beli-peralatan-mandi/">
+                    <span>Peralatan Mandi</span>
+                </a>
+                        <script type="text" class="J_data_8_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"<?php echo $urlPath ?>gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"<?php echo $urlPath ?>tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"<?php echo $urlPath ?>shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-cermin-kamar-mandi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-dapur-makan/">
+                    <span>Alat Dapur</span>
+                </a>
+                        <script type="text" class="J_data_8_5">
+                            [{"childCategoryName":"Botol minum","childCategoryUrl":"<?php echo $urlPath ?>botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"<?php echo $urlPath ?>beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"<?php echo $urlPath ?>beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"<?php echo $urlPath ?>beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"<?php echo $urlPath ?>beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"<?php echo $urlPath ?>beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"<?php echo $urlPath ?>beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-dapur/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
+                <a href="<?php echo $urlPath ?>beli-binatu-kebersihan/">
+                    <span>Binatu &amp; Alat Kebersihan</span>
+                </a>
+                        <script type="text" class="J_data_8_6">
+                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"<?php echo $urlPath ?>gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"<?php echo $urlPath ?>keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"<?php echo $urlPath ?>rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"<?php echo $urlPath ?>papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"<?php echo $urlPath ?>beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"<?php echo $urlPath ?>shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"<?php echo $urlPath ?>tempat-sampah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
+                <a href="<?php echo $urlPath ?>beli-perawatan-rumah/">
+                    <span>Perkakas &amp; Perbaikan Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_7">
+                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"<?php echo $urlPath ?>beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"<?php echo $urlPath ?>beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"<?php echo $urlPath ?>beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"<?php echo $urlPath ?>jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"<?php echo $urlPath ?>beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"<?php echo $urlPath ?>beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"<?php echo $urlPath ?>beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"<?php echo $urlPath ?>lampu-penerangan-tempat-kerja/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
+                <a href="<?php echo $urlPath ?>Kebun &amp; Luar Ruangan/">
+                    <span>Kebun &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_8_8">
+                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"<?php echo $urlPath ?>beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"<?php echo $urlPath ?>beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"<?php echo $urlPath ?>beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"<?php echo $urlPath ?>shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"<?php echo $urlPath ?>pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"<?php echo $urlPath ?>alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"<?php echo $urlPath ?>beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"<?php echo $urlPath ?>perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
+                <a href="<?php echo $urlPath ?>beli-alat-tulis-kerajinan/">
+                    <span>Alat Tulis &amp; Kerajinan</span>
+                </a>
+                        <script type="text" class="J_data_8_9">
+                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"<?php echo $urlPath ?>beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"<?php echo $urlPath ?>buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"<?php echo $urlPath ?>beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"<?php echo $urlPath ?>beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"<?php echo $urlPath ?>beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"<?php echo $urlPath ?>beli-pensil-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
+                <a href="<?php echo $urlPath ?>beli-media-musik-dan-buku/">
+                    <span>Media, Musik &amp; Buku</span>
+                </a>
+                        <script type="text" class="J_data_8_10">
+                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"<?php echo $urlPath ?>instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"<?php echo $urlPath ?>buku/"},{"childCategoryName":"Musik","childCategoryUrl":"<?php echo $urlPath ?>lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"<?php echo $urlPath ?>majalah/"},{"childCategoryName":"Film","childCategoryUrl":"<?php echo $urlPath ?>film/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
+                <a href="<?php echo $urlPath ?>beli-minuman/">
+                    <span>Minuman</span>
+                </a>
+                        <script type="text" class="J_data_9_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"<?php echo $urlPath ?>beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"<?php echo $urlPath ?>beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"<?php echo $urlPath ?>shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"<?php echo $urlPath ?>beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"<?php echo $urlPath ?>coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"<?php echo $urlPath ?>beli-sirup/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
+                <a href="<?php echo $urlPath ?>shop-Bahan-Utama-Pelengkap-Masakan">
+                    <span>Bahan &amp; Bumbu Masakan</span>
+                </a>
+                        <script type="text" class="J_data_9_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"<?php echo $urlPath ?>shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"<?php echo $urlPath ?>shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"<?php echo $urlPath ?>shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"<?php echo $urlPath ?>shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"<?php echo $urlPath ?>shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"<?php echo $urlPath ?>shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"<?php echo $urlPath ?>shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"<?php echo $urlPath ?>shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"<?php echo $urlPath ?>shop-Pasta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
+                <a href="<?php echo $urlPath ?>shop-Cokelat-Camilan-Permen/">
+                    <span>Cokelat, Camilan &amp; Permen</span>
+                </a>
+                        <script type="text" class="J_data_9_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"<?php echo $urlPath ?>shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"<?php echo $urlPath ?>shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"<?php echo $urlPath ?>shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"<?php echo $urlPath ?>shop-Manisan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
+                <a href="<?php echo $urlPath ?>beli-makanan-sarapan">
+                    <span>Makanan Sarapan, Sereal &amp; Selai</span>
+                </a>
+                        <script type="text" class="J_data_9_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"<?php echo $urlPath ?>beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"<?php echo $urlPath ?>beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"<?php echo $urlPath ?>beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"<?php echo $urlPath ?>shop-bar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
+                <a href="<?php echo $urlPath ?>beli-makanan-minuman-hasil-segar">
+                    <span>Buah &amp; Sayur</span>
+                </a>
+                        <script type="text" class="J_data_9_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-sayuran-segar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
+                <a href="<?php echo $urlPath ?>shop-kebutuhan-rumah-tangga">
+                    <span>Kebutuhan Rumah Tangga</span>
+                </a>
+                        <script type="text" class="J_data_9_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"<?php echo $urlPath ?>shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-cucian/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
+                <a href="<?php echo $urlPath ?>shop-makanan-hewan">
+                    <span>Makanan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"<?php echo $urlPath ?>jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"<?php echo $urlPath ?>jual-makanan-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
+                <a href="<?php echo $urlPath ?>shop-aksesoris-hewan">
+                    <span>Aksesoris Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"<?php echo $urlPath ?>shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"<?php echo $urlPath ?>jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"<?php echo $urlPath ?>beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"<?php echo $urlPath ?>shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-latih-olahraga-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
+                <a href="<?php echo $urlPath ?>shop-kesehatan-hewan-peliharaan">
+                    <span>Kesehatan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"<?php echo $urlPath ?>beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-kutu-anjing/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
+                <a href="<?php echo $urlPath ?>baju-olahraga-pria/">
+                    <span>Baju Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_0">
+                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"<?php echo $urlPath ?>pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"<?php echo $urlPath ?>hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"<?php echo $urlPath ?>tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"<?php echo $urlPath ?>tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"<?php echo $urlPath ?>tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"<?php echo $urlPath ?>gym-tote-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
+                <a href="<?php echo $urlPath ?>pakaian-olahraga-wanita/">
+                    <span>Baju Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_1">
+                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"<?php echo $urlPath ?>celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"<?php echo $urlPath ?>hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"<?php echo $urlPath ?>pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"<?php echo $urlPath ?>gym-tote-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
+                <a href="<?php echo $urlPath ?>sepatu-dan-pakaian-olahraga-pria/">
+                    <span>Sepatu Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_2">
+                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-jalan-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
+                <a href="<?php echo $urlPath ?>sepatu-dan-pakaian-olahraga-wanita/">
+                    <span>Sepatu Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_3">
+                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-jalan-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
+                <a href="<?php echo $urlPath ?>camping-dan-hiking/">
+                    <span>Camping dan Hiking</span>
+                </a>
+                        <script type="text" class="J_data_10_4">
+                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"<?php echo $urlPath ?>tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"<?php echo $urlPath ?>perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"<?php echo $urlPath ?>jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"<?php echo $urlPath ?>jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"<?php echo $urlPath ?>jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"<?php echo $urlPath ?>jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"<?php echo $urlPath ?>jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"<?php echo $urlPath ?>jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"<?php echo $urlPath ?>jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"<?php echo $urlPath ?>jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"<?php echo $urlPath ?>panjat-tebing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
+                <a href="<?php echo $urlPath ?>jual-peralatan-memancing/">
+                    <span>Peralatan Memancing</span>
+                </a>
+                        <script type="text" class="J_data_10_5">
+                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"<?php echo $urlPath ?>alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"<?php echo $urlPath ?>set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"<?php echo $urlPath ?>jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"<?php echo $urlPath ?>jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-memancing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
+                <a href="<?php echo $urlPath ?>olahraga-sepeda/">
+                    <span>Olahraga Sepeda</span>
+                </a>
+                        <script type="text" class="J_data_10_6">
+                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"<?php echo $urlPath ?>komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"<?php echo $urlPath ?>sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"<?php echo $urlPath ?>jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepeda-anak-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
+                <a href="<?php echo $urlPath ?>olahraga-air/">
+                    <span>Olahraga Air</span>
+                </a>
+                        <script type="text" class="J_data_10_7">
+                            [{"childCategoryName":"Kapal","childCategoryUrl":"<?php echo $urlPath ?>jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"<?php echo $urlPath ?>diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"<?php echo $urlPath ?>renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"<?php echo $urlPath ?>jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"<?php echo $urlPath ?>jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-olahraga-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
+                <a href="<?php echo $urlPath ?>latihan-dan-fitness/">
+                    <span>Gym, Yoga &amp; Fitness</span>
+                </a>
+                        <script type="text" class="J_data_10_8">
+                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"<?php echo $urlPath ?>shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"<?php echo $urlPath ?>pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"<?php echo $urlPath ?>alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"<?php echo $urlPath ?>yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"<?php echo $urlPath ?>peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"<?php echo $urlPath ?>temporary-url-sport-catl3-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
+                <a href="<?php echo $urlPath ?>olahraga-raket/">
+                    <span>Olahraga Raket</span>
+                </a>
+                        <script type="text" class="J_data_10_9">
+                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"<?php echo $urlPath ?>tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"<?php echo $urlPath ?>bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"<?php echo $urlPath ?>tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"<?php echo $urlPath ?>squash/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
+                <a href="<?php echo $urlPath ?>shop-perlengkapan-olah-raga/">
+                    <span>Perlengkapan Olahraga</span>
+                </a>
+                        <script type="text" class="J_data_10_10">
+                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"<?php echo $urlPath ?>jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"<?php echo $urlPath ?>golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"<?php echo $urlPath ?>sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"<?php echo $urlPath ?>basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"<?php echo $urlPath ?>voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"<?php echo $urlPath ?>cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"<?php echo $urlPath ?>rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"<?php echo $urlPath ?>sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"<?php echo $urlPath ?>baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"<?php echo $urlPath ?>jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"<?php echo $urlPath ?>olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"<?php echo $urlPath ?>jual-peralatan-cheerleading/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
+                <a href="<?php echo $urlPath ?>sepak-bola/">
+                    <span>Perlengkapan Sepak Bola</span>
+                </a>
+                        <script type="text" class="J_data_10_11">
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"<?php echo $urlPath ?>jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"<?php echo $urlPath ?>jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"<?php echo $urlPath ?>bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"<?php echo $urlPath ?>sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"<?php echo $urlPath ?>beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"<?php echo $urlPath ?>international-football-clubs-fan-merchandise/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
+                <a href="<?php echo $urlPath ?>shop-auto-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"<?php echo $urlPath ?>shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-trim/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
+                <a href="<?php echo $urlPath ?>aksesoris-interior-mobil/">
+                    <span>Aksesoris Interior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"<?php echo $urlPath ?>pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"<?php echo $urlPath ?>shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"<?php echo $urlPath ?>setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"<?php echo $urlPath ?>alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-consoles-organizers/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
+                <a href="<?php echo $urlPath ?>aksesoris-eksterior-mobil/">
+                    <span>Aksesoris Exterior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"<?php echo $urlPath ?>penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"<?php echo $urlPath ?>shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"<?php echo $urlPath ?>shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"<?php echo $urlPath ?>pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-trailer-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
+                <a href="<?php echo $urlPath ?>shop-elektronik/">
+                    <span>Kamera Mobil, Audio &amp; Video</span>
+                </a>
+                        <script type="text" class="J_data_11_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"<?php echo $urlPath ?>shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"<?php echo $urlPath ?>shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"<?php echo $urlPath ?>shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"<?php echo $urlPath ?>shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"<?php echo $urlPath ?>shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-audio-video-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
+                <a href="<?php echo $urlPath ?>shop-perawatan-mobil/">
+                    <span>Perawatan &amp; Pengkilat Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"<?php echo $urlPath ?>pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"<?php echo $urlPath ?>glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"<?php echo $urlPath ?>interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-paket-perawatan-mobil/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
+                <a href="<?php echo $urlPath ?>roda-dan-ban/">
+                    <span>Ban &amp; Velg Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"<?php echo $urlPath ?>jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"<?php echo $urlPath ?>jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"<?php echo $urlPath ?>shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"<?php echo $urlPath ?>shop-paket-ban-pelek/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
+                <a href="<?php echo $urlPath ?>oli-dan-pelumas/">
+                    <span>Oli &amp; Cairan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-greases-lubricants/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-riding-gear/">
+                    <span>Perlengkapan Berkendara &amp; Helm</span>
+                </a>
+                        <script type="text" class="J_data_11_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"<?php echo $urlPath ?>helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"<?php echo $urlPath ?>jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"<?php echo $urlPath ?>shop-pakaian-hujan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"<?php echo $urlPath ?>shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"<?php echo $urlPath ?>shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-stands-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-exterior-accessories/">
+                    <span>Aksesoris &amp; Elektronik Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"<?php echo $urlPath ?>shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"<?php echo $urlPath ?>shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"<?php echo $urlPath ?>shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"<?php echo $urlPath ?>shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-racks/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-oils-fluids/">
+                    <span>Ban, Velg, Oli &amp; Cairan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"<?php echo $urlPath ?>jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-oli-shock-breaker/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
+                <a href="<?php echo $urlPath ?>mobil-motor/">
+                    <span>Kendaraan</span>
+                </a>
+                        <script type="text" class="J_data_11_11">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-sepeda-motor-skuter/"}]
+                        </script>
+            </li>
+        </ul>
+    </ul>
+</div>
+  </div>
+            </div>
+        </div>
+    </div>
+</div>
+  </div>
+                </div>
+      
+                <div class="lzd-header-banner" id="topActionLiveUpBanner">
+                </div>
+          </div>
+        </div>
+      </div>
+  <div class="mui-zebra-module" id="J_icms-5000527-1511531232618" data-module-id="icms-5000527-1511531232618" data-version="5.0.83" data-spm="icms-5000527-1511531232618">
+<div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
+    <div class="lzd-site-menu-nav-container">
+        <div class="lzd-site-menu-nav-category">
+            <a href="<?php echo $urlPath ?>">
+                <span class="lzd-site-menu-nav-category-text">Kategori</span>
+            </a>
+            <div class="lzd-site-menu-nav-menu">
+  <div class="mui-zebra-module" id="J_icms-5000518-1511530513406" data-module-id="icms-5000518-1511530513406" data-version="5.0.51" data-spm="icms-5000518-1511530513406">
+<div class="lzd-site-nav-menu-dropdown" data-mod-name="@ali/lzdmod-site-menu-pc/pc/index" data-config="{}">
+    <ul class="lzd-site-menu-root" data-spm="cate">
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No1">
+            <a> 
+                        <span>Peralatan Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No2">
+            <a> 
+                        <span>Aksesoris Elektronik</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No3">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Wanita</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No4">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Pria</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No5">
+            <a> 
+                        <span>Fashion &amp; Aksesoris Anak</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No6">
+            <a> 
+                        <span>Kesehatan &amp; Kecantikan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No7">
+            <a> 
+                    <span>Bayi &amp; Mainan</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No8">
+            <a> 
+                        <span>TV &amp; Elektronik Rumah</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No9">
+            <a> 
+                        <span>Keperluan Rumah &amp; Gaya Hidup</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No10">
+            <a> 
+                        <span>Kebutuhan Rumah Tangga</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No11">
+            <a> 
+                        <span>Olahraga &amp; Outdoor</span>
+            </a>
+         </li>    
+         <li class="lzd-site-menu-root-item" id="Level_1_Category_No12">
+            <a> 
+                    <span>Otomotif</span>
+            </a>
+         </li>    
+        <ul class="lzd-site-menu-sub Level_1_Category_No1" data-spm="cate_1">
+            <li class="sub-item-remove-arrow" data-cate="cate_1_1">
+                <a href="<?php echo $urlPath ?>beli-handphone">
+                    <span>Handphone</span>
+                </a>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_2">
+                <a href="<?php echo $urlPath ?>shop-beli-laptop/">
+                    <span>Laptop</span>
+                </a>
+                        <script type="text" class="J_data_0_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Laptop Consumer","childCategoryUrl":"<?php echo $urlPath ?>jual-laptop-umum/"},{"childCategoryName":"Laptop Gaming","childCategoryUrl":"<?php echo $urlPath ?>beli-laptop-gaming/"},{"childCategoryName":"Laptop 2-in-1s","childCategoryUrl":"<?php echo $urlPath ?>beli-laptop-2-in-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_3">
+                <a href="<?php echo $urlPath ?>beli-komputer/">
+                    <span>Desktop</span>
+                </a>
+                        <script type="text" class="J_data_0_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"PC Gaming","childCategoryUrl":"<?php echo $urlPath ?>beli-pc-gaming/"},{"childCategoryName":"Komputer Rakitan","childCategoryUrl":"<?php echo $urlPath ?>beli-komputer-rakitan/"},{"childCategoryName":"All-In-One","childCategoryUrl":"<?php echo $urlPath ?>beli-pc-all-in-one/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_4">
+                <a href="<?php echo $urlPath ?>beli-kamera/">
+                    <span>Kamera</span>
+                </a>
+                        <script type="text" class="J_data_0_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"DSLR","childCategoryUrl":"<?php echo $urlPath ?>beli-slr/"},{"childCategoryName":"Kamera Mirrorless","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-mirrorless/"},{"childCategoryName":"Kamera Pocket","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-pocket/"},{"childCategoryName":"Kamera Aksi","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-video-aksi/"},{"childCategoryName":"360 Cameras","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-360/"},{"childCategoryName":"Kamera CCTV","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-cctv/"},{"childCategoryName":"IP Cameras","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-ip/"},{"childCategoryName":"Video Camera","childCategoryUrl":"<?php echo $urlPath ?>beli-camcorders/"},{"childCategoryName":"Kamera Instan","childCategoryUrl":"<?php echo $urlPath ?>beli-kamera-instan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_5">
+                <a href="<?php echo $urlPath ?>shop-gaming-konsol/">
+                    <span>Game Console</span>
+                </a>
+                        <script type="text" class="J_data_0_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Gaming Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-permainan-konsol/"},{"childCategoryName":"Permainan Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-game-konsol/"},{"childCategoryName":"Pengontrol Game Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-pengontrol-game-konsol/"},{"childCategoryName":"Konsol Pelindung Penutup","childCategoryUrl":"<?php echo $urlPath ?>shop-konsolpelindung-penutup/"},{"childCategoryName":"Aksesoris Game Konsol","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesoris-game-konsol/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_1_6">
+                <a href="<?php echo $urlPath ?>beli-gadget/">
+                    <span>Gadget</span>
+                </a>
+                        <script type="text" class="J_data_0_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Rokok Elektrik","childCategoryUrl":"<?php echo $urlPath ?>beli-rokok-elektrik/"},{"childCategoryName":"Drone","childCategoryUrl":"<?php echo $urlPath ?>jual-kamera-drone/"},{"childCategoryName":"Media Player","childCategoryUrl":"<?php echo $urlPath ?>beli-media-player/"},{"childCategoryName":"Walkie-Talkie","childCategoryUrl":"<?php echo $urlPath ?>jual-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="sub-item-remove-arrow" data-cate="cate_1_7">
+                <a href="<?php echo $urlPath ?>beli-tablet-2">
+                    <span>Tablet</span>
+                </a>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No2" data-spm="cate_2">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_1">
+                <a href="<?php echo $urlPath ?>beli-aksesori-handphone">
+                    <span>Aksesoris Handphone</span>
+                </a>
+                        <script type="text" class="J_data_1_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Powerbank","childCategoryUrl":"<?php echo $urlPath ?>beli-power-bank/"},{"childCategoryName":"Kabel Handphone","childCategoryUrl":"<?php echo $urlPath ?>beli-kabel-handphone/"},{"childCategoryName":"Charger Handphone","childCategoryUrl":"<?php echo $urlPath ?>jual-charger-kabel/"},{"childCategoryName":"Casing Handphone","childCategoryUrl":"<?php echo $urlPath ?>beli-sarung-pelindung-handphone/"},{"childCategoryName":"Pelindung Layar","childCategoryUrl":"<?php echo $urlPath ?>jual-pelindung-layar/"},{"childCategoryName":"Tongsis","childCategoryUrl":"<?php echo $urlPath ?>jual-tongsis/"},{"childCategoryName":"Phone Holder","childCategoryUrl":"<?php echo $urlPath ?>jual-dudukan-mobil/"},{"childCategoryName":"Baterai Handphone","childCategoryUrl":"<?php echo $urlPath ?>beli-baterai-handphone/"},{"childCategoryName":"Peralatan & Suku Cadang","childCategoryUrl":"<?php echo $urlPath ?>beli-suku-cadang-handphone/"},{"childCategoryName":"Aksesoris Handphone Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesori-ponsel/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_2">
+                <a href="<?php echo $urlPath ?>beli-aksesori-komputer/">
+                    <span>Aksesoris Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mouse","childCategoryUrl":"<?php echo $urlPath ?>beli-mouse/"},{"childCategoryName":"Keyboard Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-keyboard/"},{"childCategoryName":"Monitor","childCategoryUrl":"<?php echo $urlPath ?>beli-monitor/"},{"childCategoryName":"Adaptor Jaringan","childCategoryUrl":"<?php echo $urlPath ?>adaptor-jaringan/"},{"childCategoryName":"Audio PC","childCategoryUrl":"<?php echo $urlPath ?>beli-audio-pc/"},{"childCategoryName":"Adaptor & Kabel","childCategoryUrl":"<?php echo $urlPath ?>jual-adaptor-kabel/"},{"childCategoryName":"Adaptor Baterai Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-adaptor-baterai-komputer/"},{"childCategoryName":"Mousepad","childCategoryUrl":"<?php echo $urlPath ?>beli-mousepad/"},{"childCategoryName":"Cooling Pads","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-pendingin/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_3">
+                <a href="<?php echo $urlPath ?>shop-audio/">
+                    <span>Audio</span>
+                </a>
+                        <script type="text" class="J_data_1_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Headphone & Headset","childCategoryUrl":"<?php echo $urlPath ?>beli-headphone-dan-headset/"},{"childCategoryName":"Speaker Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-audio-player/"},{"childCategoryName":"Speaker Smart","childCategoryUrl":"<?php echo $urlPath ?>beli-speaker-smart/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_4">
+                <a href="<?php echo $urlPath ?>shop-perangkat-pintar/">
+                    <span>Aksesoris Berteknologi</span>
+                </a>
+                        <script type="text" class="J_data_1_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Smartwatch","childCategoryUrl":"<?php echo $urlPath ?>shop-smartwatch/"},{"childCategoryName":"Aksesoris Smartwatch","childCategoryUrl":"<?php echo $urlPath ?>shop-tali-smartwatch/"},{"childCategoryName":"Activity Tracker","childCategoryUrl":"<?php echo $urlPath ?>beli-tracker-fitness-aktivitas/"},{"childCategoryName":"Aksesoris Fitness Tracker","childCategoryUrl":"<?php echo $urlPath ?>jual-strap-tracker-aktivitas/"},{"childCategoryName":"Virtual Reality","childCategoryUrl":"<?php echo $urlPath ?>jual-virtual-reality/"},{"childCategoryName":"Kendali Gerakan","childCategoryUrl":"<?php echo $urlPath ?>jual-kendali-gerakan/"},{"childCategoryName":"Kacamata Pintar","childCategoryUrl":"<?php echo $urlPath ?>beli-smart-glasses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_5">
+                <a href="<?php echo $urlPath ?>beli-aksesoris-2/">
+                    <span>Aksesoris Kamera</span>
+                </a>
+                        <script type="text" class="J_data_1_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tripod & Monopod","childCategoryUrl":"<?php echo $urlPath ?>beli-tripod-monopod/"},{"childCategoryName":"Kartu Memori","childCategoryUrl":"<?php echo $urlPath ?>beli-kartu-memori/"},{"childCategoryName":"Lensa Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-lensa-kamera/"},{"childCategoryName":"Flash","childCategoryUrl":"<?php echo $urlPath ?>beli-flash/"},{"childCategoryName":"Sarung, Pelindung & Tas Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-sarung-pelindung-tas-kamera/"},{"childCategoryName":"Charger Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-charger-baterai/"},{"childCategoryName":"Baterai Kamera","childCategoryUrl":"<?php echo $urlPath ?>beli-baterai/"},{"childCategoryName":"Aksesoris Kamera Aksi","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-kamera-aksi/"},{"childCategoryName":"Aksesoris Kamera Instan","childCategoryUrl":"<?php echo $urlPath ?>jual-film-kamera-instan/"},{"childCategoryName":"Perlengkapan Lighting & Studio","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-lighting-studio/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_6">
+                <a href="<?php echo $urlPath ?>shop-penyimpanan-data/">
+                    <span>Penyimpanan Data</span>
+                </a>
+                        <script type="text" class="J_data_1_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Flash Drive","childCategoryUrl":"<?php echo $urlPath ?>jual-flash-drives/"},{"childCategoryName":"OTG Drive","childCategoryUrl":"<?php echo $urlPath ?>jual-otg-drives/"},{"childCategoryName":"Harddisk Eksternal","childCategoryUrl":"<?php echo $urlPath ?>beli-harddisk-eksternal/"},{"childCategoryName":"Hard Drive Internal","childCategoryUrl":"<?php echo $urlPath ?>beli-hard-drive-internal/"},{"childCategoryName":"Internal SSD","childCategoryUrl":"<?php echo $urlPath ?>beli-solid-state-drive/"},{"childCategoryName":"Eksternal SSD","childCategoryUrl":"<?php echo $urlPath ?>beli-external-solid-state-drive/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_7">
+                <a href="<?php echo $urlPath ?>beli-printers/">
+                    <span>Printer</span>
+                </a>
+                        <script type="text" class="J_data_1_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Printer","childCategoryUrl":"<?php echo $urlPath ?>beli-printers/"},{"childCategoryName":"Tinta Printer","childCategoryUrl":"<?php echo $urlPath ?>tinta-printer/"},{"childCategoryName":"Printer 3D","childCategoryUrl":"<?php echo $urlPath ?>pencetak-3d/"},{"childCategoryName":"Printer POS & Thermal","childCategoryUrl":"<?php echo $urlPath ?>beli-printer-stand/"},{"childCategoryName":"Mesin Faks","childCategoryUrl":"<?php echo $urlPath ?>beli-mesin-fax/"},{"childCategoryName":"Mesin Cutting Sticker","childCategoryUrl":"<?php echo $urlPath ?>printer-pemotong/"},{"childCategoryName":"Memori Printer","childCategoryUrl":"<?php echo $urlPath ?>modul-memori-printer/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_8">
+                <a href="<?php echo $urlPath ?>beli-aksesori-handphone/">
+                    <span>Aksesoris Tablet</span>
+                </a>
+                        <script type="text" class="J_data_1_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Casing Tablet","childCategoryUrl":"<?php echo $urlPath ?>jual-casing-cover-tablet/"},{"childCategoryName":"Keyboard Tablet","childCategoryUrl":"<?php echo $urlPath ?>beli-keyboard-tablet/"},{"childCategoryName":"Pen Stylus Tablet","childCategoryUrl":"<?php echo $urlPath ?>beli-pen-stylus-tablet/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_2_9">
+                <a href="<?php echo $urlPath ?>beli-komponen-komputer/">
+                    <span>Komponen Komputer</span>
+                </a>
+                        <script type="text" class="J_data_1_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"RAM","childCategoryUrl":"<?php echo $urlPath ?>beli-ram/"},{"childCategoryName":"Motherboard","childCategoryUrl":"<?php echo $urlPath ?>beli-motherboard/"},{"childCategoryName":"Prosesor","childCategoryUrl":"<?php echo $urlPath ?>beli-prosesor/"},{"childCategoryName":"Kartu Grafis","childCategoryUrl":"<?php echo $urlPath ?>beli-kartu-grafis/"},{"childCategoryName":"Casing Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-casing-cpu/"},{"childCategoryName":"Power Supply Unit","childCategoryUrl":"<?php echo $urlPath ?>beli-power-supply-unit/"},{"childCategoryName":"Soundcard","childCategoryUrl":"<?php echo $urlPath ?>soundcard/"},{"childCategoryName":"Front Panel","childCategoryUrl":"<?php echo $urlPath ?>beli-hard-drive-optikal/"},{"childCategoryName":"Water Cooling System","childCategoryUrl":"<?php echo $urlPath ?>beli-water-cooling-system/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No3" data-spm="cate_3">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_1">
+                <a href="<?php echo $urlPath ?>pakaian-wanita/">
+                    <span>Pakaian Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_0">
+                            [{"childCategoryName":"Jeans","childCategoryUrl":"<?php echo $urlPath ?>jeans-wanita/"},{"childCategoryName":"Dress","childCategoryUrl":"<?php echo $urlPath ?>gaun-wanita/"},{"childCategoryName":"Atasan","childCategoryUrl":"<?php echo $urlPath ?>kaos-atasan-wanita/"},{"childCategoryName":"Sweater & Cardigan","childCategoryUrl":"<?php echo $urlPath ?>sweater-dan-cardigan-wanita/"},{"childCategoryName":"Celana & Legging","childCategoryUrl":"<?php echo $urlPath ?>celana-panjang-dan-pendek-wanita/"},{"childCategoryName":"Rok","childCategoryUrl":"<?php echo $urlPath ?>rok-wanita/"},{"childCategoryName":"Jaket & Mantel","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-mantel-wanita/"},{"childCategoryName":"Kaus Kaki & Celana Ketat","childCategoryUrl":"<?php echo $urlPath ?>kaos-kaki-celana-tights-wanita/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-wanita/"},{"childCategoryName":"Jumpsuit & Playsuit","childCategoryUrl":"<?php echo $urlPath ?>overalls-jumpsuit-wanita/"},{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"<?php echo $urlPath ?>hoodie-sweatshirt-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_2">
+                <a href="<?php echo $urlPath ?>baju-muslim-wanita/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_2_1">
+                            [{"childCategoryName":"Perlengkapan Shalat","childCategoryUrl":"<?php echo $urlPath ?>baju-muslim-wanita/"},{"childCategoryName":"Hijab","childCategoryUrl":"<?php echo $urlPath ?>hijab/"},{"childCategoryName":"Atasan Muslimah","childCategoryUrl":"<?php echo $urlPath ?>atasan-muslimah-wanita/"},{"childCategoryName":"Baju Muslim & Jumpsuit","childCategoryUrl":"<?php echo $urlPath ?>dress-muslimah/"},{"childCategoryName":"Bawahan Muslim","childCategoryUrl":"<?php echo $urlPath ?>bawahan-muslimah/"},{"childCategoryName":"Luaran Muslim","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-kardigan-wanita-muslim/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-muslim-wanita/"},{"childCategoryName":"Baju Renang Muslim","childCategoryUrl":"<?php echo $urlPath ?>jual-baju-renang-muslim-wanita/"},{"childCategoryName":"Baju Kurung","childCategoryUrl":"<?php echo $urlPath ?>jual-baju-kurung-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_3">
+                <a href="<?php echo $urlPath ?>lingerie-baju-tidur/">
+                    <span>Lingerie, Baju Tidur &amp; Santai</span>
+                </a>
+                        <script type="text" class="J_data_2_2">
+                            [{"childCategoryName":"Bra","childCategoryUrl":"<?php echo $urlPath ?>bra-wanita/"},{"childCategoryName":"Celana Dalam","childCategoryUrl":"<?php echo $urlPath ?>celana-dalam-wanita/"},{"childCategoryName":"Shapewear","childCategoryUrl":"<?php echo $urlPath ?>shapewear-baju-pembentuk-tubuh-wanita/"},{"childCategoryName":"Baju Tidur & Santai","childCategoryUrl":"<?php echo $urlPath ?>bathrobe-baju-mandi-wanita/"},{"childCategoryName":"Jubah Tidur","childCategoryUrl":"<?php echo $urlPath ?>jual-jubah-tidur-wanita/"},{"childCategoryName":"Set Lingerie","childCategoryUrl":"<?php echo $urlPath ?>jual-set-lingerie/"},{"childCategoryName":"Kamisol & Slips","childCategoryUrl":"<?php echo $urlPath ?>jual-kamisol-slips-wanita/"},{"childCategoryName":"Bodysuit","childCategoryUrl":"<?php echo $urlPath ?>jual-bodysuit-wanita/"},{"childCategoryName":"Aksesori Lingerie","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesori-lingerie-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_4">
+                <a href="<?php echo $urlPath ?>sepatu-wanita/">
+                    <span>Sepatu Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_3">
+                            [{"childCategoryName":"Sepatu Flat","childCategoryUrl":"<?php echo $urlPath ?>flat-shoes/"},{"childCategoryName":"Sepatu Hak Tinggi","childCategoryUrl":"<?php echo $urlPath ?>heels/"},{"childCategoryName":"Sneakers","childCategoryUrl":"<?php echo $urlPath ?>sneakers/"},{"childCategoryName":"Wedges","childCategoryUrl":"<?php echo $urlPath ?>wedges/"},{"childCategoryName":"Sepatu Boot","childCategoryUrl":"<?php echo $urlPath ?>boots-wanita/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-sepatu-wanita/"},{"childCategoryName":"Sandal","childCategoryUrl":"<?php echo $urlPath ?>sandal-wanita/"},{"childCategoryName":"Sandal & Flip Flop","childCategoryUrl":"<?php echo $urlPath ?>sandal-jepit-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_5">
+                <a href="<?php echo $urlPath ?>aksesoris-wanita/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_2_4">
+                            [{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"<?php echo $urlPath ?>ikat-pinggang-wanita/"},{"childCategoryName":"Payung","childCategoryUrl":"<?php echo $urlPath ?>payung-wanita/"},{"childCategoryName":"Topi","childCategoryUrl":"<?php echo $urlPath ?>topi-wanita/"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-rambut/"},{"childCategoryName":"Scarf","childCategoryUrl":"<?php echo $urlPath ?>scarf-wanita/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"<?php echo $urlPath ?>sarung-tangan-wanita/"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-women-fabricmask/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_6">
+                <a href="<?php echo $urlPath ?>tas-wanita/">
+                    <span>Tas Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_5">
+                            [{"childCategoryName":"Tas Ransel Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-punggung-wanita/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesori-tas-wanita/"},{"childCategoryName":"Tas Pinggang Wanita","childCategoryUrl":"<?php echo $urlPath ?>shop-tas-pinggang-wanita/"},{"childCategoryName":"Dompet Kartu Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-kartu-wanita/"},{"childCategoryName":"Clutches","childCategoryUrl":"<?php echo $urlPath ?>tas-genggam-wanita/"},{"childCategoryName":"Dompet Koin & Pouch Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-koin-pouch-wanita/"},{"childCategoryName":"Tas Selempang & Bahu Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-selempang-badan-wanita/"},{"childCategoryName":"Tas Luxury Wanita","childCategoryUrl":"<?php echo $urlPath ?>shop-tas-mewah-wanita/"},{"childCategoryName":"Top-handle Bag","childCategoryUrl":"<?php echo $urlPath ?>top-handle-bag/"},{"childCategoryName":"Tote Bag Wanita","childCategoryUrl":"<?php echo $urlPath ?>tote-bag-wanita/"},{"childCategoryName":"Dompet Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_7">
+                <a href="<?php echo $urlPath ?>beli-perhiasan-wanita/">
+                    <span>Perhiasan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"<?php echo $urlPath ?>beli-wanita-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"<?php echo $urlPath ?>beli-wanita-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_3_8">
+                <a href="<?php echo $urlPath ?>beli-jam-tangan-wanita/">
+                    <span>Jam Tangan Wanita</span>
+                </a>
+                        <script type="text" class="J_data_2_7">
+                            [{"childCategoryName":"Aksesori","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesori-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Kasual Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-kasual-wanita/"},{"childCategoryName":"Formal","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-formal-wanita/"},{"childCategoryName":"Mewah","childCategoryUrl":"<?php echo $urlPath ?>shop-jam-tangan-mewah-wanita/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"<?php echo $urlPath ?>shop-pre-owned-jam-tangan-wanita/"},{"childCategoryName":"Jam Tangan Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-olahraga-wanita/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No4" data-spm="cate_4">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_1">
+                <a href="<?php echo $urlPath ?>pakaian-pria/">
+                    <span>Pakaian Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_0">
+                            [{"childCategoryName":"Hoodie & Sweatshirt","childCategoryUrl":"<?php echo $urlPath ?>jual-hoodie-pria/"},{"childCategoryName":"Jaket dan Mantel","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-mantel-pria/"},{"childCategoryName":"Jeans","childCategoryUrl":"<?php echo $urlPath ?>jeans-pria/"},{"childCategoryName":"Celana","childCategoryUrl":"<?php echo $urlPath ?>celana-pendek-dan-panjang-pria/"},{"childCategoryName":"Polo Shirt","childCategoryUrl":"<?php echo $urlPath ?>polo-shirt-pria/"},{"childCategoryName":"Kemeja","childCategoryUrl":"<?php echo $urlPath ?>kemeja-pria/"},{"childCategoryName":"Celana Pendek","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-pria/"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"<?php echo $urlPath ?>jual-kaus-kaki-pria/"},{"childCategoryName":"Jas & Blazer","childCategoryUrl":"<?php echo $urlPath ?>jas-pria/"},{"childCategoryName":"Sweater dan Kardigan","childCategoryUrl":"<?php echo $urlPath ?>sweater-dan-cardigan-pria/"},{"childCategoryName":"Baju Renang","childCategoryUrl":"<?php echo $urlPath ?>baju-renang-pria/"},{"childCategoryName":"T-Shirt & Kaos Dalam","childCategoryUrl":"<?php echo $urlPath ?>atasan-kasual-kaos-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_2">
+                <a href="<?php echo $urlPath ?>baju-muslim-pria/">
+                    <span>Baju Muslim</span>
+                </a>
+                        <script type="text" class="J_data_3_1">
+                            [{"childCategoryName":"Jubah Muslim","childCategoryUrl":"<?php echo $urlPath ?>jubah-muslim-pria/"},{"childCategoryName":"Aksesoris Muslim","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-muslim-pria/"},{"childCategoryName":"Baju Muslimin","childCategoryUrl":"<?php echo $urlPath ?>cekak-musang-pria/"},{"childCategoryName":"Kopiah","childCategoryUrl":"<?php echo $urlPath ?>shop-kopiah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_3">
+                <a href="<?php echo $urlPath ?>pakaian-dalam-dan-kaos-kaki-pria/">
+                    <span>Pakaian Dalam</span>
+                </a>
+                        <script type="text" class="J_data_3_2">
+                            [{"childCategoryName":"Celana Dalam","childCategoryUrl":"<?php echo $urlPath ?>celana-dalam-pria/"},{"childCategoryName":"Pakaian Tidur","childCategoryUrl":"<?php echo $urlPath ?>baju-tidur-pria/"},{"childCategoryName":"Boxer","childCategoryUrl":"<?php echo $urlPath ?>pakaian-dalam-boxer-pria/"},{"childCategoryName":"Thongs  & Lainnya","childCategoryUrl":"<?php echo $urlPath ?>pakaian-dalam-pria-thongs-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_4">
+                <a href="<?php echo $urlPath ?>sepatu-pria/">
+                    <span>Sepatu Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_3">
+                            [{"childCategoryName":"Boots","childCategoryUrl":"<?php echo $urlPath ?>boots-pria/"},{"childCategoryName":"Flip Flop & Sandal","childCategoryUrl":"<?php echo $urlPath ?>sandal-jepit-pria/"},{"childCategoryName":"Sepatu Formal","childCategoryUrl":"<?php echo $urlPath ?>sepatu-pantofel/"},{"childCategoryName":"Aksesoris Sepatu","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-sepatu-pria/"},{"childCategoryName":"Slip-On & Loafer","childCategoryUrl":"<?php echo $urlPath ?>jual-slip-on-loafer-pria/"},{"childCategoryName":"Sneakers","childCategoryUrl":"<?php echo $urlPath ?>sneakers-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_5">
+                <a href="<?php echo $urlPath ?>aksesoris-pria/">
+                    <span>Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_3_4">
+                            [{"childCategoryName":"Dasi","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-dasi/"},{"childCategoryName":"Aksesoris Dasi Kupu-kupu","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-dasi-kupu-kupu/"},{"childCategoryName":"Scarf","childCategoryUrl":"<?php echo $urlPath ?>syal-pria/"},{"childCategoryName":"Payung","childCategoryUrl":"<?php echo $urlPath ?>payung-pria/"},{"childCategoryName":"Ikat Pinggang","childCategoryUrl":"<?php echo $urlPath ?>ikat-pinggang-pria/"},{"childCategoryName":"Topi","childCategoryUrl":"<?php echo $urlPath ?>topi-pria/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"<?php echo $urlPath ?>sarung-tangan-pria/"},{"childCategoryName":"Braces","childCategoryUrl":"<?php echo $urlPath ?>suspender-pria/"},{"childCategoryName":"Face Mask","childCategoryUrl":"<?php echo $urlPath ?>shop-masker-wajah-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_6">
+                <a href="<?php echo $urlPath ?>tas-pria/">
+                    <span>Tas Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_5">
+                            [{"childCategoryName":"Tas Ransel Pria","childCategoryUrl":"<?php echo $urlPath ?>shop-ransel-pria/"},{"childCategoryName":"Tas Laptop Jinjing","childCategoryUrl":"<?php echo $urlPath ?>tas-kerja-pria/"},{"childCategoryName":"Dompet Kartu Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-kartu-pria/"},{"childCategoryName":"Dompet Koin & Pouch Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-dompet-koin-pouch-pria/"},{"childCategoryName":"Tas Selempang Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-selempang-pria/"},{"childCategoryName":"Tas Laptop Bahu & Messenger","childCategoryUrl":"<?php echo $urlPath ?>tas-messenger-pria/"},{"childCategoryName":"Tote Bag Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-tote-pria/"},{"childCategoryName":"Tas Pinggang","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-pinggang/"},{"childCategoryName":"Dompet Pria","childCategoryUrl":"<?php echo $urlPath ?>shop-dompet-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_7">
+                <a href="<?php echo $urlPath ?>beli-perhiasan-pria/">
+                    <span>Perhiasan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_6">
+                            [{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"<?php echo $urlPath ?>beli-pria-perhiasan-fashion/"},{"childCategoryName":"Logam Berharga","childCategoryUrl":"<?php echo $urlPath ?>beli-pria-logam-berharga/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_4_8">
+                <a href="<?php echo $urlPath ?>beli-jam-tangan-pria/">
+                    <span>Jam Tangan Pria</span>
+                </a>
+                        <script type="text" class="J_data_3_7">
+                            [{"childCategoryName":"Aksesoris Jam Tangan Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-jam-tangan-pria/"},{"childCategoryName":"Jam Tangan Kasual Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-kasual-pria/"},{"childCategoryName":"Formal","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-formal-pria/"},{"childCategoryName":"Mewah","childCategoryUrl":"<?php echo $urlPath ?>shop-jam-tangan-mewah-pria/"},{"childCategoryName":"Pra Dimiliki","childCategoryUrl":"<?php echo $urlPath ?>shop-jam-tangan-pre-owned-pria/"},{"childCategoryName":"Jam Tangan Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-olahraga-pria/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No5" data-spm="cate_5">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_1">
+                <a href="<?php echo $urlPath ?>fashion-pakaian-anak-laki-laki">
+                    <span>Pakaian Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_0">
+                            [{"childCategoryName":"Topi Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>topi-anak-laki-laki"},{"childCategoryName":"Hoodie Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>jual-hoodie-anak-laki-laki"},{"childCategoryName":"Jaket & Mantel Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>jaket-mantel-anak-laki-laki"},{"childCategoryName":"Celana Pendek Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>beli-celana-pendek-pria"},{"childCategoryName":"Pakaian Tidur Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>pakaian-tidur-anak-laki-laki"},{"childCategoryName":"Sweater & Cardigan Anak","childCategoryUrl":"<?php echo $urlPath ?>sweater-cardigan-anak-laki-laki"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"<?php echo $urlPath ?>payung-pakaian-hujan-anak-laki-laki"},{"childCategoryName":"Pakaian dalam","childCategoryUrl":"<?php echo $urlPath ?>shop-pakaian-dalam"},{"childCategoryName":"Celana & Jeans Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>celana-jeans-anak-laki-laki"},{"childCategoryName":"Kaus Kaki","childCategoryUrl":"<?php echo $urlPath ?>shop-kaus-kaki"},{"childCategoryName":"Baju & Atasan Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>baju-atasan-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_2">
+                <a href="<?php echo $urlPath ?>pakaian-anak-perempuan">
+                    <span>Pakaian Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_1">
+                            [{"childCategoryName":"Bawahan Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>celana-jeans-anak-perempuan"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>fashion-dress-anak-perempuan"},{"childCategoryName":"Scarf Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>scarf-sarung-tangan-anak-perempuan"},{"childCategoryName":"Aksesori Rambut Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesori-rambut-anak-perempuan"},{"childCategoryName":"Topi Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>topi-anak-perempuan"},{"childCategoryName":"Hoodie Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jual-hoodie-anak-laki-laki-2"},{"childCategoryName":"Jaket & Mantel Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jaket-mantel-anak-perempuan"},{"childCategoryName":"Baju & Atasan Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>baju-atasan-anak-perempuan"},{"childCategoryName":"Payung & Pakaian Hujan Anak","childCategoryUrl":"<?php echo $urlPath ?>payung-jas-hujan-anak-perempuan"},{"childCategoryName":"Pakaian Dalam Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>pakaian-tidur-anak-perempuan"},{"childCategoryName":"Jumpsuits & Overalls","childCategoryUrl":"<?php echo $urlPath ?>shop-girls-jumpsuits-overalls"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_3">
+                <a href="<?php echo $urlPath ?>shop-boy's-muslim-wear">
+                    <span>Pakaian Anak Muslim Laki-Laki</span>
+                </a>
+                        <script type="text" class="J_data_4_2">
+                            [{"childCategoryName":"Kemeja Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>shop-boy's-muslimin-shirt"},{"childCategoryName":"Celana Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>shop-boy's-muslimin-pants"},{"childCategoryName":"Aksesoris Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>shop-boy's-muslimin-accessories"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_4">
+                <a href="<?php echo $urlPath ?>shop-girls-muslim-wear">
+                    <span>Pakaian Anak Muslim Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_3">
+                            [{"childCategoryName":"Hijab Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>shop-girls-muslim-wear-hijabs/"},{"childCategoryName":"Dress Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>shop-girls-muslim-wear-dresses-jumpsuits/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_5">
+                <a href="<?php echo $urlPath ?>fashion-sepatu-anak-laki-laki">
+                    <span>Sepatu Anak Laki-laki</span>
+                </a>
+                        <script type="text" class="J_data_4_4">
+                            [{"childCategoryName":"Sepatu Boot Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-boot-anak-laki-laki"},{"childCategoryName":"Sandal Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>fashion-sandal-jepit-anak-laki-laki"},{"childCategoryName":"Sepatu Formal Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lace-ups-anak-laki-laki"},{"childCategoryName":"Aksesoris Sepatu Anak Laki","childCategoryUrl":"<?php echo $urlPath ?>fashion-aksesoris-sepatu-anak-laki-laki"},{"childCategoryName":"Slip-n Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-slip-on-anak-laki-laki"},{"childCategoryName":"Sepatu Sneaker Anak Laki-laki","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sneaker-anak-laki-laki"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_6">
+                <a href="<?php echo $urlPath ?>fashion-sepatu-anak-perempuan">
+                    <span>Sepatu Anak Perempuan</span>
+                </a>
+                        <script type="text" class="J_data_4_5">
+                            [{"childCategoryName":"Sepatu Flat Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-balerina-anak-perempuan"},{"childCategoryName":"Sepatu Boot Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-boot-anak-perempuan"},{"childCategoryName":"Sandal Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>fashion-sandal-jepit-anak-perempuan"},{"childCategoryName":"Sepatu Formal Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lace-ups-anak-perempuan"},{"childCategoryName":"Aksesoris Sepatu Anak","childCategoryUrl":"<?php echo $urlPath ?>fashion-aksesoris-sepatu-anak-perempuan"},{"childCategoryName":"Sepatu Sneaker Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sneakers-anak-perempuan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_7">
+                <a href="<?php echo $urlPath ?>beli-tas-anak-tl/">
+                    <span>Tas Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_6">
+                            [{"childCategoryName":"Tas Bahu Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-bahu-anak/"},{"childCategoryName":"Ransel Troli Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-ransel-troli-anak/"},{"childCategoryName":"Ransel Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-ransel-anak/"},{"childCategoryName":"Aksesoris Tas","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-anak/"},{"childCategoryName":"Koper","childCategoryUrl":"<?php echo $urlPath ?>koper-anak-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_8">
+                <a href="<?php echo $urlPath ?>beli-perhiasan-anak/">
+                    <span>Perhiasan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_7">
+                            [{"childCategoryName":"Emas Murni","childCategoryUrl":"<?php echo $urlPath ?>beli-anak-emas-murni/"},{"childCategoryName":"Perhiasan Fashion","childCategoryUrl":"<?php echo $urlPath ?>beli-anak-perhiasan-fashion/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_5_9">
+                <a href="<?php echo $urlPath ?>beli-jam-tangan-anak/">
+                    <span>Jam Tangan Anak</span>
+                </a>
+                        <script type="text" class="J_data_4_8">
+                            [{"childCategoryName":"Jam Tangan Anak Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-anak-laki-laki/"},{"childCategoryName":"Jam Tangan Anak Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-jam-tangan-anak-perempuan/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No6" data-spm="cate_6">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_1">
+                <a href="<?php echo $urlPath ?>beli-perawatan-kulit/">
+                    <span>Perawatan Kulit</span>
+                </a>
+                        <script type="text" class="J_data_5_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Serum Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-serum-perawatan-wajah"},{"childCategoryName":"Dermacare","childCategoryUrl":"<?php echo $urlPath ?>beli-dermacare"},{"childCategoryName":"Pelembab Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-pelembab-wajah"},{"childCategoryName":"Pembersih Wajah","childCategoryUrl":"<?php echo $urlPath ?>pembersih-wajah"},{"childCategoryName":"Masker Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-masker-wajah"},{"childCategoryName":"Toner","childCategoryUrl":"<?php echo $urlPath ?>beli-toner"},{"childCategoryName":"Tabir Surya","childCategoryUrl":"<?php echo $urlPath ?>beli-tabir-surya-aftersun"},{"childCategoryName":"Set Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-set-perawatan-wajah"},{"childCategoryName":"Pelembab & Perawatan Bibir","childCategoryUrl":"<?php echo $urlPath ?>beli-lip-balm-perawatan-bibir"},{"childCategoryName":"Face Scrubs & Exfoliators","childCategoryUrl":"<?php echo $urlPath ?>beli-scrub-pengelupas-wajah"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"<?php echo $urlPath ?>shop-perawatan-mata"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_2">
+                <a href="<?php echo $urlPath ?>beli-makeup/">
+                    <span>Makeup</span>
+                </a>
+                        <script type="text" class="J_data_5_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makeup Bibir","childCategoryUrl":"<?php echo $urlPath ?>beli-make-up-bibir"},{"childCategoryName":"Lipstik","childCategoryUrl":"<?php echo $urlPath ?>beli-lipstik"},{"childCategoryName":"Makeup Wajah","childCategoryUrl":"<?php echo $urlPath ?>makeup-wajah"},{"childCategoryName":"Foundation","childCategoryUrl":"<?php echo $urlPath ?>beli-foundation"},{"childCategoryName":"Makeup Mata","childCategoryUrl":"<?php echo $urlPath ?>beli-mata"},{"childCategoryName":"Maskara","childCategoryUrl":"<?php echo $urlPath ?>beli-maskara"},{"childCategoryName":"Aksesoris Makeup","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-makeup"},{"childCategoryName":"Set Kuas & Kuas Makeup","childCategoryUrl":"<?php echo $urlPath ?>beli-kuas-aplikator"},{"childCategoryName":"Perawatan Kuku","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kuku"},{"childCategoryName":"Set Makeup & Palet","childCategoryUrl":"<?php echo $urlPath ?>shop-palet-set-makeup"},{"childCategoryName":"Pembersih Makeup","childCategoryUrl":"<?php echo $urlPath ?>beli-pembersih-makeup"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_3">
+                <a href="<?php echo $urlPath ?>beli-perawatan-rambut/">
+                    <span>Perawatan Rambut</span>
+                </a>
+                        <script type="text" class="J_data_5_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Shampo","childCategoryUrl":"<?php echo $urlPath ?>beli-sampo"},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"<?php echo $urlPath ?>perawatan-intensif"},{"childCategoryName":"Aksesoris Rambut","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-perawatan-rambut"},{"childCategoryName":"Styling Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-styling-rambut"},{"childCategoryName":"Pewarna Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-cat-rambut"},{"childCategoryName":"Kondisioner","childCategoryUrl":"<?php echo $urlPath ?>beli-kondisioner"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"<?php echo $urlPath ?>beli-paket-hadiah-bingkisan-perawatan-rambut"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_4">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-mandi-tubuh/">
+                    <span>Perawatan Tubuh</span>
+                </a>
+                        <script type="text" class="J_data_5_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Losion Tubuh","childCategoryUrl":"<?php echo $urlPath ?>beli-losion-krim-tubuh"},{"childCategoryName":"Sabun Cair","childCategoryUrl":"<?php echo $urlPath ?>shop-Sabun-Cair"},{"childCategoryName":"Scrub Tubuh","childCategoryUrl":"<?php echo $urlPath ?>beli-scrub-tubuh"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"<?php echo $urlPath ?>perawatan-payudara"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"<?php echo $urlPath ?>shop-Perawatan-Tubuh"},{"childCategoryName":"Perawatan Kaki","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kaki"},{"childCategoryName":"Sabun Batang","childCategoryUrl":"<?php echo $urlPath ?>shop-Sabun-Batang"},{"childCategoryName":"Aksesoris Tubuh","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-perlengkapan-mandi-tubuh"},{"childCategoryName":"Paket Hadiah","childCategoryUrl":"<?php echo $urlPath ?>beli-paket-hadiah-bingkisan-alat-mandi-tubuh"},{"childCategoryName":"Penghilang Bulu","childCategoryUrl":"<?php echo $urlPath ?>beli-perontok-rambut"},{"childCategoryName":"Sabun Tangan","childCategoryUrl":"<?php echo $urlPath ?>beli-sabun-pembersih-tangan"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_5">
+                <a href="<?php echo $urlPath ?>beli-perawatan-kesehatan-pribadi/">
+                    <span>Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_5_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Mulut","childCategoryUrl":"<?php echo $urlPath ?>perawatan-mulut"},{"childCategoryName":"Pembersih Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-pembersih-wanita"},{"childCategoryName":"Keamanan Diri","childCategoryUrl":"<?php echo $urlPath ?>beli-keamanan-diri"},{"childCategoryName":"Beli Deodoran","childCategoryUrl":"<?php echo $urlPath ?>beli-deodoran"},{"childCategoryName":"Perawatan Mata","childCategoryUrl":"<?php echo $urlPath ?>shop-perawatan-optik-pribadi"},{"childCategoryName":"Obat Anti Serangga","childCategoryUrl":"<?php echo $urlPath ?>shop-Obat-Anti-Serangga"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_6">
+                <a href="<?php echo $urlPath ?>beli-parfum/">
+                    <span>Parfum</span>
+                </a>
+                        <script type="text" class="J_data_5_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-parfum-pria"},{"childCategoryName":"Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-parfum-wanita"},{"childCategoryName":"Unisex","childCategoryUrl":"<?php echo $urlPath ?>beli-parfum-unisex"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_7">
+                <a href="<?php echo $urlPath ?>beli-alat-kesehatan-kecantikan/">
+                    <span>Alat Kecantikan</span>
+                </a>
+                        <script type="text" class="J_data_5_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Alat Pelangsing & Pijat","childCategoryUrl":"<?php echo $urlPath ?>alat-pelangsing-dan-pemijat-elektrik"},{"childCategoryName":"Sauna Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-sauna-portabel"},{"childCategoryName":"Foot Relief","childCategoryUrl":"<?php echo $urlPath ?>beli-foot-relief"},{"childCategoryName":"Alat Cukur & Trimmer","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-alat-cukur-dan-trimmer"},{"childCategoryName":"Alat Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-alat-perawatan-kulit-wajah"},{"childCategoryName":"Alat Perawatan Tubuh","childCategoryUrl":"<?php echo $urlPath ?>shop-alat-perawatan-kulit-tubuh"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_8">
+                <a href="<?php echo $urlPath ?>beli-suplemen-makanan/">
+                    <span>Suplemen Makanan</span>
+                </a>
+                        <script type="text" class="J_data_5_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengatur Berat Badan","childCategoryUrl":"<?php echo $urlPath ?>beli-pengatur-berat-badan"},{"childCategoryName":"Pembakar Lemak","childCategoryUrl":"<?php echo $urlPath ?>beli-pembakar-lemak"},{"childCategoryName":"Minuman Pelangsing","childCategoryUrl":"<?php echo $urlPath ?>beli-minuman-pelangsing"},{"childCategoryName":"Suplemen Kecantikan","childCategoryUrl":"<?php echo $urlPath ?>beli-suplemen-kecantikan"},{"childCategoryName":"Suplemen Pemutih","childCategoryUrl":"<?php echo $urlPath ?>beli-suplemen-pemutih"},{"childCategoryName":"Multivitamin","childCategoryUrl":"<?php echo $urlPath ?>multivitamin/"},{"childCategoryName":"Obat Tradisional","childCategoryUrl":"<?php echo $urlPath ?>beli-obat-obatan-tradisional"},{"childCategoryName":"Sistem Imun","childCategoryUrl":"<?php echo $urlPath ?>beli-sistem-imun"},{"childCategoryName":"Nutrisi Olahraga","childCategoryUrl":"<?php echo $urlPath ?>beli-nutrisi-olahraga"},{"childCategoryName":"Penambah Berat Badan","childCategoryUrl":"<?php echo $urlPath ?>beli-suplemen-penambah-berat-badan"},{"childCategoryName":"Protein","childCategoryUrl":"<?php echo $urlPath ?>beli-protein"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_9">
+                <a href="<?php echo $urlPath ?>beli-alat-medis/">
+                    <span>Alat Medis</span>
+                </a>
+                        <script type="text" class="J_data_5_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Aksesoris Kesehatan","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-kesehatan"},{"childCategoryName":"Alat Tes Kesehatan","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-tes-kesehatan"},{"childCategoryName":"Obat-Obatan","childCategoryUrl":"<?php echo $urlPath ?>shop-over-the-counter-medicine/"},{"childCategoryName":"Perban & Perlengkapan Cedera","childCategoryUrl":"<?php echo $urlPath ?>perban-alat-terapi-cedera"},{"childCategoryName":"Timbangan & Alat Kadar Lemak","childCategoryUrl":"<?php echo $urlPath ?>beli-timbangan-alat-ukur-kadar-lemak"},{"childCategoryName":"P3K","childCategoryUrl":"<?php echo $urlPath ?>beli-p3k"},{"childCategoryName":"Kursi Roda","childCategoryUrl":"<?php echo $urlPath ?>beli-kursi-roda"},{"childCategoryName":"Salep & Krim","childCategoryUrl":"<?php echo $urlPath ?>shop-salep-dan-krim"},{"childCategoryName":"Alat Inhalasi & Nebulizer","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-inhalasi-nebulizer"},{"childCategoryName":"Alat Tes Medis","childCategoryUrl":"<?php echo $urlPath ?>tes-medis"},{"childCategoryName":"Stetoskop","childCategoryUrl":"<?php echo $urlPath ?>beli-stetoskop"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_10">
+                <a href="<?php echo $urlPath ?>jual-perlengkapan-kesehatan-seksual/">
+                    <span>Sexual Wellness</span>
+                </a>
+                        <script type="text" class="J_data_5_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kondom","childCategoryUrl":"<?php echo $urlPath ?>beli-kondom"},{"childCategoryName":"Pelumas","childCategoryUrl":"<?php echo $urlPath ?>beli-pelumas"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_11">
+                <a href="<?php echo $urlPath ?>beli-perawatan-tubuh-kesehatan-pria/">
+                    <span>Perawatan Pria</span>
+                </a>
+                        <script type="text" class="J_data_5_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-rambut-pria"},{"childCategoryName":"Perawatan Wajah","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kulit-pria"},{"childCategoryName":"Alat Cukur Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-cukur-pria"},{"childCategoryName":"Perawatan Tubuh","childCategoryUrl":"<?php echo $urlPath ?>perawatan-tubuh"},{"childCategoryName":"Deodoran Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-deodoran-pria"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_6_12">
+                <a href="<?php echo $urlPath ?>kesehatan-manula/">
+                    <span>Popok Dewasa</span>
+                </a>
+                        <script type="text" class="J_data_5_11">
+                            [{"childCategoryName":"Popok Dewasa","childCategoryUrl":"<?php echo $urlPath ?>kesehatan-manula/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No7" data-spm="cate_7">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_1">
+                <a href="<?php echo $urlPath ?>jual-perlengkapan-bayi-balita/">
+                    <span>Ibu &amp; Anak</span>
+                </a>
+                        <script type="text" class="J_data_6_0">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"<?php echo $urlPath ?>beli-popok-sekali-pakai/"},{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"<?php echo $urlPath ?>jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Botol Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-botol-bayi/"},{"childCategoryName":"Stroller","childCategoryUrl":"<?php echo $urlPath ?>beli-kereta-dorong-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"<?php echo $urlPath ?>beli-soft-carrier/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"<?php echo $urlPath ?>beli-sampo-kondisioner-bb/"},{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kulit-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_2">
+                <a href="<?php echo $urlPath ?>beli-popok-pispot-bb/">
+                    <span>Popok Sekali Pakai</span>
+                </a>
+                        <script type="text" class="J_data_6_1">
+                            [{"childCategoryName":"Popok Sekali Pakai","childCategoryUrl":"<?php echo $urlPath ?>beli-popok-sekali-pakai/"},{"childCategoryName":"Popok Kain & Aksesori","childCategoryUrl":"<?php echo $urlPath ?>beli-popok-kain/"},{"childCategoryName":"Lap Bayi & Penyangga","childCategoryUrl":"<?php echo $urlPath ?>beli-lap-bayi-penyangga/"},{"childCategoryName":"Perawatan Popok","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-popok/"},{"childCategoryName":"Krim & Salep Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-krim-salep-bayi/"},{"childCategoryName":"Tas Perlengkapan Popok","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-popok-tb/"},{"childCategoryName":"Meja Ganti Popok","childCategoryUrl":"<?php echo $urlPath ?>beli-meja-ganti/"},{"childCategoryName":"Cover Popok Kain","childCategoryUrl":"<?php echo $urlPath ?>beli-bantalan/"},{"childCategoryName":"Lapisan Penyerap & Liner Popok Kain","childCategoryUrl":"<?php echo $urlPath ?>beli-lapisan-penyerap-liner-popok-kain/"},{"childCategoryName":"Potty Training","childCategoryUrl":"<?php echo $urlPath ?>beli-potty-training/"},{"childCategoryName":"Bangku Langkah","childCategoryUrl":"<?php echo $urlPath ?>beli-bangku-langkah/"},{"childCategoryName":"Detergent Laundry","childCategoryUrl":"<?php echo $urlPath ?>beli-detergen-popok-kain/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_3">
+                <a href="<?php echo $urlPath ?>beli-susu-formula/">
+                    <span>Makanan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_2">
+                            [{"childCategoryName":"Bayi (0 - 6 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-0-6-bulan/"},{"childCategoryName":"Bayi (6 - 12 bulan)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-bayi-6-12-bulan/"},{"childCategoryName":"Susu Batita (1- dibawah 3 tahun)","childCategoryUrl":"<?php echo $urlPath ?>jual-susu-batita-1-3-tahun/"},{"childCategoryName":"Susu Pertumbuhan (>3Tahun)","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-pertumbuhan-1-3-tahun/"},{"childCategoryName":"Nutrisi Khusus Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-nutrisi-khusus-anak/"},{"childCategoryName":"Minuman","childCategoryUrl":"<?php echo $urlPath ?>beli-minuman-bayi-balita/"},{"childCategoryName":"Sereal","childCategoryUrl":"<?php echo $urlPath ?>beli-sereal-bayi-balita/"},{"childCategoryName":"Cracker & Biskuit","childCategoryUrl":"<?php echo $urlPath ?>beli-cracker-biskuit-bayi-balita/"},{"childCategoryName":"Makanan Ringan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-ringan-bayi-balita/"},{"childCategoryName":"Makanan puree bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-puree-bayi/"},{"childCategoryName":"Susu Ibu Hamil","childCategoryUrl":"<?php echo $urlPath ?>beli-susu-maternal/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_4">
+                <a href="<?php echo $urlPath ?>jual-baju-aksesoris-anak/">
+                    <span>Pakaian &amp; Aksesoris</span>
+                </a>
+                        <script type="text" class="J_data_6_3">
+                            [{"childCategoryName":"(0--6 bulan) Set Pakaian","childCategoryUrl":"<?php echo $urlPath ?>beli-set-pakaian-bayi/"},{"childCategoryName":"(0--6 bulan) Body Suits","childCategoryUrl":"<?php echo $urlPath ?>beli-bodysuit-one-piece-bayi/"},{"childCategoryName":"(0--6 bulan) Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-pakaian-anak/"},{"childCategoryName":"Pakaian Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-perempuan/"},{"childCategoryName":"Dress Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-dress-bayi-perempuan/"},{"childCategoryName":"Sepatu Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-bayi-perempuan/"},{"childCategoryName":"Aksesoris Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-bayi-perempuan/"},{"childCategoryName":"Baju Renang Bayi Perempuan","childCategoryUrl":"<?php echo $urlPath ?>beli-baju-renang-bayi-perempuan/"},{"childCategoryName":"Pakaian Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-pakaian-bayi-laki-laki/"},{"childCategoryName":"Sepatu Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-bayi-laki-laki/"},{"childCategoryName":"Aksesoris Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesori-bayi-laki-laki/"},{"childCategoryName":"Baju Renang Bayi Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>beli-baju-renang-bayi-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_5">
+                <a href="<?php echo $urlPath ?>beli-makanan-bayi/">
+                    <span>Perlengkapan Menyusui</span>
+                </a>
+                        <script type="text" class="J_data_6_4">
+                            [{"childCategoryName":"Botol Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-botol-bayi/"},{"childCategoryName":"Botol","childCategoryUrl":"<?php echo $urlPath ?>beli-botol-bayi-balita/"},{"childCategoryName":"Aksesoris Dot Botol","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-botol-dot-bayi/"},{"childCategoryName":"Penghangat & Sterilizers","childCategoryUrl":"<?php echo $urlPath ?>beli-penghangat-sterilizer/"},{"childCategoryName":"Pompa Asi","childCategoryUrl":"<?php echo $urlPath ?>jual-pompa-asi/"},{"childCategoryName":"Aksesesoris Pompa Asi","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-pompa-asi/"},{"childCategoryName":"Perawatan Payudara","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-puting/"},{"childCategoryName":"Bantal Menyusui","childCategoryUrl":"<?php echo $urlPath ?>beli-bantal-kursi-bayi/"},{"childCategoryName":"Kursi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-kursi-tinggi-bayi-kursi-booster/"},{"childCategoryName":"Food Blenders","childCategoryUrl":"<?php echo $urlPath ?>beli-blender-makanan-bayi/"},{"childCategoryName":"Peralatan Makan Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-makan-bayi-bb/"},{"childCategoryName":"Set Peralatan Makan Bayi","childCategoryUrl":"<?php echo $urlPath ?>jual-piring-mangkok-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_6">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-berkendara-bayi/">
+                    <span>Perlengkapan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_5">
+                            [{"childCategoryName":"Sling Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-sling-bayi/"},{"childCategoryName":"Soft Carrier","childCategoryUrl":"<?php echo $urlPath ?>beli-soft-carrier/"},{"childCategoryName":"Stroller","childCategoryUrl":"<?php echo $urlPath ?>beli-kereta-dorong-bayi/"},{"childCategoryName":"Car Seat","childCategoryUrl":"<?php echo $urlPath ?>beli-car-seat-bb/"},{"childCategoryName":"Playard","childCategoryUrl":"<?php echo $urlPath ?>beli-playard/"},{"childCategoryName":"Ayunan, Jumper & Bouncer Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-ayunan-jumper-bouncer-bayi/"},{"childCategoryName":"Walker","childCategoryUrl":"<?php echo $urlPath ?>beli-walker/"},{"childCategoryName":"Tempat Duduk & Trailer Sepeda","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-duduk-trailer-sepeda/"},{"childCategoryName":"Tas Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-anak/"},{"childCategoryName":"Koper Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-koper-anak/"},{"childCategoryName":"Tali & Harness Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-tali-harness-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_7">
+                <a href="<?php echo $urlPath ?>jual-perlengkapan-kamar-bayi/">
+                    <span>Kamar Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_6">
+                            [{"childCategoryName":"Matras Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-kasur-seprai-bayi/"},{"childCategoryName":"Selimut Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-selimut-bayi/"},{"childCategoryName":"Seprai Keranjang Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-seprai-keranjang-bayi/"},{"childCategoryName":"Kelengkapan Alat Tidur Balita","childCategoryUrl":"<?php echo $urlPath ?>beli-kelengkapan-alat-tidur-balita/"},{"childCategoryName":"Selimut Tebal & Bed Cover Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-selimut-tebal-bed-cover-bayi/"},{"childCategoryName":"Bantal, Pelindung & Sarung Bantal Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-bantal-pelindung-sarung-bantal-bayi/"},{"childCategoryName":"Furnitur Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-bayi/"},{"childCategoryName":"Ranjang Bayi","childCategoryUrl":"<?php echo $urlPath ?>jual-ranjang-bayi/"},{"childCategoryName":"Keranjang Bayi Cradle","childCategoryUrl":"<?php echo $urlPath ?>beli-keranjang-bayi-cradle/"},{"childCategoryName":"Laci & Lemari Pakaian Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-laci-lemari-pakaian-bayi/"},{"childCategoryName":"Penyimpanan","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-pengatur-penyimpanan/"},{"childCategoryName":"Dekorasi Kamar Anak","childCategoryUrl":"<?php echo $urlPath ?>beli-dekorasi-kamar-anak/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_8">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-mandi-perawatan-kulit-anak/">
+                    <span>Perawatan Bayi</span>
+                </a>
+                        <script type="text" class="J_data_6_7">
+                            [{"childCategoryName":"Perawatan Kulit Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perawatan-kulit-bayi/"},{"childCategoryName":"Sampo & Kondisioner","childCategoryUrl":"<?php echo $urlPath ?>beli-sampo-kondisioner-bb/"},{"childCategoryName":"Sabun & Pembersih Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-sabun-pembersih-bayi/"},{"childCategoryName":"Perawatan Mulut Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Sikat Gigi & Pasta Gigi","childCategoryUrl":"<?php echo $urlPath ?>beli-sikat-gigi-pasta-gigi-bayi/"},{"childCategoryName":"Tempat Duduk & Bak Mandi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-duduk-bak-mandi-bayi/"},{"childCategoryName":"Lap Mandi & Handuk Bayi","childCategoryUrl":"<?php echo $urlPath ?>jual-handuk-bayi/"},{"childCategoryName":"Pelindung Matahari Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-pelindung-matahari-bayi/"},{"childCategoryName":"Aromaterapi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-aromaterapi-bayi/"},{"childCategoryName":"Perlengkapan Mandi Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-mandi-bayi-bb/"},{"childCategoryName":"Alas Mandi Bayi Anti Slip","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-mandi-bayi-anti-slip/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_9">
+                <a href="<?php echo $urlPath ?>beli-mainan-anak/">
+                    <span>Mainan</span>
+                </a>
+                        <script type="text" class="J_data_6_8">
+                            [{"childCategoryName":"Action Figure & Mainan Koleksi","childCategoryUrl":"<?php echo $urlPath ?>jual-koleksi-mainan-action-figure/"},{"childCategoryName":"Mainan Koleksi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-koleksi-tg/"},{"childCategoryName":"Mini Figur","childCategoryUrl":"<?php echo $urlPath ?>beli-mini-figure-tg/"},{"childCategoryName":"Kerajinan Tangan","childCategoryUrl":"<?php echo $urlPath ?>beli-kerajinan-tangan-kesenian-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-balok-bangunan/"},{"childCategoryName":"Boneka & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-boneka-aksesori/"},{"childCategoryName":"Kostum Pesta","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-dress-up/"},{"childCategoryName":"Mainan Edukasi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-pembelajaran-edukasi/"},{"childCategoryName":"Puzzle & Games","childCategoryUrl":"<?php echo $urlPath ?>beli-permainan-tradisional/"},{"childCategoryName":"Hobi & Hiburan","childCategoryUrl":"<?php echo $urlPath ?>Shop-Hobbies-Entertainment/"},{"childCategoryName":"Perlengkapan Pesta","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-pesta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_10">
+                <a href="<?php echo $urlPath ?>beli-remote-control-mainan-kendaraan/">
+                    <span>Mainan Elektronik &amp; RC</span>
+                </a>
+                        <script type="text" class="J_data_6_9">
+                            [{"childCategoryName":"Mobil Remote Control","childCategoryUrl":"<?php echo $urlPath ?>beli-kendaraan-rc-baterai/"},{"childCategoryName":"Robot Remote Control","childCategoryUrl":"<?php echo $urlPath ?>beli-rc-figure-robot/"},{"childCategoryName":"Mobil Die Cast","childCategoryUrl":"<?php echo $urlPath ?>beli-kendaraan-die-cast/"},{"childCategoryName":"Mainan Mobil","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-kendaraan-tg/"},{"childCategoryName":"Mainan Kereta Api & Rel","childCategoryUrl":"<?php echo $urlPath ?>beli-set-mainan-kereta/"},{"childCategoryName":"Drone Mainan","childCategoryUrl":"<?php echo $urlPath ?>beli-drones-quadcopters/"},{"childCategoryName":"Helikopter","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-helikopter/"},{"childCategoryName":"Video Games & Hiburan","childCategoryUrl":"<?php echo $urlPath ?>shop-hiburan-video-game/"},{"childCategoryName":"Walkie Talkies","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-walkie-talkie/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_11">
+                <a href="<?php echo $urlPath ?>beli-olahraga-permainan-luar-ruangan/">
+                    <span>Mainan Olahraga &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_6_10">
+                            [{"childCategoryName":"Kolam Renang & Mainan Air","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-air-kolam-renang/"},{"childCategoryName":"Mainan Olahraga","childCategoryUrl":"<?php echo $urlPath ?>shop-mainan-baseball-softball/"},{"childCategoryName":"Mainan Luar Ruangan","childCategoryUrl":"<?php echo $urlPath ?>beli-aktivitas-dan-olahraga-luar-ruangan/"},{"childCategoryName":"Mainan Blaster","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-blaster/"},{"childCategoryName":"Kolam Bola & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-bola-pit-aksesori/"},{"childCategoryName":"Mainan Terbang","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-terbang/"},{"childCategoryName":"Layangan & Kincir Angin","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-layang-layang/"},{"childCategoryName":"Istana Balon","childCategoryUrl":"<?php echo $urlPath ?>beli-balon-loncat-istana-balon/"},{"childCategoryName":"Yoyo & Kendama","childCategoryUrl":"<?php echo $urlPath ?>beli-yo-yo-kendama/"},{"childCategoryName":"Set Mainan Taman Bermain","childCategoryUrl":"<?php echo $urlPath ?>beli-set-peralatan-permainan-playground/"},{"childCategoryName":"Kemah & Terowongan Mainan","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-tenda-terowongan/"},{"childCategoryName":"Mainan Rumah-rumahan","childCategoryUrl":"<?php echo $urlPath ?>beli-playhouses/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_7_12">
+                <a href="<?php echo $urlPath ?>baby-toddler-toys/">
+                    <span>Mainan Bayi &amp; Balita</span>
+                </a>
+                        <script type="text" class="J_data_6_11">
+                            [{"childCategoryName":"Playgym & Playmat","childCategoryUrl":"<?php echo $urlPath ?>jual-mainan-gym-anak/"},{"childCategoryName":"Mainan Blok","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-balok-bangunan/"},{"childCategoryName":"Mainan Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-mandi-anak-tg/"},{"childCategoryName":"Mainan Tidur Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-keranjang-bayi-perlengkapannya-tg/"},{"childCategoryName":"Mainan Balita","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-edukatif-anak-tg/"},{"childCategoryName":"Mainan Musik & Suara","childCategoryUrl":"<?php echo $urlPath ?>beli-musik-suara-tg/"},{"childCategoryName":"Mainan Tarik Ulur","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-dorong-tarik-tg/"},{"childCategoryName":"Mainan Shape Sorting","childCategoryUrl":"<?php echo $urlPath ?>beli-mainan-shape-sorting-tg/"},{"childCategoryName":"Indoor Climbers & Play Structures","childCategoryUrl":"<?php echo $urlPath ?>beli-indoor-climbers-play-structure-tg/"},{"childCategoryName":"Rocking & Spring Ride-Ons","childCategoryUrl":"<?php echo $urlPath ?>beli-rocking-spring-ride-on-tg/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No8" data-spm="cate_8">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_1">
+                <a href="<?php echo $urlPath ?>beli-tv-audio-video-permainan-dan-gadget/">
+                    <span>TV &amp; Perangkat Video</span>
+                </a>
+                        <script type="text" class="J_data_7_0">
+                            [{"childCategoryName":""},{"childCategoryName":"TV LED","childCategoryUrl":"<?php echo $urlPath ?>shop-televisi-digital/"},{"childCategoryName":"TV Smart","childCategoryUrl":"<?php echo $urlPath ?>beli-smart-tv/"},{"childCategoryName":"Blu-Ray/DVD Player","childCategoryUrl":"<?php echo $urlPath ?>beli-blu-ray-player/"},{"childCategoryName":"Media Player","childCategoryUrl":"<?php echo $urlPath ?>shop-media-player/"},{"childCategoryName":"Proyektor","childCategoryUrl":"<?php echo $urlPath ?>beli-proyektor-3/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_2">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-dapur/">
+                    <span>Peralatan Dapur Kecil</span>
+                </a>
+                        <script type="text" class="J_data_7_1">
+                            [{"childCategoryName":""},{"childCategoryName":"Rice Cooker","childCategoryUrl":"<?php echo $urlPath ?>beli-rice-cooker/"},{"childCategoryName":"Blender, Mixer & Grinder","childCategoryUrl":"<?php echo $urlPath ?>beli-blender-mixer-juicer/"},{"childCategoryName":"Kompor Gas","childCategoryUrl":"<?php echo $urlPath ?>beli-kompor-gas/"},{"childCategoryName":"Teko Listrik","childCategoryUrl":"<?php echo $urlPath ?>beli-ketel-elektrik-2/"},{"childCategoryName":"Juicer","childCategoryUrl":"<?php echo $urlPath ?>beli-juicer-pengekstrak-buah/"},{"childCategoryName":"Mesin Kopi","childCategoryUrl":"<?php echo $urlPath ?>beli-mesin-kopi/"},{"childCategoryName":"Air Fryer","childCategoryUrl":"<?php echo $urlPath ?>beli-air-fryers/"},{"childCategoryName":"Peralatan Dapur Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-ska-lainnya/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_3">
+                <a href="<?php echo $urlPath ?>shop-perlatan-besar/">
+                    <span>Elektronik Rumah Besar</span>
+                </a>
+                        <script type="text" class="J_data_7_2">
+                            [{"childCategoryName":""},{"childCategoryName":"Mesin Cuci","childCategoryUrl":"<?php echo $urlPath ?>beli-mesin-cuci/"},{"childCategoryName":"Kulkas","childCategoryUrl":"<?php echo $urlPath ?>beli-lemari-es/"},{"childCategoryName":"Microwave","childCategoryUrl":"<?php echo $urlPath ?>beli-microwave/"},{"childCategoryName":"Oven","childCategoryUrl":"<?php echo $urlPath ?>beli-ovens/"},{"childCategoryName":"Dispenser Air Minum","childCategoryUrl":"<?php echo $urlPath ?>beli-dispenser-air/"},{"childCategoryName":"AC","childCategoryUrl":"<?php echo $urlPath ?>beli-ac/"},{"childCategoryName":"Pemanas Air","childCategoryUrl":"<?php echo $urlPath ?>beli-pemanas-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_4">
+                <a href="<?php echo $urlPath ?>shop-pendingin-pembersih-udara-mini/">
+                    <span>Penyejuk dan Pembersih Udara</span>
+                </a>
+                        <script type="text" class="J_data_7_3">
+                            [{"childCategoryName":""},{"childCategoryName":"Kipas Angin","childCategoryUrl":"<?php echo $urlPath ?>shop-kipas/"},{"childCategoryName":"Air Cooler","childCategoryUrl":"<?php echo $urlPath ?>beli-pendingin-udara-2/"},{"childCategoryName":"Air Purifier","childCategoryUrl":"<?php echo $urlPath ?>beli-penjernih-udara-2/"},{"childCategoryName":"Humidifier","childCategoryUrl":"<?php echo $urlPath ?>beli-humidifier/"},{"childCategoryName":"Dehumidifier","childCategoryUrl":"<?php echo $urlPath ?>beli-dehumidifier/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_5">
+                <a href="<?php echo $urlPath ?>beli-perawatan-lantai/">
+                    <span>Penghisap Debu &amp; Perawatan Lantai</span>
+                </a>
+                        <script type="text" class="J_data_7_4">
+                            [{"childCategoryName":""},{"childCategoryName":"Penghisap Debu","childCategoryUrl":"<?php echo $urlPath ?>shop-penyedot-debu/"},{"childCategoryName":"Penghisap Debu Robotik","childCategoryUrl":"<?php echo $urlPath ?>shop-penyedot-debu-robot/"},{"childCategoryName":"Penghisap Debu dengan Tongkat","childCategoryUrl":"<?php echo $urlPath ?>shop-penyedot-debu-tongkat/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_6">
+                <a href="<?php echo $urlPath ?>shop-peralatan-perawatan-personal/">
+                    <span>Alat Perawatan Diri</span>
+                </a>
+                        <script type="text" class="J_data_7_5">
+                            [{"childCategoryName":""},{"childCategoryName":"Hair Dryer","childCategoryUrl":"<?php echo $urlPath ?>beli-pengering-rambut/"},{"childCategoryName":"Alat Penata Rambut","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-styling-rambut/"},{"childCategoryName":"Shaver & Pencukur Kumis Jenggot","childCategoryUrl":"<?php echo $urlPath ?>beli-shaver/"},{"childCategoryName":"Sikat Gigi Elektrik","childCategoryUrl":"<?php echo $urlPath ?>beli-sikat-gigi-elektrik/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_7">
+                <a href="<?php echo $urlPath ?>jual-aksesoris-elektronik-rumah-tangga/">
+                    <span>Aksesoris &amp; Suku Cadang</span>
+                </a>
+                        <script type="text" class="J_data_7_6">
+                            [{"childCategoryName":""},{"childCategoryName":"Suku Cadang & Aksesoris Peralatan Dapur Kecil","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-blender-dan-mixer/"},{"childCategoryName":"Suku Cadang & Aksesoris AC","childCategoryUrl":"<?php echo $urlPath ?>beli-suku-cadang-aksesoris-ac/"},{"childCategoryName":"Suku Cadang & Aksesoris Mesin Cuci","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-mesin-cuci-dan-pengering-pakaian/"},{"childCategoryName":"Suku Cadang & Filter Pengganti","childCategoryUrl":"<?php echo $urlPath ?>beli-filter-air/"},{"childCategoryName":"Suku Cadang & Filter Penghisap Debu","childCategoryUrl":"<?php echo $urlPath ?>beli-suku-kadang-aksesoris-vacuum-cleaner/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_8">
+                <a href="<?php echo $urlPath ?>jual-aksesoris-televisi/">
+                    <span>Aksesoris Televisi</span>
+                </a>
+                        <script type="text" class="J_data_7_7">
+                            [{"childCategoryName":""},{"childCategoryName":"TV Box","childCategoryUrl":"<?php echo $urlPath ?>jual-tv-receiver/"},{"childCategoryName":"Antena TV","childCategoryUrl":"<?php echo $urlPath ?>jual-antena-tv/"},{"childCategoryName":"Bracket Dinding TV & Pelindung","childCategoryUrl":"<?php echo $urlPath ?>jual-bracket-dinding-tv/"},{"childCategoryName":"Remote Control TV","childCategoryUrl":"<?php echo $urlPath ?>jual-remote-control-tv/"},{"childCategoryName":"Kabel TV","childCategoryUrl":"<?php echo $urlPath ?>jual-kabel-tv/"},{"childCategoryName":"Adaptor TV","childCategoryUrl":"<?php echo $urlPath ?>jual-adaptor-tv/"},{"childCategoryName":"Kacamata 3D TV","childCategoryUrl":"<?php echo $urlPath ?>jual-kacamata-3d-tv/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_8_9">
+                <a href="<?php echo $urlPath ?>jual-home-entertainment/">
+                    <span>Home Entertainment</span>
+                </a>
+                        <script type="text" class="J_data_7_8">
+                            [{"childCategoryName":""},{"childCategoryName":"Soundbar","childCategoryUrl":"<?php echo $urlPath ?>jual-soundbar/"},{"childCategoryName":"Sistem Karaoke","childCategoryUrl":"<?php echo $urlPath ?>jual-sistem-karaoke/"},{"childCategoryName":"Sistem Hi-Fi","childCategoryUrl":"<?php echo $urlPath ?>jual-sistem-hi-fi/"},{"childCategoryName":"Sound System Panggung","childCategoryUrl":"<?php echo $urlPath ?>sound-system-panggung/"},{"childCategoryName":"Player Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-audio-player/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No9" data-spm="cate_9">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_1">
+                <a href="<?php echo $urlPath ?>beli-dekorasi-rumah/">
+                    <span>Dekorasi Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Stiker Dinding","childCategoryUrl":"<?php echo $urlPath ?>beli-stiker-dinding/"},{"childCategoryName":"Gorden","childCategoryUrl":"<?php echo $urlPath ?>gorden-dan-kerai/"},{"childCategoryName":"Tikar & Karpet","childCategoryUrl":"<?php echo $urlPath ?>beli-tikar-karpet/"},{"childCategoryName":"Hiasan Dinding","childCategoryUrl":"<?php echo $urlPath ?>beli-hiasan-dinding/"},{"childCategoryName":"Dekorasi Aksen","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesoris-dekor/"},{"childCategoryName":"Bunga & Tanaman Artifisial","childCategoryUrl":"<?php echo $urlPath ?>beli-bunga-tanaman-artifisial/"},{"childCategoryName":"Jam","childCategoryUrl":"<?php echo $urlPath ?>beli-jam/"},{"childCategoryName":"Dalaman & Sarung Bantal","childCategoryUrl":"<?php echo $urlPath ?>shop-dalaman-sarung-bantal/"},{"childCategoryName":"Bingkai","childCategoryUrl":"<?php echo $urlPath ?>beli-bingkai/"},{"childCategoryName":"Wewangian Rumah","childCategoryUrl":"<?php echo $urlPath ?>beli-wewangian-rumah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_2">
+                <a href="<?php echo $urlPath ?>beli-furnitur/">
+                    <span>Furnitur</span>
+                </a>
+                        <script type="text" class="J_data_8_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Tempat Penyimpanan","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-penyimpanan/"},{"childCategoryName":"Lemari Pakaian","childCategoryUrl":"<?php echo $urlPath ?>beli-lemari-pakaian/"},{"childCategoryName":"Kasur","childCategoryUrl":"<?php echo $urlPath ?>beli-kasur/"},{"childCategoryName":"Kamar Tidur","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-kamar-tidur/"},{"childCategoryName":"Rak","childCategoryUrl":"<?php echo $urlPath ?>rak/"},{"childCategoryName":"Rak TV dan Media","childCategoryUrl":"<?php echo $urlPath ?>tempat-penyimpanan-media-dan-tv/"},{"childCategoryName":"Sofa","childCategoryUrl":"<?php echo $urlPath ?>beli-sofa/"},{"childCategoryName":"Ruang Tamu","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-ruang-tamu/"},{"childCategoryName":"Ruang Kerja Rumah","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-ruang-kerja-rumah/"},{"childCategoryName":"Dapur & Ruang Makan","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-dapur-ruang-makan/"},{"childCategoryName":"Ruang Bayi","childCategoryUrl":"<?php echo $urlPath ?>beli-furnitur-ruang-bayi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_3">
+                <a href="<?php echo $urlPath ?>beli-peralatan-ranjang/">
+                    <span>Kelengkapan Tempat Tidur</span>
+                </a>
+                        <script type="text" class="J_data_8_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Seprai","childCategoryUrl":"<?php echo $urlPath ?>seprei-ranjang/"},{"childCategoryName":"Seprai Set","childCategoryUrl":"<?php echo $urlPath ?>perangkat-seprei/"},{"childCategoryName":"Selimut","childCategoryUrl":"<?php echo $urlPath ?>selimut-dan-selimut-panjang/"},{"childCategoryName":"Bantal","childCategoryUrl":"<?php echo $urlPath ?>beli-bantal/"},{"childCategoryName":"Aksesoris Tempat Tidur","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-ranjang/"},{"childCategoryName":"Sarung Bantal","childCategoryUrl":"<?php echo $urlPath ?>beli-sarung-bantal/"},{"childCategoryName":"Selimut Tebal","childCategoryUrl":"<?php echo $urlPath ?>seprei-dan-selimut-tebal/"},{"childCategoryName":"Pelindung Kasur","childCategoryUrl":"<?php echo $urlPath ?>kasur-pelindung/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_4">
+                <a href="<?php echo $urlPath ?>penerangan/">
+                    <span>Penerangan</span>
+                </a>
+                        <script type="text" class="J_data_8_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam Lampu","childCategoryUrl":"<?php echo $urlPath ?>shop-bohlam-lampu/"},{"childCategoryName":"Lampu Khusus","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-khusus/"},{"childCategoryName":"Lampu Langit-langit","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-langit-langit-hias/"},{"childCategoryName":"Penerangan Outdoor","childCategoryUrl":"<?php echo $urlPath ?>beli-penerangan-outdoor/"},{"childCategoryName":"Lampu Dinding & Tempel","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-dinding-tempel/"},{"childCategoryName":"Lampu Meja","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-meja/"},{"childCategoryName":"Komponen Lampu","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-komponen/"},{"childCategoryName":"Kap Lampu","childCategoryUrl":"<?php echo $urlPath ?>kap-lampu/"},{"childCategoryName":"Lampu Lantai","childCategoryUrl":"<?php echo $urlPath ?>beli-lampu-lantai/"},{"childCategoryName":"Lampu Rechargeable & Senter","childCategoryUrl":"<?php echo $urlPath ?>beli-senter/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_5">
+                <a href="<?php echo $urlPath ?>beli-peralatan-mandi/">
+                    <span>Peralatan Mandi</span>
+                </a>
+                        <script type="text" class="J_data_8_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Handuk Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-handuk-mandi/"},{"childCategoryName":"Timbangan Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-timbangan-kamar-mandi/"},{"childCategoryName":"Wadah Penyimpanan Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-tempat-penyimpan-kamar-mandi/"},{"childCategoryName":"Rak Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>jual-laci-kamar-mandi/"},{"childCategoryName":"Gantungan Handuk & Penghangat","childCategoryUrl":"<?php echo $urlPath ?>gantungan-handuk-dan-penghangat/"},{"childCategoryName":"Tempat & Gantungan Shower","childCategoryUrl":"<?php echo $urlPath ?>tempat-dan-gantungan-shower/"},{"childCategoryName":"Keset Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-mandi/"},{"childCategoryName":"Jubah & Kimono Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-jubah-mandi/"},{"childCategoryName":"Tirai Shower","childCategoryUrl":"<?php echo $urlPath ?>shop-tirai-mandi-aksesoris/"},{"childCategoryName":"Cermin Kamar Mandi","childCategoryUrl":"<?php echo $urlPath ?>beli-cermin-kamar-mandi/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_6">
+                <a href="<?php echo $urlPath ?>beli-perlengkapan-dapur-makan/">
+                    <span>Alat Dapur</span>
+                </a>
+                        <script type="text" class="J_data_8_5">
+                            [{"childCategoryName":"Botol minum","childCategoryUrl":"<?php echo $urlPath ?>botol-minum/"},{"childCategoryName":"Tempat Penyimpanan Makanan","childCategoryUrl":"<?php echo $urlPath ?>beli-wadah-penyimpan-makanan/"},{"childCategoryName":"Alas Meja & Aksesoris Dapur","childCategoryUrl":"<?php echo $urlPath ?>beli-alas-meja-aksesoris-dapur/"},{"childCategoryName":"Kopi & Teh","childCategoryUrl":"<?php echo $urlPath ?>beli-kopi-dan-teh/"},{"childCategoryName":"Rak Piring & Aksesoris Wastafel","childCategoryUrl":"<?php echo $urlPath ?>beli-rak-piring-aksesoris-bak/"},{"childCategoryName":"Panci & Wajan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-masak/"},{"childCategoryName":"Perangkat Minum","childCategoryUrl":"<?php echo $urlPath ?>beli-perangkat-minum-gelas/"},{"childCategoryName":"Perangkat Makan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-penyajian-makanan/"},{"childCategoryName":"Perangkat Pemanggang","childCategoryUrl":"<?php echo $urlPath ?>beli-perangkat-pemanggang/"},{"childCategoryName":"Perangkat Penyajian","childCategoryUrl":"<?php echo $urlPath ?>beli-perangkat-penyaji/"},{"childCategoryName":"Pisau & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-pisau-dan-aksesoris/"},{"childCategoryName":"Alat Dapur Lainnya","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-dapur/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_7">
+                <a href="<?php echo $urlPath ?>beli-binatu-kebersihan/">
+                    <span>Binatu &amp; Alat Kebersihan</span>
+                </a>
+                        <script type="text" class="J_data_8_6">
+                            [{"childCategoryName":"Gantungan Baju","childCategoryUrl":"<?php echo $urlPath ?>gantungan-baju/"},{"childCategoryName":"Keranjang Baju","childCategoryUrl":"<?php echo $urlPath ?>keranjang-cucian/"},{"childCategoryName":"Jemuran Pakaian","childCategoryUrl":"<?php echo $urlPath ?>rak-pengering/"},{"childCategoryName":"Alat Binatu & Setrika","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-binatu-setrika/"},{"childCategoryName":"Meja Setrika","childCategoryUrl":"<?php echo $urlPath ?>papan-setrika/"},{"childCategoryName":"Produk Kebersihan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Sapu & Alat Pel","childCategoryUrl":"<?php echo $urlPath ?>beli-sapu-pel/"},{"childCategoryName":"Lap Kain Penghilang Debu","childCategoryUrl":"<?php echo $urlPath ?>shop-Sapu-Sikat-Kemoceng/"},{"childCategoryName":"Sikat Pembersih","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-aksesoris-pembersih/"},{"childCategoryName":"Tempat Sampah","childCategoryUrl":"<?php echo $urlPath ?>tempat-sampah/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_8">
+                <a href="<?php echo $urlPath ?>beli-perawatan-rumah/">
+                    <span>Perkakas &amp; Perbaikan Rumah</span>
+                </a>
+                        <script type="text" class="J_data_8_7">
+                            [{"childCategoryName":"Alat Penyimpanan & Rak","childCategoryUrl":"<?php echo $urlPath ?>beli-garasi-penyimpanan-alat-alat/"},{"childCategoryName":"Kabel & Perlengkapan Elektrik","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-elektrik/"},{"childCategoryName":"Pengecatan & Dekorasi","childCategoryUrl":"<?php echo $urlPath ?>beli-pengecatan-dekorasi/"},{"childCategoryName":"Perkakas","childCategoryUrl":"<?php echo $urlPath ?>beli-perkakas/"},{"childCategoryName":"Perkakas Listrik","childCategoryUrl":"<?php echo $urlPath ?>jual-perkakas-listrik/"},{"childCategoryName":"Perkakas Portabel","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-genggam/"},{"childCategoryName":"Pipa Saluran Air & Kelengkapan","childCategoryUrl":"<?php echo $urlPath ?>beli-ledeng/"},{"childCategoryName":"Senter","childCategoryUrl":"<?php echo $urlPath ?>beli-senter"},{"childCategoryName":"Tangga & Kursi Peninggi","childCategoryUrl":"<?php echo $urlPath ?>beli-tangga-kursi-peninggi/"},{"childCategoryName":"perlengkapan keamanan","childCategoryUrl":"<?php echo $urlPath ?>lampu-penerangan-tempat-kerja/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_9">
+                <a href="<?php echo $urlPath ?>Kebun &amp; Luar Ruangan/">
+                    <span>Kebun &amp; Luar Ruangan</span>
+                </a>
+                        <script type="text" class="J_data_8_8">
+                            [{"childCategoryName":"Peralatan Listrik Taman & Kebun","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-listrik-taman-luar-ruangan/"},{"childCategoryName":"Peralatan Kebun","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-kebun/"},{"childCategoryName":"Sistem Pengairan","childCategoryUrl":"<?php echo $urlPath ?>beli-sistem-pengairan/"},{"childCategoryName":"Bibit & Biji Bijian","childCategoryUrl":"<?php echo $urlPath ?>beli-tumbuhan-biji-bijian/"},{"childCategoryName":"Pembasmi Hama","childCategoryUrl":"<?php echo $urlPath ?>beli-pembasmi-rumput-liar-hama/"},{"childCategoryName":"Aksesoris Genset","childCategoryUrl":"<?php echo $urlPath ?>beli-aksesoris-peralatan-listrik-luar-ruangan/"},{"childCategoryName":"Genset","childCategoryUrl":"<?php echo $urlPath ?>shop-generator/"},{"childCategoryName":"Pemanggang","childCategoryUrl":"<?php echo $urlPath ?>pemanggang-dan-penyajian-masakan-outdoor/"},{"childCategoryName":"Alat Pembunuh Serangga","childCategoryUrl":"<?php echo $urlPath ?>alat-pembunuh-serangga/"},{"childCategoryName":"Aksesoris Luar Ruangan","childCategoryUrl":"<?php echo $urlPath ?>beli-luar-ruangan/"},{"childCategoryName":"Taman & Kebun","childCategoryUrl":"<?php echo $urlPath ?>perlengkapan-taman-dan-kebun/"},{"childCategoryName":"","childCategoryUrl":""}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_10">
+                <a href="<?php echo $urlPath ?>beli-alat-tulis-kerajinan/">
+                    <span>Alat Tulis &amp; Kerajinan</span>
+                </a>
+                        <script type="text" class="J_data_8_9">
+                            [{"childCategoryName":"Peralatan Kesenian dan Kerajinan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-seni/"},{"childCategoryName":"Peralatan Mewarnai dan Copic","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-mewarnai-copic/"},{"childCategoryName":"Kerajinan Umum","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-kerajinan-umum/"},{"childCategoryName":"Pernak Pernik Hadiah dan Kado","childCategoryUrl":"<?php echo $urlPath ?>beli-pernak-pernik-hadiah/"},{"childCategoryName":"Tas Belanja","childCategoryUrl":"<?php echo $urlPath ?>beli-tas-belanjaan/"},{"childCategoryName":"Buku Catatan","childCategoryUrl":"<?php echo $urlPath ?>buku-catatan/"},{"childCategoryName":"Kertas Komputer","childCategoryUrl":"<?php echo $urlPath ?>beli-kertas-komputer/"},{"childCategoryName":"Perlengkapan Sekolah","childCategoryUrl":"<?php echo $urlPath ?>beli-perlengkapan-sekolah/"},{"childCategoryName":"Perlengkapan Meja Kerja","childCategoryUrl":"<?php echo $urlPath ?>beli-wadah-alat-alat-kantor/"},{"childCategoryName":"Perlengkapan Jahit","childCategoryUrl":"<?php echo $urlPath ?>beli-bahan-bahan-kerajinan-tangan/"},{"childCategoryName":"Pulpen","childCategoryUrl":"<?php echo $urlPath ?>beli-pulpen/"},{"childCategoryName":"Pensil","childCategoryUrl":"<?php echo $urlPath ?>beli-pensil-2/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_9_11">
+                <a href="<?php echo $urlPath ?>beli-media-musik-dan-buku/">
+                    <span>Media, Musik &amp; Buku</span>
+                </a>
+                        <script type="text" class="J_data_8_10">
+                            [{"childCategoryName":"Instrumen Musik","childCategoryUrl":"<?php echo $urlPath ?>instrumen-musik/"},{"childCategoryName":"Buku","childCategoryUrl":"<?php echo $urlPath ?>buku/"},{"childCategoryName":"Musik","childCategoryUrl":"<?php echo $urlPath ?>lagu/"},{"childCategoryName":"Majalah","childCategoryUrl":"<?php echo $urlPath ?>majalah/"},{"childCategoryName":"Film","childCategoryUrl":"<?php echo $urlPath ?>film/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No10" data-spm="cate_10">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_1">
+                <a href="<?php echo $urlPath ?>beli-minuman/">
+                    <span>Minuman</span>
+                </a>
+                        <script type="text" class="J_data_9_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"UHT, Susu & Susu Bubuk","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-uht-milk-milk-powder/"},{"childCategoryName":"Kopi","childCategoryUrl":"<?php echo $urlPath ?>beli-kopi/"},{"childCategoryName":"Minuman Serbuk","childCategoryUrl":"<?php echo $urlPath ?>beli-minuman-serbuk/"},{"childCategoryName":"Minuman Berenergi","childCategoryUrl":"<?php echo $urlPath ?>shop-Minuman-Olahraga-Energi/"},{"childCategoryName":"Teh","childCategoryUrl":"<?php echo $urlPath ?>beli-teh/"},{"childCategoryName":"Chocolate, Malt & Hot Cereals","childCategoryUrl":"<?php echo $urlPath ?>coklat-panas/"},{"childCategoryName":"Air Mineral","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-air/"},{"childCategoryName":"Minuman Berkarbonasi","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-minuman-ringan/"},{"childCategoryName":"Jus","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-jus/"},{"childCategoryName":"Sirup","childCategoryUrl":"<?php echo $urlPath ?>beli-sirup/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_2">
+                <a href="<?php echo $urlPath ?>shop-Bahan-Utama-Pelengkap-Masakan">
+                    <span>Bahan &amp; Bumbu Masakan</span>
+                </a>
+                        <script type="text" class="J_data_9_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan Instant & Siap santap","childCategoryUrl":"<?php echo $urlPath ?>shop-Makanan-Instan-Siap-Santap/"},{"childCategoryName":"Bahan Pembuat Kue","childCategoryUrl":"<?php echo $urlPath ?>shop-Bahan-Pembuat-Kue/"},{"childCategoryName":"Beras","childCategoryUrl":"<?php echo $urlPath ?>shop-Beras/"},{"childCategoryName":"Garam & Bumbu Dapur","childCategoryUrl":"<?php echo $urlPath ?>shop-Bumbu-Dapur/"},{"childCategoryName":"Mie & Bihun","childCategoryUrl":"<?php echo $urlPath ?>shop-Mi-Bihun/"},{"childCategoryName":"Makanan Kering","childCategoryUrl":"<?php echo $urlPath ?>shop-Makanan-Kering/"},{"childCategoryName":"Minyak","childCategoryUrl":"<?php echo $urlPath ?>shop-Minyak/"},{"childCategoryName":"Makanan Kaleng","childCategoryUrl":"<?php echo $urlPath ?>shop-Makanan-Kaleng/"},{"childCategoryName":"Pasta","childCategoryUrl":"<?php echo $urlPath ?>shop-Pasta/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_3">
+                <a href="<?php echo $urlPath ?>shop-Cokelat-Camilan-Permen/">
+                    <span>Cokelat, Camilan &amp; Permen</span>
+                </a>
+                        <script type="text" class="J_data_9_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Camilan","childCategoryUrl":"<?php echo $urlPath ?>shop-Camilan/"},{"childCategoryName":"Cokelat","childCategoryUrl":"<?php echo $urlPath ?>shop-Cokelat/"},{"childCategoryName":"Biskuit & Kerupuk","childCategoryUrl":"<?php echo $urlPath ?>shop-Biskuit-Manis/"},{"childCategoryName":"Permen","childCategoryUrl":"<?php echo $urlPath ?>shop-Manisan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_4">
+                <a href="<?php echo $urlPath ?>beli-makanan-sarapan">
+                    <span>Makanan Sarapan, Sereal &amp; Selai</span>
+                </a>
+                        <script type="text" class="J_data_9_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Selai & Madu","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-selai-madu-spread/"},{"childCategoryName":"Oatmeal","childCategoryUrl":"<?php echo $urlPath ?>beli-oatmeal/"},{"childCategoryName":"Sereal Sarapan","childCategoryUrl":"<?php echo $urlPath ?>beli-sereal/"},{"childCategoryName":"Tepung Pancake & Waffle","childCategoryUrl":"<?php echo $urlPath ?>beli-pancake-waffle/"},{"childCategoryName":"Bars","childCategoryUrl":"<?php echo $urlPath ?>shop-bar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_5">
+                <a href="<?php echo $urlPath ?>beli-makanan-minuman-hasil-segar">
+                    <span>Buah &amp; Sayur</span>
+                </a>
+                        <script type="text" class="J_data_9_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Buah Segar","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-buah/"},{"childCategoryName":"Sayur Segar","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-sayuran-segar/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_6">
+                <a href="<?php echo $urlPath ?>shop-kebutuhan-rumah-tangga">
+                    <span>Kebutuhan Rumah Tangga</span>
+                </a>
+                        <script type="text" class="J_data_9_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Pengharum Ruangan","childCategoryUrl":"<?php echo $urlPath ?>shop-perawatan-udara/"},{"childCategoryName":"Kebutuhan Kebersihan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-pembersihan/"},{"childCategoryName":"Pengendalian Hama","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-pengendalian-hama/"},{"childCategoryName":"Sabun Pencuci Piring","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-mencuci-piring/"},{"childCategoryName":"Kebutuhan Laundry","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-minuman-cucian/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_7">
+                <a href="<?php echo $urlPath ?>shop-makanan-hewan">
+                    <span>Makanan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Makanan & Camilan Kucing","childCategoryUrl":"<?php echo $urlPath ?>jual-makanan-kucing/"},{"childCategoryName":"Makanan Burung","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-burung/"},{"childCategoryName":"Makanan Ikan","childCategoryUrl":"<?php echo $urlPath ?>beli-makanan-ikan/"},{"childCategoryName":"Makanan & Camilan Anjing","childCategoryUrl":"<?php echo $urlPath ?>jual-makanan-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_8">
+                <a href="<?php echo $urlPath ?>shop-aksesoris-hewan">
+                    <span>Aksesoris Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Keperluan Akuarium","childCategoryUrl":"<?php echo $urlPath ?>shop-keperluan-akuarium/"},{"childCategoryName":"Kandang & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>beli-kandang-terbuka-pintu-anjing/"},{"childCategoryName":"Peralatan Grooming","childCategoryUrl":"<?php echo $urlPath ?>jual-persediaan-grooming-hewan/"},{"childCategoryName":"Rumah,Alas & Tempat tidur","childCategoryUrl":"<?php echo $urlPath ?>beli-ranjang-alas-tidur-rumah-anjing/"},{"childCategoryName":"Alat Makan Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-mangkuk-makan-anjing/"},{"childCategoryName":"Tali dan Kalung Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-tali-kalung-moncong-anjing/"},{"childCategoryName":"Kebutuhan Travel Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-pengangkut-perjalanan-anjing/"},{"childCategoryName":"Mainan Hewan","childCategoryUrl":"<?php echo $urlPath ?>shop-mainan/"},{"childCategoryName":"Alat Pelatihan Anjing","childCategoryUrl":"<?php echo $urlPath ?>beli-alat-latih-olahraga-anjing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_10_9">
+                <a href="<?php echo $urlPath ?>shop-kesehatan-hewan-peliharaan">
+                    <span>Kesehatan Hewan Peliharaan</span>
+                </a>
+                        <script type="text" class="J_data_9_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Perawatan Gigi","childCategoryUrl":"<?php echo $urlPath ?>beli-kesehatan-gigi-anjing/"},{"childCategoryName":"Pembasmi Kutu Hewan","childCategoryUrl":"<?php echo $urlPath ?>beli-kutu-anjing/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No11" data-spm="cate_11">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_1">
+                <a href="<?php echo $urlPath ?>baju-olahraga-pria/">
+                    <span>Baju Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_0">
+                            [{"childCategoryName":"Celana Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>celana-panjang-dan-pendek-olahraga-pria/"},{"childCategoryName":"Kaos Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>kaos-olahraga-pria/"},{"childCategoryName":"Jaket Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-parka-olahraga-pria/"},{"childCategoryName":"Pakaian Renang Pria","childCategoryUrl":"<?php echo $urlPath ?>pakaian-renang-dan-selancar-pria/"},{"childCategoryName":"Jersey Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-jersey-olahraga-pria/"},{"childCategoryName":"Celana Pendek Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-olahraga-pria/"},{"childCategoryName":"Hoodies Pria","childCategoryUrl":"<?php echo $urlPath ?>hoodies-pria/"},{"childCategoryName":"Topi Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-topi-olahraga-pria/"},{"childCategoryName":"Tas Ransel Sport Pria","childCategoryUrl":"<?php echo $urlPath ?>tas-ransel-sport-pria/"},{"childCategoryName":"Tas Serut Pria","childCategoryUrl":"<?php echo $urlPath ?>tas-serut-pria/"},{"childCategoryName":"Tas Duffel Pria","childCategoryUrl":"<?php echo $urlPath ?>tas-duffel-pria/"},{"childCategoryName":"Gym Tote Pria","childCategoryUrl":"<?php echo $urlPath ?>gym-tote-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_2">
+                <a href="<?php echo $urlPath ?>pakaian-olahraga-wanita/">
+                    <span>Baju Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_1">
+                            [{"childCategoryName":"Celana Panjang Wanita","childCategoryUrl":"<?php echo $urlPath ?>celana-panjang-dan-pendek-olahraga-wanita/"},{"childCategoryName":"Kaos Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>kaos-dan-atasan-olahraga-wanita/"},{"childCategoryName":"Jaket Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>jaket-dan-parka-sport-wanita/"},{"childCategoryName":"Sport Bra Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sport-bra-wanita/"},{"childCategoryName":"Celana Pendek Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-celana-pendek-olahraga-wanita/"},{"childCategoryName":"Rok Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-rok-olahraga-wanita/"},{"childCategoryName":"Hoodies Wanita","childCategoryUrl":"<?php echo $urlPath ?>hoodies-wanita/"},{"childCategoryName":"Pakaian Renang Wanita","childCategoryUrl":"<?php echo $urlPath ?>pakaian-renang-dan-selancar-wanita/"},{"childCategoryName":"Tas Ransel Sport Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-ransel-sport-wanita/"},{"childCategoryName":"Tas Serut Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-serut-wanita/"},{"childCategoryName":"Tas Duffel Wanita","childCategoryUrl":"<?php echo $urlPath ?>tas-duffel-wanita/"},{"childCategoryName":"Gym Tote Wanita","childCategoryUrl":"<?php echo $urlPath ?>gym-tote-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_3">
+                <a href="<?php echo $urlPath ?>sepatu-dan-pakaian-olahraga-pria/">
+                    <span>Sepatu Olahraga Pria</span>
+                </a>
+                        <script type="text" class="J_data_10_2">
+                            [{"childCategoryName":"Sepatu Sepakbola Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-futsal-pria/"},{"childCategoryName":"Sepatu Lari Pria","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lari-pria/"},{"childCategoryName":"Sepatu Hiking Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-hiking-pria/"},{"childCategoryName":"Sepatu Basket Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-basket-pria/"},{"childCategoryName":"Sepatu Olahraga Air Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-olahraga-air-pria/"},{"childCategoryName":"Sepatu Badminton ria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-badminton-pria/"},{"childCategoryName":"Sepatu Training Pira","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-fitness-training-pria/"},{"childCategoryName":"Sepatu Skateboard Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-skateboard-pria/"},{"childCategoryName":"Sepatu Sneakers Pria","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-sneakers-pria/"},{"childCategoryName":"Sandal Olahraga Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sandal-olahraga-pria/"},{"childCategoryName":"Sepatu Jalan Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-jalan-pria/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_4">
+                <a href="<?php echo $urlPath ?>sepatu-dan-pakaian-olahraga-wanita/">
+                    <span>Sepatu Olahraga Wanita</span>
+                </a>
+                        <script type="text" class="J_data_10_3">
+                            [{"childCategoryName":"Sepatu Badminton Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-badminton-wanita/"},{"childCategoryName":"Sepatu Lari Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-lari-wanita/"},{"childCategoryName":"Sepatu Futsal Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-futsal-wanita/"},{"childCategoryName":"Sepatu Basket Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-basket-wanita/"},{"childCategoryName":"Sepatu Sepakbola Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sepakbola-wanita/"},{"childCategoryName":"Sepatu Olahraga Air Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-olaraga-air-wanita/"},{"childCategoryName":"Sepatu Hiking Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-hiking-wanita/"},{"childCategoryName":"Sepatu Training Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-fitness-training-wanita/"},{"childCategoryName":"Septu Skateboard Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-skateboard-wanita/"},{"childCategoryName":"Sepatu Sneakers Wanita","childCategoryUrl":"<?php echo $urlPath ?>beli-sepatu-sneakers-wanita/"},{"childCategoryName":"Sandal Olahraga Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sandal-olahraga-wanita/"},{"childCategoryName":"Sepatu Jalan Wanita","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-jalan-wanita/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_5">
+                <a href="<?php echo $urlPath ?>camping-dan-hiking/">
+                    <span>Camping dan Hiking</span>
+                </a>
+                        <script type="text" class="J_data_10_4">
+                            [{"childCategoryName":"Tenda dan furniture Camping","childCategoryUrl":"<?php echo $urlPath ?>tenda-dan-furniture/"},{"childCategoryName":"Perlengkapan Tidur Camping","childCategoryUrl":"<?php echo $urlPath ?>perlengkapan-tidur-camping/"},{"childCategoryName":"Tas Camping","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-ransel/"},{"childCategoryName":"Tempat berteduh Camping","childCategoryUrl":"<?php echo $urlPath ?>jual-tempat-berteduh-dan-kanopi/"},{"childCategoryName":"Perabotan Kemah","childCategoryUrl":"<?php echo $urlPath ?>jual-perabotan-kemah/"},{"childCategoryName":"Alat Dapur Kemah","childCategoryUrl":"<?php echo $urlPath ?>jual-dapur-kemah/"},{"childCategoryName":"Alat penerangan Hiking","childCategoryUrl":"<?php echo $urlPath ?>jual-penerangan/"},{"childCategoryName":"Navigasi Elektroning Hiking","childCategoryUrl":"<?php echo $urlPath ?>jual-navigasi-elektronik/"},{"childCategoryName":"Tongkat Hiking","childCategoryUrl":"<?php echo $urlPath ?>jual-tongkat-hiking/"},{"childCategoryName":"Pisau Kemah","childCategoryUrl":"<?php echo $urlPath ?>jual-pisau-alat-multifungsi/"},{"childCategoryName":"Peralatan Survival Camping","childCategoryUrl":"<?php echo $urlPath ?>jual-peralatan-survival-dan-keamanan/"},{"childCategoryName":"Perlengkapan Panjat Tebing","childCategoryUrl":"<?php echo $urlPath ?>panjat-tebing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_6">
+                <a href="<?php echo $urlPath ?>jual-peralatan-memancing/">
+                    <span>Peralatan Memancing</span>
+                </a>
+                        <script type="text" class="J_data_10_5">
+                            [{"childCategoryName":"Tongkat Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-tongkat-pancing/"},{"childCategoryName":"Alat Gulungan Pancing","childCategoryUrl":"<?php echo $urlPath ?>alat-gulungan-pancing/"},{"childCategoryName":"Set Tongkat dan Gulungan Pancing","childCategoryUrl":"<?php echo $urlPath ?>set-tongkat-dan-gulungan-pancing/"},{"childCategoryName":"Senar Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-senar-pancing/"},{"childCategoryName":"Umpan Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-umpan/"},{"childCategoryName":"Peralatan Pancing","childCategoryUrl":"<?php echo $urlPath ?>jual-peralatan-pancing/"},{"childCategoryName":"GPS alat pencari ikan","childCategoryUrl":"<?php echo $urlPath ?>jual-gps-alat-pencari-ikan/"},{"childCategoryName":"Jaring Penangkap Ikan","childCategoryUrl":"<?php echo $urlPath ?>jual-jaring-penangkap-ikan/"},{"childCategoryName":"Aksesoris Memancing","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-memancing/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_7">
+                <a href="<?php echo $urlPath ?>olahraga-sepeda/">
+                    <span>Olahraga Sepeda</span>
+                </a>
+                        <script type="text" class="J_data_10_6">
+                            [{"childCategoryName":"Komponen Part Sepeda","childCategoryUrl":"<?php echo $urlPath ?>komponen-dan-parts-sepeda/"},{"childCategoryName":"Aksesoris Sepeda","childCategoryUrl":"<?php echo $urlPath ?>aksesoris-sepeda/"},{"childCategoryName":"Sepeda","childCategoryUrl":"<?php echo $urlPath ?>sepeda/"},{"childCategoryName":"Kaos Sepeda","childCategoryUrl":"<?php echo $urlPath ?>jual-baju-kaos-sepeda/"},{"childCategoryName":"Sepatu Sepeda Pria","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepeda-pria/"},{"childCategoryName":"Sepatu Sepeda Wanita","childCategoryUrl":"<?php echo $urlPath ?>sepatu-sepeda-wanita/"},{"childCategoryName":"Sepatu Sepeda Perempuan","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepeda-anak-perempuan/"},{"childCategoryName":"Sepatu Sepeda Laki-Laki","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepeda-anak-laki-laki/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_8">
+                <a href="<?php echo $urlPath ?>olahraga-air/">
+                    <span>Olahraga Air</span>
+                </a>
+                        <script type="text" class="J_data_10_7">
+                            [{"childCategoryName":"Kapal","childCategoryUrl":"<?php echo $urlPath ?>jual-kapal/"},{"childCategoryName":"Peralatan Menyelam","childCategoryUrl":"<?php echo $urlPath ?>diving-snorkeling/"},{"childCategoryName":"Peralatan Renang","childCategoryUrl":"<?php echo $urlPath ?>renang/"},{"childCategoryName":"Papan Renang","childCategoryUrl":"<?php echo $urlPath ?>jual-olahraga-papan/"},{"childCategoryName":"Tubing dan Towables","childCategoryUrl":"<?php echo $urlPath ?>jual-tubing-towables/"},{"childCategoryName":"Akesesoris Olahraga Air","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-olahraga-air/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_9">
+                <a href="<?php echo $urlPath ?>latihan-dan-fitness/">
+                    <span>Gym, Yoga &amp; Fitness</span>
+                </a>
+                        <script type="text" class="J_data_10_8">
+                            [{"childCategoryName":"Peralatan Pelatihan Ketangkasan","childCategoryUrl":"<?php echo $urlPath ?>shop-pelatihan-kecepatan-ketangkasan/"},{"childCategoryName":"Aksesoris Gym","childCategoryUrl":"<?php echo $urlPath ?>shop-aksesoris/"},{"childCategoryName":"Pilates Gym","childCategoryUrl":"<?php echo $urlPath ?>pilates/"},{"childCategoryName":"Alat Latihan Angkat Beban","childCategoryUrl":"<?php echo $urlPath ?>alat-latihan-angkat-beban/"},{"childCategoryName":"Yoga","childCategoryUrl":"<?php echo $urlPath ?>yoga/"},{"childCategoryName":"Peralatan Kardio","childCategoryUrl":"<?php echo $urlPath ?>peralatan-latihan-kardio/"},{"childCategoryName":"Perlengkapan Fitnes","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-fitness/"},{"childCategoryName":"Perlengkapan Lari","childCategoryUrl":"<?php echo $urlPath ?>temporary-url-sport-catl3-1/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_10">
+                <a href="<?php echo $urlPath ?>olahraga-raket/">
+                    <span>Olahraga Raket</span>
+                </a>
+                        <script type="text" class="J_data_10_9">
+                            [{"childCategoryName":"Tenis Meja","childCategoryUrl":"<?php echo $urlPath ?>tenis-meja/"},{"childCategoryName":"Badminton","childCategoryUrl":"<?php echo $urlPath ?>bulutangkis/"},{"childCategoryName":"Tennis","childCategoryUrl":"<?php echo $urlPath ?>tenis/"},{"childCategoryName":"Squash","childCategoryUrl":"<?php echo $urlPath ?>squash/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_11">
+                <a href="<?php echo $urlPath ?>shop-perlengkapan-olah-raga/">
+                    <span>Perlengkapan Olahraga</span>
+                </a>
+                        <script type="text" class="J_data_10_10">
+                            [{"childCategoryName":"Oxrashoan Tinju-Bela Mma","childCategoryUrl":"<?php echo $urlPath ?>jual-tinju-bela-diri-mma/"},{"childCategoryName":"Golf Gym","childCategoryUrl":"<?php echo $urlPath ?>golf/"},{"childCategoryName":"Bola Gym","childCategoryUrl":"<?php echo $urlPath ?>sepak-bola/"},{"childCategoryName":"Basket Gym","childCategoryUrl":"<?php echo $urlPath ?>basket/"},{"childCategoryName":"Voli Gym","childCategoryUrl":"<?php echo $urlPath ?>voli/"},{"childCategoryName":"Cricket Gym","childCategoryUrl":"<?php echo $urlPath ?>cricket/"},{"childCategoryName":"Rugby Gym","childCategoryUrl":"<?php echo $urlPath ?>rugby/"},{"childCategoryName":"Takraw Gym","childCategoryUrl":"<?php echo $urlPath ?>sepak-takraw/"},{"childCategoryName":"Baseball Gym","childCategoryUrl":"<?php echo $urlPath ?>baseball/"},{"childCategoryName":"Perlengkapan Olahraga Senam","childCategoryUrl":"<?php echo $urlPath ?>jual-olahraga-senam/"},{"childCategoryName":"Hoki Gym","childCategoryUrl":"<?php echo $urlPath ?>olahraga-hoki/"},{"childCategoryName":"Peralatan Cheerleading","childCategoryUrl":"<?php echo $urlPath ?>jual-peralatan-cheerleading/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_11_12">
+                <a href="<?php echo $urlPath ?>sepak-bola/">
+                    <span>Perlengkapan Sepak Bola</span>
+                </a>
+                        <script type="text" class="J_data_10_11">
+                            [{"childCategoryName":"Sepatu Sepakbola","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepakbola-pria/"},{"childCategoryName":"Sepatu Futsal","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-futsal-pria/"},{"childCategoryName":"Jersey Sepakbola","childCategoryUrl":"<?php echo $urlPath ?>jual-jersey-sepak-bola-pria/"},{"childCategoryName":"Jersey Sepakbola Anak","childCategoryUrl":"<?php echo $urlPath ?>jual-jersey-sepak-bola-anak-laki-laki/"},{"childCategoryName":"Sepatu Sepakbola Anak","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-sepak-bola/"},{"childCategoryName":"Sepatu Futsal Anak","childCategoryUrl":"<?php echo $urlPath ?>jual-sepatu-futsal/"},{"childCategoryName":"Bola","childCategoryUrl":"<?php echo $urlPath ?>bola-sepak-bola/"},{"childCategoryName":"Sarung Tangan Keeper","childCategoryUrl":"<?php echo $urlPath ?>sarung-tangan-kiper/"},{"childCategoryName":"Pelindung Lutut","childCategoryUrl":"<?php echo $urlPath ?>beli-pelindung-tulang-kering/"},{"childCategoryName":"Peralatan Latihan","childCategoryUrl":"<?php echo $urlPath ?>beli-peralatan-berlatih-dan-lapangan/"},{"childCategoryName":"Tas","childCategoryUrl":"<?php echo $urlPath ?>jual-tas-peralatan/"},{"childCategoryName":"Fan Merchandise Team International","childCategoryUrl":"<?php echo $urlPath ?>international-football-clubs-fan-merchandise/"}]
+                        </script>
+            </li>
+        </ul>
+        <ul class="lzd-site-menu-sub Level_1_Category_No12" data-spm="cate_12">
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_1">
+                <a href="<?php echo $urlPath ?>shop-auto-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_0">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Lampu, Bohlam & LED","childCategoryUrl":"<?php echo $urlPath ?>shop-bohlam-led-hid/"},{"childCategoryName":"Rem","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-brake-system/"},{"childCategoryName":"Suspensi","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-shocks-struts-suspension/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-engine-parts/"},{"childCategoryName":"Suku Cadang Body","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-body-parts/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-exhaust-emissions/"},{"childCategoryName":"Aki Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-batteries-accessories/"},{"childCategoryName":"Wiper & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-windshield-wipers-washers/"},{"childCategoryName":"Klakson & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-horns-accessories/"},{"childCategoryName":"Peralatan Pengapian & Kelistrikan","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-ignition-electrical/"},{"childCategoryName":"Peralatan & Suku Cadang Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-trim/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_2">
+                <a href="<?php echo $urlPath ?>aksesoris-interior-mobil/">
+                    <span>Aksesoris Interior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_1">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"<?php echo $urlPath ?>pengharum-mobil/"},{"childCategoryName":"Jok & Trim","childCategoryUrl":"<?php echo $urlPath ?>shop-sarung-jok-aksesoris-kursi/"},{"childCategoryName":"Aksesoris Stir Mobil","childCategoryUrl":"<?php echo $urlPath ?>setir-mobil-dan-aksesoris/"},{"childCategoryName":"Persneling","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-shift-boots-knobs/"},{"childCategoryName":"Pedal","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-pedals-pedal-accessories/"},{"childCategoryName":"Spidometer & Pengukur","childCategoryUrl":"<?php echo $urlPath ?>alat-pengukur-kecepatan/"},{"childCategoryName":"Aksesoris Elektronik Interior","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-electrical-appliances/"},{"childCategoryName":"Aksesoris Interior Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-consoles-organizers/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_3">
+                <a href="<?php echo $urlPath ?>aksesoris-eksterior-mobil/">
+                    <span>Aksesoris Exterior Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_2">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Mobil","childCategoryUrl":"<?php echo $urlPath ?>penutup-mobil/"},{"childCategoryName":"Stiker & Emblems","childCategoryUrl":"<?php echo $urlPath ?>shop-stiker/"},{"childCategoryName":"Lis & Garnis","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-chrome-trim-accessories/"},{"childCategoryName":"Penutup Pelat Nomer","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-license-plate-covers-frames/"},{"childCategoryName":"Aksesoris Serbaguna","childCategoryUrl":"<?php echo $urlPath ?>shop-manajemen-kargo/"},{"childCategoryName":"Kaca Angin, Deflektor & Talang Air","childCategoryUrl":"<?php echo $urlPath ?>pelindung-dan-talang-air-mobil/"},{"childCategoryName":"Kaca & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-exterior-mirrors/"},{"childCategoryName":"Spoiler, Sayap & Body Kit","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-spoilers-wings-styling-kits/"},{"childCategoryName":"Aksesoris Offroad","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-body-armor/"},{"childCategoryName":"Aksesoris Exterior Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-trailer-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_4">
+                <a href="<?php echo $urlPath ?>shop-elektronik/">
+                    <span>Kamera Mobil, Audio &amp; Video</span>
+                </a>
+                        <script type="text" class="J_data_11_3">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Kamera Mobil & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-kamera-mobil/"},{"childCategoryName":"Headunit","childCategoryUrl":"<?php echo $urlPath ?>shop-car-video-in-dash-navigation/"},{"childCategoryName":"Spiker","childCategoryUrl":"<?php echo $urlPath ?>shop-car-audio-speakers/"},{"childCategoryName":"Subwoofer","childCategoryUrl":"<?php echo $urlPath ?>shop-car-audio-subwoofers/"},{"childCategoryName":"Power, amplifier & Kapasitor Bank","childCategoryUrl":"<?php echo $urlPath ?>shop-car-audio-equalizers/"},{"childCategoryName":"GPS","childCategoryUrl":"<?php echo $urlPath ?>shop-motors-gps/"},{"childCategoryName":"Video, TV Aksesoris mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-car-video/"},{"childCategoryName":"Aksesoris Audio & Video Lainya","childCategoryUrl":"<?php echo $urlPath ?>shop-audio-video-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_5">
+                <a href="<?php echo $urlPath ?>shop-perawatan-mobil/">
+                    <span>Perawatan &amp; Pengkilat Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_4">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Penyegar & Pewangi Kendaraan","childCategoryUrl":"<?php echo $urlPath ?>pengharum-mobil/"},{"childCategoryName":"Pengkilat & Detailing Bodi","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-polishing-waxing-kits/"},{"childCategoryName":"Pelapis & Pembersih Kaca","childCategoryUrl":"<?php echo $urlPath ?>glass-care/"},{"childCategoryName":"Kompon & Penghilang Baret","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-polishing-rubbing-compounds/"},{"childCategoryName":"Cat Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-paints-primers/"},{"childCategoryName":"Perawatan Ban & Velg","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-tire-wheel-care/"},{"childCategoryName":"Perawatan Interior","childCategoryUrl":"<?php echo $urlPath ?>interior-care/"},{"childCategoryName":"Paket Perawatan Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-paket-perawatan-mobil/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_6">
+                <a href="<?php echo $urlPath ?>roda-dan-ban/">
+                    <span>Ban &amp; Velg Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_5">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Velg","childCategoryUrl":"<?php echo $urlPath ?>jual-roda/"},{"childCategoryName":"Ban","childCategoryUrl":"<?php echo $urlPath ?>jual-ban/"},{"childCategoryName":"Aksesoris Velg & Ban","childCategoryUrl":"<?php echo $urlPath ?>jual-aksesoris-roda-suku-cadang/"},{"childCategoryName":"Peralatan Velg & Ban","childCategoryUrl":"<?php echo $urlPath ?>shop-tire-parts-air-compressors-inflators/"},{"childCategoryName":"Servis & Pemasangan Velg, Ban","childCategoryUrl":"<?php echo $urlPath ?>shop-paket-ban-pelek/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_7">
+                <a href="<?php echo $urlPath ?>oli-dan-pelumas/">
+                    <span>Oli &amp; Cairan Mobil</span>
+                </a>
+                        <script type="text" class="J_data_11_6">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-oils/"},{"childCategoryName":"Aditif & Penguat Bensin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-auto-oils-fluids-additives/"},{"childCategoryName":"Pendingin Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-antifreezes-coolants/"},{"childCategoryName":"Pembersih Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-cleaners/"},{"childCategoryName":"Oli Powersteering","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-power-steering-fluids/"},{"childCategoryName":"Cairan & Oli Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-automotive-greases-lubricants/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_8">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-riding-gear/">
+                    <span>Perlengkapan Berkendara &amp; Helm</span>
+                </a>
+                        <script type="text" class="J_data_11_7">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Helm","childCategoryUrl":"<?php echo $urlPath ?>helmets-automotive/"},{"childCategoryName":"Jaket & Pelindung","childCategoryUrl":"<?php echo $urlPath ?>jackets/"},{"childCategoryName":"Sarung Tangan","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-gloves/"},{"childCategoryName":"Sepatu & Boot","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-footwear/"},{"childCategoryName":"Masker & Pelindung Wajah","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-face-masks/"},{"childCategoryName":"Kacamata Angin","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-riding-gear-eyewear/"},{"childCategoryName":"Peralatan Hujan","childCategoryUrl":"<?php echo $urlPath ?>shop-pakaian-hujan/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_9">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-parts-spares/">
+                    <span>Suku Cadang &amp; Peralatan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_8">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Bohlam, LED & Rumah Lampu","childCategoryUrl":"<?php echo $urlPath ?>shop-penerangan/"},{"childCategoryName":"Rem & Suspensi","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-brakes-suspension/"},{"childCategoryName":"Knalpot & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>moto-knalpot-system-pembuangan/"},{"childCategoryName":"Aki Motor & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-moto-batteries-accessories/"},{"childCategoryName":"Kaca / Cermin","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-mirrors/"},{"childCategoryName":"Filter Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-saringan-udara/"},{"childCategoryName":"Suku Cadang Bodi & Rangka","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-body-frame/"},{"childCategoryName":"Suku Cadang Mesin","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-drivetrain-transmission/"},{"childCategoryName":"Busi","childCategoryUrl":"<?php echo $urlPath ?>shop-busi-motor/"},{"childCategoryName":"Suku Cadang Motor Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-stands-accessories/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_10">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-exterior-accessories/">
+                    <span>Aksesoris &amp; Elektronik Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_9">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Sarung Jok","childCategoryUrl":"<?php echo $urlPath ?>shop-sarung-jok/"},{"childCategoryName":"Stiker & Emblem","childCategoryUrl":"<?php echo $urlPath ?>shop-stiker-emblem/"},{"childCategoryName":"Pengukur","childCategoryUrl":"<?php echo $urlPath ?>shop-indikator/"},{"childCategoryName":"Aksesoris Elektronik","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-electronics/"},{"childCategoryName":"Pelindung Plat Nomor","childCategoryUrl":"<?php echo $urlPath ?>shop-frame-plat-nomor/"},{"childCategoryName":"Sarung Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-covers/"},{"childCategoryName":"Windshield & Aksesoris","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-windshields-accessories/"},{"childCategoryName":"Bagasi Penyimpanan & Bantalan","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-luggage-saddlebags/"},{"childCategoryName":"Aksesoris & Elektronik Motor Lainny","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-racks/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_11">
+                <a href="<?php echo $urlPath ?>shop-motorcycle-oils-fluids/">
+                    <span>Ban, Velg, Oli &amp; Cairan Motor</span>
+                </a>
+                        <script type="text" class="J_data_11_10">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Oli Mesin Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-oli-mesin/"},{"childCategoryName":"Oli Rem Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-motorcycle-brake-fluid/"},{"childCategoryName":"Oli Transmisi Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-oligirboks/"},{"childCategoryName":"Pendingin Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-coolant/"},{"childCategoryName":"Aditif & Penguat Bensin Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-pembersih/"},{"childCategoryName":"Pelumas Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-pelumas-dan-gemuk/"},{"childCategoryName":"Ban & Velg Motor","childCategoryUrl":"<?php echo $urlPath ?>jual-roda-ban-motor/"},{"childCategoryName":"Oli & Cairan Motor Lainnya","childCategoryUrl":"<?php echo $urlPath ?>shop-oli-shock-breaker/"}]
+                        </script>
+            </li>
+            <li class="lzd-site-menu-sub-item" data-cate="cate_12_12">
+                <a href="<?php echo $urlPath ?>mobil-motor/">
+                    <span>Kendaraan</span>
+                </a>
+                        <script type="text" class="J_data_11_11">
+                            [{"childCategoryName":"","childCategoryUrl":""},{"childCategoryName":"Mobil","childCategoryUrl":"<?php echo $urlPath ?>shop-mobil/"},{"childCategoryName":"Motor","childCategoryUrl":"<?php echo $urlPath ?>shop-sepeda-motor-skuter/"}]
+                        </script>
+            </li>
+        </ul>
+    </ul>
+</div>
+  </div>
+            </div>
+        </div>
+    </div>
+</div>
+  </div>
+    </div>
+  </div>
+  <script>function generateUUID(){var d=new Date().getTime();var uuid='xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g,function(c){var r=((d+Math.random()*16)%16)|0;d=Math.floor(d/16);return(c=='x'?r:(r&0x7)|0x8).toString(16);});return uuid;}var lzdDocCookies={getItem:function(sKey){return(decodeURIComponent(document.cookie.replace(new RegExp('(?:(?:^|.*;)\\s*'+encodeURIComponent(sKey).replace(/[\-\.\+\*]/g,'\\$&')+'\\s*\\=\\s*([^;]*).*$)|^.*$'),'$1'))||null);},setItem:function(sKey,sValue,vEnd,sPath,sDomain,bSecure){if(!sKey||/^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)){return false;}var sExpires='';var exdate=new Date();exdate.setDate(exdate.getDate()+vEnd);sExpires=';expires='+exdate.toGMTString();document.cookie=encodeURIComponent(sKey)+'='+encodeURIComponent(sValue)+sExpires+(sDomain?'; domain='+sDomain:'')+(sPath?'; path='+sPath:'; path=/')+(bSecure?'; secure':'');return true;},hasItem:function(sKey){if(!sKey){return false;}return new RegExp('(?:^|;\\s*)'+encodeURIComponent(sKey).replace(/[\-\.\+\*]/g,'\\$&')+'\\s*\\=').test(document.cookie);},removeItem:function(sKey,sPath,sDomain){if(!this.hasItem(sKey)){return false;}document.cookie=encodeURIComponent(sKey)+'=; expires=Thu, 01 Jan 1970 00:00:00 GMT'+(sDomain?'; domain='+sDomain:'')+(sPath?'; path='+sPath:'; path=/');return true;}};var LZD_HOST_ARRAY=['.lazada.co.id','.lazada.com.my','.lazada.com.ph','.lazada.sg','.lazada.co.th','.lazada.vn','.daraz.com.bd','.daraz.lk','.shop.com.mm','.daraz.com.np','.daraz.pk','.lazada.test'];var currentDomain='.lazada.sg';var UUID=generateUUID();var t_uid=lzdDocCookies.getItem('t_uid');var anon_uid=lzdDocCookies.getItem('anon_uid');for(var i=0;i<LZD_HOST_ARRAY.length;i++){if(window.location.host.indexOf(LZD_HOST_ARRAY[i])>-1){currentDomain=LZD_HOST_ARRAY[i];}}if(!lzdDocCookies.getItem('lzd_cid')){lzdDocCookies.setItem('lzd_cid',UUID,365,null,currentDomain);}if(!lzdDocCookies.getItem('t_uid')){if(anon_uid){lzdDocCookies.setItem('t_uid',anon_uid,365,null,currentDomain);}else{lzdDocCookies.setItem('t_uid',UUID,365,null,currentDomain);}}</script>
+</div>
+  </div>
+<input type="hidden" id="header-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.32&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
+    <!-- Floating Cart UMD -->
+    <script>window.__LIB_CART_SCENE__='pdp';window.__LIB_CART_VERSION__='1.0.16';window.__LIB_CART_ASSETS_ENV__='product';</script>
+    <script src="https://g.lazcdn.com/g/code/npm/@ali/multimod-lzd-trade__cart/1.0.16/lib-cart/index.umd.es5.production.js" crossorigin="anonymous"></script>
+    <!-- PC Login / Signup Popup UMD -->
+    <!-- online version -->
+    <script>window.__LIB_LOGIN_SIGNUP_POPUP_VERSION__='0.0.4';</script>
+    <script src="https://g.lazcdn.com/g/code/npm/@ali/multimod-lzd-member__signup-login-pop/0.0.4/lib-signuppop/index.umd.es5.production.js" crossorigin="anonymous"></script>
+
+  
+  <div id="pdp-nav">
+    <div>
+  <div>
+    <style>.breadcrumb_list{width:1188px;height:48px;border-bottom:1px solid #eff0f5;margin:0 auto;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list_empty{height:0;border:none;overflow:hidden}.breadcrumb_list .breadcrumb{padding-left:0;margin-left:-4px;height:48px;vertical-align:middle;display:inline-block;white-space:nowrap}.breadcrumb_list .breadcrumb .breadcrumb_item{position:relative;display:table-cell;vertical-align:middle;font-size:13px;font-weight:300;height:48px}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text{vertical-align:middle;padding:0;margin:0;line-height:100%;display:inline-block;font-weight:300}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor{display:inline-block;vertical-align:middle;color:#1a9cb7;padding:0 4px;font-size:14px;font-family:Roboto-Regular,Helvetica,Arial,sans-serif;max-width:200px;white-space:nowrap;line-height:16px;overflow:hidden;text-overflow:ellipsis}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_item_anchor_last{color:#757575;max-width:none;height:16px;line-height:16px;white-space:normal}.breadcrumb_list .breadcrumb .breadcrumb_item .breadcrumb_item_text .breadcrumb_right_arrow{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACKUExURUxpcYGBgYGBgYWFhYCAgICAgICAgIKCgv///4GBgZWVlYyMjIGBgYCAgIKCgoGBgYGBgaqqqoODg7+/v4GBgZKSko6OjoGBgYWFhYGBgYSEhIGBgZmZmYCAgIGBgYGBgYCAgICAgIGBgYCAgICAgIiIiICAgIeHh4GBgYSEhIODg4GBgYGBgYCAgPLijmAAAAAtdFJOUwCS7jCDi/E1AbYMFJrrK9ToAycEugcJtBfYG64Fp+S+vb+god0e4SLcHyPgwPJLUkAAAAB6SURBVDjLY2AYYoCdkwu/AgVdHTG8Crj5dUVE8aqQkNQVl8GrQkpDV1oYrwpVbV1ZQbwq1OV0lTnwqhAS0OXBr4KPV5cRf3AwM+myEghRNl0WihQQsoKQIwl5U0tOVwmfvKYa/qCWUsEfWYSim2CCkddVFKMs0Q5aAABM4wlSQJ87yAAAAABJRU5ErkJggg==);background-repeat:no-repeat;background-size:contain;display:inline-block;width:16px;height:16px;vertical-align:middle}</style>
+  <style>.baxia-dialog{display:none!important}</style> 
+    <div data-spm="breadcrumb" id="J_breadcrumb_list" class="breadcrumb_list breadcrumb_custom_cls">
+      <ul class="breadcrumb" id="J_breadcrumb">
+        
+      </ul>
+    </div>
+    <script>function htmlEncodePdp(input){var el=document.createElement("div");el.innerText=input;return el.innerHTML;};window.LZD=window.LZD||{};window.LZD.updateBreadcrumb=function(list){if(!list||!list instanceof Array){return;}var parentNode=document.getElementById('J_breadcrumb');while(parentNode.hasChildNodes()){parentNode.removeChild(parentNode.firstChild);}var size=list.length;for(var i=0;i<size;i++){var item=list[i];item.title=htmlEncodePdp(item.title);var liNode=document.createElement("li");liNode.className='breadcrumb_item';if(i===size-1){liNode.innerHTML='<span class="breadcrumb_item_text">'+'<span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">'+item.title+'</span>'+'</span>';}else{if(item.url){item.url=window.location.host.indexOf('h5.lazada.')>-1?item.url.replace('www.lazada.','h5.lazada.'):item.url;}liNode.innerHTML='<span class="breadcrumb_item_text">'+'<a title="'+item.title+'" href="'+item.url+'" class="breadcrumb_item_anchor">'+'<span>'+item.title+'</span>'+'</a>'+'<div class="breadcrumb_right_arrow"></div>'+'</span>';}parentNode.appendChild(liNode);}var breadcrumbListNode=document.getElementById('J_breadcrumb_list');var cls=breadcrumbListNode.className;if(size===0){if(cls.indexOf('breadcrumb_list_empty')<0){breadcrumbListNode.className='breadcrumb_list_empty';}}else{breadcrumbListNode.className='breadcrumb_list';}}</script>
+  </div>
+</div>
+
+  </div>
+  <div id="container" style="visibility: visible;">
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="<?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi" src="https://enfopedia.com/wp-content/uploads/2024/10/How-to-Maximize-Your-Chances-with-Slot-Gacor-Today.webp"/>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</div></div><a href="https://enemysoweak.xyz/amp/kocok/?google=<?php echo $BRANDS ?>" rel="nofollow noopener" target="_blank"></a><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><a href="https://enemysoweak.xyz/amp/kocok/?google=<?php echo $BRANDS ?>" rel="nofollow noopener" target="_blank"><img src="https://imgmtr.shop/daftar-gif/daftar-mtr138baru.gif" width="100%" height="auto" alt=""></a><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title"><?php echo $BRANDS ?> ! Login Institut KH Ahmad Sanusi Sukabumi</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">9.343.234 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a><div class="pdp-product-brand__divider"></div><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://enemysoweak.xyz/amp/kocok/?google=<?php echo $BRANDS ?>"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">LOGIN ♻</span></button></a><a href="https://enemysoweak.xyz/amp/kocok/?google=<?php echo $BRANDS ?>" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">DAFTAR SEKARANG ♻</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;3642482616&quot;,&quot;skuId&quot;:&quot;6108584955&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+
+<p style="text-align: justify;"><?php echo $BRANDS ?> Login A premier gathering of scholars, researchers, educators, and practitioners dedicated to advancing knowledge in the fields of Islamic education
+</p> 
+
+
+  <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp 20.000</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">Rp.50.000</span><span class="pdp-product-price__discount">-90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title">Dijual oleh <?php echo $BRANDS ?></div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+  </div>
+  
+  <script>var requirejs={onNodeCreated:function(node,config,id,url){node.setAttribute('crossorigin','anonymous');}};</script>
+  <script src="https://g.lazcdn.com/g/??mtb/lib-promise/3.1.3/polyfillB.js,mtb/lib-mtop/2.5.1/mtop.js,lazada-decorate/lazada-mod-lib/0.0.20/LazadaModLib.min.js" charset="utf-8"></script>
+  <script src="https://g.lazcdn.com/g/woodpeckerx/jssdk??wpkReporter.js,plugins/flow.js,plugins/interface.js,plugins/blank.js"></script>
+  <script src="https://g.lazcdn.com/g/??code/npm/@ali/lzd-h5-utils-qs/0.1.11/index.js,code/npm/@ali/lzd-h5-utils-cookie/1.2.10/index.js,code/npm/@ali/lzd-h5-utils-sites/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-env/1.5.12/index.js,code/npm/@ali/lzd-h5-utils-logger/1.1.52/index.js,code/npm/@ali/lzd-h5-utils-jsonp/1.1.11/index.js,code/npm/@ali/lzd-h5-utils-mtop/1.2.56/index.js,code/npm/@ali/lzd-h5-utils-icon/1.0.8/index.js,lzd/assets/1.1.18/require/2.3.6/require.js"></script>
+  
+  <script>
+  function pdpLog(logkey, gmkey = 'CLK', args = {}, chksum = '') {
+    if (!logkey) return;
+    var pdpMsiteExperimentEnable = window.__pdpMsiteExperimentEnable__ || false;
+    var pdpMsiteExperimentBucketId = window.__pdpMsiteExperimentConfig__ ? window.__pdpMsiteExperimentConfig__.bucketId : '-';
+
+    var query = '';
+    if (Object.prototype.toString.call(args) === '[object Object]') {
+      query = Object.keys(args).map(function (key) {
+        return encodeURIComponent(key) + '=' + encodeURIComponent(args[key]);
+      }).join('&');
+      query = '&' + query;
+    }
+
+    var gokey = 'pdpMsiteExperimentEnable=' + pdpMsiteExperimentEnable + '&pdpMsiteExperimentBucketId=' + pdpMsiteExperimentBucketId + query;
+
+    if (window.goldlog && window.goldlog.record) {
+      window.goldlog.record(logkey, gmkey, gokey, chksum);
+    } else {
+      window.goldlog_queue = window.goldlog_queue || [];
+      window.goldlog_queue.push({
+        action: 'goldlog.record',
+        arguments: [logkey, gmkey, gokey],
+      });
     }
   }
-</script>
-<script data-rh="true" type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [{
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-        "@id": "https://shopee.co.id/",
-        "name": "Shopee"
+  
+  function reportMtopData() {
+      if (window.__wpk && window.__pdpMtopStartTime) {
+        window.__wpk.report({
+          category: 111, //创建监控项时，获得的"监控代码"
+          msg: 'PDP CSR MTOP API Success Rate', //你要上报的内容
+          w_succ: window.__pdpMtopStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
+          wl_avgv1: window.__pdpMtopEndTime ? window.__pdpMtopEndTime - window.__pdpMtopStartTime : 0, // 可选，若监控项需要监控均值，则设置次此字段，必须为数字
+          c1: window.__regionID__
+        })
       }
-    }, {
-      "@type": "ListItem",
-      "position": 2,
-      "item": {
-        "@id": "<?php echo $urlPath ?>",
-        "name": "<?php echo $BRANDS ?>"
-      }
-    }, {
-      "@type": "ListItem",
-      "position": 3,
-      "item": {
-        "@id": "<?php echo $urlPath ?>",
-        "name": "<?php echo $BRANDS ?>"
-      }
-    }, {
-      "@type": "ListItem",
-      "position": 4,
-      "item": {
-        "@id": "<?php echo $urlPath ?>",
-        "name": "<?php echo $BRANDS ?>"
-      }
-    }, {
-      "@type": "ListItem",
-      "position": 5,
-      "item": {
-        "@id": "<?php echo $urlPath ?>",
-        "name": "<?php echo $BRANDS ?>"
-      }
-    }]
   }
+
+  function reportMtopData2() {
+      if (window.__wpk && window.__pdpTriggerCSR) {
+        window.__wpk.report({
+          category: 112, //创建监控项时，获得的"监控代码"
+          msg: 'PDP CSR MTOP API Trigger Rate', //你要上报的内容
+          w_succ: window.__pdpTriggerMtopStatus, // 可选，若监控项需要监控率，则设置此字段可选为0、1
+          c1: window.__regionID__
+        })
+      }
+  }
+
+  function reportMtopData3() {
+    if (window.__wpk) {
+      window.__wpk.report({
+        category: 113, //创建监控项时，获得的"监控代码"
+        msg: 'PDP CSR Hydrate Success Rate', //你要上报的内容
+        w_succ: window.__pdpHydrateStatus || 0, // 可选，若监控项需要监控率，则设置此字段可选为0、1
+        c1: window.__regionID__
+      })
+    }
+  }
+
+  function hydrate() {
+    
+    var modulePath = '//g.lazcdn.com/g/lzdfe/pdp-platform/0.1.22/pc.js';
+    
+    window.__pdpHydrateStatus = 0;
+    require([modulePath], function (app) {
+      try {
+        console.log('start run...')
+        app.run(__moduleData__, function() {
+          timings.render = Date.now();
+          // 蹦失打点
+          // window.goldlog && window.goldlog.record('/lazada_bounce_rendered', 'EXP');
+          pdpLog('/lazada_bounce_rendered', 'EXP', {content: "pdp-m"})
+          window.__pdpHydrateStatus = 1;
+          var loading = document.getElementById('pdp-skeleton-new');
+          if(loading) {
+            loading.style.display = 'none';
+          }
+          reportMtopData3();
+        })
+      } catch (e) {
+        console.error('render error', e);
+        reportMtopData3();
+        if (window._blReport) {
+          window._blReport('error', [
+            e,
+            {
+              file: 'page.html'
+            },
+          ]);
+        }
+        // window.location.reload();
+      }
+    });
+  }
+
+  function fetchData(callback) {
+    var uriMatch = window.location.pathname.match(/\/([\w-]+)\.html/);
+    var uri = uriMatch ? uriMatch[1] : "";
+    var userAgent = navigator.userAgent;
+    var isAndroid = window.Env.isAndroid();
+    var isIOS = window.Env.isIos();
+    var deviceType = isAndroid ? "android" : isIOS ? "ios" : "pc";
+    var headerParams = {
+      "user-agent": userAgent,
+    };
+    
+    var cookieParams = document.cookie.split("; ").reduce((obj, item) => {
+      var [k, v] = item.split("=");
+      obj[k] = v;
+      return obj;
+    }, {});
+    var params = new URLSearchParams(window.location.search);
+    var requestParams = {};
+    for (var p of params) {
+      var [k, v] = p;
+      requestParams[k] = v;
+    }
+    window.__pdpMtopStartTime = new Date().getTime();
+    window.__pdpTriggerMtopStatus = 0;
+    window.__pdpTriggerCSR = true;
+    if(window.Mtop) {
+      window.__pdpTriggerMtopStatus = 1;
+      window.Mtop.default.request(
+        {
+          data: {
+            deviceType: deviceType,
+            path: window.location.href,
+            uri: uri,
+            headerParams: JSON.stringify(headerParams),
+            cookieParams: JSON.stringify(cookieParams),
+            requestParams: JSON.stringify(requestParams),
+          },
+          type: "POST",
+          v: "1.0",
+          needLogin: false,
+          api: "mtop.global.detail.web.getDetailInfo",
+        },
+        function (res) {
+          window.__pdpMtopEndTime = new Date().getTime();
+          if (res.data && res.data.module) {
+            window.__pdpMtopStatus = 1;
+            reportMtopData();
+            var data = JSON.parse(res.data.module);
+            var msiteExperimentConfig = {}
+            if (__moduleData__.data && __moduleData__.data.root &&  __moduleData__.data.root.fields && __moduleData__.data.root.fields.globalConfig) {
+              msiteExperimentConfig = __moduleData__.data.root.fields.globalConfig.msiteExperimentConfig
+            }
+            if(data.globalConfig) {
+              data.globalConfig.msiteExperimentConfig = msiteExperimentConfig
+            }
+            __moduleData__.data.root.fields = data;
+            renderTpl(data);
+            callback && callback();
+          } else {
+            window.__pdpMtopStatus = 0;
+            reportMtopData();
+          }
+        },
+        function (err) {
+          window.__pdpMtopStatus = 0 ;
+          window.__pdpMtopEndTime = new Date().getTime();
+          reportMtopData();
+          console.log(err);
+          callback && callback();
+        }
+      )
+    }
+    reportMtopData2();
+
+    function renderTpl(data) {
+      if (deviceType === "pc" && data.Breadcrumb) {
+        window.LZD.updateBreadcrumb && window.LZD.updateBreadcrumb(data.Breadcrumb)
+      }
+    }
+  }
+  fetchData(hydrate);
+
 </script>
-<link rel="preload" as="script" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/mobilemall-productdetailspage.780c03d68d9f77a1be0b.js" crossorigin="anonymous" />
-<script>
-/** actually app id */
-        window.__PAGE_ID__ = 12;
-        window.__APP_ID__ = 12;
-        window.__LOCALE__ = 'ID';
-        window.__ENV__ = 'live';
-        window.__META_APP_DETAILS__ = {"sentryDsn":"https://8945879c862e4399a3c578cb701c93ab@o468184.ingest.sentry.io/5495708","sentryDsn-sap-web-sdk":"https://330029e340266d72479a9e96074446a9@o468184.ingest.sentry.io/4505923044048896","sentryDsn-shopee-promotion-page-builder":"https://56a7b696ba91fac45734da10336f7870@o468184.ingest.sentry.io/4506336276709376","sentryDsn-shopee-secure-fetch-utils":"https://3a626cf85fcbe10f5075919686d6397f@o468184.ingest.sentry.io/4506234056146944"};
-        window.__ASSETS__ = {"DL_ENABLED_MALL_REGIONS":["SG","MY","ID","TH","VN","PH","TW"],"FESTIVAL_SKIN_V2":{"error_msg":null,"data":null,"error":null,"error_messages":null},"MART_CONFIG":{"shop":{"shopid":65323877,"username":"smart_byshopee"},"header":{"bg_color":"#066BC8"}},"PB_CONFIG":{"enable-languages-blocking":false,"enable-locales-blocking":false,"enable-path-blocking":false,"enable-platform-blocking":false,"pb-support-languages":["id","en"],"pb-support-locales":["ID"],"pb-support-path-prefixes":["/m/test-pb","/m/sfdriver-kamissiaga-240823","/m/sfdriver-jumatdisiplin-250823","/m/tosgeneralsfdriver","/m/generaleduhub-dhlk101","/m/Big-Promo-telco","/m/spaywallet-succedmigrationinfo","/m/informasi-biaya-penarikan-dana-food","/m/spaymigration-unconnectedmultiaccount-eduphaseII-100823","/m/tutorialdeklarasimitra-100522","/m/spxstackinglaunch-jabodetabek-180823","/m/toshub","/m/shopee-xpress-instant-merchant-app-dummy","/m/sfdriver-spaylater-cashback20","/m/buka-rekening-seabank-merchant","/m/WD-Limit-SPay-SFood","/m/jumbo-cashback","/m/garansi-shopee-id","/m/sfdriver-jumatdisiplin-201023","/m/Huawei-Matepad-11-Papermatte-teaser-2023","/m/shopee-garansi-ori","/m/tentang-cod-cekdulu","/m/sfdriver-specialbonuspointjkt-251023"],"pb-support-platforms":["rw"]},"PLATFORM_STATIC_TOGGLE":{"Api_Fu_Hook":{"CMTCOL":100,"CMTMART":100,"CMTMICS":100,"DISCNTCOIN":100,"FlashSale":100,"OPACRM":100,"PDP":100,"Recommendation":100,"Search":100,"Traffic":100},"EXPERIMENTS_PROXY":false,"USE_LATEST_SFU":100},"TRANSIFY_COLLECTION_MAPPING":{"en-live-10":1706086666,"en-live-100":1706086666,"en-live-101":1706086666,"en-live-102":1706086666,"en-live-107":1706086666,"en-live-108":1706086666,"en-live-111":1706086666,"en-live-113":1706086666,"en-live-118":1706691816,"en-live-128":1706086666,"en-live-129":1706086666,"en-live-131":1706086666,"en-live-132":1706086666,"en-live-136":1706086666,"en-live-138":1706086666,"en-live-14":1706086666,"en-live-140":1706086666,"en-live-141":1706086666,"en-live-143":1706086666,"en-live-145":1706086666,"en-live-147":1706086666,"en-live-148":1613634051,"en-live-15":1706086666,"en-live-151":1706086666,"en-live-155":1706086666,"en-live-158":1706086666,"en-live-16":1706669425,"en-live-166":1706086666,"en-live-167":1706086666,"en-live-17":1706086666,"en-live-18":1706086666,"en-live-184":1599448355,"en-live-189":1706086666,"en-live-20":1706086666,"en-live-204":1706086666,"en-live-206":1706086666,"en-live-209":1706086666,"en-live-21":1706086666,"en-live-213":1641889752,"en-live-214":1706086666,"en-live-223":1706086666,"en-live-224":1706086666,"en-live-231":1706086666,"en-live-235":1706086666,"en-live-239":1706086666,"en-live-242":1706086666,"en-live-243":1707387827,"en-live-246":1706086666,"en-live-254":1706086666,"en-live-255":1706086666,"en-live-256":1706086666,"en-live-257":1706086666,"en-live-258":1706086666,"en-live-263":1706086666,"en-live-265":1706086666,"en-live-268":1706086666,"en-live-27":1706086666,"en-live-277":1706086666,"en-live-28":1707811701,"en-live-283":1706086666,"en-live-287":1706086666,"en-live-29":1706086666,"en-live-290":1706086666,"en-live-292":1706086666,"en-live-294":1706086666,"en-live-297":1706086666,"en-live-30":1706781768,"en-live-300":1706086666,"en-live-301":1706086666,"en-live-303":1706086666,"en-live-306":1706086666,"en-live-31":1706086666,"en-live-310":1706086666,"en-live-311":1622803477,"en-live-314":1706086666,"en-live-318":1706086666,"en-live-32":1706086666,"en-live-321":1706086666,"en-live-326":1706086666,"en-live-33":1706086666,"en-live-330":1706086666,"en-live-340":1708052866,"en-live-343":1706086666,"en-live-345":1706086666,"en-live-348":1706086666,"en-live-350":1706086666,"en-live-354":1706086666,"en-live-355":1706086666,"en-live-360":1706086666,"en-live-361":1706086666,"en-live-362":1706086666,"en-live-363":1706086666,"en-live-368":1634095524,"en-live-378":1706086666,"en-live-379":1706086666,"en-live-380":1706086666,"en-live-389":1706086666,"en-live-392":1706086666,"en-live-397":1706694489,"en-live-40":1706086666,"en-live-406":1706086666,"en-live-409":1706086666,"en-live-42":1706086666,"en-live-422":1706086666,"en-live-426":1706086666,"en-live-43":1707307523,"en-live-432":1706086666,"en-live-436":1706086666,"en-live-445":1706086666,"en-live-453":1706086666,"en-live-457":1706086666,"en-live-463":1706086666,"en-live-47":1706086666,"en-live-474":1680167455,"en-live-476":1706086666,"en-live-477":1706086666,"en-live-478":1706086666,"en-live-484":1706086666,"en-live-490":1706086666,"en-live-507":1706086666,"en-live-509":1706086666,"en-live-515":1706086666,"en-live-520":1706086666,"en-live-521":1706086666,"en-live-522":1693471233,"en-live-523":1706086666,"en-live-524":1706086666,"en-live-525":1706086666,"en-live-528":1706086666,"en-live-530":1706086666,"en-live-531":1706086666,"en-live-532":1706086666,"en-live-535":1706086666,"en-live-538":1706086666,"en-live-545":1706086666,"en-live-561":1706086666,"en-live-573":1706086666,"en-live-577":1706086666,"en-live-578":1706086666,"en-live-590":1706579775,"en-live-601":1706086666,"en-live-607":1704252531,"en-live-611":1707376474,"en-live-630":1706086666,"en-live-649":1706086666,"en-live-652":1706582192,"en-live-7":1647843523,"en-live-73":1706086666,"en-live-76":1643359987,"en-live-8":1706772329,"en-live-83":1706086666,"en-live-85":1706086666,"en-live-9":1707990275,"id-live-10":1706086666,"id-live-100":1706086666,"id-live-101":1706086666,"id-live-102":1706086666,"id-live-107":1706086666,"id-live-108":1706086666,"id-live-111":1706086666,"id-live-113":1706086666,"id-live-118":1706691816,"id-live-128":1706086666,"id-live-129":1706086666,"id-live-131":1706086666,"id-live-132":1706086666,"id-live-136":1706086666,"id-live-138":1706086666,"id-live-14":1706086666,"id-live-140":1706086666,"id-live-141":1706086666,"id-live-143":1706086666,"id-live-145":1706086666,"id-live-147":1706086666,"id-live-148":1613634051,"id-live-15":1706086666,"id-live-151":1706086666,"id-live-155":1706086666,"id-live-158":1706086666,"id-live-16":1706669425,"id-live-166":1706086666,"id-live-167":1706086666,"id-live-17":1706086666,"id-live-18":1706086666,"id-live-184":1599448355,"id-live-189":1706086666,"id-live-20":1706086666,"id-live-204":1706086666,"id-live-206":1706086666,"id-live-209":1706086666,"id-live-21":1706086666,"id-live-213":1641889752,"id-live-214":1706086666,"id-live-223":1706086666,"id-live-224":1706086666,"id-live-231":1706086666,"id-live-235":1706086666,"id-live-239":1706086666,"id-live-242":1706086666,"id-live-243":1707387827,"id-live-246":1706086666,"id-live-254":1706086666,"id-live-255":1706086666,"id-live-256":1706086666,"id-live-257":1706086666,"id-live-258":1706086666,"id-live-263":1706086666,"id-live-265":1706086666,"id-live-268":1706086666,"id-live-27":1706086666,"id-live-277":1706086666,"id-live-28":1707811701,"id-live-283":1706086666,"id-live-287":1706086666,"id-live-29":1706086666,"id-live-290":1706086666,"id-live-292":1706086666,"id-live-294":1706086666,"id-live-297":1706086666,"id-live-30":1706785186,"id-live-300":1706086666,"id-live-301":1706086666,"id-live-303":1706086666,"id-live-306":1706086666,"id-live-31":1706086666,"id-live-310":1706086666,"id-live-314":1706086666,"id-live-318":1706086666,"id-live-32":1706086666,"id-live-321":1706086666,"id-live-326":1706086666,"id-live-33":1706086666,"id-live-330":1706086666,"id-live-340":1708052866,"id-live-343":1706086666,"id-live-345":1706086666,"id-live-348":1706086666,"id-live-350":1706086666,"id-live-354":1706086666,"id-live-355":1706086666,"id-live-360":1706086666,"id-live-361":1706086666,"id-live-362":1706086666,"id-live-363":1706086666,"id-live-368":1634095524,"id-live-378":1706086666,"id-live-379":1706086666,"id-live-380":1706086666,"id-live-389":1706086666,"id-live-392":1706086666,"id-live-397":1706694489,"id-live-40":1706086666,"id-live-406":1706086666,"id-live-409":1706086666,"id-live-42":1706086666,"id-live-422":1706086666,"id-live-426":1706086666,"id-live-43":1706086666,"id-live-432":1706086666,"id-live-436":1706086666,"id-live-445":1706086666,"id-live-453":1706086666,"id-live-457":1706086666,"id-live-463":1706086666,"id-live-47":1706086666,"id-live-474":1680167455,"id-live-476":1706086666,"id-live-477":1706086666,"id-live-478":1706086666,"id-live-484":1706086666,"id-live-490":1706086666,"id-live-507":1706086666,"id-live-509":1706086666,"id-live-515":1706086666,"id-live-520":1706086666,"id-live-521":1706086666,"id-live-522":1693471233,"id-live-523":1706086666,"id-live-524":1706086666,"id-live-525":1706086666,"id-live-528":1706086666,"id-live-530":1706086666,"id-live-531":1706086666,"id-live-532":1706086666,"id-live-535":1706086666,"id-live-538":1706086666,"id-live-545":1706086666,"id-live-561":1706086666,"id-live-573":1706086666,"id-live-577":1706086666,"id-live-578":1706086666,"id-live-590":1706579775,"id-live-601":1706086666,"id-live-607":1704252531,"id-live-611":1707376474,"id-live-630":1706086666,"id-live-649":1706086666,"id-live-652":1706582192,"id-live-7":1647843523,"id-live-73":1706086666,"id-live-76":1643359987,"id-live-8":1706772329,"id-live-83":1706086666,"id-live-85":1706086666,"id-live-9":1707990275},"USER_STATIC_TOGGLE":{"af_sap_sdk":true,"af_sap_legacy":false,"use_anti_crawler_api_protection_sdk":true,"context_action_account_v2":false,"standalone_security_sdk":true,"standalone_fetch_utils":true,"fetch_account_v2":false,"fetch_account_v4":true,"account_info_sync_fetch_server_pc":true,"account_info_sync_fetch_server_rw":true,"account_info_sync_fetch_server_lite":true,"account_info_sync_fetch_client_pc":true,"account_info_sync_fetch_client_rw":true,"account_info_sync_fetch_client_lite":true,"account_redux_invalid_server_state_report_pc":false,"account_redux_invalid_server_state_report_rw":false,"account_redux_invalid_server_state_report_lite":false,"signup_otp_zalo_web":false,"login_otp_zalo_web":false,"authentication_bind_otp_zalo_web":false,"otp_shared_service_otp_zalo_web":false,"phone_number_format_v2":true,"identity_and_account_micro_app_pilot_test":false},"VOUCHER_CARD_MANIFEST":{"live":"vouchercard-v0.21.0"}};
+
+
+  <!-- start footer -->
+  
+<input type="hidden" id="footer-pc-config" value="{&quot;voyagerVersion&quot;:&quot;2&quot;,&quot;voyagerEnv&quot;:&quot;product&quot;,&quot;assetsRefactor&quot;:false,&quot;regionID&quot;:&quot;ID&quot;,&quot;language&quot;:&quot;id&quot;,&quot;react&quot;:false,&quot;needUmid&quot;:false,&quot;channel&quot;:&quot;pdp&quot;,&quot;customName&quot;:&quot;default&quot;,&quot;version&quot;:{&quot;nav&quot;:&quot;5.2.38&quot;,&quot;search&quot;:&quot;0.4.11&quot;,&quot;menu&quot;:&quot;5.0.45&quot;,&quot;menuNav&quot;:&quot;5.0.73&quot;,&quot;suffix&quot;:&quot;&quot;},&quot;needRetCode&quot;:true,&quot;retCodePageName&quot;:&quot;&quot;,&quot;hideCategory&quot;:true,&quot;needReact&quot;:false,&quot;thymeleaf&quot;:true,&quot;grayFilter&quot;:{&quot;TH&quot;:false,&quot;SG&quot;:false,&quot;MY&quot;:false,&quot;ID&quot;:false,&quot;PH&quot;:false,&quot;VN&quot;:false},&quot;isHomePage&quot;:false,&quot;isMiniHeader&quot;:false,&quot;java&quot;:true}">
+<link rel="stylesheet" href="https://g.lazcdn.com/g/lzdmod/desktop-footer/6.1.1/??pc/index.css">
+<script>window.g_config=window.g_config||{};window.g_config.loadedCss=window.g_config.loadedCss||[];window.g_config.loadedCss=["@ali/lzdmod-desktop-footer/pc/index.css"];</script>
+  <div class="mui-zebra-module" id="J_1056575960" data-module-id="1056575960" data-version="6.1.1" data-spm="1056575960">
+<script type="text/data" class="J-dynamic-data">
 </script>
-<script>!function(){if(self.document){var e=self.document.createElement("script"),t="noModule"in e,n=t;Object.defineProperty(self,"SUPPORT_MODULE",{get:function(){return n},configurable:!1,enumerable:!1}),!t&&"onbeforeload"in e&&(self.document.addEventListener("beforeload",(function(t){if(t.target===e)n=!0;else if(!t.target.hasAttribute("nomodule")||!n)return;t.preventDefault()}),!0),e.type="module",e.src=".",self.document.head.appendChild(e),e.remove())}}();</script>
-<script>!function(){var A=["lossy","lossless","alpha","animation"];function t(A,t){var n=new Image;n.onload=function(){var o=n.width>0&&n.height>0;t(A,o)},n.onerror=function(){t(A,!1)},n.src="data:image/webp;base64,"+{lossy:"UklGRiIAAABXRUJQVlA4IBYAAAAwAQCdASoBAAEADsD+JaQAA3AAAAAA",lossless:"UklGRhoAAABXRUJQVlA4TA0AAAAvAAAAEAcQERGIiP4HAA==",alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[A]}function n(t,n){var o=function(t){var n={};if(!t||1!==t.length)return n;for(var o=parseInt(t,16).toString(2);o.length<4;)o="0"+o;for(var s=0;s<A.length;s++)n[A[s]]="1"===o[s];return n}(sessionStorage.getItem("shopee_webp_support"));o[t]=n,sessionStorage.setItem("shopee_webp_support",function(t){var n="0000";if(!(t instanceof Object))return n;for(var o=0;o<A.length;o++)!0===t[A[o]]&&(n=n.substring(0,o)+"1"+n.substring(o+1));return parseInt(n,2).toString(16)}(o))}function o(A,t){try{n(A,t)}catch(A){}}sessionStorage.getItem("shopee_webp_support")||(t("lossy",o),t("lossless",o),t("alpha",o),t("animation",o))}();</script>
-<script nomodule src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/polyfill-legacy.0388a9333bc3de61.legacy.js"></script>
-<script>!function(){var t=/^\/(?:supermarket|cart|checkout|search)(?:\/|$)/,e=document&&document.querySelector('script[type^="text/shopee-short-url-checked"]'),o=!(!e||"1"!==e.textContent),a=location&&location.origin||"";function n(){document&&document.body&&(document.body.style.visibility="visible")}var r="";function i(e){var o=function(t){var e=document.createElement("a");return e.href=t,{pathname:e.pathname,hash:e.hash,search:e.search,protocol:e.protocol}}(e),i=o.pathname,s=o.hash,c=i.replace(/\/+$/,"");if(r!==c&&(r=c,"/"!==i&&!function(e){return t.test(e)}(i)&&function(t){return 1===t.split("/").filter(Boolean).length}(i)&&i.length<256&&""===s&&0===i.lastIndexOf("/"))){document&&document.body&&(document.body.style.visibility="hidden"),setTimeout(n,5e3);var h=new XMLHttpRequest;h.open("GET",a+"/api/v4/pages/is_short_url/?path="+i.replace("/","")),h.setRequestHeader("Content-Type","application/json"),h.setRequestHeader("Accept","application/json"),h.onreadystatechange=function(){if(4===this.readyState)if(200===this.status){var t=JSON.parse(this.responseText);t&&t.data&&t.data.url?(console.log("Redirecting via short url to: res.data.url"),location.href=t.data.url):n()}else n()},h.send()}}var s=window.history.pushState;window.history.pushState=function(){var t=arguments[2];t&&i(t),s.apply(history,arguments)};var c=window.history.replaceState;window.history.replaceState=function(){var t=arguments[2];t&&i(t),c.apply(history,arguments)},o||i(location.href)}();</script>
-<script>if(window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,window.PerformanceObserver)try{var observer=new window.PerformanceObserver((function(e){for(var r=e.getEntries(),n=0;n<r.length;n++){var a=r[n],i=a.name,t=Math.round(a.startTime+a.duration);ga("send",{hitType:"timing",timingCategory:"Performance Metrics",timingVar:i,timingValue:t})}}));observer.observe({entryTypes:["paint"]})}catch(e){}</script>
-<script>"loading"in HTMLImageElement.prototype?document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll("img[loading].lazyload").forEach((function(e){e.dataset.src&&(e.src=e.dataset.src),e.dataset.srcset&&(e.srcset=e.dataset.srcset)}))})):document.write('<script type="text/javascript" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/polyfill.6eeeee64c6017caa.js"><\/script>')</script><script>"IntersectionObserver"in window&&"IntersectionObserverEntry"in window&&"intersectionRatio"in window.IntersectionObserverEntry.prototype&&"isIntersecting"in window.IntersectionObserverEntry.prototype||document.write('<script type="text/javascript" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/polyfill.e74248e871a636a1.js"><\/script>')</script><script>window.MutationObserver||document.write('<script type="text/javascript" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/polyfill.909f7922f04e46f7.js"><\/script>')</script><script>!function(){var e=document.createElement("div").style;e.setProperty&&e.setProperty("--x","x"),e.getPropertyValue&&"x"===e.getPropertyValue("--x")||(document.write('<script type="text/javascript" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/polyfill.0b761ff65aca5425.js"><\/script>'),document.write("<script>window.cssVars({preserveVars:!0,watch:!0});<\/script>"))}()</script>
-<script src="https://deo.shopeemobile.com/shopee/shopee-trackingsdk-live-sg/index.js"></script>
-<script id="gtm-script" data-locale="id" data-gtm-id="GTM-WJZQSJF" data-delay-load="true">!function(t,e,a,n){t[n]=[];var o=["PL","ES","BR"].indexOf(__LOCALE__)>=0,r=o?"denied":"granted";!function(){dataLayer.push(arguments)}("consent","default",{consent_analytical:r,consent_functional:r,consent_advertising:r,consent_thirdparty_google:r,consent_thirdparty_tiktok:r,wait_for_update:o?15e3:0});var d=document.currentScript||document.getElementById("gtm-script");if(d){var i=d.getAttribute("data-locale"),c=d.getAttribute("data-gtm-id"),s=d.getAttribute("data-delay-load"),u="",g=0;s&&(u="delay",g=5e3),t[n]=t[n]||[];var m=Date.now(),_={"gtm.start":m,event:"gtm.js",country:i};u&&(_.userGroup=u),t[n].push(_);var l=!1;t.__shopeeLoadGTM=function(){l||(l=!0,g=Math.max(0,Math.min(g,g-(Date.now()-m))),setTimeout((function(){var t=e.getElementsByTagName(a)[0],n=e.createElement(a);n.async=!0,n.src="https://www.googletagmanager.com/gtm.js?id="+c,t.parentNode.insertBefore(n,t)}),g))},o||t.__shopeeLoadGTM()}}(window,document,"script","dataLayer");</script>
-<script>var spt=[]</script>
-<link href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/bundle.18d594e05db33dc7.css" data-modern="true" rel="stylesheet">
-<link rel="manifest" href="/mobilemall-assets/assets/manifest.d08c13e4fd1bf1b5ddc5b7933dc779fa.json" /><meta name="mobile-web-app-capable" content="yes" /><meta name="apple-touch-fullscreen" content="yes" /><meta name="apple-mobile-web-app-title" content="Shopee" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-status-bar-style" content="default" /><link rel="apple-touch-icon" size="120x120" href="https://pub-18e7d80c676245a5aa0bd8b587071663.r2.dev/favicon-miu.png" /><link rel="apple-touch-icon" size="180x180" href="https://pub-18e7d80c676245a5aa0bd8b587071663.r2.dev/favicon-miu.png" /><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_640x1136.44f3b1919faea215b1e8a8f33bc85eb2.png" /><link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_750x1334.e7f516f762373cc6c316d37455600b8a.png" /><link rel="apple-touch-startup-image" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_1242x2208.0030ddfcb47d1a8f7f34ea1f488e063d.png" /><link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_1125x2436.d03df48b337e7e7f19d94203a800123b.png" /><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_828x1792.848d89109908599fcf6edf6e0b7c6cde.png" /><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_1242x2688.806794fa2096fd0d63f138f9380033ab.png" /><link rel="apple-touch-startup-image" media="(device-width: 360px) and (device-height: 780px) and (-webkit-device-pixel-ratio: 3)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_1080x2340.b159e955714fc4bfcee0415d7a196559.png" /><link rel="apple-touch-startup-image" media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_1170x2532.7d66e217dfb6824abb4829a8c0092554.png" /><link rel="apple-touch-startup-image" media="(device-width: 428px) and (device-height: 926px) and (-webkit-device-pixel-ratio: 3)" href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/ios_splash_screen_1284x2778.91b92b6b72c0355991793e6f3bf45eaf.png" /><script type="text/shopee-page-manifest">{"mobilemall-micrositefe":"https://deo.shopeemobile.com/shopee/stm-sg-live/60742/asset-ID-live.2d364fb01e700fa0b31d93fb9c7e6207.json","mobilemall-cart":"https://deo.shopeemobile.com/shopee/stm-sg-live/2300/asset-ID-live.446d62209690dda445588a08cf78ed42.json","mobilemall-paymentfe":"https://deo.shopeemobile.com/shopee/stm-sg-live/3059/asset-ID-live.cb67bcd7cd33ab14f7b2fcbb0d9ecc10.json","mobilemall-coinsrewardpage":"https://deo.shopeemobile.com/shopee/stm-sg-live/4983/asset-ID-live.9f94cfc41f0bc1e78feeb5cfe201023d.json","mobilemall-shop":"https://deo.shopeemobile.com/shopee/stm-sg-live/5067/asset-ID-live.b2cf0a7812111a0669c1b1b5cd02ee71.json","mobilemall-chatbroadcast":"https://deo.shopeemobile.com/shopee/stm-sg-live/5273/asset-ID-live.0d0df1ab1e3b9c0d31feb40bc8288a24.json","mobilemall-return":"https://deo.shopeemobile.com/shopee/stm-sg-live/5561/asset-ID-live.8cfbf24a70259ec4a1d6225da64e9903.json","mobilemall-flashsale":"https://deo.shopeemobile.com/shopee/stm-sg-live/7767/asset-ID-live.980d359cc539d7a436f92e26f4f99efa.json","mobilemall-orderlist":"https://deo.shopeemobile.com/shopee/stm-sg-live/7899/asset-ID-live.7a3adcb8452ce6e034ece983f3be2a71.json","mobilemall-bundledeal":"https://deo.shopeemobile.com/shopee/stm-sg-live/13359/asset-ID-live.bf2022c1ce5dd517090650cd33c7d3d0.json","mobilemall-sclp":"https://deo.shopeemobile.com/shopee/stm-sg-live/webfe-rp-assets/15071/asset-ID-live.7cc18980fa9cb26f71e58f920990005b.json","mobilemall-dailycheckin":["https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/dailycheckin/main.da1b97a52225512efaa3.css","https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/dailycheckin/main.cee88ffc30251dae80de.js"],"mobilemall-addondeal-aod":"https://deo.shopeemobile.com/shopee/stm-sg-live/16972/asset-ID-live.bde24a1544a24d71315671113fbcf2b4.json","mobilemall-addondeal-pwg":"https://deo.shopeemobile.com/shopee/stm-sg-live/17362/asset-ID-live.5e07e1cf0b247fcbb515e6d69dc2c7ae.json","mobilemall-addondeal-pwp":"https://deo.shopeemobile.com/shopee/stm-sg-live/17572/asset-ID-live.20d8c9161da4c7bc3fe7c93a9ba9381f.json","mobilemall-brandsale":"https://deo.shopeemobile.com/shopee/stm-sg-live/17857/asset-ID-live.90d7adedf318d4a99de22f9c6fd90440.json","mobilemall-flashsaleentrance":"https://deo.shopeemobile.com/shopee/stm-sg-live/17897/asset-ID-live.9ada0d2b5a7f2e44e141e2f0b2a67899.json","mobilemall-brandsaleentrance":"https://deo.shopeemobile.com/shopee/stm-sg-live/17966/asset-ID-live.86aefe71fbc883f59e2b2631ba9e13dc.json","mobilemall-smartflashsale":"https://deo.shopeemobile.com/shopee/stm-sg-live/18030/asset-ID-live.0b637f895eb6a684eb6b2b9a30b67951.json","mobilemall-smartflashsaleentrance":"https://deo.shopeemobile.com/shopee/stm-sg-live/18090/asset-ID-live.cec189635add8b95ed66214c3f121fa8.json","mobilemall-shopcustompage":"https://deo.shopeemobile.com/shopee/stm-sg-live/18904/asset-ID-live.624be001a95a621b726c2c80693bbfe7.json","mobilemall-useraccount":"https://deo.shopeemobile.com/shopee/stm-sg-live/22297/asset-ID-live.aa5233069787e60729a5bc452a4f2035.json","mobilemall-rcmd-cart-ymal":"https://deo.shopeemobile.com/shopee/stm-sg-live/23232/asset-ID-live.afd07f51442b4758268c99c255972b2c.json","mobilemall-homepage":"https://deo.shopeemobile.com/shopee/stm-sg-live/23412/asset-ID-live.febb2957413789e6f2166adb9b62c720.json","mobilemall-platformvouchers":"https://deo.shopeemobile.com/shopee/stm-sg-live/23679/asset-ID-live.50eed51e08cf0b154d5cfed18a171ebd.json","mobilemall-shopvouchers":"https://deo.shopeemobile.com/shopee/stm-sg-live/23860/asset-ID-live.9e84740713a2d956b810ef7d487785a9.json","mobilemall-sellervouchercard":"https://deo.shopeemobile.com/shopee/stm-sg-live/23942/asset-ID-live.8feb2fa3e1c0c8658c85731230cb76c8.json","mobilemall-pdpvoucherdrawer":"https://deo.shopeemobile.com/shopee/stm-sg-live/24038/asset-ID-live.26339b4acf7e84376a60794c2e079d3d.json","mobilemall-sellervoucher":"https://deo.shopeemobile.com/shopee/stm-sg-live/24128/asset-ID-live.029cbc7af73ef0a3153561f521d1e542.json","mobilemall-voucherpromotiontext":"https://deo.shopeemobile.com/shopee/stm-sg-live/24219/asset-ID-live.a335f85fabc72834a3ad23964dabc408.json","mobilemall-pagedpvoucherredemption":"https://deo.shopeemobile.com/shopee/stm-sg-live/24305/asset-ID-live.25c69d05169f1b42d34edda3c04aebf3.json","mobilemall-shoppagesellervoucherpreview":"https://deo.shopeemobile.com/shopee/stm-sg-live/24392/asset-ID-live.6ca0371ffe1d94bf92c11f1bc6568e0f.json","mobilemall-micrositepage":"https://deo.shopeemobile.com/shopee/stm-sg-live/25724/asset-ID-live.02f1abb2f625e023d6c47be88fa86a9a.json","mobilemall-ebcomponents-quiz":"https://deo.shopeemobile.com/shopee/stm-sg-live//30752/asset-ID-live.002b3bfea767b61a6be1ad3a263ed227.json","mobilemall-ebcomponents-voting":"https://deo.shopeemobile.com/shopee/stm-sg-live//31902/asset-ID-live.abab29ae04158ca94199d850a54032b2.json","mobilemall-formmanagement":"https://deo.shopeemobile.com/shopee/stm-sg-live/32378/asset-ID-live.a1b4b80f2430f1771fd217ebe3142d3a.json","mobilemall-coins":"https://deo.shopeemobile.com/shopee/stm-sg-live/32586/asset-ID-live.b0f3a42ab4462dcfddbe03c79ac15558.json","mobilemall-productdetailspage":"https://deo.shopeemobile.com/shopee/stm-sg-live/32724/asset-ID-live.01a88bdb68c150028255fac2e6aa48b4.json","mobilemall-rcmd-flash-sale-sold-out-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/33206/asset-ID-live.a2fb0b8a013555d37c8f1c76fe5b0a95.json","mobilemall-returnevidence":"https://deo.shopeemobile.com/shopee/stm-sg-live/34362/asset-ID-live.451a1c3f36668b906e72bfb8025941ce.json","mobilemall-ebcomponents-mb":"https://deo.shopeemobile.com/shopee/stm-sg-live//34547/asset-ID-live.77e74854023c2a50ed4fc5c21af5a3a0.json","mobilemall-rcmd-category-module":"https://deo.shopeemobile.com/shopee/stm-sg-live/34643/asset-ID-live.ea2de58a12ccdf698eea63d838808810.json","mobilemall-martcategorylistpage":"https://deo.shopeemobile.com/shopee/stm-sg-live/35135/asset-ID-live.c6bdcfe3125493d6f3f22494b436ee16.json","mobilemall-rcmd-pdp-ftss":"https://deo.shopeemobile.com/shopee/stm-sg-live/35507/asset-ID-live.5cd2d2c12485daadc4a449b33a0223b1.json","mobilemall-rcmd-pdp-ymal":"https://deo.shopeemobile.com/shopee/stm-sg-live/35706/asset-ID-live.671f7fea2393482c94ca1792b76c0f1e.json","mobilemall-checkout":"https://deo.shopeemobile.com/shopee/stm-sg-live/36182/asset-ID-live.71a67ec52fa62066f03bb202baf9f59d.json","mobilemall-mart-categorylandingpage":"https://deo.shopeemobile.com/shopee/stm-sg-live/36475/asset-ID-live.6c16406b7f70990adf5b3af1d7b89f00.json","mobilemall-mart-dealspage":"https://deo.shopeemobile.com/shopee/stm-sg-live/36570/asset-ID-live.bfc31a6562e3b8f739cc7904c6eeb572.json","mobilemall-mart-homepage":"https://deo.shopeemobile.com/shopee/stm-sg-live/36665/asset-ID-live.3983dc5bdefad0a2d76fb4633d576c0e.json","mobilemall-rcmd-mart-recommendation-module":"https://deo.shopeemobile.com/shopee/stm-sg-live/39174/asset-ID-live.928821691fe43a96a43c5e671e3bec61.json","mobilemall-malllanding":"https://deo.shopeemobile.com/shopee/stm-sg-live/39369/asset-ID-live.0befb5cc82c4e01d2c22898781df5665.json","mobilemall-mallbrands":"https://deo.shopeemobile.com/shopee/stm-sg-live/39452/asset-ID-live.ae329afdc981f30fe6a2c4e770569d3c.json","mobilemall-mallcategories":"https://deo.shopeemobile.com/shopee/stm-sg-live/39557/asset-ID-live.7aa4e3fb138829289a48abe9044f2cea.json","mobilemall-rcmd-mart-buy-again-module":"https://deo.shopeemobile.com/shopee/stm-sg-live/39989/asset-ID-live.8ecaef63aeb43ef11fdffe24f8c33230.json","mobilemall-rcmd-mart-buy-again-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/40037/asset-ID-live.48b29a2310b5ec582163e1b6ec5f9180.json","mobilemall-rcmd-pdp-ftss-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/40597/asset-ID-live.88e59bbb8a21c00075dbe07221186202.json","mobilemall-rcmd-home-top-products-module":"https://deo.shopeemobile.com/shopee/stm-sg-live/40792/asset-ID-live.e7abf5d1f2f25e043671001e64101c39.json","mobilemall-rcmd-home-top-products-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/40886/asset-ID-live.3483e92694b7080e28e0bce141bb99ad.json","mobilemall-pageitemrating":"https://deo.shopeemobile.com/shopee/stm-sg-live/41296/asset-ID-live.c8033aaaa11daa8a6e56aecdedde2233.json","mobilemall-pageratingreport":"https://deo.shopeemobile.com/shopee/stm-sg-live/41419/asset-ID-live.fadc8f9677609259ac7d70b4b8d58462.json","mobilemall-pagereplyrating":"https://deo.shopeemobile.com/shopee/stm-sg-live/41515/asset-ID-live.edaf7ba073847c36e60b561c175e848f.json","mobilemall-pageshoprating":"https://deo.shopeemobile.com/shopee/stm-sg-live/41610/asset-ID-live.0e9d2cfe1fbff5dc87e6d568f5b8a73b.json","mobilemall-rcmd-featured-collections-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/41794/asset-ID-live.33ace949a9acb4d1d1977579cb52e96d.json","mobilemall-welcomepackage":"https://deo.shopeemobile.com/shopee/stm-sg-live/41887/asset-ID-live.dbae2201655aadd1a22d99fb476bdc28.json","mobilemall-productrating":"https://deo.shopeemobile.com/shopee/stm-sg-live/42071/asset-ID-live.1e257ded4b600b03f51a3cfdb212f22d.json","mobilemall-mart-navigation-bar":"https://deo.shopeemobile.com/shopee/stm-sg-live/42272/asset-ID-live.07c672cf06eb0d3293a7b5f57bb59043.json","mobilemall-mart-voucherlandingpage":"https://deo.shopeemobile.com/shopee/stm-sg-live/42557/asset-ID-live.e7d999d9e0a4ac9279e36425676a86af.json","mobilemall-rcmd-fsp-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/42848/asset-ID-live.eb39576b80685ea92b8fe87a42e0082f.json","mobilemall-rcmd-featured-collections-module":"https://deo.shopeemobile.com/shopee/stm-sg-live/43042/asset-ID-live.bca1e9b51c3c710ccdf7c5614f49b8a6.json","user-microfe-identity-mobile-demo-1":"https://deo.shopeemobile.com/shopee/stm-sg-live/50236/asset-ID-live.c2426c2529b6b5a97d88deef23ba6726.json","user-microfe-identity-mobile-demo-2":"https://deo.shopeemobile.com/shopee/stm-sg-live/50337/asset-ID-live.9c647ac641c6e4bb0ebbb1edd5366937.json","user-microfe-identity-mobile-noti-email-subscription-center":"https://deo.shopeemobile.com/shopee/stm-sg-live/51104/asset-ID-live.a89039d0899f406959d46adf42209eb0.json","mobilemall-anticrawler":"https://deo.shopeemobile.com/shopee/stm-sg-live/51304/asset-ID-live.d303f15cca18e5c4d8b78d40458388e6.json","mobilemall-returnlegacy":"https://deo.shopeemobile.com/shopee/stm-sg-live//51584/asset-ID-live.67b7f26b6241ff05af372570819425a5.json","mobilemall-captcha":"https://deo.shopeemobile.com/shopee/stm-sg-live/51776/asset-ID-live.61200274c94409e6d390ae8e86191fd1.json","mobilemall-invoicepage":"https://deo.shopeemobile.com/shopee/stm-sg-live/52081/asset-ID-live.e74595e80cd568cdd5dfd861294cc5cb.json","mobilemall-captchapopup":"https://deo.shopeemobile.com/shopee/stm-sg-live/52158/asset-ID-live.091328d62e5d7da82cb78c8202b489f9.json","mobilemall-dd-landing-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/52697/asset-ID-live.a6a5fa4ed0b7586be6615ae5fe9aab25.json","mobilemall-dd-home-module":"https://deo.shopeemobile.com/shopee/stm-sg-live/52730/asset-ID-live.93b9de5c743e50a7db238d5543b6ac02.json","mobilemall-rcmd-mall-just-for-you-module":"https://deo.shopeemobile.com/shopee/stm-sg-live/53317/asset-ID-live.53e17643146b01236e56f07a3e573597.json","mobilemall-rcmd-mall-just-for-you-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/53415/asset-ID-live.0ceaa63e29ef9583950851d7ae2edaf8.json","mobilemall-collectionfe-productcollection":"https://deo.shopeemobile.com/shopee/stm-sg-live/53978/asset-ID-live.aeb0ea0d83ca2db36186e8994e4997c2.json","mobilemall-collectionfe-product-clp":"https://deo.shopeemobile.com/shopee/stm-sg-live/54181/asset-ID-live.0349b81a1ac51cca2c5d7d03806be417.json","mobilemall-collectionfe-shop-clp":"https://deo.shopeemobile.com/shopee/stm-sg-live/54276/asset-ID-live.5d43cd2154c5daf96d66ca6cbbab6e93.json","mobilemall-collectionfe-entry-clp":"https://deo.shopeemobile.com/shopee/stm-sg-live/54367/asset-ID-live.2a04c7872bfa29b0b646962d29d8b168.json","mobilemall-collectionfe-allcampaigns":"https://deo.shopeemobile.com/shopee/stm-sg-live/54562/asset-ID-live.7353a13f6f4d82f578af7c8dfaf63177.json","mobilemall-antifraudverifyqr":"https://deo.shopeemobile.com/shopee/stm-sg-live/54658/asset-ID-live.802772efad09bb71f56b488a717aaa90.json","mobilemall-antifraudverifylink":"https://deo.shopeemobile.com/shopee/stm-sg-live/54754/asset-ID-live.1a5f93db9d2d00051ee1d2191b563c3e.json","mobilemall-antifraudivs":"https://deo.shopeemobile.com/shopee/stm-sg-live/55103/asset-ID-live.ded6766e8778334449e2a888b4b96873.json","mobilemall-antifraudverifyemaillink":"https://deo.shopeemobile.com/shopee/stm-sg-live/55390/asset-ID-live.fd669b2ad83ac9d5127cd4cdda1b55e2.json","mobilemall-antifraudverifylinkreceiver":"https://deo.shopeemobile.com/shopee/stm-sg-live/57249/asset-ID-live.d2540207fb27d3e4034c4695ed5b0301.json","mobilemall-antifraudverifyemaillinkreceiver":"https://deo.shopeemobile.com/shopee/stm-sg-live/57346/asset-ID-live.c1d74635e4ccc805be5558bb957eda1e.json","mobilemall-categoryfe":"https://deo.shopeemobile.com/shopee/stm-sg-live/57458/asset-ID-live.25711a467d8d735156d832d532dd2c5c.json","mobilemall-search-intermediate-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/59287/asset-ID-live.f51155172b9e73e1256d40c1af5779c2.json","mobilemall-homepagefe":"https://deo.shopeemobile.com/shopee/stm-sg-live/59761/asset-ID-live.4bb28d6385a3c3564911d324e1484157.json","mobilemall-seo-brand-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/60240/asset-ID-live.2764f38bc5e9af82c598fd3abe1b61a8.json","mobilemall-search-mart-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/60442/asset-ID-live.30f040cb3c8bca4b3ed38efdbeee59fe.json","mobilemall-search-result-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/60918/asset-ID-live.93de3c923a0203770bedef9c5a1a22f2.json","mobilemall-flashsalesoldout":"https://deo.shopeemobile.com/shopee/stm-sg-live/31328/asset-ID-live.e992488f3c90c89a1e988de46cb090f2.json","mobilemall-rcmd-pdp-hot-sales":"https://deo.shopeemobile.com/shopee/stm-sg-live/43710/asset-ID-live.2245aa9588ddf60bb17b689ddf308d5c.json","mobilemall-search-srp-user":"https://deo.shopeemobile.com/shopee/stm-sg-live/44470/asset-ID-live.aecd211f38908d6a8892501a20065bb6.json","VOUCHER_CARD_MANIFEST":{"live":"vouchercard-v0.21.0"},"mobilemall-search-user-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/44670/asset-ID-live.faa63d6c8e4addc8d9c3487eda4c6ced.json","mobilemall-rcmd-home-top-products-list-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/45156/asset-ID-live.934a2900976a3b04de767353f11d451a.json","user-microfe-account-mobile-demo":"https://deo.shopeemobile.com/shopee/stm-sg-live/48996/asset-ID-live.6228eec2dfd7625baf620a7cc97ed01a.json","mobilemall-returndetail":"https://deo.shopeemobile.com/shopee/stm-sg-live/47493/asset-ID-live.b17b59c9122b2fd013290bc571420d2b.json","mobilemall-antifrauderror":"https://deo.shopeemobile.com/shopee/stm-sg-live/47263/asset-ID-live.3fb84dd9a31be33bf4658bed61fde63a.json","user-microfe-account-mobile-demo-2":"https://deo.shopeemobile.com/shopee/stm-sg-live/50049/asset-ID-live.540d3e3f7be509f5819197ff93ac2ef1.json","mobilemall-vouchermarthomepage":"https://deo.shopeemobile.com/shopee/stm-sg-live/49379/asset-ID-live.ffc9fe17a939d19c5ba9efe752362426.json","mobilemall-vouchermartlandingpage":"https://deo.shopeemobile.com/shopee/stm-sg-live/49471/asset-ID-live.ba7fef990e94caab5e2bca0e3e7f0f42.json","mobilemall-rcmd-featured-collections-list-page":"https://deo.shopeemobile.com/shopee/stm-sg-live/49286/asset-ID-live.56bffae7d53d46781878dc2e3fa2ef5e.json","mobilemall-returnrequestissue":"https://deo.shopeemobile.com/shopee/stm-sg-live/50433/asset-ID-live.92af9b607b6b1ee4e5ea8b3a9bfaa8ef.json","mobilemall-returnrequestsummary":"https://deo.shopeemobile.com/shopee/stm-sg-live/50628/asset-ID-live.89a3622a0f4c4f5dfa17c72eba5eb54d.json","mobilemall-returnrequestitemselect":"https://deo.shopeemobile.com/shopee/stm-sg-live/50534/asset-ID-live.d17c99dbd062ef4fb03856ec3eeb7e88.json","user-microfe-account-mobile-verify-account-seller-main-sub":{"version":1,"assets":{},"metaAppDetails":{},"legacy":{"js":["https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/runtime.8e805b15ef6cb8aa3765.legacy.js","https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/vendor.d9dacc8de07cc0afba4f.legacy.js","https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/common.bffd39d927a718637659.legacy.js","https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/user-microfe-account-mobile-verify-account-seller-main-sub.3a7ab19b1fae66a906e9.legacy.js"],"css":["https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/user-microfe-account-mobile-verify-account-seller-main-sub.bbb1d0e27bfc7c86c4f3.legacy.css"]},"modern":{"js":["https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/runtime.30f40a5afcfeadbe652c.js","https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/vendor.2a8f0855480665eb7acd.js","https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/common.8498d35d7126c25ca309.js","https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/user-microfe-account-mobile-verify-account-seller-main-sub.fde4783e312614b37bb1.js"],"css":["https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/account/user-microfe-account-mobile-verify-account-seller-main-sub.9234ae22c31f99d9f43c.css"]}}}</script>
-<style data-href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/mobilemall-productdetailspage.934c5d9ac545c1970e8f.css">.stardust-popup{align-items:center;display:flex}.stardust-popup,.stardust-popup__overlay{height:100%;left:0;position:fixed;top:0;width:100%}.stardust-popup__overlay{background:rgba(0,0,0,.4)}.stardust-popup__dialog{background:#fff;border-radius:4px;margin:auto 34px}.stardust-popup__dialog--wrapper{margin:0 auto;max-width:375px;width:100%;z-index:2}.stardust-popup__dialog--wrapper-top{padding:20px 20px 0}.stardust-popup-title{color:rgba(0,0,0,.87);font-size:16px;text-align:center}.stardust-popup-content,.stardust-popup-title{font-family:-apple-system,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-weight:400}.stardust-popup-content{color:rgba(0,0,0,.54);font-size:14px;text-align:left}.stardust-popup-buttons{align-content:space-between;display:flex;margin-top:26px}.stardust-popup-button{border-top:1px solid rgba(0,0,0,.09);color:#ee4d2d;cursor:pointer;flex:1 100%;font-family:-apple-system,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-size:16px;font-weight:400;height:46px;line-height:46px;text-align:center;-webkit-user-select:none;-moz-user-select:none;user-select:none}.stardust-popup-button:nth-child(2){border-left:1px solid rgba(0,0,0,.09)}@keyframes movement{0%{transform:translateY(2px)}50%{transform:translateY(-2px)}to{transform:translateY(2px)}}.stardust-spinner--hidden{display:none}.stardust-spinner__background{align-content:center;align-items:center;background-color:rgba(0,0,0,.4);display:flex;height:100%;justify-content:center;left:0;position:fixed;top:0;width:100%}.stardust-spinner__background--no-overlay{background-color:transparent;height:auto;position:static;width:auto}.stardust-spinner__background--no-overlay .stardust-spinner__main{border-radius:0;padding:0}.stardust-spinner__main{background:#fff;border-radius:1rem;color:#000;flex:0 1 auto;padding:1rem}.stardust-spinner__spinner{animation:movement .4s linear infinite}.stardust-spinner__spinner:nth-child(2){animation-delay:.1s}.stardust-spinner__spinner:nth-child(3){animation-delay:.2s}.with-loading-wrapper>.stardust-spinner>.stardust-spinner__background{background-color:#999;z-index:20000}.with-loading-wrapper--transparent-background>.stardust-spinner>.stardust-spinner__background{background-color:rgba(0,0,0,.4);z-index:20000}.stardust-toast{align-items:center;bottom:0;display:flex;height:100%;justify-content:center;left:0;pointer-events:all;position:absolute;right:0;top:0;transition:opacity .1s cubic-bezier(.4,0,.6,1);width:100%;z-index:1}.stardust-toast--hidden{opacity:0;pointer-events:none}.stardust-toast__container{align-items:center;background-color:rgba(0,0,0,.65);border-radius:7px;color:#fff;cursor:default;display:flex;flex-direction:column;font-family:-apple-system,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-size:14px;font-weight:400;justify-content:space-around;padding:15px;pointer-events:all;pointer-events:inherit;text-align:center}.stardust-toast__icon svg{height:30px;margin-bottom:7px;width:30px}.stardust-toast__text{display:-webkit-box;overflow:hidden;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:2;word-break:break-all;word-wrap:break-word}.stardust-carousel,.stardust-carousel__item-list-wrapper{height:100%;position:relative;width:100%}.stardust-carousel__item-list-wrapper{box-sizing:border-box;overflow-x:hidden}.stardust-carousel__item-list{bottom:0;display:flex;height:100%;left:0;margin:0;overflow:hidden;padding:0;position:absolute;right:0;top:0;touch-action:pan-y}.stardust-carousel__item{align-items:center;align-self:center;display:flex;flex-shrink:0;height:100%;justify-content:center;list-style:none;overflow:hidden}.stardust-carousel__item-inner-wrapper{height:100%;width:100%}.stardust-carousel__item-inner-wrapper--hide{display:none}.stardust-carousel:hover .stardust-carousel__arrow{opacity:1}.stardust-carousel__arrow{align-items:center;border-radius:50%;box-shadow:0 1px 8px 0 rgba(0,0,0,.09);color:rgba(0,0,0,.87);cursor:pointer;display:inline-flex;font-size:20px;height:20px;justify-content:center;line-height:20px;opacity:0;position:absolute;text-align:center;top:50%;transform:translateY(-50%);-webkit-user-select:none;-moz-user-select:none;user-select:none;width:20px;fill:rgba(0,0,0,.87);background-color:#fff;transition:opacity .3s ease}.stardust-carousel__arrow>svg{color:#ee4d2d;flex:0 1 auto;height:75%;width:75%}.stardust-carousel__arrow:hover{box-shadow:0 1px 12px 0 rgba(0,0,0,.09)}.stardust-carousel__arrow:active{box-shadow:0 1px 5px 0 rgba(0,0,0,.09)}.stardust-carousel__arrow--type-2{opacity:1}.stardust-carousel__arrow--prev{left:-10px}.stardust-carousel__arrow--next{right:-10px}.stardust-carousel__arrow--disabled>svg{fill:rgba(0,0,0,.12)}.stardust-carousel__dots{bottom:1rem;left:50%;position:absolute;text-align:center;transform:translate(-50%);transition:opacity .5s ease;width:100%}.stardust-carousel__dot{background-color:hsla(0,0%,100%,.4);border:1px solid hsla(0,0%,54%,.4);border-radius:50%;cursor:pointer;display:inline-block;height:.5rem;opacity:1;width:.5rem}.stardust-carousel__dot:not(:first-child){margin-left:.5rem}.stardust-carousel__dot--active{background-color:#ee4d2d;border-color:#ee4d2d;opacity:1}.stardust-carousel__indexing{background:#fff;border:1px solid rgba(0,0,0,.2);border-radius:12.4px;bottom:10px;color:rgba(0,0,0,.65);color:#000;font-size:14px;opacity:.65;padding:3px 10px;position:absolute;right:10px}.stardust-carousel__tabs{align-content:center;bottom:0;display:flex;height:30px;position:absolute;width:100%}.stardust-carousel__tab{background-color:hsla(0,0%,100%,.5);cursor:pointer;flex:1 0 0;font-size:12px;overflow:hidden;text-align:center}.stardust-carousel__tab--active{background-color:#ee4d2d;color:#fff}.stardust-carousel__tab-name{line-height:30px}.w7ks6r{background-color:#fff;cursor:pointer;display:flex;padding:1rem .875rem 1rem .75rem;-webkit-text-decoration:none;text-decoration:none}.xccTfr{flex-grow:1;margin-left:.75rem;margin-right:1rem}.SlwkHx{color:rgba(0,0,0,.87);margin-bottom:.25rem}.PLjDaD,.SlwkHx{font-size:.875rem}.PLjDaD{color:rgba(0,0,0,.54);word-break:break-word}.jjGWyx{height:1.25rem;width:1.25rem}.yseyPt{align-self:center;height:.6875rem;width:.375rem}.SarUkj{padding-bottom:100%;position:relative;width:100%}.IMAW1w,.ltOSWU{height:100%;left:0;position:absolute;top:0;width:100%}.IMAW1w{display:block;object-fit:contain;object-position:center}.ltOSWU{align-items:center;display:flex;justify-content:center}.EoYuuW{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23e5e4e4' viewBox='0 0 54 61'%3E%3Cpath stroke='none' d='M51.2 16.9H38.7C38.7 11.6 36 .6 27 .5 17.4.4 15.2 12.4 15.2 16.9H2.8c-3.4 0-2.7 3.4-2.7 3.4l2.4 33s-.1 7.3 6.3 7.5h36.5c6.2-.4 6.3-7.5 6.3-7.5l2.4-33c0-.1.5-3.5-2.8-3.4M27.1 4.2c7.1.2 7.9 11.7 7.7 12.6H19.1c-.1-.9.4-12.4 8-12.6m9.1 44.6c-1 1.7-2.7 3-5 3.7-1.2.4-2.4.5-3.6.5-3.2 0-6.5-1.1-9.3-3.3-.8-.6-1-1.5-.5-2.3.2-.4.7-.7 1.2-.8.4-.1.9 0 1.2.3 3.2 2.4 8.3 4 11.9 1.6 1.4-.9 2.1-2.7 1.6-4.3s-2.2-2.7-3.5-3.4c-1-.6-2.1-1-3.3-1.4-.9-.3-1.9-.7-2.9-1.2q-3.6-1.8-4.8-4.2c-1.2-2.3-.6-5.4 1.4-7.5 3.6-3.8 10-3.2 14-.4.9.6.9 1.7.4 2.5s-1.4.9-2.2.4c-2-1.4-4.4-2-6.4-1.7s-4.7 2-4.4 4.6c.2 1.5 2 2.6 3.3 3.3.8.4 1.5.7 2.3.9 4.3 1.3 7.2 3.3 8.6 5.7 1.2 2.1 1.2 4.9 0 7'/%3E%3C/svg%3E");background-position:50%;background-repeat:no-repeat;background-size:contain;height:60px;max-height:100%;max-width:100%;width:60px}.WgnznX{left:0}.WgnznX,.cPpNen{bottom:0;position:absolute;width:100%}.cPpNen{background-color:rgba(208,1,27,.9);color:#fff;font-size:16px;font-weight:300;height:40px;line-height:40px;text-align:center;vertical-align:middle;z-index:1}.Xyi3YC{position:relative}.Xyi3YC img{vertical-align:bottom}.ihZUU6{visibility:hidden}.LcYzP1{align-items:center;bottom:0;display:flex;height:100%;justify-content:center;left:0;position:absolute;right:0;top:0;width:100%}.H_3FFk{opacity:0}.OO1rEg{opacity:1;transition:opacity .2s ease}.qlQujO{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23e5e4e4' viewBox='0 0 54 61'%3E%3Cpath stroke='none' d='M51.2 16.9H38.7C38.7 11.6 36 .6 27 .5 17.4.4 15.2 12.4 15.2 16.9H2.8c-3.4 0-2.7 3.4-2.7 3.4l2.4 33s-.1 7.3 6.3 7.5h36.5c6.2-.4 6.3-7.5 6.3-7.5l2.4-33c0-.1.5-3.5-2.8-3.4M27.1 4.2c7.1.2 7.9 11.7 7.7 12.6H19.1c-.1-.9.4-12.4 8-12.6m9.1 44.6c-1 1.7-2.7 3-5 3.7-1.2.4-2.4.5-3.6.5-3.2 0-6.5-1.1-9.3-3.3-.8-.6-1-1.5-.5-2.3.2-.4.7-.7 1.2-.8.4-.1.9 0 1.2.3 3.2 2.4 8.3 4 11.9 1.6 1.4-.9 2.1-2.7 1.6-4.3s-2.2-2.7-3.5-3.4c-1-.6-2.1-1-3.3-1.4-.9-.3-1.9-.7-2.9-1.2q-3.6-1.8-4.8-4.2c-1.2-2.3-.6-5.4 1.4-7.5 3.6-3.8 10-3.2 14-.4.9.6.9 1.7.4 2.5s-1.4.9-2.2.4c-2-1.4-4.4-2-6.4-1.7s-4.7 2-4.4 4.6c.2 1.5 2 2.6 3.3 3.3.8.4 1.5.7 2.3.9 4.3 1.3 7.2 3.3 8.6 5.7 1.2 2.1 1.2 4.9 0 7'/%3E%3C/svg%3E");background-position:50%;background-repeat:no-repeat;background-size:contain;height:60px;max-height:100%;max-width:100%;width:60px}.MvsmeB .JLwqOd{bottom:0;right:0}.JLwqOd,.MvsmeB .JLwqOd{left:0;opacity:0;pointer-events:none;position:absolute;top:0;z-index:-1}.JLwqOd,._JU2rg{height:100%;width:100%}._JU2rg{position:relative}.SKaJ5r{align-items:center;background:rgba(0,0,0,.26);border-bottom-right-radius:50%;border-top-right-radius:50%;display:flex;height:44px;justify-content:center;position:absolute;top:calc(50% - 22px);width:44px}.stardust-icon{stroke:currentColor;fill:currentColor;height:1em;width:1em}.product-video__main-image{position:relative}.product-video__main-image,.product-video__video{cursor:pointer;-webkit-user-select:none;-moz-user-select:none;user-select:none}.product-video__video{flex:0 1 auto;height:100%;width:100%;-webkit-tap-highlight-color:transparent}.product-video__video::-webkit-media-controls-overlay-play-button,.product-video__video::-webkit-media-controls-rewind-button{display:none}.product-video__video::-webkit-media-controls-start-playback-button{-webkit-appearance:none;opacity:0}.product-video__play-button,.product-video__replay-button{cursor:pointer;left:50%;position:absolute;top:50%;transform:translate(-2.3125rem,-2.3125rem);-webkit-user-select:none;-moz-user-select:none;user-select:none}.product-video__play-button.stardust-icon,.product-video__replay-button.stardust-icon{height:4.625rem;width:4.625rem}.product-video__error{background-position:50%;background-repeat:no-repeat;background-size:contain;flex:0 1 auto;height:100%;width:100%}.product-video__error-mask{align-items:center;background-color:hsla(0,0%,100%,.9);display:flex;flex-direction:column;height:100%;justify-content:center;width:100%}.product-video__error-icon{cursor:not-allowed;-webkit-user-select:none;-moz-user-select:none;user-select:none}.product-video__error-icon.stardust-icon{color:#ee4d2d;height:4.625rem;width:4.625rem}.product-video__error-text{color:#ee4d2d;font-size:.875rem;line-height:1.125rem;padding:1.875rem 3.75rem 0;text-align:center;-webkit-user-select:none;-moz-user-select:none;user-select:none;width:100%}.ucOt1C{height:1px;opacity:0;position:absolute;width:1px}.mckFYA{border:1px solid transparent;border-radius:2px;box-sizing:border-box;margin-left:8px;width:calc(22.22222vw - 8.88889px)}.t4sBog{background-color:#fff;border:1px solid #ee4d2d;color:#ee4d2d}.gR3ufw{width:8px}.n3HUw1{display:flex;flex-direction:column;width:100%}.IHDLnA{overflow-y:scroll;width:100%;-webkit-overflow-scrolling:touch;background:#fff;margin-bottom:8px}.IHOO97{display:flex;padding:.6875rem 0;width:100%}.IHOO97 *{flex-shrink:0}.RUHAHe{align-items:center;background:#000;bottom:0;display:flex;height:32px;justify-content:center;opacity:.75;position:absolute;width:100%;z-index:1}.mP1cO1{background:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/c2cb044a1cd2e503857c.png) 50% no-repeat;background-size:contain;display:inline-block;height:12px;margin-right:6px;width:8px}.mP1cO1.l6poyQ{background:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/80c590e1d90d4f6d2a60.png) 50% no-repeat;background-size:contain}.KepJKO{color:#fff;font-weight:500;text-transform:capitalize}.nkYyoS{overflow:auto;padding:0 5px;word-break:break-word}.A0OaWY{margin-top:6px}.product-carousel{display:block;margin-top:-2.75rem;position:relative;z-index:1}.product-carousel:before{content:"";display:block;padding-top:100%}.product-carousel--long{position:relative}.product-carousel--long:before{content:"";display:block;padding-top:133.33333%}.product-carousel .stardust-carousel{bottom:0;left:0;overflow:hidden;position:absolute;right:0;top:0}.product-carousel .stardust-carousel__item-list-wrapper{height:100%}.product-carousel .stardust-carousel__item-list{height:100%!important}.product-carousel .stardust-carousel__item{height:100%;overflow:hidden}.product-carousel .stardust-carousel__item img{object-fit:contain}.product-carousel .stardust-carousel__item .product-carousel__item--adult{object-fit:scale-down}.product-carousel .stardust-carousel__dots{text-align:center;width:100%}.product-carousel__item{height:100%;max-height:100%;max-width:100%;overflow:hidden}.product-carousel__unavailable{align-items:center;background:rgba(0,0,0,.8);border-radius:80px;color:#fff;display:flex;height:80px;justify-content:center;left:50%;margin-left:-40px;margin-top:-40px;position:absolute;text-align:center;top:50%;width:80px;z-index:2}.product-carousel__unavailable-label{flex:0 1 auto;line-height:1.3125rem;text-align:center;text-transform:uppercase;width:40px}.product-carousel__unavailable--unavailable-models,.product-carousel__unavailable--unlisted{height:150px;margin-left:-75px;margin-top:-75px;width:150px}.product-carousel__unavailable-label--unavailable-models,.product-carousel__unavailable-label--unlisted{width:unset}.product-carousel__campaign-overlay{bottom:0;height:100%;left:0;position:absolute;right:0;top:0;width:100%}.product-carousel__campaign-overlay--1212{height:36px;right:auto;top:auto;width:112px;z-index:1}.MkcJt4{overflow:hidden;position:relative}.ksNo1m{background-color:#fff;color:rgba(0,0,0,.87);font-size:.75rem;padding:.5rem}.ksNo1m span{font-weight:500}.EutKDd{background:rgba(0,0,0,.86);border-radius:.6875rem;bottom:.5rem;color:#fff;left:.75rem;padding:.1875rem .5rem;position:absolute}.JKxwIc{opacity:0;transition:opacity .4s ease}.H4_Umq{opacity:1}.BbHxZ3.badge__shopee_mart,.XZcuDS.badge__official-shop{padding:0}.jFttMC{font-size:.75rem;position:relative;width:2.25rem}.jvXqN0{left:0;top:0;width:2.25rem}.jvXqN0,.uFKQP9{position:absolute}.uFKQP9{left:50%;top:50%;transform:translate(-50%,-50%);white-space:nowrap}.bPFkLZ{bottom:0;left:0;right:0;top:0;z-index:2}.bPFkLZ,.bPFkLZ .HqR4t8{align-items:center;display:flex;justify-content:center;position:absolute}.bPFkLZ .HqR4t8{background-color:rgba(0,0,0,.65);border-radius:5rem;color:#fff;font-size:.75rem;height:3.75rem;line-height:.875rem;max-width:calc(100% - 5rem);min-width:3.875rem;text-align:center}.bPFkLZ .lROqCL{border-radius:6.25rem;max-width:calc(100% - 4.5rem);min-width:4.1875rem}.bPFkLZ .kgtbTm{border-radius:6.25rem;max-width:calc(100% - 3.625rem);min-width:5.125rem}.bPFkLZ .V1LhHS{display:-webkit-box;overflow:hidden;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:2}.Ad2onj.badge__horizontal{background-color:#fff;border:1px solid #ee4d2d;border-radius:1px;padding:.09375rem .25rem}.theme--ofs .Ad2onj.badge__horizontal,.theme--s-mart .Ad2onj.badge__horizontal{border-color:#d0011b}.uRczFg{color:#ee4d2d;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.theme--ofs .uRczFg,.theme--s-mart .uRczFg{color:#d0011b}.LmbMns{align-items:center;display:inline-flex;justify-content:center;line-height:.875rem;margin:0 .25rem 0 0;max-width:100%}.LmbMns,.y8vAB8{font-size:.625rem;height:1rem}.y8vAB8{background-color:#ee4d2d;border:0;border-radius:.5rem .5rem .5rem 0;box-sizing:border-box;color:#fff;display:inline-block;line-height:1rem;min-width:1.875rem;padding:0 .25rem;text-align:center;text-transform:none}.EbIClg{border:1px solid #ee4d2d;color:#ee4d2d;font-size:10px;line-height:.875rem;overflow:hidden;padding:0 3px;text-overflow:ellipsis;white-space:nowrap}.aQYdBF{border:.0625rem solid;border-radius:.125rem;box-sizing:border-box;display:flex}.oyo8zY{color:#fff;flex-grow:1;flex-shrink:1}.oyo8zY,.ueZLsi{font-size:.625rem;line-height:.75rem;overflow:hidden;padding:.0625rem .25rem;text-overflow:ellipsis;white-space:nowrap}.ueZLsi{align-items:center;display:flex;flex-shrink:0;position:relative}.ueZLsi .NXJD8d{border-right:5px solid transparent;border-top:5px solid;height:0;left:-.0625rem;position:absolute;top:-.0625rem;width:0}.OwzXc9{color:#ee4d2d;font-size:.625rem;line-height:.75rem}.WOxHZ9{color:rgba(0,0,0,.87);-webkit-user-select:text;-moz-user-select:text;user-select:text;word-break:break-word}.WOxHZ9>.badge__official-shop{margin-right:.5rem}.WOxHZ9>span{vertical-align:middle}.vfQm3e{padding-left:.375rem;vertical-align:-.0625rem}.DIKlen{display:flex;float:right;margin-bottom:.25rem}.DIKlen>.badge-text{margin-left:.25rem}.nx5rVB{display:inline-flex;margin-right:.5rem;vertical-align:middle}.nx5rVB>.badge__horizontal{font-size:.75rem;height:1rem;line-height:.875rem;margin-bottom:0;margin-top:0}.Vqrakl{margin-bottom:.1875rem}.G6hhEE{align-items:flex-start;display:flex;margin-top:.625rem}.qksVIt{flex-shrink:0;margin-bottom:.1875rem}.ViQfDB{color:#ee4d2d;flex-shrink:0;margin-right:.75rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.theme--ofs .ViQfDB,.theme--s-mart .ViQfDB{color:#d0011b!important}.ODJsR8{align-items:center;color:rgba(0,0,0,.26);display:flex;font-weight:200;margin-top:.125rem;-webkit-text-decoration:line-through;text-decoration:line-through}.zhk4nq{display:inline-block;height:unset}.OwJYsX,.zhk4nq{overflow:hidden}.C8JtOq{max-width:100%}.ux2deQ{align-items:center;display:flex;flex-grow:1;flex-shrink:1;flex-wrap:wrap;height:1rem;margin-top:.1875rem;overflow:hidden}.u_O1nL{height:1rem;line-height:.875rem;margin:0!important;padding-bottom:0!important;padding-top:0!important}.u_O1nL:not(:first-child){margin-left:.25rem!important}.YQByMS{margin-right:.75rem;margin-top:.25rem}.m6s_Gh{max-width:100%}.X69LVN{height:16px;line-height:14px;margin:0!important;padding-bottom:0!important;padding-top:0!important}._1PWkR{box-sizing:border-box;display:inline-block;height:1rem;min-width:0;overflow:hidden;position:relative}._1PWkR:after,._1PWkR:before{background:currentColor;content:"";display:block;height:.0625rem;left:.25rem;position:absolute;right:.25rem;transform:scaleY(.5)}._1PWkR:before{top:0;transform-origin:0 0}._1PWkR:after{bottom:0;transform-origin:0 100%}._2DRZW{height:1rem;position:absolute;top:0;transform:translateZ(0);width:.25rem}._2DRZW:first-of-type{left:0}._2DRZW:nth-of-type(2){right:0}._1FKkT{height:1rem;line-height:1rem;margin:0 .1875rem;overflow:hidden;padding:0 .0625rem;padding:0 calc(var(--ns-a, .25rem) - .1875rem);position:relative;text-overflow:ellipsis;white-space:nowrap;z-index:1}._2HdUY{color:rgba(0,0,0,.09);color:var(--nc-util-line,rgba(0,0,0,.09))}._3VTkw{color:rgba(0,0,0,.26);color:var(--nc-util-disabled,rgba(0,0,0,.26))}._3hvfJ{color:#bdbdbd;color:var(--nc-util-disabled-o,#bdbdbd)}.-ClOx{color:rgba(0,0,0,.54);color:var(--nc-text-tertiary,rgba(0,0,0,.54))}._1AXbm._3Ao0A{background-color:#bdbdbd;background-color:var(--nc-util-disabled-o,#bdbdbd)}._1AXbm._2xFcL{fill:#bdbdbd;fill:var(--nc-util-disabled-o,#bdbdbd)}.TDOxp7,.aKBgs2{height:16px;line-height:14px;margin:0!important;padding-bottom:0!important;padding-top:0!important}.ZuWaqn{align-items:center;display:flex;flex-grow:1;flex-shrink:1;flex-wrap:wrap;height:16px;margin-top:3px;overflow:hidden}.AkbYn8{display:inline-flex;margin-left:4px}.mNfraT{color:rgba(0,0,0,.65);font-size:.875rem;font-weight:400;line-height:1rem;margin-top:.625rem}.ajvSGB{align-items:center;display:inline-flex}.ajvSGB .AdyKFb{flex:0 1 auto;height:.5em;position:relative;width:.5em}.ajvSGB .AdyKFb+.AdyKFb{margin-left:.0625rem}.ajvSGB .HIDP6x,.ajvSGB .RsQf0d,.ajvSGB .bXm5gg{height:inherit;left:0;position:absolute;top:0;width:inherit}.ajvSGB .HIDP6x{overflow:hidden}.ajvSGB .HIDP6x .RsQf0d{width:auto}.rating-stars{align-items:center;display:flex;flex-direction:row}.rating-stars .rating-stars__star{flex:0 1 auto;height:.5rem;margin-right:.125rem;position:relative;width:.5rem}.rating-stars .rating-stars__star .stardust-icon,.rating-stars__star.stardust-icon{color:#ee4d2d}.rating-stars .rating-stars__star-hollow,.rating-stars .rating-stars__star-lit,.rating-stars .rating-stars__star-solid{height:inherit;left:0;position:absolute;top:0;width:inherit}.rating-stars .rating-stars__star-lit{overflow:hidden}.rating-stars .rating-stars__star-lit .rating-stars__star-solid{width:auto}.theme--ofs .rating-stars__star,.theme--ofs .rating-stars__star .stardust-icon,.theme--ofs .rating-stars__star-solid{fill:#d0011b;color:#d0011b;stroke:#d0011b}.axwREx{align-items:baseline;color:rgba(0,0,0,.26);display:flex;flex-wrap:wrap;height:.875rem;justify-content:flex-end;overflow:hidden}.axwREx .rating-stars{flex:0 0 auto;font-size:.375rem;height:.875rem}.axwREx .rating-stars__star{margin:.0625rem}.HvMbkc{flex:0 1 auto;margin-left:.125rem}.NtkrDO{width:100%}.XE2ZGS{border-bottom:1px solid rgba(0,0,0,.09);font-size:16px;font-weight:500;padding:14px 0;text-align:center}.rM9t3p{line-height:20px;margin:18px 0;padding:0 12px}.rM9t3p a{color:#05a}.peX5Em{align-items:center;display:flex}.jQTG1y{height:60px}._28pUO{bottom:0;box-sizing:border-box;left:0;padding:.5rem;padding:var(--ns-b,.5rem);position:absolute;width:100%}._3sjFp{align-items:center;border-radius:.125rem;display:inline-flex;flex:0 0 auto;justify-content:center;outline:none;overflow:hidden;padding:0 1rem;position:relative}._3sjFp:active:before{background-color:rgba(0,0,0,.05);background-color:var(--nc-util-pressed,rgba(0,0,0,.05));bottom:0;content:"";left:0;position:absolute;right:0;top:0}.lJMau{height:2.75rem}._3zn07{height:2.25rem;min-width:4rem}._18F8b{height:1.75rem;min-width:4rem;padding:0 .75rem}.uxSdp{height:1.25rem;min-width:3.25rem;padding:0 .5rem}.xCn81{background:transparent}.TOjHY.AHhqR{background:#ee4d2d;background:var(--nc-primary,#ee4d2d);border:.0625rem solid transparent;color:#fff}.TOjHY.xCn81{border:.0625rem solid #ee4d2d;border:.0625rem solid var(--nc-primary,#ee4d2d);color:#ee4d2d;color:var(--nc-primary,#ee4d2d)}._1-4Xn.xCn81{border:.0625rem solid rgba(0,0,0,.26);color:rgba(0,0,0,.87);color:var(--nc-text-primary,rgba(0,0,0,.87))}._1qQAl.xCn81{border:.0625rem solid #fff;color:#fff}._3sjFp:disabled{color:rgba(0,0,0,.26);color:var(--nc-util-disabled,rgba(0,0,0,.26))}._3sjFp:disabled.xCn81{border-color:rgba(0,0,0,.09);border-color:var(--nc-util-line,rgba(0,0,0,.09))}._3sjFp:disabled._1qQAl.xCn81{border-color:hsla(0,0%,100%,.54);color:hsla(0,0%,100%,.4)}._3sjFp:disabled.TOjHY.AHhqR{background:rgba(0,0,0,.09)}._2HCeY{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}._19rDu{margin-left:.25rem}.gdYMVU{color:rgba(0,0,0,.54)}.wLmncS{margin-right:5px}.UuhjH6{font-size:1.75rem}.yIRUr4{align-self:center;color:var(--brand-primary-color,#ee4d2d);margin-left:.4375rem}.CjmmTK{align-items:center;display:flex}.wYvfla{margin-left:.3125rem}.product-review{align-items:center;display:flex;flex-grow:1;margin-top:.25rem}.product-review__wrapper{align-items:center;display:flex;height:3rem}.product-review__link{align-items:baseline;color:inherit;display:flex;flex:0 1 auto;-webkit-text-decoration:none;text-decoration:none}.product-review .rating-stars{flex:0 1 auto}.product-review__no-rating{color:rgba(0,0,0,.65);flex:0 1 auto}.product-review__amount{color:#ee4d2d;flex:0 1 auto;margin-left:.125rem}.product-review__label{color:rgba(0,0,0,.54);flex:0 1 auto;margin-left:.25rem}.product-review__like{margin-left:auto}.product-review__like button{background-color:transparent;border:0;margin:0;padding:0}.product-review__sold-count{align-items:center;display:flex;flex:0 1 auto;margin-left:.75rem;overflow:hidden;padding-left:.75rem;position:relative;text-overflow:ellipsis;white-space:nowrap}.product-review__sold-count:before{background:rgba(0,0,0,.12);content:"";display:block;height:12px;left:0;position:absolute;top:50%;transform:translateY(-50%);width:1px}.product-review__badge{align-items:center;display:flex;flex:0 1 auto}.product-review__badge>.badge__horizontal{flex:0 1 auto;margin-bottom:0;margin-top:0}.theme--ofs .product-review__amount{color:#d0011b!important}.bmDnJo{align-items:center;background-color:rgba(255,87,34,.1);clear:both;cursor:pointer;display:flex;padding:8px 12px;-webkit-user-select:none;-moz-user-select:none;user-select:none}.theme--ofs .bmDnJo,.theme--s-mart .bmDnJo{background-color:rgba(208,1,27,.08)}.bmDnJo .dhAedA{display:flex;flex-direction:column;flex-grow:1}.bmDnJo .dhAedA .Xq8Ef1{color:#ee4d2d}.theme--ofs .bmDnJo .dhAedA .Xq8Ef1,.theme--s-mart .bmDnJo .dhAedA .Xq8Ef1{color:#d0011b}.bmDnJo .dhAedA .Oll6rU{color:rgba(0,0,0,.54);font-size:12px;margin-top:2px}.g9sxyL,.sfHJBJ{bottom:0;left:0;position:fixed;right:0;top:0}.g9sxyL{background-color:rgba(0,0,0,.4)}.sfHJBJ{align-items:center;display:flex;justify-content:center;z-index:90000}.yIbrbf{z-index:1}.AwKNQb{opacity:0}.tmTImy{transition:opacity .15s}.HURkbO,.tmTImy{opacity:1}.Fmzvyx{opacity:0;transition:opacity .15s}.ShGmG6{transform:scale(.8)}.c3rTq4{transition:transform .2s}.b7DTVj,.c3rTq4{transform:scale(1)}.Bd0F69{transform:scale(.8);transition:transform .2s}.q8W4Hj{background:#fff;border-radius:4px;max-width:375px;text-align:center;width:calc(100vw - 68px)}._s5heh{color:rgba(0,0,0,.54);font-size:.875rem;padding:.5rem 1.25rem .875rem}.nSOjHK{background:#fff;border:0;border-radius:4px;border-top:1px solid rgba(0,0,0,.09);color:#ee4d2d;font-size:1rem;height:2.875rem;line-height:2.875rem;width:100%}.ETJnxV{padding-top:1.125rem;position:relative}.uVjtxA{background:#ee4d2d;border-radius:.3125rem;border-top:0;color:#fff;font-size:.875rem;font-weight:300;height:2rem;line-height:2rem;margin:1.25rem;width:calc(100% - 40px)}.cvBgpu{display:block;margin:.625rem auto 2.5rem}.zrKkAk{color:rgba(0,0,0,.45);cursor:pointer;height:.75rem;position:absolute;right:.9375rem;top:.9375rem;-webkit-user-select:none;-moz-user-select:none;user-select:none;width:.75rem}.dmcwCN{color:rgba(0,0,0,.65);font-size:.8125rem;line-height:1rem;text-align:center}.w6jUK2{background-color:rgba(255,87,34,.1);clear:both;cursor:pointer;display:flex;flex-direction:column;padding:.5rem .75rem;-webkit-user-select:none;-moz-user-select:none;user-select:none}.theme--ofs .w6jUK2,.theme--s-mart .w6jUK2{background-color:rgba(208,1,27,.08)}.w6jUK2 .M_yefM,.w6jUK2 .idDFSW{flex:1 0 auto}.w6jUK2 .idDFSW{color:#ee4d2d}.theme--ofs .w6jUK2 .idDFSW,.theme--s-mart .w6jUK2 .idDFSW{color:#d0011b}.w6jUK2 .M_yefM{color:rgba(0,0,0,.54);font-size:.75rem;margin-top:.125rem}.jI7wJL{align-items:center;background-color:#fff4f4;cursor:pointer;display:flex;margin:0 -12px 12px;padding:.75rem;-webkit-user-select:none;-moz-user-select:none;user-select:none}.jI7wJL .nWofPk{fill:#ee4d2d}.theme--ofs .jI7wJL .nWofPk,.theme--s-mart .jI7wJL .nWofPk{fill:#d0011b}.jI7wJL .z5uoXg{flex-grow:1;margin-left:.5rem}.jI7wJL .z5uoXg .Dy9Ezf{align-items:center;color:#ee4d2d;display:flex}.theme--ofs .jI7wJL .z5uoXg .Dy9Ezf,.theme--s-mart .jI7wJL .z5uoXg .Dy9Ezf{color:#d0011b}.jI7wJL .z5uoXg .SktLgX{color:rgba(0,0,0,.54);font-size:.75rem;margin-top:.125rem}.pQW9A9{background-color:#fff4f4;clear:both;margin:0 -.75rem;padding:.75rem}.kUpbkg{height:1.75rem;margin-right:.625rem;width:1.75rem}.theme--ofs .kUpbkg .orignal-guarantee-icon__path--fill,.theme--s-mart .kUpbkg .orignal-guarantee-icon__path--fill{fill:#d0011b}.EXeraP{color:#ee4d2d;font-size:.875rem}.theme--ofs .EXeraP .orignal-guarantee-icon__path--fill,.theme--s-mart .EXeraP .orignal-guarantee-icon__path--fill{color:#d0011b}.EsQDTw{color:rgba(0,0,0,.54);margin-top:.25rem}.EsQDTw,.lIorUZ{font-size:.75rem}.lIorUZ{align-items:center;background-color:#fff8e4;border-radius:.125rem;display:flex;justify-content:space-between;line-height:.875rem;margin-top:.75rem;padding:.5625rem .25rem}.lIorUZ .KmC1Pk{color:#ee4d2d}.lIorUZ .jGFSV8{color:rgba(0,0,0,.54);flex-shrink:0}.Bad8F2{color:rgba(0,0,0,.65)}.SZIPCa{align-items:center;background-color:rgba(255,87,34,.1);display:flex;height:58px;margin:0 -12px 12px;padding:12px}.theme--ofs .SZIPCa{background-color:rgba(208,1,27,.08)}.theme--s-mart .SZIPCa{background-color:#e6f0f9}.LUt799{flex-grow:1}.jLDyfS{margin-right:8px;fill:#ee4d2d}.theme--ofs .jLDyfS{fill:#d0011b}.theme--s-mart .jLDyfS{fill:#066bc8}.VaUX69{color:#ee4d2d;font-size:14px;line-height:16px}.theme--ofs .VaUX69{color:#d0011b}.theme--s-mart .VaUX69{color:#066bc8}.ElBWlp{color:rgba(0,0,0,.54);font-size:12px;margin-top:2px}.ezTNz_{background:#fff;padding:0 12px}.xKawm0{padding-top:12px}.hDwtBy{margin:8px -12px 12px}.loQozf{margin:0 -12px}.VknKiT{margin-top:12px}.iJALQR{padding:6px 12px 0}.fk5CgB{box-shadow:inset 0 .5px 0 0 rgba(0,0,0,.09);padding:12px}.fk5CgB div:first-child{display:inline}.jUP97h{color:rgba(0,0,0,.54);font-size:12px}.WA5Dnk{display:inline-block;margin-left:2px;transform:translateY(3px)}.product-action-bar{align-items:center;color:rgba(0,0,0,.54);cursor:pointer;display:flex;height:3rem;justify-content:space-between;padding:0 .75rem;-webkit-user-select:none;-moz-user-select:none;user-select:none}.product-action-bar__arrow.stardust-icon{flex:0 1 auto;margin:0 0 0 .4375rem}.product-action-bar__label{color:rgba(0,0,0,.87);min-width:0}.product-action-bar__content{display:-webkit-box;overflow:hidden;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:1;flex:1;flex-shrink:0;flex-wrap:wrap;font-weight:300;justify-content:flex-end;min-width:-webkit-fit-content;min-width:-moz-fit-content;min-width:fit-content;text-align:right;white-space:normal}.product-action-bar__content .voucher-ticket{font-weight:400}.product-action-bar__wrapper+.product-action-bar__wrapper{border-top:1px solid #efefef}.product-voucher__vouchers{display:flex;flex-wrap:nowrap;margin-left:.1875rem}.product-voucher__voucher+.product-voucher__voucher{margin-left:.4375rem}.voucher-ticket--outline{border-color:#ee4d2d;border-image-repeat:repeat stretch;border-image-slice:1 3;border-image-source:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/6e2612ae0735b6550107.png);border-style:solid;border-width:.0625rem .125rem;color:#ee4d2d;font-size:.75rem;overflow:hidden;padding:0 .25rem;text-overflow:ellipsis;white-space:nowrap}.voucher-ticket--outline .voucher-promo-label--coins-cashback,.voucher-ticket--outline .voucher-promo-label--off{margin-left:.125rem}.theme--ofs .voucher-ticket--outline{border-image-source:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/81e7ac8f0d14a1948137.png);color:#d0011b}.voucher-ticket--outline:first-of-type{flex-shrink:0}.theme--s-mart .product-voucher__voucher{background-color:#f69113;border-color:#f69113;border-image-outset:.0625rem .125rem;border-image-source:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/4316975221c5c5f9b011.png);color:#fff}.theme--s-mart .product-voucher__voucher:last-of-type{margin-right:.125rem}.dctmjF{align-items:center;display:flex}.zYbl9r{height:1.25rem;margin-right:12px;width:1.25rem}.lwa3Xy{display:inline-block;font-size:0;margin-right:.5rem;margin-top:.25rem}.mX2a4k{align-items:center;display:flex}.ZblLo_{background-color:#ee4d2d;border-radius:.5rem;border-bottom-left-radius:0;color:#fff;flex-shrink:0;font-size:.625rem;font-weight:500;height:1rem;line-height:1rem;margin-left:.5rem;padding:0 .3125rem}.stardust-drawer__background{background:rgba(0,0,0,.4);display:none;height:100%;left:0;position:fixed;top:0;width:100%}.stardust-drawer__background--active{display:block;z-index:9000}.stardust-drawer__container{background:#fff;height:100%;position:fixed;right:-80%;top:0;transition:transform .5s cubic-bezier(.4,0,.6,1);width:80%;z-index:9001}.stardust-drawer__container--active{overflow-y:auto;transform:translateX(-100%)}.stardust-drawer__container--active.stardust-drawer__container--left{transform:translateX(100%)}.stardust-drawer__container--active.stardust-drawer__container--bottom{transform:translateY(-100%)}.stardust-drawer__container--active.stardust-drawer__container--top{transform:translateY(100%)}.stardust-drawer__container--left{left:-80%;right:auto}.stardust-drawer__container--bottom{bottom:-80%;height:80%;right:0;top:auto;width:100%}.stardust-drawer__container--top{bottom:auto;height:80%;right:0;top:-80%;width:100%}.stardust-no-scroll{overflow:hidden;touch-action:none}.stardust-dropdown{position:relative}.stardust-dropdown__item-body{height:0;opacity:0;overflow:hidden;transition:height .4s cubic-bezier(.4,0,.2,1),opacity .4s cubic-bezier(.4,0,.2,1)}.stardust-dropdown__item-body--open{height:auto;opacity:1}.accordian__header{align-items:center;display:flex;flex-grow:1}.accordian__header>div{flex:1}.accordian__header-container{align-items:center;display:flex}.accordian__header-container-disabled{cursor:not-allowed;filter:grayscale(1);opacity:.26}.accordian__header-icon{color:rgba(0,0,0,.87);flex-shrink:0;margin-left:8px;margin-right:12px}.dBAZD9{align-items:center;border:1px solid #ee4d2d;border-radius:.75rem;cursor:pointer;display:flex;flex-shrink:0;height:1.5rem;justify-content:center;margin-left:.25rem;position:absolute;right:.9375rem;top:.625rem;-webkit-user-select:none;-moz-user-select:none;user-select:none;width:1.5rem}.dBAZD9 .stardust-icon{color:#ee4d2d;height:.5rem;width:.5rem}.pgPjNJ{align-items:center;background:#fbfbfb;border-bottom:1px solid rgba(0,0,0,.09);display:flex;height:2.75rem;max-width:37.5rem;padding:0 .9375rem;position:absolute;top:0;width:100%;z-index:100}.RCX_jT{flex:1}.RCX_jT,.ZA1Ay5{text-align:center}.ZA1Ay5{cursor:pointer;flex:0 0 auto;-webkit-user-select:none;-moz-user-select:none;user-select:none}.Z7xiAO{align-items:center;color:rgba(0,0,0,.87);display:flex;margin-left:46px;padding:14px 11px 13px 4px}.Z7xiAO:nth-child(n+2){border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important}.Z7xiAO.UHFhxF{margin-left:0;padding-left:12px}.JLEJbC{flex-grow:1}.JLEJbC .HNJy9g{font-weight:500;margin-right:2px}.k8cXcx{flex-shrink:0}.JzMzMu{cursor:not-allowed;opacity:.26}.product-installment-info{display:flex;flex-direction:column;height:100%;overflow-y:scroll;padding-top:2.75rem;width:100%;-webkit-overflow-scrolling:touch}.product-installment-info .navbar-popup__title{text-transform:capitalize}.product-installment-info__title{color:rgba(0,0,0,.54);padding:.5rem .75rem}.product-installment-info__installment{background-color:#fff}.product-installment-info__installment:nth-child(n+2){border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important}.product-installment-info__installment--flat .product-installment-info__row{margin-left:0;padding-left:.75rem}.product-installment-info__header{align-items:center;cursor:pointer;display:flex;padding:.75rem;-webkit-user-select:none;-moz-user-select:none;user-select:none}.product-installment-info__header-icon{border-radius:2px;height:1.5rem;width:1.5rem}.product-installment-info__header-title{color:rgba(0,0,0,.87);flex-shrink:0;margin-left:.625rem}.product-installment-info__row{align-items:center;color:rgba(0,0,0,.87);display:flex;margin-left:2.875rem;padding:.875rem .6875rem .8125rem .25rem}.product-installment-info__row:nth-child(n+2){border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important}.product-installment-info__row-plan{flex-grow:1}.product-installment-info__row-amount{flex-shrink:0}.product-installment-info__row--disabled{cursor:not-allowed;opacity:.26}.product-installment-info .legalRegulation{color:rgba(0,0,0,.54);font-size:.75rem;padding:.75rem}.X9Av_J{display:flex;flex-wrap:wrap}.X9Av_J .nXjNcv{box-sizing:border-box;padding:.75rem .5rem;text-align:center;width:25%}.X9Av_J .nXjNcv .iDHYYC{height:1.5rem;width:1.5rem}.X9Av_J .nXjNcv .GqgLLQ{color:rgba(0,0,0,.65);font-size:.75rem;margin-top:.5rem;text-align:center}.STNyCU{display:flex;flex-direction:column;height:100%;overflow-y:scroll;padding-top:2.75rem;width:100%;-webkit-overflow-scrolling:touch}.STNyCU ._9kLnf{align-items:center;color:rgba(0,0,0,.87);display:flex;padding:1rem 0 1rem .75rem}.STNyCU ._9kLnf:nth-child(n+2){border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important}.STNyCU ._9kLnf .poAbNu{flex-grow:1}.STNyCU ._9kLnf .t1D_eK{flex-shrink:0}.STNyCU .pi0n7A{cursor:not-allowed;opacity:.26}.STNyCU .Ooo2Ga{background-color:#fff}.STNyCU .Ooo2Ga:nth-child(n+2){border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important}.STNyCU .BAjO2F{color:rgba(0,0,0,.54);font-size:.75rem;padding:.75rem}.product-installment .product-action-bar__label{text-transform:capitalize}.product-installment .stardust-drawer__container{background-color:#efefef}.product-installment .stardust-drawer__container--bottom{bottom:-100%;height:100%}.product-installment .stardust-drawer__container--active{overflow-y:initial}.zRcOiT .stardust-drawer__container{display:flex;max-height:80%;max-width:37.5rem}.zRcOiT .stardust-drawer__container--bottom.stardust-drawer__container--active{transform:none}.zRcOiT .stardust-drawer__container,.zRcOiT .stardust-drawer__container--bottom{bottom:0;height:unset;transform:translateY(100%)}.nekjhk{display:flex;flex:1;flex-direction:column}.HP96aD{flex-grow:1;overflow:auto;padding-bottom:1.5rem}.QnPsjO{background:#ee4d2d;color:#fff;cursor:pointer;flex-shrink:0;height:3rem;line-height:3rem;margin:0 .5rem .5rem;text-align:center;text-transform:capitalize;-webkit-user-select:none;-moz-user-select:none;user-select:none}.theme--ofs .INyFOo{background:#d0011b}.r_vsW6{background-color:#fff;box-sizing:border-box;margin:.625rem 0}.r_vsW6 .stardust-icon{color:#16b6fb}.e1InVe{color:rgba(0,0,0,.87);padding:12px;text-align:center;width:100%}.WMJC0b{border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important;width:100%}.GAUnRf,.WMJC0b{box-sizing:border-box}.GAUnRf{display:flex;text-align:center}.TG_7QL{color:rgba(0,0,0,.54);flex:1 1 50%;font-weight:400;padding:.5625rem 0}.TG_7QL,.pQSc1I{box-sizing:border-box}.pQSc1I{display:flex}.Td2dff{box-sizing:border-box;flex:1 1 50%;line-height:.75rem;padding:.75rem;text-align:center}.THmiXI{color:#ee4d2d}.P38a_1{height:auto;padding:10px 12px}.lBCUpm{flex-grow:1}.pfo5zo{flex-shrink:0;height:20px;margin-right:12px;width:20px}.EaCS3k{font-weight:300;margin-top:4px}.stardust-button{background-color:#fff;border:1px solid rgba(0,0,0,.26);border-radius:4px;color:rgba(0,0,0,.87);font-family:-apple-system,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-size:14px;font-weight:400;padding:8px 10px}.stardust-button.stardust-button--active,.stardust-button:hover{background-color:rgba(0,0,0,.09);border-color:rgba(0,0,0,.26);cursor:pointer}.stardust-button--disabled{background-color:rgba(0,0,0,.26);border:1px solid rgba(0,0,0,.26)}.stardust-button--disabled.stardust-button--active,.stardust-button--disabled:hover{background-color:rgba(0,0,0,.26);border:1px solid rgba(0,0,0,.26);cursor:not-allowed}.stardust-button--block{display:block;width:100%}.stardust-button--block+.stardust-button--block{margin-top:5px}.stardust-button--large{border-radius:6px;font-size:16px;padding:12px 14px}.stardust-button--large,.stardust-button--small{font-family:-apple-system,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-weight:400}.stardust-button--small{border-radius:3px;font-size:12px;padding:6px 8px}.stardust-button--primary{background-color:#ee4d2d;border-color:#cd3011;color:#fff}.stardust-button--primary.stardust-button--active,.stardust-button--primary:hover{background-color:#d73211;border-color:#ba2b0f}.stardust-button--primary.stardust-button--disabled{opacity:.7}.stardust-button--primary.stardust-button--active.stardust-button--disabled,.stardust-button--primary:hover.stardust-button--disabled{background-color:#ee4d2d;border-color:#cd3011}.stardust-button--warning{background-color:#ff424f;border-color:#ef0010;color:#fff}.stardust-button--warning.stardust-button--active,.stardust-button--warning:hover{background-color:#fa0011;border-color:#e50010}.stardust-button--warning.stardust-button--disabled{opacity:.7}.stardust-button--warning.stardust-button--active.stardust-button--disabled,.stardust-button--warning:hover.stardust-button--disabled{background-color:#ff424f;border-color:#ef0010}.stardust-button--outline-primary{background-color:transparent;border-color:#ee4d2d;color:#ee4d2d}.stardust-button--outline-primary.stardust-button--active,.stardust-button--outline-primary:hover{background-color:hsla(0,0%,100%,.3);border-color:#d73211}.stardust-button--outline-primary.stardust-button--disabled{opacity:.7}.stardust-button--outline-primary.stardust-button--active.stardust-button--disabled,.stardust-button--outline-primary:hover.stardust-button--disabled{background-color:transparent;border-color:#ee4d2d}.stardust-button--outline-white{background-color:transparent;border-color:#fff;color:#fff}.stardust-button--outline-white.stardust-button--active,.stardust-button--outline-white:hover{background-color:hsla(0,0%,100%,.3);border-color:#fff}.stardust-button--outline-white.stardust-button--disabled{opacity:.7}.stardust-button--outline-white.stardust-button--active.stardust-button--disabled,.stardust-button--outline-white:hover.stardust-button--disabled{background-color:transparent;border-color:#fff}.stardust-button--ghost-primary{background-color:transparent;border-color:transparent;color:#ee4d2d}.stardust-button--ghost-primary.stardust-button--active,.stardust-button--ghost-primary:hover{background-color:rgba(0,0,0,.09);border-color:rgba(0,0,0,.09)}.stardust-button--ghost-primary.stardust-button--disabled{opacity:.7}.stardust-button--ghost-primary.stardust-button--active.stardust-button--disabled,.stardust-button--ghost-primary:hover.stardust-button--disabled{background-color:transparent;border-color:transparent}.gbBkio{display:flex}.Gy66Nm{flex-grow:0;flex-shrink:0;font-weight:300;padding:.625rem 0;width:6.875rem}.Gy66Nm.uC1sgE{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.rsjkjR{align-items:center;background:#fff;color:rgba(0,0,0,.65);display:flex;flex:1;flex-wrap:wrap;padding:.5625rem .75rem}.product-attributes-sub-table__link{color:inherit;display:flex;-webkit-text-decoration:none;text-decoration:none;width:100%}.product-attributes-sub-table__text{flex:1}.product-attributes-sub-table__arrow.stardust-icon{color:rgba(0,0,0,.87);flex:0 0 .75rem;margin-left:.75rem}.FpLu3u{margin:0 .75rem .625rem}.FpLu3u:not(:last-child){border:solid rgba(0,0,0,.09)!important;border-width:0 0 1px!important}._ong9w{color:inherit;display:flex;-webkit-text-decoration:none;text-decoration:none;width:100%}.tHAAWp{flex:1}.Tw7FX_{color:rgba(0,0,0,.87);flex:0 0 .75rem;margin-left:.75rem}.vZFV97 .stardust-drawer__container{bottom:0;display:flex;flex-direction:column;height:unset;max-height:80%;transform:translateY(100%)}.vZFV97 .stardust-drawer__container--active.stardust-drawer__container--bottom{transform:none}.wnvA8n{background-color:#fff;color:rgba(0,0,0,.87);display:flex;font-size:14px;padding:1rem .75rem}.LCP6Bf{font-weight:500;margin-right:.5rem}.TTU7w3{flex:1;font-weight:400;overflow:hidden;text-align:right;text-overflow:ellipsis;white-space:nowrap}.RnlaHh{align-items:center;display:flex}.SGYwf1{color:rgba(0,0,0,.87);font-size:1rem;height:3rem;line-height:3rem;position:relative;text-align:center}.VI323R{display:flex;position:absolute;right:1rem;top:50%;transform:translateY(-50%)}.Ks0TIv{overflow-y:auto}.ITZyUw{margin:0 0 0 1rem}.En7Xkb{padding:.5rem}.En7Xkb .stardust-button--block{height:2.75rem}.IsaxdN{overflow:hidden;position:relative}.yPJEjy{background:linear-gradient(transparent,hsla(0,0%,100%,0) 70%,#fff 90%);height:100%;left:0;position:absolute;top:0;width:100%}.MQQIj8{background:#fff;box-sizing:border-box;line-height:1rem}.q5eLaS{align-items:center;display:flex;justify-content:flex-start;padding:1rem}.dQTDlC{margin:0 .75rem;padding-bottom:.375rem}.vUDMZj{color:rgba(0,0,0,.65);white-space:pre-wrap}.tMJ4vW{color:rgba(0,0,0,.54);font-weight:lighter}.OfGomV.stardust-icon{color:rgba(0,0,0,.87);height:.875rem;margin-left:.5rem;margin-right:.1875rem;vertical-align:sub;width:.875rem}.qsfBix{margin:0}.qsfBix img{pointer-events:none}.b5sdqk{overflow-wrap:break-word;word-wrap:break-word;margin:0;overflow:hidden;-webkit-user-select:text;-moz-user-select:text;user-select:text}.b2zbXI{height:100%;object-fit:fill!important;width:100%}.vIVMvf{align-items:center;display:flex;justify-content:center}.KRGDZ9{height:7.5rem;width:7.5rem}.product-attributes-table{margin:0 .75rem .625rem}.product-attributes-table:not(:last-child){border:solid rgba(0,0,0,.09)!important;border-width:0 0 1px!important}.product-attributes-table__help.stardust-icon{color:rgba(0,0,0,.87);cursor:pointer;display:inline-block;height:.6875rem;margin-left:.3125rem;-webkit-user-select:none;-moz-user-select:none;user-select:none;width:.6875rem}.product-attributes-table__icon-location{height:1.5rem;position:relative;top:.1875rem;width:1.5rem}.product-attributes-table__link{color:inherit;display:flex;-webkit-text-decoration:none;text-decoration:none;width:100%}.product-attributes-table__text{flex:1}.product-attributes-table__arrow.stardust-icon{color:rgba(0,0,0,.87);flex:0 0 .75rem;margin-left:.75rem}.product-attributes-variation{align-items:center;cursor:pointer;display:flex;-webkit-user-select:none;-moz-user-select:none;user-select:none;width:100%}.product-attributes-variation__text{flex:1}.product-attributes-variation__arrow.stardust-icon{color:rgba(0,0,0,.87);flex:0 0 .75rem;margin-left:.75rem}.__slJM{align-items:center;color:var(--brand-primary-color,#ee4d2d);display:flex;height:3rem;justify-content:center;margin-top:1rem;text-transform:capitalize;white-space:nowrap}.__slJM .stardust-icon-arrow-down,.__slJM .stardust-icon-arrow-up{font-size:.75rem;margin-left:.5rem}.theme--s-mart .__slJM{color:rgba(0,0,0,.54)}.WUHKUK{overflow:auto;padding:0 .3125rem;word-break:break-word}.F4kMBg{margin-top:.375rem}.JSlWcM{bottom:3.75rem}.CR6XTg .stardust-popup-title{margin-bottom:1rem}.CR6XTg .stardust-popup-button--secondary{color:rgba(0,0,0,.87)}.z5hxuO{margin-top:.75rem}.fho4rO{padding:0!important}.product-page{margin-top:-2.75rem;padding-bottom:3.75rem}.product-page .product-page__overview{margin-top:0;padding:0}.product-page .product-page__overview .product-action-bar{font-family:-apple-system,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-weight:300;padding-bottom:.625rem;padding-top:.5625rem}.product-page .product-page__overview .product-action-bar+.product-action-bar,.product-page .product-page__overview .product-action-bar+.product-action-bar__wrapper,.product-page .product-page__overview .product-action-bar__wrapper+.product-action-bar,.product-page .product-page__overview .product-action-bar__wrapper+.product-action-bar__wrapper{border-top:1px solid #efefef}.action-bar-section{background:#fff;margin-top:.625rem}.LgPiTp{padding:.75rem;position:relative}.LgPiTp>div:not(:first-child){margin-top:1rem}.OrKCZ6{display:grid;grid-template-columns:auto 1fr;grid-gap:1rem .5rem;gap:1rem .5rem}.product-pre-order{background:#fff5f2;display:flex}.product-pre-order__icon{text-align:center;width:1.25rem}.product-pre-order .stardust-icon{color:#ee4d2d;flex:0 0 auto;height:1.125rem;width:1.125rem}.product-pre-order__text{color:#ee4d2d;flex:1 1 auto;margin-left:.5rem}.imdXCy{align-items:center;display:flex}.CFyoxo{height:1.25rem;stroke:none;justify-self:center}.OUIRQO{color:rgba(0,0,0,.8);flex:0 1 auto}.NPqej3{color:rgba(0,0,0,.54);line-height:1.0625rem;margin-top:.125rem}.xftwqk{margin-left:.625rem}.FO1mk_{margin-top:-.375rem;position:absolute;right:1rem;top:50%}.eDKx_4{display:flex}.product-shipping-options__icon-wrapper{justify-self:center;text-align:center;width:1.25rem}.product-shipping-options__icon{color:rgba(0,0,0,.87);flex:0 0 auto;height:1.125rem;width:1.125rem}.product-shipping-options__icon--overseas{height:.8125rem;margin-top:.25rem;width:1.25rem}.product-shipping-options__content{flex:1 1 auto;overflow:hidden}.product-shipping-options__label-help.stardust-icon{color:rgba(0,0,0,.87);cursor:pointer;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:-.0625rem}.product-shipping-options__list{display:none;margin-left:-.75rem;margin-right:-.75rem}.product-shipping-options__list--show{background-color:#fff;display:block;margin-bottom:-.75rem;margin-top:.75rem;position:relative}.product-shipping-options__list--show:after,.product-shipping-options__list--show:before{border:solid transparent;bottom:calc(100% - 1px);content:" ";height:0;left:50%;pointer-events:none;position:absolute;width:0}.product-shipping-options__list--show:after{border-bottom-color:#efefef;border-width:.375rem;margin-left:-.375rem}.product-shipping-options__list--show:before{border-bottom-color:rgba(0,0,0,.09);border-width:6.1px;bottom:100%;margin-left:-6.1px}.product-shipping-label{line-height:1.125rem}.product-shipping-options-arrow-down{margin-left:.375rem}.product-shipping-options-arrow-down.stardust-icon{color:rgba(0,0,0,.87);height:.75rem;width:.75rem}.product-shipping-cost{line-height:1.125rem;padding-top:.125rem}.product-shipping-cost__label{color:#000;display:inline-block}.product-shipping-cost__detail{display:inline-block;margin-left:.25rem}.product-shipping-cost__inline-icon{vertical-align:middle}.MP7IGc{display:flex}.LUAQqJ{display:inline-flex;flex-direction:row}.YRa9CH{color:#929292;margin-right:.3125rem;-webkit-text-decoration:line-through;text-decoration:line-through}._wxhaL{margin-right:.75rem}.AGvOhq,._wxhaL{color:rgba(0,0,0,.54);font-size:.75rem;line-height:.875rem;margin-top:.75rem}.WjX0SZ{padding-top:.125rem}.wJU0ED .stardust-drawer__container{bottom:-51%;height:51%}.EsybbW{display:flex;flex-direction:column;height:100%}.JhthO3{flex-grow:1}.JhthO3,.eZzlLG{padding:.375rem .75rem}.eZzlLG{text-transform:capitalize}.BSiye3.stardust-drawer__container{margin:0 auto;max-width:37.5rem}.BSiye3.stardust-drawer__container,.BSiye3.stardust-drawer__container--bottom{bottom:0;height:unset;left:0;transform:translateY(100%)!important}.BSiye3.stardust-drawer__container--active{overflow-y:visible;transform:none!important}.bFkCnI{display:flex;flex-direction:column;height:100%}.b8t56P{align-items:center;display:flex;justify-content:center;margin-bottom:1.375rem;margin-top:1.5rem;text-align:center}.b8t56P .ck11kK{height:1.25rem;width:6.25rem}.b8t56P .KqH8zV{color:rgba(0,0,0,.54);font-size:1rem;margin-left:.5rem}.j_lW11{flex-grow:1;padding:.375rem .5rem}.j_lW11 ol,.j_lW11 ul{margin-top:0;padding-left:1.25rem}.pO62NV{padding:.5rem;text-transform:capitalize}.theme--ofs .pO62NV button{background-color:#d0011b!important}.theme--s-mart .pO62NV button{background-color:#066bc8!important}.lh7dvC{align-items:center;display:flex;padding:0 .75rem}.DDccIx{font-weight:300;margin-left:.5rem;white-space:nowrap}.product-ndd{align-items:center;display:flex;padding:0 .75rem}.product-ndd__icon{flex-shrink:0}.product-ndd__icon-ndd{height:1.125rem}.product-ndd__icon-help{height:.6875rem;margin-left:.25rem;width:.6875rem}.product-ndd__desc{color:rgba(0,0,0,.87);flex:1;font-weight:300;margin-left:.5rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.product-ndd__pullup{padding:1.375rem .75rem}.product-ndd__pullup-header{align-items:center;color:#333;display:flex;flex-wrap:wrap;justify-content:center;margin-bottom:1.25rem}.product-ndd__pullup-icon-wrapper{margin-bottom:6px}.product-ndd__pullup-title{margin-bottom:6px;text-align:center}.product-ndd__pullup-icon{margin-right:.5rem}.product-ndd__pullup-icon-ndd{height:1.5rem;margin:0;width:10.5rem}.product-ndd__pullup-desc{color:#555;white-space:pre-line}.product-ndd__pullup-desc ol,.product-ndd__pullup-desc ul{margin-top:0;padding-left:1.25rem}.OXULFk{align-items:center;display:flex;padding:0 .75rem}.nuEo7a path{fill:var(--brand-primary-color,#ee4d2d)}.h6UlAV{color:rgba(0,0,0,.87);font-weight:300;margin-left:.5rem}.eUrfZM{border-bottom:0;padding-bottom:0}.RTSkgj button{background:var(--brand-primary-color,#ee4d2d)!important}.product-sbs{align-items:center;display:flex;padding:0 12px}.product-sbs__icon{flex-shrink:0}.product-sbs__icon-sbs{height:18px}.product-sbs__icon-help{height:11px;margin-left:4px;width:11px}.product-sbs__desc{color:rgba(0,0,0,.87);flex:1;font-weight:300;margin-left:8px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.product-sbs__pullup{padding:22px 12px}.product-sbs__pullup-header{align-items:center;color:#333;display:flex;flex-wrap:wrap;justify-content:center;margin-bottom:20px}.product-sbs__pullup-icon-wrapper{margin-bottom:6px}.product-sbs__pullup-title{margin-bottom:6px;text-align:center}.product-sbs__pullup-icon{margin-right:8px}.product-sbs__pullup-icon-sbs{height:24px;margin:0;width:168px}.product-sbs__pullup-desc{color:#555;white-space:pre-line}.product-sbs__pullup-desc ol,.product-sbs__pullup-desc ul{margin-top:0;padding-left:20px}.zqysKX{align-items:center;display:flex;padding:0 .75rem}.GyLvVe{font-weight:300;margin-left:.25rem;white-space:nowrap}.theme--ofs .j7ycuq .fill{fill:#d0011b!important}.H20WEx.stardust-drawer__container{margin:0 auto;max-width:37.5rem}.H20WEx.stardust-drawer__container,.H20WEx.stardust-drawer__container--bottom{bottom:0;height:unset;left:0;transform:translateY(100%)}.H20WEx.stardust-drawer__container--active{overflow-y:visible;transform:none}.vN1T7k{align-items:center;display:flex;justify-content:center;margin-bottom:.25rem;margin-top:1.5rem;text-align:center}.theme--ofs .vN1T7k .okJg6k .fill{fill:#d0011b!important}.vN1T7k .tipnt1{height:1.5rem;width:3.875rem}.vN1T7k .bwdHaK{height:1.875rem;width:3.15625rem}.vN1T7k .i1UYGR{font-size:1rem;font-weight:500;line-height:1.25rem;margin-left:.375rem}.wRbkcg{display:flex;flex-direction:column;height:100%}._00HUm{flex-grow:1}._00HUm,.nn2Z8q{padding:.375rem .75rem}.nn2Z8q{text-transform:capitalize}.theme--ofs .nn2Z8q button{background-color:#d0011b!important}.qdO1TI{align-items:center;display:flex;height:3rem;overflow-y:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}.qdO1TI::-webkit-scrollbar{height:0;width:0}.product-drawer-shipping-option-item{line-height:1rem;padding:1rem .75rem}.product-drawer-shipping-option-item+.product-drawer-shipping-option-item{border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important}.product-drawer-shipping-option-item__channel-cost-container{display:flex;justify-content:space-between}.product-drawer-shipping-option-item__warning{color:rgba(0,0,0,.26)}.product-drawer-shipping-option-item__original-channel-cost{color:rgba(0,0,0,.26);display:inline-block;-webkit-text-decoration:line-through;text-decoration:line-through}.product-drawer-shipping-option-item__original-channel-cost:empty{padding:0}.product-drawer-shipping-option-item__current-channel-cost{display:inline-block;padding-left:.125rem}.product-drawer-shipping-option-item__current-channel-cost--has-discount{color:#ee4d2d}.product-drawer-shipping-option-item__delivery-time{line-height:1rem;margin-top:.25rem}.product-drawer-shipping-option-item__promotion-text{color:rgba(0,0,0,.54);display:inline-block;line-height:1.125rem;padding-top:.75rem;white-space:pre-wrap}.product-drawer-shipping-option-item__promotion-text:empty{padding:0}.product-drawer-shipping-option-item__shipping-reminder{color:rgba(0,0,0,.54);line-height:1rem;margin-top:.25rem}.product-drawer-shipping-option-item__channel-name{color:#000;font-size:.875rem;font-weight:500;line-height:1rem}.product-drawer-shipping-option-item .pl-c-primary{color:#ee4d2d}.UyQxXq{background:rgba(0,0,0,.04);display:flex;flex-direction:column;height:100%}.WihX46{box-sizing:content-box;height:3rem;justify-content:center;text-transform:capitalize}.Tn4Rmu,.WihX46{align-items:center;background:#fff;display:flex;flex:0 0 3rem}.Tn4Rmu{border-bottom:1px solid #efefef;border-top:1px solid #efefef;padding:.375rem .75rem}.FZw0eE{flex:0 0 auto}.pCYydB{flex:0 1 auto;margin-left:auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.pCYydB .stardust-icon-arrow-right{color:rgba(0,0,0,.54);font-size:.5rem;margin-left:.5rem}.lZasm5{flex:1;overflow:auto}.v6qtfP{background-color:#fff;margin:.75rem 0 0}.v6qtfP .product-drawer-shipping-option-item__warning{color:rgba(0,0,0,.87);font-size:.75rem}.QiNQsr{text-transform:capitalize}.QiNQsr .stardust-button--block{border:0;border-radius:0;height:3rem;padding:0}.VWf2K0{background:#fff}.cQR4wF{border:solid rgba(0,0,0,.09)!important;border-width:0 0 1px!important;font-weight:500;height:3rem;line-height:3rem;margin:.5rem .75rem 0}.tlFHGi{background:#fff;padding:.875rem .75rem .5rem}.tlFHGi:last-child{padding-bottom:1.5rem}.tlFHGi .product-drawer-shipping-option-item__channel-name{font-size:.75rem;font-weight:400}.tlFHGi .product-drawer-shipping-option-item__original-channel-cost{font-size:.75rem}.tlFHGi .product-drawer-shipping-option-item__promotion-text{padding-top:0}.tlFHGi .product-drawer-shipping-option-item__promotion-text span{font-size:.75rem!important}.tlFHGi .product-drawer-shipping-option-item__current-channel-cost{color:rgba(0,0,0,.87)}.tlFHGi .product-drawer-shipping-option-item__current-channel-cost.product-drawer-shipping-option-item__current-channel-cost--has-discount{color:#ee4d2d}.tlFHGi .product-drawer-shipping-option-item__current-channel-cost{font-size:.75rem}.tlFHGi .product-drawer-shipping-option-item__delivery-time{font-size:.75rem;margin-top:.0625rem}.tlFHGi .product-drawer-shipping-option-item__warning{color:rgba(0,0,0,.87);font-size:.75rem}.PddMlc{margin-right:5px}.PR1rp0{align-items:center;background:#fff;border-bottom:1px solid #efefef;border-top:1px solid #efefef;display:flex;flex:0 0 48px;padding:6px 12px}.L2HSI9{flex:0 0 auto}.awxJLd{flex:0 1 auto;margin-left:auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.awxJLd .stardust-icon-arrow-right{color:rgba(0,0,0,.54);font-size:8px;margin-left:8px}.jQFffX{color:rgba(0,0,0,.54);font-size:.75rem;line-height:.875rem;padding:0 .75rem 1rem}.jQFffX,.ytozli{background-color:#fff}.ytozli{border-top:1px solid #efefef;padding:12px}.gxPhDY{margin-right:4px}.SsEdP1{align-items:center;color:rgba(0,0,0,.87);display:flex;font-size:14px;line-height:16px}.BYQWiH{color:rgba(0,0,0,.54);font-size:12px;line-height:14px;margin-top:4px}.vquccy .stardust-drawer__container{bottom:-51%;height:51%}.GgpQQ1 .stardust-drawer__container{height:51%;top:100%}.GgpQQ1 .product-drawer-shipping-option-item+.product-drawer-shipping-option-item{border-top:0!important}.Y2znRB{background-color:#fff;box-sizing:border-box;line-height:1.5;padding:1rem .75rem;position:relative}.pDzgVw{left:.75rem;position:absolute;top:1rem}.hlrJyJ{color:rgba(0,0,0,.87);height:1rem}.s2FoN4{color:rgba(0,0,0,.54);margin-top:.25rem}.s2FoN4 ul{margin-bottom:0;margin-top:0;padding-left:1.5rem}.hlrJyJ,.s2FoN4{line-height:1rem;margin-left:2rem}.product-select-variation__text{flex:1}.product-select-variation__text-secondary{color:rgba(0,0,0,.65)}.product-select-variation__arrow.stardust-icon{color:rgba(0,0,0,.87);flex:0 1 auto}.stardust-input__element{background:#f6f6f6;border:2px solid rgba(0,0,0,.09);border-radius:4px;font-family:-apple-system,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-size:12px;font-weight:300;padding:4px 8px;resize:none}.stardust-input__element:focus{border-color:#f9c5bb;box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 4px #f9c5bb;outline:0}.stardust-input__element--invalid,.stardust-input__element--invalid:focus,.stardust-input__element:invalid{background-color:#fff1f1;border-color:#ff424f;box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 4px #ff424f;outline:0}.stardust-input__element--disabled,.stardust-input__element:disabled{background-color:#ddd;cursor:not-allowed}.stardust-input__invalid-message{color:#ff424f;font-family:-apple-system,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-size:12px;font-weight:300}.tfBf9I{text-align:center;width:100%}.Sywmj0{color:rgba(0,0,0,.54);font-size:.875rem;font-weight:300;height:1rem}.I0zjlB{color:var(--brand-primary-color,#ee4d2d);font-size:1.125rem;height:1.3125rem;margin-bottom:.3125rem}.JgC5PK{display:flex;padding-bottom:.5rem;padding-top:.25rem}.u0fIgc{display:flex;margin-right:.75rem}.sqTygw{color:rgba(0,0,0,.87);font-weight:400;margin-left:.25rem}.XraX_X,.sqTygw{font-size:.75rem;height:.875rem}.XraX_X{color:var(--brand-primary-color,#ee4d2d)}.stardust-horizontal-scroll-view{align-items:center;display:flex;overflow-x:auto;overflow-y:hidden;white-space:nowrap;-webkit-overflow-scrolling:touch}.AIoTgU{margin-left:-.75rem;margin-right:-.75rem;padding:.5rem 0 .75rem}.KkVUs7{margin-left:.75rem}.jTjcIO{display:flex;margin-top:.3125rem;padding-right:.75rem}.gKrChj{color:rgba(0,0,0,.54);font-size:.75rem;margin-left:.75rem;margin-top:.4375rem}.kl2AeP{align-items:center;display:flex;flex-direction:column;justify-content:center;margin-left:1rem;padding-right:1.25rem}.Wl6AMw path{fill:var(--brand-primary-color,#ee4d2d)}.d9Ovio{color:var(--brand-primary-color,#ee4d2d);margin-top:.25rem}.bPaN3S{color:rgba(0,0,0,.54)}.bPaN3S .ARRCQC,.bPaN3S .CxH_O0,.bPaN3S .tJJN9T,.bPaN3S .x4bjBT{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.bPaN3S .x4bjBT{font-weight:300}.bPaN3S .tJJN9T{color:#ff424f;display:inline-flex}.bPaN3S .drz2yF .stardust-icon{color:#fff}.bPaN3S .Tg5n7p .shopee-icon,.bPaN3S .drz2yF .stardust-icon{flex:0 1 auto;height:.5rem;width:.5rem}.DosLFj{align-items:center;background-color:#ee4d2d;border-radius:2px;display:flex;justify-content:center;margin-bottom:2px;margin-top:6px;padding:2px 4px}.DosLFj.tdup_p{background-color:#d0011b}.tLKi5m{align-items:center;display:flex;flex:0 1 auto;padding:12px 0}.tLKi5m>button{border-color:var(--brand-primary-color,#ee4d2d)!important;color:var(--brand-primary-color,#ee4d2d)!important}.sIRciZ{flex:0 0 auto;position:relative}.R4JpMx{height:54px;width:54px}.ApmXFx{bottom:-4px;left:50%;position:absolute;text-align:center;transform:translateX(-50%);width:58px}.ApmXFx img{height:auto;width:100%}.ApmXFx .badge__official-shop,.ApmXFx .badge__preferred{display:inline-flex;font-size:10px;height:auto;white-space:normal}.ApmXFx .badge__mall-img{height:auto;width:100%}.l12TzQ{left:50%;transform:translateX(-50%);width:auto}.l12TzQ .badge__preferred{font-size:7px;white-space:nowrap}.u0ReQt{bottom:-6px}.u0ReQt .badge__official-shop,.u0ReQt .badge__preferred{font-size:9px}.dxBoqK{display:flex;flex-direction:column;flex-grow:1;justify-content:center;margin-left:10px;margin-right:12px;overflow:hidden}.dxBoqK .badge__horizontal{display:inline-flex;font-size:10px;height:15px}.dxBoqK .stardust-icon-tick{font-size:10px}.BO7Miq{height:16px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.NVXQAd{height:15px;margin-top:4px;overflow:hidden}.iAvbMw{margin-top:4px}.iAvbMw,.iAvbMw .r0BqTb{align-items:center;color:rgba(0,0,0,.54);display:flex;font-weight:300}.iAvbMw .r0BqTb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.iAvbMw .r7XZaM{height:13px;margin-right:4px;vertical-align:middle;width:10.4px}.iAvbMw .cR39ES{margin:0 6px}.xZSRYM{padding:0 12px 3.3rem}.xZSRYM a{color:rgba(0,0,0,.87);font-weight:500}._2xlbS{flex:0 0 auto;height:2.5rem;position:relative;width:2.5rem}._2xlbS>img{border:.0625rem solid rgba(0,0,0,.09);border:.0625rem solid var(--nc-util-line,rgba(0,0,0,.09));border-radius:50%;box-sizing:border-box}._2bUsF{overflow:hidden}._2bUsF,.bROzW{border-radius:50%}.bROzW{background:#fff;padding:.0625rem}._2Ovjm{background:linear-gradient(to bottom left,#ee4d2d,#fb0);background:linear-gradient(to bottom left,var(--nc-primary,#ee4d2d),#fb0);display:inline-block;padding:.125rem}._2Ovjm,._3KihA{border-radius:50%}._3KihA{align-items:center;background:#f5f5f5;background:var(--nc-util-bg,#f5f5f5);border:.0625rem solid rgba(0,0,0,.09);border:.0625rem solid var(--nc-util-line,rgba(0,0,0,.09));box-sizing:border-box;display:flex;justify-content:center;overflow:hidden}._3KihA._3L6HA>svg{margin-top:-.0625rem;width:2.25rem}._3KihA._3SJz5>svg{margin-top:-.0625rem;width:1.375rem}._3KihA._3olON>svg{margin-top:-.0625rem;width:1rem}._3KihA.WuN6w>svg{width:.75rem}._3L6HA{height:3.75rem}._3L6HA,._3L6HA ._2AckJ{width:3.75rem}._3SJz5{height:2.5rem;width:2.5rem}._3SJz5 ._3ZOJS{right:-.25rem}._3SJz5 ._2AckJ{width:2.5rem}._3olON{height:2rem;width:2rem}._3olON ._3ZOJS{right:-.25rem}.WuN6w{height:1.5rem;width:1.5rem}._2AckJ{align-items:center;display:flex;height:1rem;justify-content:center}._1c2fy,._2AckJ{bottom:0;overflow:hidden;position:absolute;z-index:1}._1c2fy{background:rgba(0,0,0,.4);background:var(--nc-util-mask,rgba(0,0,0,.4));box-sizing:border-box;color:#fff;height:1.5rem;text-align:center;text-overflow:ellipsis;white-space:nowrap;width:3.75rem}._1c2fy._1c2fy{line-height:1.5rem}._3ZOJS{border-radius:.5rem;bottom:0;height:1rem;overflow:hidden;position:absolute;right:0;width:1rem}.JrSi7k{background:#fff;color:inherit;display:block;-webkit-text-decoration:none;text-decoration:none}.aYE0_r{display:flex;justify-content:space-around;margin-top:1rem}.dBfDWY{background-color:rgba(0,0,0,.65);bottom:calc(3rem - 1px);color:#fff;font-size:.75rem;left:0;line-height:.875rem;padding:.5625rem;position:fixed;right:0;text-align:center}.dBfDWY+.product-bottom-panel-wrapper .product-bottom-panel{border-top-color:rgba(0,0,0,.65)!important}.vF60t2{align-items:center;background:#fff;box-shadow:0 0 6px 0 rgba(0,0,0,.06);display:flex;height:2.75rem;max-width:37.5rem;padding:0 .75rem;position:fixed;top:0;width:100%;z-index:100}.htKDFX{background:transparent}.fDK8vk{flex-shrink:0;line-height:0}.OWPOSs{flex:1;overflow:hidden;padding:0 1.25rem}.HVQ8nV{align-items:center;display:flex;flex-shrink:0;white-space:nowrap}.wrTghk+.wrTghk{margin-left:1.25rem}.wrTghk{line-height:0}.wrTghk .stardust-popover__popover--open{overflow:visible}.wrTghk .stardust-popover__target{height:100%}.D8W4Bw.D8W4Bw{width:1.375rem;fill:#ee4d2d}.D8W4Bw.D8W4Bw,.lBW5d8{cursor:pointer;display:block;-webkit-user-select:none;-moz-user-select:none;user-select:none}.lBW5d8{-webkit-text-decoration:none;text-decoration:none}.stardust-popover{position:relative}.stardust-popover:focus-visible{border-radius:2px;outline:2px solid #000}.stardust-popover__popover{position:absolute;will-change:transform;z-index:-1}.stardust-popover__popover--show{animation:popover-enter-animation .2s cubic-bezier(.4,0,.6,1);opacity:1;z-index:3}.stardust-popover__popover--border{border:1px solid rgba(0,0,0,.09)}.stardust-popover__popover--hide{animation:popover-hide-animation .2s cubic-bezier(.4,0,.6,1)}.stardust-popover__arrow{position:absolute;will-change:transform;z-index:3}.stardust-popover__arrow--inner{height:0;left:-8px;position:absolute;width:0}@keyframes popover-enter-animation{0%{opacity:0;transform:scale(0)}to{opacity:1;transform:scale(1)}}@keyframes popover-hide-animation{0%{opacity:1;transform:scale(1)}to{opacity:0;transform:scale(0)}}.shopee-menu{background-color:#fff;border-radius:2px;box-shadow:0 2px 4px 0 rgba(0,0,0,.5);position:relative}.shopee-menu__main{padding-top:.25rem;position:relative}.shopee-menu__item{align-items:center;cursor:pointer;display:flex;padding-left:.875rem}.shopee-menu__item:last-child>.shopee-menu__item-label{border-bottom:0}.shopee-menu__item-icon{color:rgba(0,0,0,.87)!important;height:1.25rem!important;margin-right:.75rem;width:1.25rem!important}.shopee-menu__item-label{border-bottom:1px solid hsla(0,0%,100%,.12);box-sizing:border-box;padding:.75rem .875rem .75rem 0}.shopee-menu__item-label:first-letter{text-transform:uppercase}.IQshV3{background:rgba(0,0,0,.4);bottom:0;left:0;position:fixed;right:0;top:0;z-index:1}.navbar-icon-cart{position:relative}.navbar-icon-cart__icon{width:24px}.navbar-icon-cart__count{background:#ee4d2d;border:1px solid #fff;border-radius:9px;color:#fff;font-size:10px;height:18px;left:11px;line-height:12px;min-width:19px;padding:2px;position:absolute;text-align:center;top:-7px}.theme--ofs .navbar-icon-cart__count{background-color:#d0011b}.product-page .HctEyP{position:-webkit-sticky;position:sticky}.product-page .HctEyP svg.navbar-generic__back,.product-page .HctEyP svg.navbar-generic__menu{fill:currentColor!important;color:currentColor!important;stroke:currentColor!important;display:block;height:1.875rem;margin:0 auto;width:1.25rem}.product-page .HctEyP svg.navbar-icon-cart__icon{color:currentColor!important;display:block;height:1.875rem;margin:0 auto;width:1.25rem}.product-page .Y7p4Ui{border-radius:50%;height:1.875rem;width:1.875rem}.product-page .Y7p4Ui a{color:inherit}.product-page .Y7p4Ui span{color:rgba(0,0,0,.87)}.product-page .UBteaH{color:#000;font-family:-apple-system,HelveticaNeueMedium,HelveticaNeue-Medium,Helvetica Neue Medium,Helvetica Neue,Roboto,Droid Sans,Arial Bold,Arial,sans-serif;font-size:1.25rem;font-weight:500;overflow:hidden;text-align:center;text-overflow:ellipsis;text-transform:capitalize;white-space:nowrap}.product-page .sd55Cg{-webkit-text-decoration:none;text-decoration:none}.product-page .Zh9bwi,.product-page .sd55Cg{cursor:pointer;display:block;-webkit-user-select:none;-moz-user-select:none;user-select:none}.product-page .Zh9bwi{stroke:#ee4d2d}.product-page .DkNQ5h,.product-page .fRkQBR{stroke:none!important}.flash-sale-product-band{background:#ee4d2d;color:#fff;display:flex;justify-content:space-between;padding:.375rem .75rem;width:100%}.flash-sale-product-band__right{overflow:auto}.flash-sale-banner-container{display:flex;flex-direction:row}.flash-sale-banner-mini{background:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/9bb0d9cfb5e0ed2084a8.png) 0 no-repeat;background-repeat:no-repeat;background-size:contain;height:1rem;margin-right:.5rem;width:5.3125rem}.flash-sale-banner-mini--ph,.flash-sale-banner-mini--sg{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/5b477d0da865d4e0f7b5.png);background-size:100% 100%;width:5.8125rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--ph,.flash-sale-banner-mini--sg{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/6d5c6e3881c8e32cff2a.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--ph,.flash-sale-banner-mini--sg{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/faf297004c9dad053948.png)}}.flash-sale-banner-mini--id,.flash-sale-banner-mini--th,.flash-sale-banner-mini--vn{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/9bb0d9cfb5e0ed2084a8.png);background-size:100% 100%;width:5.3125rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--id,.flash-sale-banner-mini--th,.flash-sale-banner-mini--vn{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/b5e4a654db203956c413.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--id,.flash-sale-banner-mini--th,.flash-sale-banner-mini--vn{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/e6dcb19cabccaf317c28.png)}}.flash-sale-banner-mini--tw{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/aa8d37a58ef23d2b3adf.png);background-size:100% 100%;width:4rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--tw{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/d20b7896735b59668189.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--tw{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/23c70daae69a19eee677.png)}}.flash-sale-banner-mini--my{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/a8c4dd3d3da96ad06e8d.png);background-size:100% 100%;width:6.6875rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--my{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/437b2df46a84efb792bf.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--my{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/ddd7aef27a0fd492cfb8.png)}}.flash-sale-banner-mini--br{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/af4872df837c9c8bb3b3.png);background-size:100% 100%;width:8.875rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--br{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/29b86e306ec66623f2ad.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--br{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/b95b4431bb37b2ae559a.png)}}.flash-sale-banner-mini--ar{background:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/c47a7187e3f4905689f0.png) 0 no-repeat;background-size:contain;width:6.875rem}.flash-sale-banner-mini--cl,.flash-sale-banner-mini--co,.flash-sale-banner-mini--mx{background:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/8ecf3d7c7c4f512729ca.png) 0 no-repeat;background-size:contain}.flash-sale-banner-mini--fr{background:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/7609e5079881acad76b5.png) 0 no-repeat;background-size:contain;width:6.875rem}.flash-sale-banner-mini--pl{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/be3a5e46fdc184f45db7.png);background-size:100% 100%;width:6.875rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--pl{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/32a17a15ff7939d78498.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--pl{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/dab8d8acb0c8a6519159.png)}}.flash-sale-banner-mini--es{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/4f8dd0bf904f0ab7ab32.png);background-size:100% 100%;width:7.5625rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--es{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/cdf743e45a88675b3682.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--es{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/f1c3521212d423f2c3b8.png)}}.flash-sale-banner-mini--in{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/58f6a8bb360e60eae335.png);background-size:100% 100%;width:5.625rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.flash-sale-banner-mini--in{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/40610d3958a6f7a5e50b.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.flash-sale-banner-mini--in{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/682c6f4b0c472010ad30.png)}}.flash-sale-amount-sold{text-align:right;text-transform:capitalize}.flash-sale-product-band-countdown-timer{margin-left:.25rem;margin-top:.25rem;transform:scale(.7);transform-origin:right}.flash-sale-product-band-countdown-timer__wrapper{align-items:center;display:flex;justify-content:flex-end;width:100%}.flash-sale-product-band-countdown-timer .shopee-countdown-timer__number{background:#ee4d2d!important;border:1px solid #fff}.flash-sale-product-band-ends-in{color:#fff;margin-right:-1.75rem;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase;white-space:nowrap}.flash-sale-extra-discount-badge{border:1px solid #fff;border-radius:.0625rem;color:#fff;display:flex;flex-direction:column;font-size:.625rem;font-weight:400;height:1rem;justify-content:center;margin-right:.5rem;padding-left:.25rem;padding-right:.25rem;white-space:nowrap}.DLaKKA,.y815_o{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.Qp0UMi{align-items:center;display:flex;height:1.5rem;margin-top:.3125rem}.DLaKKA{color:#fff;margin-right:.25rem;-webkit-text-decoration:line-through;text-decoration:line-through}.y815_o{align-items:baseline;color:#fff;display:block;font-size:.875rem;font-weight:400;max-width:8rem}.wrz3lI{line-height:0;margin-left:.25rem}@keyframes second-ten{0%{transform:translateY(0)}15%{transform:translateY(0)}16.66%{transform:translateY(-17px)}31.66%{transform:translateY(-17px)}33.33%{transform:translateY(-34px)}48.33%{transform:translateY(-34px)}50%{transform:translateY(-51px)}65%{transform:translateY(-51px)}66.66%{transform:translateY(-68px)}81.66%{transform:translateY(-68px)}83.33%{transform:translateY(-85px)}98.33%{transform:translateY(-85px)}to{transform:translateY(-102px)}}@keyframes second-digit{0%{transform:translateY(0)}10%{transform:translateY(-17px)}20%{transform:translateY(-34px)}30%{transform:translateY(-51px)}40%{transform:translateY(-68px)}50%{transform:translateY(-85px)}60%{transform:translateY(-102px)}70%{transform:translateY(-119px)}80%{transform:translateY(-136px)}90%{transform:translateY(-153px)}to{transform:translateY(-170px)}}@keyframes minute-ten{0%{transform:translateY(0)}16.638888%{transform:translateY(0)}16.666666%{transform:translateY(-17px)}33.305555%{transform:translateY(-17px)}33.333333%{transform:translateY(-34px)}49.972222%{transform:translateY(-34px)}50%{transform:translateY(-51px)}66.638888%{transform:translateY(-51px)}66.666666%{transform:translateY(-68px)}83.305555%{transform:translateY(-68px)}83.333333%{transform:translateY(-85px)}99.972222%{transform:translateY(-85px)}to{transform:translateY(-102px)}}@keyframes minute-digit{0%{transform:translateY(0)}9.833%{transform:translateY(0)}10%{transform:translateY(-17px)}19.833%{transform:translateY(-17px)}20%{transform:translateY(-34px)}29.833%{transform:translateY(-34px)}30%{transform:translateY(-51px)}39.833%{transform:translateY(-51px)}40%{transform:translateY(-68px)}49.833%{transform:translateY(-68px)}50%{transform:translateY(-85px)}59.833%{transform:translateY(-85px)}60%{transform:translateY(-102px)}69.833%{transform:translateY(-102px)}70%{transform:translateY(-119px)}79.833%{transform:translateY(-119px)}80%{transform:translateY(-136px)}89.833%{transform:translateY(-136px)}90%{transform:translateY(-153px)}99.833%{transform:translateY(-153px)}to{transform:translateY(-170px)}}@keyframes hour-hundred{0%{transform:translateY(0)}9.999972222%{transform:translateY(0)}10%{transform:translateY(-17px)}19.999972222%{transform:translateY(-17px)}20%{transform:translateY(-34px)}29.999972222%{transform:translateY(-34px)}30%{transform:translateY(-51px)}39.999972222%{transform:translateY(-51px)}40%{transform:translateY(-68px)}49.999972222%{transform:translateY(-68px)}50%{transform:translateY(-85px)}59.999972222%{transform:translateY(-85px)}60%{transform:translateY(-102px)}69.999972222%{transform:translateY(-102px)}70%{transform:translateY(-119px)}79.999972222%{transform:translateY(-119px)}80%{transform:translateY(-136px)}89.999972222%{transform:translateY(-136px)}90%{transform:translateY(-153px)}99.999972222%{transform:translateY(-153px)}to{transform:translateY(-170px)}}@keyframes hour-ten{0%{transform:translateY(0)}9.99972222%{transform:translateY(0)}10%{transform:translateY(-17px)}19.99972222%{transform:translateY(-17px)}20%{transform:translateY(-34px)}29.99972222%{transform:translateY(-34px)}30%{transform:translateY(-51px)}39.99972222%{transform:translateY(-51px)}40%{transform:translateY(-68px)}49.99972222%{transform:translateY(-68px)}50%{transform:translateY(-85px)}59.99972222%{transform:translateY(-85px)}60%{transform:translateY(-102px)}69.99972222%{transform:translateY(-102px)}70%{transform:translateY(-119px)}79.99972222%{transform:translateY(-119px)}80%{transform:translateY(-136px)}89.99972222%{transform:translateY(-136px)}90%{transform:translateY(-153px)}99.99972222%{transform:translateY(-153px)}to{transform:translateY(-170px)}}@keyframes hour-digit{0%{transform:translateY(0)}9.9972222%{transform:translateY(0)}10%{transform:translateY(-17px)}19.9972222%{transform:translateY(-17px)}20%{transform:translateY(-34px)}29.9972222%{transform:translateY(-34px)}30%{transform:translateY(-51px)}39.9972222%{transform:translateY(-51px)}40%{transform:translateY(-68px)}49.9972222%{transform:translateY(-68px)}50%{transform:translateY(-85px)}59.9972222%{transform:translateY(-85px)}60%{transform:translateY(-102px)}69.9972222%{transform:translateY(-102px)}70%{transform:translateY(-119px)}79.9972222%{transform:translateY(-119px)}80%{transform:translateY(-136px)}89.9972222%{transform:translateY(-136px)}90%{transform:translateY(-153px)}99.9972222%{transform:translateY(-153px)}to{transform:translateY(-170px)}}.shopee-countdown-timer{align-items:center;-webkit-backface-visibility:hidden;backface-visibility:hidden;color:#000;cursor:default;display:flex}.shopee-countdown-timer__colon{background-position-y:3px;display:flex;flex-direction:column;font-size:20px;font-weight:400;height:17px;margin:0 2px;text-align:center;width:3px}.shopee-countdown-timer__colon--flashing-off{opacity:0}.shopee-countdown-timer__number{background:currentColor;border-radius:2px;box-sizing:content-box;display:flex;font-size:19px;height:17px;justify-content:space-around;line-height:20px;margin-bottom:4px;min-width:20px;overflow:hidden;padding:1px 3px;text-align:center}.shopee-countdown-timer__number__deca,.shopee-countdown-timer__number__hexa{display:inline-block;height:187px;overflow:hidden;width:9px}.shopee-countdown-timer__number__deca--second{animation-duration:10s;animation-iteration-count:infinite;animation-name:second-digit}.shopee-countdown-timer__number__hexa--second{animation-duration:60s;animation-iteration-count:infinite;animation-name:second-ten}.shopee-countdown-timer__number__deca--minute{animation-duration:600s;animation-iteration-count:infinite;animation-name:minute-digit}.shopee-countdown-timer__number__hexa--minute{animation-duration:3600s;animation-iteration-count:infinite;animation-name:minute-ten}.shopee-countdown-timer__number__deca--hour{animation-duration:36000s;animation-iteration-count:infinite;animation-name:hour-digit}.shopee-countdown-timer__number__hexa--hour{animation-duration:360000s;animation-iteration-count:infinite;animation-name:hour-ten}.shopee-countdown-timer__number__hund--hour{animation-duration:3600000s;animation-iteration-count:infinite;animation-name:hour-hundred}.shopee-countdown-timer__number__item{height:17px;position:relative;width:9px}.shopee-countdown-timer__number__item svg{height:13px;left:50%;position:absolute;top:50%;transform:translate(-50%,-50%);width:17px;fill:#fff;stroke:#fff;overflow:visible}.colon-dot{background:currentColor;border-radius:100%;height:3px;left:0;position:absolute;top:10%;width:3px}.colon-dot__wrapper{height:50%;position:relative;width:100%}.RzWDnq{background-repeat:no-repeat;background-size:contain;padding-top:15.66667%;position:relative}.RzWDnq .LI1Uhm{display:flex;flex-direction:column;height:100%;justify-content:center;left:0;padding:.5rem .75rem;position:absolute;top:0}.RzWDnq .LI1Uhm .CiV7Kn{color:#fff;font-size:1.125rem;line-height:1.375rem}.RzWDnq .LI1Uhm .Odp1so{color:#fff;font-size:.875rem;line-height:1rem;-webkit-text-decoration:line-through;text-decoration:line-through}.RzWDnq .rJnHNt{display:inline-block;margin-left:.25rem}.hWej6u{display:flex;padding:0 .75rem}.DrwyWr,.JmXrXB{margin-right:.25rem}.Y1aPGB{color:inherit;transform:scale(88.23529%);transform-origin:left}.HDZvJq{display:flex;flex-direction:column;height:100%;justify-content:space-between}.GSMuS_{padding:0 .75rem}.h1xJBv{font-size:.875rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.FdTAto{display:flex;flex-direction:column;height:100%;justify-content:space-between;position:relative}.ljkGM5{padding:0 3.75rem 0 .75rem}.PfMuis{font-size:1rem;font-weight:300;line-height:1.0625rem;-webkit-text-decoration:line-through;text-decoration:line-through}.YZN187{font-size:1.25rem;line-height:1.5rem}.lCng_Z{font-size:.875rem;line-height:1rem;position:absolute;right:.625rem;top:50%;transform:translateY(-50%)}.oc36a7{background-size:contain;padding-top:20.83333%;position:relative}.JXW6FD{bottom:0;left:0;padding:.5rem 0;position:absolute;right:0;top:0}.mIHg3O{background-color:#fffaea;color:rgba(0,0,0,.87);cursor:pointer;display:flex;height:inherit;padding:.75rem;position:relative;-webkit-text-decoration:none;text-decoration:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}.gGlHMY{text-align:center;width:1.25rem}.V6yEK_{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/2a5afa7c48cac075199d.png);background-size:100% 100%;display:inline-block;height:1rem;vertical-align:middle;width:1rem}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.V6yEK_{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/1eee42fb253321de9c0d.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.V6yEK_{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/cc071cef4934813368c1.png)}}.LlPR0m{margin-left:.5rem}.mkZ3hp{color:#00bfa5;display:inline-block;margin-bottom:.25rem;vertical-align:middle}.slHjNs{color:rgba(0,0,0,.54);font-weight:300}.product-social-link{display:inline-block;margin-right:.75rem;vertical-align:middle}.product-social-link--facebook>.product-social-link__main{background:#3e59a5;color:#fff}.product-social-link--facebook .product-social-link__text{color:#fff}.product-social-link__main{border:1px solid rgba(0,0,0,.09);border-radius:.125rem;display:inline-block;height:1.125rem;line-height:1rem;padding-left:.25rem;padding-right:.25rem;vertical-align:middle}.product-social-link__logo{background-size:contain;display:inline-block;height:10px;line-height:1rem;vertical-align:-10%;width:10px}.product-social-link__logo--facebook{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/56f1bc740f596da7272b.png);background-size:100% 100%}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.product-social-link__logo--facebook{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/6d600dc3c01de187608c.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.product-social-link__logo--facebook{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/2d288fd794c08b312a00.png)}}.product-social-link__logo--twitter{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/53b90b9bc67264e9311f.png);background-size:100% 100%}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.product-social-link__logo--twitter{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/f5f4277662e633c1f0bb.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.product-social-link__logo--twitter{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/ae629180063409037fc5.png)}}.product-social-link__logo--pinterest{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/34b34956b4e25293fa2d.png);background-position:0 -2px;background-size:100% 100%;height:20px;width:20px}@media screen and (-webkit-min-device-pixel-ratio:2),screen and (min-resolution:192dpi),screen and (min-resolution:2dppx){.product-social-link__logo--pinterest{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/7ac000f3bdcc42744eaa.png)}}@media screen and (-webkit-min-device-pixel-ratio:3),screen and (min-resolution:288dpi),screen and (min-resolution:3dppx){.product-social-link__logo--pinterest{background-image:url(https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/0af41253a8bd34418387.png)}}.product-social-link__text{color:rgba(0,0,0,.87);display:inline-block;line-height:1rem;padding-left:.25rem}.product-social-link__text:empty{padding:0}.product-social-link__count{border:1px solid rgba(0,0,0,.09);border-radius:.125rem;color:rgba(0,0,0,.87);display:inline-block;height:1.125rem;line-height:1rem;margin-left:.375rem;padding-left:.125rem;padding-right:.125rem;position:relative;vertical-align:middle}.product-social-link__count:after,.product-social-link__count:before{border:solid transparent;content:" ";height:0;pointer-events:none;position:absolute;right:100%;top:50%;width:0}.product-social-link__count:after{border-right-color:#fff;border-width:3px;margin-top:-3px}.product-social-link__count:before{border-right-color:rgba(0,0,0,.09);border-width:3.4142px;margin-top:-3.4142px;right:calc(100% + 1px)}.HbSaLB{margin-top:.75rem;padding:0 .75rem .75rem}.HbSaLB:only-child{padding:.75rem}.scroll-to-top{bottom:.875rem;cursor:pointer;height:2.6875rem;position:fixed;right:.875rem;-webkit-user-select:none;-moz-user-select:none;user-select:none;width:2.6875rem;z-index:8999}.scroll-to-top--with-safe-area-inset-bottom{transform:translateY(calc(var(--safe-area-inset-bottom, 0)*-1))}.GbLCyv{padding-top:1.125rem;position:relative}.Qdyhdk{background:#ee4d2d;border-radius:.3125rem;border-top:0;color:#fff;font-size:.875rem;font-weight:300;height:2rem;line-height:2rem;margin:1.25rem;width:calc(100% - 40px)}.QeAcRt{display:block;margin:.625rem auto 2.5rem}.VEXaIq{color:rgba(0,0,0,.45);cursor:pointer;height:.75rem;position:absolute;right:.9375rem;top:.9375rem;-webkit-user-select:none;-moz-user-select:none;user-select:none;width:.75rem}.NlnvIx{color:rgba(0,0,0,.65);font-size:.8125rem;line-height:1rem;text-align:center}.rTzLFY{background:#fff;border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important;bottom:0;box-shadow:0 0 6px 0 rgba(0,0,0,.09);color:#fff;display:flex;font-size:.6875rem;height:3rem;line-height:1;max-width:37.5rem;position:fixed;width:100%;z-index:101}.Hy5vcQ{opacity:.5}.bSRc8t{background:linear-gradient(-90deg,#ee4d2d,#ffa98e 1%);display:flex;flex:3}.SgqSh9{align-items:center;display:flex;flex-direction:column;justify-content:center;text-transform:capitalize}.zoOiAC{font-size:1rem;margin-bottom:4px}.Uwglmr{color:rgba(0,0,0,.65);flex:1}.Uwglmr>.stardust-icon{fill:rgba(0,0,0,.5);height:24px;margin-bottom:2px;width:24px}.lrftHW{flex:19}.Fts7ee{background:#ee4d2d;flex:23}.theme--ofs .rTzLFY .bSRc8t{background:linear-gradient(-90deg,#d0011b,#eb929e 1%)}.theme--ofs .rTzLFY .Fts7ee{background:#d0011b}:root{--safe-area-inset-bottom:0;--safe-area-inset-bottom:env(safe-area-inset-bottom,0)}.product-bottom-panel{background-color:#fff;border:solid rgba(0,0,0,.09)!important;border-width:1px 0 0!important;bottom:0;box-shadow:0 0 6px 0 rgba(0,0,0,.09);display:flex;height:calc(48px + var(--safe-area-inset-bottom, 0));max-height:4.25rem;max-width:37.5rem;position:fixed;width:100%;z-index:101}.product-bottom-panel__add-to-cart,.product-bottom-panel__buy-now,.product-bottom-panel__chat-now{align-items:center;background-color:#00bfa5;color:#fff;cursor:pointer;display:flex;flex:1;font-size:.625rem;justify-content:center;max-height:3rem;-webkit-user-select:none;-moz-user-select:none;user-select:none}.product-bottom-panel__add-to-cart span.disabled,.product-bottom-panel__add-to-cart svg.disabled,.product-bottom-panel__buy-now span.disabled,.product-bottom-panel__buy-now svg.disabled,.product-bottom-panel__chat-now span.disabled,.product-bottom-panel__chat-now svg.disabled{opacity:.5}.product-bottom-panel__add-to-cart,.product-bottom-panel__chat-now{flex-direction:column}.product-bottom-panel__add-to-cart .stardust-icon,.product-bottom-panel__chat-now .stardust-icon{flex:0 1 auto;height:1.5rem;margin-bottom:.25rem;width:1.5rem}.product-bottom-panel__add-to-cart-text,.product-bottom-panel__chat-now-text{flex:0 1 auto;white-space:nowrap}.product-bottom-panel__buy-now{background-color:#ee4d2d;flex:2;font-size:.875rem}.product-bottom-panel__separator{align-items:center;background-color:#00bfa5;display:flex;flex:0;max-height:3rem}.product-bottom-panel__separator-real{border:solid rgba(0,0,0,.09)!important;border-width:0 0 0 1px!important;flex:0;height:1.75rem}.product-bottom-panel__coming-soon-bar{align-items:center;background-color:rgba(0,0,0,.26);color:#fff;display:flex;flex:3;font-size:1.125rem;justify-content:center;max-height:3rem}.product-cart-and-buy-buttons{display:flex;flex:3;flex-direction:row}.theme--ofs .product-bottom-panel{background-color:#fff}.theme--ofs .product-bottom-panel__add-to-cart,.theme--ofs .product-bottom-panel__chat-now,.theme--ofs .product-bottom-panel__separator{background-color:#fff;color:rgba(0,0,0,.87)}.theme--ofs .product-bottom-panel__buy-now{background-color:#d0011b}.theme--ofs .product-bottom-panel__chat-now-icon{color:#d0011b}.theme--s-mart .product-bottom-panel{background-color:#fff}.theme--s-mart .product-bottom-panel__add-to-cart,.theme--s-mart .product-bottom-panel__chat-now,.theme--s-mart .product-bottom-panel__separator{background-color:#fff;color:rgba(0,0,0,.87)}.theme--s-mart .product-bottom-panel__add-to-cart-icon{color:#066bc8;stroke:#066bc8}.theme--s-mart .product-bottom-panel__buy-now{background-color:#066bc8}.theme--s-mart .product-bottom-panel__chat-now-icon{color:#066bc8}.YJEy32 .stardust-popup-title{margin-bottom:1rem}.YJEy32 .stardust-popup-button--secondary{color:rgba(0,0,0,.87)}.NN_ayE{overflow:auto;padding:0 5px;word-break:break-word}.vVbLX0{margin-top:6px}.mvPlRI{position:relative}.mvPlRI img{vertical-align:bottom}.t08Zsa{visibility:hidden}.RUOHJR{align-items:center;bottom:0;display:flex;height:100%;justify-content:center;left:0;position:absolute;right:0;top:0;width:100%}.VFmziw{opacity:0}.Zif342{opacity:1;transition:opacity .2s ease}.iCETAq{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23e5e4e4' viewBox='0 0 54 61'%3E%3Cpath stroke='none' d='M51.2 16.9H38.7C38.7 11.6 36 .6 27 .5 17.4.4 15.2 12.4 15.2 16.9H2.8c-3.4 0-2.7 3.4-2.7 3.4l2.4 33s-.1 7.3 6.3 7.5h36.5c6.2-.4 6.3-7.5 6.3-7.5l2.4-33c0-.1.5-3.5-2.8-3.4M27.1 4.2c7.1.2 7.9 11.7 7.7 12.6H19.1c-.1-.9.4-12.4 8-12.6m9.1 44.6c-1 1.7-2.7 3-5 3.7-1.2.4-2.4.5-3.6.5-3.2 0-6.5-1.1-9.3-3.3-.8-.6-1-1.5-.5-2.3.2-.4.7-.7 1.2-.8.4-.1.9 0 1.2.3 3.2 2.4 8.3 4 11.9 1.6 1.4-.9 2.1-2.7 1.6-4.3s-2.2-2.7-3.5-3.4c-1-.6-2.1-1-3.3-1.4-.9-.3-1.9-.7-2.9-1.2q-3.6-1.8-4.8-4.2c-1.2-2.3-.6-5.4 1.4-7.5 3.6-3.8 10-3.2 14-.4.9.6.9 1.7.4 2.5s-1.4.9-2.2.4c-2-1.4-4.4-2-6.4-1.7s-4.7 2-4.4 4.6c.2 1.5 2 2.6 3.3 3.3.8.4 1.5.7 2.3.9 4.3 1.3 7.2 3.3 8.6 5.7 1.2 2.1 1.2 4.9 0 7'/%3E%3C/svg%3E");background-position:50%;background-repeat:no-repeat;background-size:contain;height:60px;max-height:100%;max-width:100%;width:60px}.fe0zef .iG_OfC{bottom:0;right:0}.fe0zef .iG_OfC,.iG_OfC{left:0;opacity:0;pointer-events:none;position:absolute;top:0;z-index:-1}.iG_OfC{height:100%;width:100%}.LR42CN{background:rgba(0,0,0,.4);border-radius:.75rem;color:#fff;display:inline-block;font-family:Roboto;font-size:1.25rem;height:1.5rem;line-height:1.5rem;padding:0 .5rem}.frTyeY{background:#000;bottom:0;height:100%;position:fixed;right:0;top:0;z-index:99999}.QKhXmS,.frTyeY{left:0;width:100%}.QKhXmS{align-items:center;display:flex;height:1.5rem;justify-content:center;position:absolute;top:1.25rem;z-index:5}.QKhXmS .wpYGgZ{padding:0 .25rem;position:absolute;right:.9375rem;top:0}.xy1TEN{align-items:center;display:flex;height:1.5rem;justify-content:center;top:calc(50% + 50vw + .5rem);z-index:5}.GAbLVZ,.xy1TEN{left:0;position:absolute;width:100%}.GAbLVZ,.pQy82B{height:calc(100% - 6.5rem);top:2.5rem}.pQy82B{width:100%}.pQy82B,.t_otSg{left:0;position:absolute}.t_otSg{height:100vw;top:calc(50% - 50vw);width:100vw}.t_otSg,.t_otSg .stardust-carousel__item,.t_otSg .stardust-carousel__item-list,.t_otSg .stardust-carousel__item-list-wrapper{overflow:visible}.t_otSg .stardust-carousel__item-inner-wrapper{display:block!important}.TrEFsv{height:100vw;position:relative;width:100vw}.TrEFsv .KWxCq7{background-color:#fafafa}.TrEFsv .dtrCap{height:100vw;left:0;position:absolute;top:0;width:100vw}.TrEFsv .Dxmddl{background-position:50%;height:100%;width:100%}.xlF5ZE{border-radius:4px;margin-right:12px;overflow:hidden;position:relative}.zs5EOj{height:128px;width:128px}.k25XJ0{height:20px;position:absolute;right:2px;top:2px;width:20px}.fade-enter{opacity:.01}.fade-enter-active{opacity:1;transition:all .2s ease-in-out}.fade-exit{opacity:1}.fade-exit-active{opacity:.01;transition:all .2s ease-in-out}.wrap{transform:translate(-50%,-50%);z-index:9999}.fadescale-enter{opacity:.01;transform:translate(-50%,-50%) scale(.5)}.fadescale-enter-active{transition:all .2s ease-in-out}.fadescale-enter-active,.fadescale-exit{opacity:1;transform:translate(-50%,-50%) scale(1)}.fadescale-exit-active{opacity:.01;transform:translate(-50%,-50%) scale(.5);transition:all .2s ease-in-out}.RHS4G1{background-color:#fff}.aB8CUn{color:rgba(0,0,0,.87);font-size:.875rem;line-height:1rem}.PyG7Id{color:rgba(0,0,0,.54);font-size:.625rem;line-height:.75rem}.Ld8lEI{flex:1;overflow:hidden}.pSRzYR{background-color:#fff;height:100%}.nDX_ZK{box-sizing:border-box;height:100%;overflow:auto;-webkit-overflow-scrolling:touch}.UwYuKV{display:flex;position:-webkit-sticky;position:sticky;top:0;z-index:9}.pJM8d6{align-items:center;background-color:#f5f5f5;border-bottom:.03125rem solid #d0d0d0;border-right:.03125rem solid #d0d0d0;border-top:.03125rem solid #d0d0d0;box-sizing:border-box;color:rgba(0,0,0,.87);display:flex;flex-direction:column;flex-grow:1;flex-shrink:0;font-size:.625rem;height:3rem;justify-content:center;line-height:.75rem;padding:.625rem .25rem;width:5.5rem}.pJM8d6:first-child{border-left:.03125rem solid #d0d0d0;left:0;position:-webkit-sticky;position:sticky}._Cc28J:first-child:after{bottom:-1px;box-shadow:inset 10px 0 8px -8px rgba(0,0,0,.149);content:"";pointer-events:none;position:absolute;right:0;top:0;transform:translate(100%);width:30px}.OmDO7k,.YVf4qm{text-align:center;width:100%}.pVL_4Q{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.feRRt8{box-sizing:border-box}.VMOqaJ{background-color:#fff;display:flex}.OVlWpW{background-color:#fafafa!important}.esQDWO{align-items:center;background-color:#fff;border-bottom:.03125rem solid #d0d0d0;border-right:.03125rem solid #d0d0d0;box-sizing:border-box;color:rgba(0,0,0,.87);display:flex;flex-grow:1;flex-shrink:0;font-size:.625rem;height:3rem;justify-content:center;line-height:.75rem;padding:.625rem .25rem;width:5.5rem}.esQDWO:first-child{border-left:.03125rem solid #d0d0d0;left:0;position:-webkit-sticky;position:sticky}.UucnnL,.sK2yWw{display:inline-flex}.fVkp8W:first-child:after{bottom:-1px;box-shadow:inset 10px 0 8px -8px rgba(0,0,0,.149);content:"";pointer-events:none;position:absolute;right:0;top:0;transform:translate(100%);width:30px}.Lfwp9b{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden;word-break:break-all}.m3WZCJ{background:#fff;border-radius:.25rem;box-shadow:0 0 .5625rem rgba(0,0,0,.12);box-sizing:border-box;display:flex;flex-direction:column;max-height:35.625rem;min-height:31.25rem;padding:1.5rem;position:relative;width:50rem}.vZ4fT6{background-color:transparent;border:0;position:absolute;right:1.6875rem;top:1.6875rem}.H_JcQH{height:1.125rem;width:1.125rem}.yjmk7E{color:rgba(0,0,0,.87);font-size:1.25rem;line-height:2rem;text-transform:capitalize}.gJQOH4{margin-top:.1875rem}.eSIeL3{color:rgba(0,0,0,.87);font-size:1rem;line-height:1.5rem}.heNW5w{color:rgba(0,0,0,.54);font-size:.875rem;line-height:1.25rem}.mpJEtB{margin-top:1rem}.hlzBtp{border-bottom:.0625rem solid rgba(0,0,0,.09);border-right:.0625rem solid rgba(0,0,0,.09);border-top:.0625rem solid rgba(0,0,0,.09);font-size:.875rem;height:3.6875rem;line-height:1.25rem;padding:.625rem;width:8.75rem}.hlzBtp:first-child{border-left:.0625rem solid rgba(0,0,0,.09)}.GHUzR5{border-bottom:.0625rem solid rgba(0,0,0,.09);border-right:.0625rem solid rgba(0,0,0,.09);font-size:.875rem;height:3.0625rem;line-height:1.25rem;padding:.625rem;width:8.75rem}.GHUzR5:first-child{border-left:.0625rem solid rgba(0,0,0,.09)}.Jw9RMD{background-color:#e5e5e5;display:flex;flex-direction:column;height:100%;padding-bottom:2.3125rem}.DwD6tW{align-items:center;background-color:#fff;display:flex;height:4rem;margin-bottom:.75rem;padding:0 .75rem}.In3XbV{font-size:1.25rem;line-height:1.5rem;margin-left:1.25rem}.LUxYUp{flex:1}.Dg6eUz{border:.03125rem solid rgba(0,0,0,.09);border-radius:.125rem;box-sizing:border-box;height:2rem;width:2rem}.Dg6eUz img{width:100%}.htLN7U{padding:.75rem}.nyhQ0A{margin-top:.375rem}.eze0Z_{box-sizing:content-box;padding-bottom:.75rem}.uZvBWx{margin-left:.75rem}.gCorDi{padding-right:.75rem}.dee9eY:after,.q885dt:after{content:"";display:block;flex-shrink:0;height:100%;height:3rem;width:.75rem}._1Yq7w{background:rgba(0,0,0,.4);background:var(--nc-util-mask,rgba(0,0,0,.4));bottom:0;left:0;position:fixed;right:0;top:0}._2KYE-{background:#fff;box-shadow:0 0 .375rem rgba(0,0,0,.06);box-shadow:var(--ne-depth6,0 0 .375rem rgba(0,0,0,.06));height:100%;max-width:85%;position:absolute;top:0}._2Hn1-{left:0}._3foCQ{right:0}.NGVKmW{align-items:center;background-color:transparent;border:0;color:rgba(0,0,0,.87);cursor:pointer;display:flex;font-size:.875rem;line-height:1rem;text-transform:capitalize}.oAeYKc{color:rgba(0,0,0,.54)}.USHi51{color:#05a;line-height:1.75rem;margin-left:auto;text-transform:capitalize}.USHi51>svg{font-size:.6rem;margin-left:.4rem}.dmOLBB{z-index:11010!important}.yfT2u7{align-items:center;background-color:#f5f5f5;border:.0625rem solid #f5f5f5;border-radius:.125rem;color:rgba(0,0,0,.87);cursor:pointer;display:inline-flex;font-family:-apple-system,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-size:12px;font-weight:400;height:2.25rem;justify-content:center;margin-bottom:.625rem;margin-left:.75rem;min-width:4.375rem;padding:.25rem .75rem;position:relative;transition-duration:.2s;transition-property:color,background-color;transition-timing-function:cubic-bezier(.4,0,.2,1);-webkit-user-select:none;-moz-user-select:none;user-select:none;word-break:break-word}.psJz83{background-color:#fff;border-color:#ee4d2d;color:#ee4d2d;overflow:hidden}.psJz83:after{background:linear-gradient(-45deg,transparent,transparent,50%,#ee4d2d,50.001%,#ee4d2d);content:"";height:1rem;left:0;position:absolute;top:0;width:1rem}.theme--ofs .psJz83,.theme--s-mart .psJz83{border-color:#d0011b}.theme--ofs .psJz83:after,.theme--s-mart .psJz83:after{background:linear-gradient(-45deg,transparent,transparent,50%,#d0011b,50.001%,#d0011b)}.Qgl1E8{color:rgba(0,0,0,.26)}.yfT2u7 .oOUvN5{display:-webkit-box;overflow:hidden;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:2}.yfT2u7 .aIE4Nv{height:.5rem;left:0;position:absolute;top:.0625rem;width:.5rem;z-index:2}.ITIs6w{border-radius:.125rem;height:1.75rem;margin-right:.25rem;width:1.75rem}.MjasiC{display:flex;flex-direction:column;min-height:0;position:relative}.MjasiC>*{flex-shrink:0}.f_z5mT{flex-shrink:1;overflow:auto;position:relative}.OiegRd{align-items:flex-end;border:solid rgba(0,0,0,.09)!important;border-width:0 0 1px!important;display:flex;padding:12px 12px 16px}.WoAycc{position:absolute;right:12px;top:12px}.APO6v8{color:#ee2c4a;margin-top:8px;padding:6px 12px;width:100%}.XeMxNE{align-items:center;color:rgba(0,0,0,.54);display:flex;font-size:12px;padding:3px 12px 0}.dkrkZv{flex-shrink:0;margin-right:8px}.usoBzv{display:flex;flex-wrap:wrap;overflow:hidden}.heUQ2N{border:.5px solid rgba(0,0,0,.09);border-radius:1px;font-size:10px;margin-right:4px;padding:2px 4px}.qxJsHl{background-color:#fff1f1}.rp1wHL{display:flex;flex:1;flex-direction:column;overflow-x:hidden;overflow-y:visible;padding:16px 0 6px}.aPggnc{align-items:center;display:flex;justify-content:space-between;margin-bottom:12px;padding:0 12px}.X3mabB{color:rgba(0,0,0,.87);text-transform:capitalize}.Equ3H3{display:flex;-webkit-overflow-scrolling:touch}.JGdTCa{display:flex;flex-wrap:wrap;margin-right:12px}.badge__horizontal{align-items:center;background-color:#ee4d2d;border-radius:.125rem;color:#fff;cursor:default;display:flex;font-size:.5625rem;height:.9375rem;line-height:.6875rem;margin-bottom:.125rem;margin-top:.375rem;padding:.125rem .25rem;-webkit-user-select:none;-moz-user-select:none;user-select:none;white-space:nowrap}.badge__horizontal .stardust-icon{display:inline-block;font-size:.75rem;vertical-align:bottom}.badge__official-shop--left-triangle,.badge__preferred--left-triangle{border-bottom-left-radius:0;border-top-left-radius:0;position:relative}.badge__official-shop--left-triangle:before,.badge__preferred--left-triangle:before{border:.13125rem solid transparent;border-bottom-color:#a92d05;bottom:-.125rem;content:"";display:inline-block;left:.0625rem;position:absolute;transform:rotate(45deg)}.ZTJc5Q.badge__official-shop{padding:0}.badge__official-shop{background-color:#d0011b}.badge__official-shop--left-triangle:before{border-bottom-color:#870015}.badge__official-shop--inline{align-items:center;display:flex}.badge__official-shop--tw{margin-bottom:2px!important;margin-top:2px!important;padding:0}.badge__official-shop--tw svg{height:1rem}.badge__mall-img{height:.6875rem}.badge__mall-img--br{height:.625rem}.badge__preferred--left-triangle{border-bottom-left-radius:0;border-top-left-radius:0;position:relative}.badge__preferred--left-triangle:before{border:.13125rem solid transparent;border-bottom-color:#a92d05;bottom:-.125rem;content:"";display:inline-block;left:.0625rem;position:absolute;transform:rotate(45deg)}.badge__preferred-plus--left-triangle{border-bottom-left-radius:0;border-top-left-radius:0;position:relative}.badge__preferred-plus--left-triangle:before{border:.13125rem solid transparent;border-bottom-color:#a92d05;bottom:-.125rem;content:"";display:inline-block;left:.0625rem;position:absolute;transform:rotate(45deg)}.hMIjrU.badge__shopee_mart{padding:0}.badge-text{font-family:-apple-system,HelveticaNeueMedium,HelveticaNeue-Medium,Helvetica Neue Medium,Helvetica Neue,Roboto,Droid Sans,Arial Bold,Arial,sans-serif;font-size:.6875rem;font-weight:500;line-height:.8125rem;width:2.125rem}.badge-text__text{align-items:center;background-color:inherit;display:flex;height:2.125rem;justify-content:center;position:relative;text-align:center;width:2.125rem}.badge-text__text:after{border-color:transparent #fff;border-style:solid;border-width:0 1.0625rem .25rem;bottom:-.25rem;content:"";height:0;left:0;position:absolute;width:0}.badge__promotion{color:#ee4d2d;white-space:normal}.badge__promotion-off{color:#fff}.badge__promotion-off--es-ES,.badge__promotion-off--fr,.badge__promotion-off--pl{display:none}.badge-text--promotion{background-color:#fcd511}.badge-text--promotion .badge-text__text:after{border-left-color:#fcd511;border-right-color:#fcd511}.theme--ofs .badge__promotion{color:#d0011b!important}.sbvBpv{font-size:.75rem;position:relative;width:2.25rem}.XCCcuD{left:0;top:0;width:2.25rem}.B2urMy,.XCCcuD{position:absolute}.B2urMy{left:50%;top:50%;transform:translate(-50%,-50%);white-space:nowrap}.dSozcM{bottom:0;left:0;right:0;top:0;z-index:2}.dSozcM,.dSozcM .H_Sasr{align-items:center;display:flex;justify-content:center;position:absolute}.dSozcM .H_Sasr{background-color:rgba(0,0,0,.65);border-radius:5rem;color:#fff;font-size:.75rem;height:3.75rem;line-height:.875rem;max-width:calc(100% - 5rem);min-width:3.875rem;text-align:center}.dSozcM .g_OtnL{border-radius:6.25rem;max-width:calc(100% - 4.5rem);min-width:4.1875rem}.dSozcM .Q8Wtbv{border-radius:6.25rem;max-width:calc(100% - 3.625rem);min-width:5.125rem}.dSozcM .yFCwdT{display:-webkit-box;overflow:hidden;text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:2}.badge__soldout{color:#fff;text-align:center;white-space:normal}.badge-text--soldout{background-color:hsla(173,6%,51%,.85)}.badge-text--soldout .badge-text__text:after{border-left-color:hsla(173,6%,51%,.85);border-right-color:hsla(173,6%,51%,.85)}.badge-round__text{background-color:rgba(0,0,0,.87);border-radius:3.75rem;color:#fff;display:inline-block;height:3.75rem;line-height:3.75rem;min-height:3.75rem;min-width:3.75rem;overflow:hidden;padding:0 .5rem;position:relative;text-overflow:ellipsis}.badge__preferred--left-triangle,.badge__wholesale--left-triangle{border-bottom-left-radius:0;border-top-left-radius:0;position:relative}.badge__preferred--left-triangle:before,.badge__wholesale--left-triangle:before{border:.13125rem solid transparent;border-bottom-color:#a92d05;bottom:-.125rem;content:"";display:inline-block;left:.0625rem;position:absolute;transform:rotate(45deg)}.badge__wholesale{background-color:#16b6fb;text-align:center}.badge__wholesale--left-triangle:before{border-bottom-color:#0072be}.badge__wholesale--has--icon{text-align:left}.badge__installment{background-color:transparent;border:1px solid #f5a623;color:#f5a623;text-align:center}.badge__bundle-deals{background-color:transparent;border:1px solid #ee4d2d;color:#ee4d2d;display:inline-block;height:unset;max-width:100%;overflow:hidden;padding:1.5px 4px;text-overflow:ellipsis}.a1NpwC.badge__horizontal{background-color:#fff;border:1px solid #ee4d2d;border-radius:1px;padding:.09375rem .25rem}.theme--ofs .a1NpwC.badge__horizontal,.theme--s-mart .a1NpwC.badge__horizontal{border-color:#d0011b}.M0ifrG{color:#ee4d2d;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.theme--ofs .M0ifrG,.theme--s-mart .M0ifrG{color:#d0011b}.pwLECS{align-items:center;display:inline-flex;justify-content:center;line-height:.875rem;margin:0 .25rem 0 0;max-width:100%}.ixV9tO,.pwLECS{font-size:.625rem;height:1rem}.ixV9tO{background-color:#ee4d2d;border:0;border-radius:.5rem .5rem .5rem 0;box-sizing:border-box;display:inline-block;line-height:1rem;min-width:1.875rem;padding:0 .25rem;text-transform:none}.badge__free,.ixV9tO{color:#fff;text-align:center}.badge__free{align-items:center;background-color:#d0011b;border-radius:3.375rem;display:flex;height:3.375rem;justify-content:center;margin:.625rem .5rem;opacity:.76;width:3.375rem}.iC57Qh{border:1px solid #ee4d2d;color:#ee4d2d;font-size:10px;line-height:.875rem;overflow:hidden;padding:0 3px;text-overflow:ellipsis;white-space:nowrap}.u5KH0U{border:.0625rem solid;border-radius:.125rem;box-sizing:border-box;display:flex}.hygJw7{color:#fff;flex-grow:1;flex-shrink:1}.HzhXSn,.hygJw7{font-size:.625rem;line-height:.75rem;overflow:hidden;padding:.0625rem .25rem;text-overflow:ellipsis;white-space:nowrap}.HzhXSn{align-items:center;display:flex;flex-shrink:0;position:relative}.HzhXSn .rjXci4{border-right:5px solid transparent;border-top:5px solid;height:0;left:-.0625rem;position:absolute;top:-.0625rem;width:0}.badge__coinsback--left-triangle,.badge__preferred--left-triangle{border-bottom-left-radius:0;border-top-left-radius:0;position:relative}.badge__coinsback--left-triangle:before,.badge__preferred--left-triangle:before{border:.13125rem solid transparent;border-bottom-color:#a92d05;bottom:-.125rem;content:"";display:inline-block;left:.0625rem;position:absolute;transform:rotate(45deg)}.badge__coinsback{background-color:#ffa604;text-transform:capitalize}.badge__coinsback--left-triangle:before{border-bottom-color:#ae7600}.badge__coinsback--inline{align-items:center;color:#fff;display:flex;font-size:.6875rem;height:1.0625rem;line-height:.75rem;margin-bottom:.125rem;margin-top:.375rem;padding:.0625rem .25rem;white-space:nowrap}.badge__coinsback--outline{background:#fff;border:1px solid;border-radius:.125rem;color:#ffa604;font-size:.625rem;padding:.0625rem .1875rem;white-space:nowrap}.badge__coinsback--flashsale{background-color:#fcd511;color:#ee4d2d;display:inline-block;font-size:.6875rem;padding:.0625rem .25rem;vertical-align:middle}.gTRKsK{color:#ee4d2d;font-size:.625rem;line-height:.75rem}.CWSxk9{align-items:baseline;display:inline-flex;margin-bottom:6px;min-height:16px}.vnV4fz{color:rgba(0,0,0,.54);margin-right:4px;-webkit-text-decoration:line-through;text-decoration:line-through}.V26tRH{color:#ee4d2d}.theme--ofs .V26tRH,.theme--s-mart .V26tRH{color:#d0011b}.j2f2Bx{margin-bottom:8px}.fYvqqi{color:rgba(0,0,0,.54);margin-bottom:7px}._vdiFm{color:#ee4d2d}.eBzNGF{color:rgba(0,0,0,.54)}.yeQZqR{color:#ee4d2d;font-size:.75rem;margin-bottom:.5rem}.HXMPdH{color:rgba(0,0,0,.54);font-size:.875rem}.hidHQ8{background-color:#fff1f1}.Zbgw3a{padding:16px 12px}.wePhW3{background-color:#fff1f1}.mozNu6{align-items:center;display:flex;justify-content:space-between}.hVMTl8{color:#ee4d2d;display:flex;font-size:20px;justify-content:flex-end}.theme--ofs .hVMTl8,.theme--s-mart .hVMTl8{color:#d0011b}.iPeHdU{-webkit-appearance:none;-moz-appearance:none;appearance:none;background:transparent;border-radius:0;box-shadow:none;font-size:14px;width:60px}.Um2XV8,.iPeHdU,.m7P3iq{box-sizing:border-box;height:28px;text-align:center}.Um2XV8,.m7P3iq{color:rgba(0,0,0,.6);cursor:pointer;transition:opacity .2s cubic-bezier(.4,0,.2,1);-webkit-user-select:none;-moz-user-select:none;user-select:none;width:28px}.Um2XV8>svg,.m7P3iq>svg{height:10px;width:10px}.zCONJ5{color:rgba(0,0,0,.26);cursor:not-allowed}.UqOVW6{color:rgba(238,77,45,.26)}.theme--ofs .UqOVW6,.theme--s-mart .UqOVW6{color:rgba(208,2,27,.26)}.ONLwud{color:#ee2c4a;margin-top:8px;width:100%}.ONLwud.Q2eBlz{color:rgba(0,0,0,.54)}.uFC7qY{display:flex;padding:6px 12px}.uFC7qY button+button{margin-left:12px}.uFC7qY button.stardust-button{border:0;border-radius:2px;font-family:-apple-system,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Roboto,Droid Sans,Arial,sans-serif;font-weight:300;line-height:16px;padding:10px;text-transform:uppercase}.uFC7qY button.stardust-button.BX32sL{background-color:#ee4d2d;color:#fff}.theme--ofs .uFC7qY button.stardust-button.BX32sL,.theme--s-mart .uFC7qY button.stardust-button.BX32sL{background-color:#d0011b}.uFC7qY button.stardust-button.wsgZND{background-color:#00bfa5;color:#fff}.theme--ofs .uFC7qY button.stardust-button.wsgZND,.theme--s-mart .uFC7qY button.stardust-button.wsgZND{background-color:#fff;border:1px solid #d0011b;color:#d0011b}.theme--ofs .uFC7qY button.stardust-button.RN9whT.BX32sL,.theme--ofs .uFC7qY button.stardust-button.stardust-button--disabled.BX32sL,.theme--s-mart .uFC7qY button.stardust-button.RN9whT.BX32sL,.theme--s-mart .uFC7qY button.stardust-button.stardust-button--disabled.BX32sL,.uFC7qY button.stardust-button.RN9whT,.uFC7qY button.stardust-button.stardust-button--disabled{background-color:rgba(0,0,0,.26);color:#fff;opacity:1}.theme--ofs .uFC7qY button.stardust-button.RN9whT.wsgZND,.theme--ofs .uFC7qY button.stardust-button.stardust-button--disabled.wsgZND,.theme--s-mart .uFC7qY button.stardust-button.RN9whT.wsgZND,.theme--s-mart .uFC7qY button.stardust-button.stardust-button--disabled.wsgZND{border:1px solid rgba(0,0,0,.09);color:rgba(0,0,0,.26)}.uFC7qY button.stardust-button.stardust-button--block+.stardust-button--block{margin-top:0}.b_p_Tf{display:flex;flex-direction:column;min-height:0;position:relative}.b_p_Tf>*{flex-shrink:0}.LRTntv{flex-shrink:1;overflow:auto;position:relative}.Nbgiho{align-items:flex-end;border:solid rgba(0,0,0,.09)!important;border-width:0 0 1px!important;display:flex;padding:12px 12px 16px}._O68_W{position:absolute;right:12px;top:12px}.k_TcME{color:#ee2c4a;margin-top:8px;padding:6px 12px;width:100%}._1_DDs{background:rgba(0,0,0,.4);background:var(--nc-util-mask,rgba(0,0,0,.4));bottom:0;left:0;position:fixed;right:0;top:0}._2iekt{background:#fff;border-radius:.25rem .25rem 0 0;bottom:0;box-shadow:0 0 .375rem rgba(0,0,0,.06);box-shadow:var(--ne-depth6,0 0 .375rem rgba(0,0,0,.06));display:flex;flex-direction:column;max-height:75%;position:absolute;width:100%}.xoSh6i{align-items:center;background-color:#fafafa;display:flex;font-size:10px;padding:12px 8px}.iQpU4t{margin-right:8px}._1zdBJ{align-items:center;background-color:rgba(0,0,0,.4);background-color:var(--nc-util-mask,rgba(0,0,0,.4));bottom:0;display:flex;justify-content:center;left:0;position:fixed;right:0;top:0}._2Dkqc{background:#fff;border-radius:.25rem;border-radius:var(--nr-overlay,.25rem);margin-left:2.5rem;margin-left:var(--ns-g,2.5rem);margin-right:2.5rem;margin-right:var(--ns-g,2.5rem);max-height:75%;max-width:18.75rem;min-height:8.125rem;min-width:15rem;width:100%}._2Dkqc,.d-Vo0{overflow:hidden}.d-Vo0{display:-webkit-box;margin-bottom:1rem;margin-bottom:var(--ns-d,1rem);text-overflow:ellipsis;-webkit-box-orient:vertical;-webkit-line-clamp:2}._2Xfwq{color:rgba(0,0,0,.65);color:var(--nc-text-secondary,rgba(0,0,0,.65));max-height:15.625rem;min-height:2.25rem;overflow-y:auto}._3pvMp{text-align:left}._1u0yb{text-align:center}._3Wssq{text-align:right}._2WWGU{padding:1.25rem 1.25rem 1.5rem;padding:var(--ns-e,1.25rem) var(--ns-e,1.25rem) var(--ns-f,1.5rem) var(--ns-e,1.25rem);text-align:center}.Jl6On{display:flex;position:relative}.Jl6On:after{background-color:rgba(0,0,0,.09);background-color:var(--nc-util-line,rgba(0,0,0,.09));content:"";height:.0625rem;position:absolute;transform:scaleY(.5);width:100%}.Jl6On button{background:#fff;border:0;color:rgba(0,0,0,.87);color:var(--nc-text-primary,rgba(0,0,0,.87));flex:1;outline:none}.Jl6On._1ZxzA{flex-direction:row-reverse}.Jl6On._1ZxzA button{height:2.96875rem}.Jl6On._1ZxzA button:first-child{color:#ee4d2d;color:var(--nc-primary,#ee4d2d)}.Jl6On._1ZxzA button:first-child:after{background-color:rgba(0,0,0,.09);background-color:var(--nc-util-line,rgba(0,0,0,.09));content:"";height:100%;left:50%;position:absolute;top:0;transform:scaleX(.5);width:.0625rem}.Jl6On._1ZxzA button:first-child:disabled{color:rgba(0,0,0,.26);color:var(--nc-util-disabled,rgba(0,0,0,.26))}.Jl6On._24b2I button{color:#ee4d2d;color:var(--nc-primary,#ee4d2d);height:2.96875rem}.Jl6On._24b2I button:disabled{color:rgba(0,0,0,.26);color:var(--nc-util-disabled,rgba(0,0,0,.26))}.Jl6On._3yCdv{flex-direction:column;height:5.9375rem}.Jl6On._3yCdv button:first-child{color:#ee4d2d;color:var(--nc-primary,#ee4d2d)}.Jl6On._3yCdv button:first-child:disabled{color:rgba(0,0,0,.26);color:var(--nc-util-disabled,rgba(0,0,0,.26))}.Jl6On._3yCdv button:nth-child(2):after{background-color:rgba(0,0,0,.09);background-color:var(--nc-util-line,rgba(0,0,0,.09));content:"";height:.0625rem;left:0;position:absolute;top:50%;transform:scaleY(.5);width:100%}.Jl6On._1p6f1{flex-direction:column;height:8.96875rem}.Jl6On._1p6f1 button{position:relative}.Jl6On._1p6f1 button:first-child{color:#ee4d2d;color:var(--nc-primary,#ee4d2d)}.Jl6On._1p6f1 button:first-child:disabled{color:rgba(0,0,0,.26);color:var(--nc-util-disabled,rgba(0,0,0,.26))}.Jl6On._1p6f1 button:nth-child(2):after,.Jl6On._1p6f1 button:nth-child(3):after{background-color:rgba(0,0,0,.09);background-color:var(--nc-util-line,rgba(0,0,0,.09));content:"";height:.0625rem;left:0;position:absolute;top:0;transform:scaleY(.5);width:100%}.Jl6On button:disabled{color:rgba(0,0,0,.26);color:var(--nc-util-disabled,rgba(0,0,0,.26))}._1wbwU,._1wbwU ._2jlhf{width:100%}
-/*# sourceMappingURL=https://sourcemap.webfe.shopeemobile.com/mobilemall-productdetailspage/_/mobilemall-productdetailspage.934c5d9ac545c1970e8f.css.map*/</style>
-<style data-href="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/ProductOfficialShopSellingPoint.757ca572d5c865c4a77a.css">.DqobfR{background:#fff;border-top:1px solid rgba(0,0,0,.09);padding-left:.75rem;padding-right:.75rem}.Qa7c6h{background:rgba(0,0,0,.54);bottom:0;cursor:pointer;display:none;left:0;position:fixed;right:0;top:0;z-index:1000}.gRTRJU{display:initial}.GegCUx{background:#fff;bottom:0;cursor:pointer;display:flex;flex-direction:column;left:50%;max-height:50%;max-width:37.5rem;position:fixed;transform:translate(-50%,100%);transition:transform .1s cubic-bezier(.4,0,.6,1);visibility:hidden;width:100%;z-index:1001}.tPsvTR{transform:translate(-50%);visibility:visible;z-index:1001}.soNOfD{color:rgba(0,0,0,.87);padding:16px 0 20px;text-align:center;text-transform:capitalize}.FQ4ICz{overflow-wrap:break-word;overflow-y:scroll;padding:0 1rem;word-wrap:break-word;-webkit-hyphens:auto;hyphens:auto;-webkit-overflow-scrolling:touch;display:flex;flex-direction:column}.hO8D9l{display:flex;margin-top:1rem}.jwuwxo{flex-shrink:0;height:1.5rem;margin-right:.75rem;width:1.5rem}.uoh9dy{color:rgba(0,0,0,.87);text-transform:capitalize}.lHb1tu,.uoh9dy{white-space:pre-wrap}.lHb1tu{color:rgba(0,0,0,.54);margin:.375rem 0;text-transform:none}.NI9a0R{background:var(--brand-primary-color,#ee4d2d);color:#fff;height:3rem;line-height:3rem;margin-top:1.5rem;text-align:center;text-transform:capitalize}.noscroll{overflow:hidden}.E6qTXV{background:#fff;border-top:1px solid rgba(0,0,0,.09);padding:0 12px}.hgipRy{gap:10px;height:48px;justify-content:space-between}.NQpi16,.hgipRy{align-items:center;display:flex;overflow:hidden}.NQpi16{font-size:12px;font-weight:lighter;max-width:100%;padding:10px 0;white-space:nowrap}.gQscGd{height:15px;margin-right:6px;width:15px}@media (max-width:360px){.NQpi16{font-size:11px}.gQscGd{height:14px;margin-right:3px;width:14px}}
-/*# sourceMappingURL=https://sourcemap.webfe.shopeemobile.com/mobilemall-productdetailspage/_/ProductOfficialShopSellingPoint.757ca572d5c865c4a77a.css.map*/</style> </head>
-<body>
-<noscript>
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-WJZQSJF" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-</noscript>
-<div id="app"><style id="nebula-style">:root{--nc-primary:#ee4d2d;--nc-primary-bg:#fef6f5;--nc-primary-gradient:linear-gradient(#ee4d2d,#ff7337);--nc-secondary-blue:#0046ab;--nc-secondary-yellow:#eda500;--nc-secondary-green:#26aa99;--nc-error:#ee2c4a;--nc-error-bg:#fff4f4;--nc-caution:#f69113;--nc-caution-bg:#fff8e4;--nc-success:#30b566;--nc-success-bg:#f7fffe;--nc-text-primary:rgba(0,0,0,.87);--nc-text-primary-o:#212121;--nc-text-secondary:rgba(0,0,0,.65);--nc-text-secondary-o:#595959;--nc-text-tertiary:rgba(0,0,0,.54);--nc-text-tertiary-o:#757575;--nc-text-link:#0088ff;--nc-util-mask:rgba(0,0,0,.4);--nc-util-disabled:rgba(0,0,0,.26);--nc-util-disabled-o:#bdbdbd;--nc-util-line:rgba(0,0,0,.09);--nc-util-line-o:#e8e8e8;--nc-util-bg:#f5f5f5;--nc-util-placeholder:#fafafa;--nc-util-pressed:rgba(0,0,0,.05);--nt-font-regular-f:-apple-system,'HelveticaNeue','Helvetica Neue','Roboto','Droid Sans',Arial,sans-serif;--nt-font-regular-w:400;--nt-font-medium-f:-apple-system,'HelveticaNeue-Medium','Helvetica Neue','Roboto','Droid Sans',Arial,sans-serif;--nt-font-medium-w:500;--nt-font-bold-f:-apple-system,'HelveticaNeue-Bold','Helvetica Neue','Roboto','Droid Sans','Arial Bold',Arial,sans-serif;--nt-font-bold-w:700;--nt-size-foot:.625rem;--nt-size-foot-l:.75rem;--nt-size-foot-lp:.75rem;--nt-size-foot-t:1rem;--nt-size-foot-tp:1rem;--nt-size-small:.75rem;--nt-size-small-l:.875rem;--nt-size-small-lp:1.25rem;--nt-size-small-t:1.125rem;--nt-size-small-tp:1.125rem;--nt-size-normal:.875rem;--nt-size-normal-l:1rem;--nt-size-normal-lp:1.25rem;--nt-size-normal-t:1.375rem;--nt-size-normal-tp:1.375rem;--nt-size-large:1rem;--nt-size-large-l:1.25rem;--nt-size-large-lp:1.375rem;--nt-size-large-t:1.5rem;--nt-size-large-tp:1.5rem;--nt-size-title:1.25rem;--nt-size-title-l:1.5rem;--nt-size-title-lp:1.5rem;--nt-size-title-t:1.875rem;--nt-size-title-tp:1.875rem;--ns-a:.25rem;--ns-b:.5rem;--ns-c:.75rem;--ns-d:1rem;--ns-e:1.25rem;--ns-f:1.5rem;--ns-g:2.5rem;--ne-depth6:0 0 .375rem rgba(0,0,0,.06);--ne-depth9:0 0 .5625rem rgba(0,0,0,.12);--nr-normal:.125rem;--nr-overlay:.25rem}.nt-foot{font-size:var(--nt-size-foot,.625rem);line-height:var(--nt-size-foot-l,.75rem)}.nt-foot-p{font-size:var(--nt-size-foot,.625rem);line-height:var(--nt-size-foot-lp,.75rem)}.nt-small{font-size:var(--nt-size-small,.75rem);line-height:var(--nt-size-small-l,.875rem)}.nt-small-p{font-size:var(--nt-size-small,.75rem);line-height:var(--nt-size-small-lp,1.25rem)}.nt-normal{font-size:var(--nt-size-normal,.875rem);line-height:var(--nt-size-normal-l,1rem)}.nt-normal-p{font-size:var(--nt-size-normal,.875rem);line-height:var(--nt-size-normal-lp,1.25rem)}.nt-large{font-size:var(--nt-size-large,1rem);line-height:var(--nt-size-large-l,1.25rem)}.nt-large-p{font-size:var(--nt-size-large,1rem);line-height:var(--nt-size-large-lp,1.375rem)}.nt-title{font-size:var(--nt-size-title,1.25rem);line-height:var(--nt-size-title-l,1.5rem)}.nt-title-p{font-size:var(--nt-size-title,1.25rem);line-height:var(--nt-size-title-lp,1.5rem)}.nt-regular{font-family:var(--nt-font-regular-f,-apple-system,'HelveticaNeue','Helvetica Neue','Roboto','Droid Sans',Arial,sans-serif);font-weight:var(--nt-font-regular-w,400)}.nt-medium{font-family:var(--nt-font-medium-f,-apple-system,'HelveticaNeue-Medium','Helvetica Neue','Roboto','Droid Sans',Arial,sans-serif);font-weight:var(--nt-font-medium-w,500)}.nt-bold{font-family:var(--nt-font-bold-f,-apple-system,'HelveticaNeue-Bold','Helvetica Neue','Roboto','Droid Sans','Arial Bold',Arial,sans-serif);font-weight:var(--nt-font-bold-w,700)}</style><div class="app-container"><div style="display:contents"><div class="with-loading-wrapper with-loading-wrapper--transparent-background"><div class="stardust-spinner--hidden stardust-spinner"><div class="stardust-spinner__background"><div class="stardust-spinner__main" role="img"><svg width="34" height="12" viewBox="-1 0 33 12"><circle class="stardust-spinner__spinner" cx="4" cy="6" r="4" fill="#EE4D2D"></circle><circle class="stardust-spinner__spinner" cx="16" cy="6" r="4" fill="#EE4D2D"></circle><circle class="stardust-spinner__spinner" cx="28" cy="6" r="4" fill="#EE4D2D"></circle></svg></div></div></div><div class="product-page theme--ofs nt-m"><div style="position:fixed;z-index:99999;bottom:0;left:0" class="tracking-impression-placeholder"></div><div style="height:1px"></div><div class="vF60t2 HctEyP" style="background-color:rgba(255, 255, 255, 0);box-shadow:0 0 6px 0 rgba(0,0,0,0)"><div class="fDK8vk"><div class="Y7p4Ui" style="color:rgba(255, 255, 255, 1);background:rgba(0, 0, 0, 0.26)"><a class="lBW5d8" href="/"><svg viewBox="0 0 22 17" role="img" class="stardust-icon stardust-icon-back-arrow D8W4Bw navbar-generic__back"><g stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(-3, -6)"><path d="M5.78416545,15.2727801 L12.9866648,21.7122915 C13.286114,22.0067577 13.286114,22.4841029 12.9866648,22.7785691 C12.6864297,23.0738103 12.200709,23.0738103 11.9004739,22.7785691 L3.29347136,15.0837018 C3.27067864,15.0651039 3.23845445,15.072853 3.21723364,15.0519304 C3.06240034,14.899273 2.99480814,14.7001208 3.00030983,14.5001937 C2.99480814,14.3002667 3.06240034,14.1003396 3.21723364,13.9476821 C3.23845445,13.9275344 3.2714646,13.9345086 3.29425732,13.9166857 L11.9004739,6.22026848 C12.200709,5.92657717 12.6864297,5.92657717 12.9866648,6.22026848 C13.286114,6.51628453 13.286114,6.99362977 12.9866648,7.288096 L5.78416545,13.7276073 L24.2140442,13.7276073 C24.6478918,13.7276073 25,14.0739926 25,14.5001937 C25,14.9263948 24.6478918,15.2727801 24.2140442,15.2727801 L5.78416545,15.2727801 Z"></path></g></svg></a></div></div><div class="OWPOSs"><div class="UBteaH" style="opacity:0"><?php echo $BRANDS ?> ~ SITUS SLOT ONLINE GACOR PASTI MAXWIN MALAM INI</div></div><div class="HVQ8nV"><div class="wrTghk"><div class="Y7p4Ui" style="color:rgba(255, 255, 255, 1);background:rgba(0, 0, 0, 0.26)"><div class="navbar-icon-cart"><svg viewBox="0 0 24 24" fill="none" width="24" height="24" color="currentColor" class="navbar-icon-cart__icon"><path fill-rule="evenodd" clip-rule="evenodd" d="M0 2.75h3.713l4.065 14.453a.75.75 0 00.722.547H20a.75.75 0 00.721-.544l3-10.5A.75.75 0 0023 5.75H6.115L5.003 1.797 4.85 1.25H0v1.5zm9.068 13.5l-2.531-9h15.469l-2.572 9H9.068zM9.75 22a1.25 1.25 0 100-2.5 1.25 1.25 0 000 2.5zm9 0a1.25 1.25 0 100-2.5 1.25 1.25 0 000 2.5z" fill="currentColor"></path></svg></div></a></div></div><div class="wrTghk"><div class="Y7p4Ui" style="color:rgba(255, 255, 255, 1);background:rgba(0, 0, 0, 0.26)"><div class="stardust-popover Zh9bwi" id="stardust-popover305395" tabindex="0"><div role="button" class="stardust-popover__target"><svg class="navbar-generic__menu" viewBox="0 0 24 6"><path fill="none" d="M12 5.5c-1.380712 0-2.5-1.1192881-2.5-2.5S10.619288.5 12 .5s2.5 1.1192881 2.5 2.5-1.119288 2.5-2.5 2.5zm-9 0C1.619288 5.5.5 4.3807119.5 3S1.619288.5 3 .5 5.5 1.6192881 5.5 3 4.380712 5.5 3 5.5zm18 0c-1.380712 0-2.5-1.1192881-2.5-2.5S19.619288.5 21 .5s2.5 1.1192881 2.5 2.5-1.119288 2.5-2.5 2.5z"></path></svg></div></div></div></div></div></div><span></span><span></span><div role="main"><div style="position:relative"><div class="product-carousel"><div class="stardust-carousel"><div class="stardust-carousel__item-list-wrapper" style="padding-top:100%"><ul class="stardust-carousel__item-list" style="width:500%"><li class="stardust-carousel__item" style="width:20%"><div class="stardust-carousel__item-inner-wrapper"><div class="_JU2rg"><div class="SarUkj"><div class="ltOSWU"><div class="EoYuuW"></div></div><picture><img class="IMAW1w" src="https://i.ibb.co/nQgYmnb/banner-sgacor2.png"/></picture></div></div></div></li><li class="stardust-carousel__item" style="width:20%"><div class="stardust-carousel__item-inner-wrapper"><div class="_JU2rg"><div class="Xyi3YC"><img class="_JU2rg H_3FFk"/><div class="LcYzP1"><div class="qlQujO"></div></div></div></div></div></li><li class="stardust-carousel__item" style="width:20%"><div class="stardust-carousel__item-inner-wrapper"><div class="_JU2rg"><div class="Xyi3YC"><img class="_JU2rg H_3FFk"/><div class="LcYzP1"><div class="qlQujO"></div></div></div></div></div></li><li class="stardust-carousel__item" style="width:20%"><div class="stardust-carousel__item-inner-wrapper"><div class="_JU2rg"><div class="Xyi3YC"><img class="_JU2rg H_3FFk"/><div class="LcYzP1"><div class="qlQujO"></div></div></div></div></div></li><li class="stardust-carousel__item" style="width:20%"><div class="stardust-carousel__item-inner-wrapper"><div class="_JU2rg"><div class="Xyi3YC"><img class="_JU2rg H_3FFk"/><div class="LcYzP1"><div class="qlQujO"></div></div></div></div></div></li></ul></div><div class="stardust-carousel__indexing">1/5</div></div></div></div><div class="page-section page-section--no-border product-page__overview"><div class="ezTNz_"><div class="xKawm0"><div><div class="WOxHZ9 typo-r16 two-line-text"><div class="nx5rVB"><img alt="mall inline badge" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/54c82565b04145901149.svg"/></div><h1 style="font-size:15px;"><span><?php echo $BRANDS ?> ~ SITUS SLOT ONLINE GACOR PASTI MAXWIN MALAM INI</span></h1></div></div><div class="G6hhEE"><div class="qksVIt"><div class="ViQfDB typo-m18">Rp7.788</div></div><div class="ZuWaqn"><div class="AkbYn8"><div class="_1PWkR nt-regular nt-foot" style="color:#26AA99"><svg class="_2DRZW _2xFcL" viewBox="-0.25 -0.25 4 16"><path d="M4 0h-3q-1 0 -1 1v13.5q0 1 1 1h+3" stroke-width="0.5" transform="" stroke="currentColor" fill="transparent"></path></svg><div class="_1FKkT _3Ao0A" style="color:#26AA99;background-color:transparent">Garansi Bebas Pengembalian</div><svg class="_2DRZW _2xFcL" viewBox="-0.25 -0.25 4 16"><path d="M4 0h-3q-1 0 -1 1v13.5q0 1 1 1h+3" stroke-width="0.5" transform="rotate(180) translate(-3.5 -15.5)" stroke="currentColor" fill="transparent"></path></svg></div></div></div></div><div class="hDwtBy"></div><div class="VknKiT"><div class="flex flex-align-items-center flex-justify-content-space-between  pQW9A9"><div class="flex flex-align-items-center"><svg class="kUpbkg" width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg"><path class="orignal-guarantee-icon__path--fill" d="M9.323 12.301C9.11156 12.0706 8.85558 11.8854 8.57053 11.7567C8.27439 11.6252 7.95397 11.5573 7.62995 11.5573C7.30593 11.5573 6.9855 11.6252 6.68937 11.7567C6.4056 11.8876 6.15003 12.0725 5.9369 12.301C5.72123 12.5301 5.54836 12.796 5.42648 13.0861C5.30203 13.3826 5.23889 13.7013 5.24088 14.0229C5.23842 14.3515 5.30152 14.6772 5.42648 14.9811C5.54604 15.2724 5.71917 15.5386 5.9369 15.7661C6.15458 15.9934 6.41441 16.1761 6.7019 16.3041C6.99672 16.4356 7.31593 16.5036 7.63874 16.5036C7.96154 16.5036 8.28074 16.4356 8.57555 16.3041C8.85952 16.1764 9.11529 15.9935 9.32802 15.7661C9.54174 15.5372 9.71176 15.2712 9.82967 14.9811C9.95503 14.6773 10.0186 14.3515 10.0165 14.0229C10.0181 13.7012 9.95455 13.3825 9.82967 13.0861C9.70782 12.7969 9.53635 12.5312 9.323 12.301Z" fill="#EE4D2D"></path><path class="orignal-guarantee-icon__path--fill" d="M18.1281 11.9222C17.8669 11.7097 17.5419 11.5909 17.2051 11.5849C17.0797 11.5748 16.8866 11.5686 16.6332 11.5636C16.3799 11.5585 16.1767 11.5573 16.02 11.5573H15.5384V14.2022H16.6332C16.7486 14.2022 16.8565 14.2022 16.9568 14.1959C17.0571 14.1897 17.1411 14.1884 17.2076 14.1884C17.5421 14.1827 17.8658 14.0692 18.1306 13.8648C18.3815 13.668 18.5069 13.3431 18.5069 12.8929C18.5069 12.4427 18.3764 12.1292 18.1281 11.9222Z" fill="#EE4D2D"></path><path class="orignal-guarantee-icon__path--fill" d="M27.6017 12.0288C28.3366 10.717 28.0573 9.67608 26.7639 8.90605C25.4705 8.13603 24.8142 6.99813 24.795 5.49236C24.7749 3.98743 24.012 3.22534 22.5062 3.20612C21.0004 3.18689 19.863 2.53057 19.0938 1.23716C18.3254 -0.0554085 17.2841 -0.33466 15.9698 0.399413C14.6555 1.13349 13.3428 1.13349 12.0319 0.399413C10.7176 -0.335496 9.67625 -0.0562446 8.9079 1.23716C8.13954 2.53057 7.00205 3.18689 5.49545 3.20612C3.99051 3.22702 3.2276 3.9891 3.20669 5.49236C3.18579 6.99562 2.52948 8.13352 1.23774 8.90605C-0.0564984 9.67441 -0.335754 10.7153 0.399991 12.0288C1.13574 13.3423 1.13574 14.6562 0.399991 15.9705C-0.334918 17.2823 -0.0556624 18.3236 1.23774 19.0945C2.53115 19.8653 3.18746 21.0024 3.20669 22.5056C3.22843 24.0106 3.99135 24.7731 5.49545 24.7931C6.99955 24.8132 8.13536 25.4699 8.90287 26.7633C9.67206 28.0559 10.7134 28.3347 12.0269 27.5998C13.3403 26.8649 14.653 26.8649 15.9648 27.5998C17.2774 28.3356 18.3187 28.0568 19.0888 26.7633C19.8588 25.4699 20.9963 24.8132 22.5012 24.7931C24.0061 24.7747 24.7691 24.0122 24.79 22.5056C24.8109 20.999 25.4672 19.862 26.7589 19.0945C28.0515 18.3244 28.3307 17.2831 27.5967 15.9705C26.8626 14.6578 26.8643 13.3439 27.6017 12.0288ZM11.7008 15.7736C11.2667 16.8573 10.4291 17.7303 9.36439 18.2091C8.81848 18.4497 8.22843 18.574 7.63183 18.574C7.03524 18.574 6.44519 18.4497 5.89928 18.2091C5.37382 17.9745 4.89891 17.6402 4.50095 17.2246C4.10105 16.8046 3.78293 16.3138 3.56287 15.7773C3.10683 14.6577 3.10457 13.4046 3.5566 12.2834C3.77388 11.7494 4.08954 11.2611 4.48715 10.8437C4.88437 10.4288 5.35955 10.0964 5.88547 9.86545C6.43376 9.62882 7.02464 9.50676 7.6218 9.50676C8.21897 9.50676 8.80983 9.62882 9.35812 9.86545C9.88261 10.0961 10.3575 10.4262 10.7565 10.8374C11.1553 11.2522 11.473 11.738 11.6933 12.2696C11.9248 12.8258 12.0421 13.4229 12.0382 14.0253C12.0406 14.6245 11.926 15.2184 11.7008 15.7736ZM18.2109 18.4599L16.5805 16.131H15.5334V18.4599H13.5619V9.64096H16.6972C16.8903 9.64096 17.0822 9.64096 17.2753 9.65476C17.7035 9.66911 18.1267 9.75079 18.5294 9.8968C18.9038 10.0303 19.2457 10.2414 19.5327 10.5163C19.821 10.8007 20.0462 11.1425 20.1936 11.5196C20.3625 11.9595 20.4443 12.428 20.4344 12.8991C20.4344 13.6717 20.2714 14.3012 19.9453 14.7878C19.6265 15.2685 19.167 15.639 18.6298 15.8488L20.4708 18.4599H18.2109ZM24.1228 18.4599H21.9908V9.64096H24.1228V18.4599Z" fill="#EE4D2D"></path></svg><div><div class="EXeraP">Situs <?php echo $BRANDS ?> Slot Termudah & Tercepat Gacor Malam Ini</div><div class="EsQDTw">Claim bonus di situs slot <?php echo $BRANDS ?> khusus new member</div></div></div><svg viewBox="0 0 24 24" fill="none" width="24" height="24" color="rgba(0, 0, 0, 0.54)"><path fill-rule="evenodd" clip-rule="evenodd" d="M14.94 12L9.47 6.53l1.06-1.06 5.647 5.646a1.25 1.25 0 010 1.768L10.53 18.53l-1.06-1.06L14.94 12z" fill="currentColor"></path></svg></div></a></div><div class="product-review__wrapper"><div class="product-review"><div class="CjmmTK"><a href="/shop/37451478/item/1310112778/rating/" class="product-review__link"><div class="ajvSGB UuhjH6"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="AdyKFb"><defs><linearGradient id="rating-solid" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFCA11"></stop><stop offset="100%" stop-color="#FFAD27"></stop></linearGradient></defs><path fill="url(#rating-solid)" fill-rule="evenodd" d="M14.9988798 25.032153l-8.522024 4.7551739c-.4785069.2670004-.7939037.0347448-.7072938-.5012115l1.6339124-10.1109185-6.8944622-7.1327607c-.3871203-.4005006-.2499178-.7947292.2865507-.8774654l9.5090982-1.46652789L14.5740199.51703028c.2346436-.50460972.6146928-.50543408.8497197 0l4.2693588 9.18141263 9.5090986 1.46652789c.545377.0841102.680337.4700675.28655.8774654l-6.894462 7.1327607 1.633912 10.1109185c.08788.5438118-.232337.7662309-.707293.5012115l-8.5220242-4.7551739z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="AdyKFb"><defs><linearGradient id="rating-solid" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFCA11"></stop><stop offset="100%" stop-color="#FFAD27"></stop></linearGradient></defs><path fill="url(#rating-solid)" fill-rule="evenodd" d="M14.9988798 25.032153l-8.522024 4.7551739c-.4785069.2670004-.7939037.0347448-.7072938-.5012115l1.6339124-10.1109185-6.8944622-7.1327607c-.3871203-.4005006-.2499178-.7947292.2865507-.8774654l9.5090982-1.46652789L14.5740199.51703028c.2346436-.50460972.6146928-.50543408.8497197 0l4.2693588 9.18141263 9.5090986 1.46652789c.545377.0841102.680337.4700675.28655.8774654l-6.894462 7.1327607 1.633912 10.1109185c.08788.5438118-.232337.7662309-.707293.5012115l-8.5220242-4.7551739z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="AdyKFb"><defs><linearGradient id="rating-solid" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFCA11"></stop><stop offset="100%" stop-color="#FFAD27"></stop></linearGradient></defs><path fill="url(#rating-solid)" fill-rule="evenodd" d="M14.9988798 25.032153l-8.522024 4.7551739c-.4785069.2670004-.7939037.0347448-.7072938-.5012115l1.6339124-10.1109185-6.8944622-7.1327607c-.3871203-.4005006-.2499178-.7947292.2865507-.8774654l9.5090982-1.46652789L14.5740199.51703028c.2346436-.50460972.6146928-.50543408.8497197 0l4.2693588 9.18141263 9.5090986 1.46652789c.545377.0841102.680337.4700675.28655.8774654l-6.894462 7.1327607 1.633912 10.1109185c.08788.5438118-.232337.7662309-.707293.5012115l-8.5220242-4.7551739z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="AdyKFb"><defs><linearGradient id="rating-solid" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFCA11"></stop><stop offset="100%" stop-color="#FFAD27"></stop></linearGradient></defs><path fill="url(#rating-solid)" fill-rule="evenodd" d="M14.9988798 25.032153l-8.522024 4.7551739c-.4785069.2670004-.7939037.0347448-.7072938-.5012115l1.6339124-10.1109185-6.8944622-7.1327607c-.3871203-.4005006-.2499178-.7947292.2865507-.8774654l9.5090982-1.46652789L14.5740199.51703028c.2346436-.50460972.6146928-.50543408.8497197 0l4.2693588 9.18141263 9.5090986 1.46652789c.545377.0841102.680337.4700675.28655.8774654l-6.894462 7.1327607 1.633912 10.1109185c.08788.5438118-.232337.7662309-.707293.5012115l-8.5220242-4.7551739z"></path></svg><div class="AdyKFb"><div class="HIDP6x" style="width:88.35227272727275%"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="RsQf0d"><defs><linearGradient id="rating-solid" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFCA11"></stop><stop offset="100%" stop-color="#FFAD27"></stop></linearGradient></defs><path fill="url(#rating-solid)" fill-rule="evenodd" d="M14.9988798 25.032153l-8.522024 4.7551739c-.4785069.2670004-.7939037.0347448-.7072938-.5012115l1.6339124-10.1109185-6.8944622-7.1327607c-.3871203-.4005006-.2499178-.7947292.2865507-.8774654l9.5090982-1.46652789L14.5740199.51703028c.2346436-.50460972.6146928-.50543408.8497197 0l4.2693588 9.18141263 9.5090986 1.46652789c.545377.0841102.680337.4700675.28655.8774654l-6.894462 7.1327607 1.633912 10.1109185c.08788.5438118-.232337.7662309-.707293.5012115l-8.5220242-4.7551739z"></path></svg></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" class="bXm5gg"><defs><linearGradient id="rating-hollow" x1="50%" x2="50%" y1="0%" y2="99.0177926%"><stop offset="0%" stop-color="#FFD211"></stop><stop offset="100%" stop-color="#FFAD27"></stop></linearGradient></defs><path fill="none" fill-rule="evenodd" stroke="url(#rating-hollow)" stroke-width="2" d="M23.226809 28.390899l-1.543364-9.5505903 6.600997-6.8291523-9.116272-1.4059447-4.01304-8.63019038-4.013041 8.63019038-9.116271 1.4059447 6.600997 6.8291523-1.543364 9.5505903 8.071679-4.5038874 8.071679 4.5038874z"></path></svg></div></div><div class="yIRUr4">5.0</div></a></div><div class="product-review__sold-count"><div>99%<!-- --> <!-- -->RTP WIN</div></div><div class="product-review__like"><button disabled=""><svg viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" width="22" height="19"><g transform="translate(-0.5, -3)" fill-rule="nonzero" stroke="#595959" stroke-width="1.5" fill="none"><path d="M10.7510916,5.02441452 C9.71288513,4.21333304 8.38591653,3.75 7.05,3.75 C4.6640902,3.75 1.75,5.93041968 1.75,8.69482289 C1.75,9.72265698 2.04389836,10.7232187 2.64719149,11.7755095 C3.83247386,13.842932 5.52963591,15.4857604 10.8930142,20.0637321 L12.0018522,21.0138968 L13.1074831,20.0736606 C18.4933019,15.4666923 20.1786809,13.8325614 21.3605464,11.7622778 C21.9586107,10.7146435 22.25,9.71826659 22.25,8.69482289 C22.25,5.93041968 19.933591,3.75 16.95,3.75 C15.6132045,3.75 14.2853688,4.21394292 13.2510739,5.02269611 L13.1827793,5.07686689 C12.9560346,5.25946414 12.746321,5.45701006 12.5561764,5.66719053 L12,6.28197216 L11.4438236,5.66719053 C11.253679,5.45701006 11.0439654,5.25946414 10.8214191,5.08022309 L10.7510916,5.02441452 Z"></path></g></svg></button></div></div></div></div></div><div><div id="sll2-selling-points"><div class=""><div class="Qa7c6h"></div><div class="GegCUx"><div class="soNOfD typo-m16">Jaminan Shopee Mall</div><div class="FQ4ICz"><div class="hO8D9l"><img class="jwuwxo" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/6c502a2641457578b0d5.png"/><div class="uoh9dy">Promo<div class="lHb1tu">Untuk menjamin kepuasanmu, Shopee Mall memperpanjang waktu pengembalian barang (7 hari setelah barang diterima). Kamu dapat melakukan pengembalian secara praktis dan gratis* (melalui J&T Express atau Indopaket (Indomaret) dengan resi yang diberikan oleh Shopee). Seluruh dana akan dikembalikan kepadamu jika pengajuan memenuhi Syarat & Ketentuan (pengembalian karena produk tidak original, rusak, cacat, atau salah).</div></div></div><div class="hO8D9l"><img class="jwuwxo" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/511aca04cc3ba9234ab0.png"/><div class="uoh9dy">100% Ori<div class="lHb1tu">Shopee menjamin bahwa produk yang terdaftar di Shopee Mall adalah 100% original. Jika produk dari Shopee Mall yang kamu terima bukan produk original, Shopee akan mengembalikan dua kali dari jumlah harga produk yang kamu bayarkan untuk produk tersebut.</div></div></div><div class="hO8D9l"><img class="jwuwxo" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/16ead7e0a68c3cff9f32.png"/><div class="uoh9dy">Gratis Ongkir<div class="lHb1tu">Nikmati Gratis Ongkir spesial pada semua produk Shopee Mall dengan min. belanja lebih rendah.</div></div></div></div><div class="NI9a0R">Lanjutkan Belanja</div></div></div><div class="E6qTXV"><div class="hgipRy"><div class="NQpi16"><img class="gQscGd" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/6c502a2641457578b0d5.png" alt="7 Hr Pengembalian"/>7 Hr Pengembalian</div><div class="NQpi16"><img class="gQscGd" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/511aca04cc3ba9234ab0.png" alt="100% Ori"/>100% Gacor</div><div class="NQpi16"><img class="gQscGd" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/16ead7e0a68c3cff9f32.png" alt="Gratis Ongkir"/>Gratis Ongkir</div></div></div></div></div></div><div class="action-bar-section"><div class="product-action-bar__wrapper product-voucher"><div class="product-action-bar"><div class="product-action-bar__label">Voucher Toko <?php echo $BRANDS ?></div><div class="product-action-bar__content product-voucher__vouchers"><div style="display:contents"></div><div style="display:contents"></div></div><svg enable-background="new 0 0 11 11" viewBox="0 0 11 11" role="img" class="stardust-icon stardust-icon-arrow-right product-action-bar__arrow"><path stroke="none" d="m2.5 11c .1 0 .2 0 .3-.1l6-5c .1-.1.2-.3.2-.4s-.1-.3-.2-.4l-6-5c-.2-.2-.5-.1-.7.1s-.1.5.1.7l5.5 4.6-5.5 4.6c-.2.2-.2.5-.1.7.1.1.3.2.4.2z"></path></svg></div></div><div class="product-action-bar__wrapper"><div class="product-action-bar P38a_1"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="pfo5zo"><path d="M0 8.77733C0 6.26602 1.86798 4.5 4.51175 4.5C5.87937 4.5 7.00205 5.01088 7.52344 5.92858L5.78791 7.28673C5.48201 6.75588 5.01213 6.44998 4.35828 6.44998C3.22508 6.44998 2.42933 7.34875 2.42933 8.62386C2.42933 9.46062 3.01169 10.022 3.8989 10.022C4.46025 10.022 5.00161 9.78754 5.49147 9.19466L6.91059 10.5518C6.04335 11.6135 4.98164 11.9709 3.66449 11.9709C1.44961 11.9709 0 10.6748 0 8.77628V8.77733Z" fill="#EE4D2D"></path><path d="M7.44141 8.77733C7.44141 6.2555 9.3199 4.5 11.9426 4.5C14.168 4.5 15.5661 5.81715 15.5661 7.6946C15.5661 10.2164 13.6876 11.9719 11.0649 11.9719C8.8395 11.9719 7.44141 10.6548 7.44141 8.77733ZM13.1379 7.83861C13.1379 7.01132 12.6175 6.44998 11.7398 6.44998C10.5561 6.44998 9.87178 7.46018 9.87178 8.63437C9.87178 9.46167 10.3921 10.023 11.2699 10.023C12.4535 10.023 13.1379 9.0128 13.1379 7.83861Z" fill="#EE4D2D"></path><path d="M17.1297 4.66309H20.3558C22.6117 4.66309 24.0003 5.81625 24.0003 7.69475C24.0003 10.2166 22.1323 11.8081 19.5296 11.8081H15.7021L17.1307 4.66309H17.1297ZM19.6105 9.93065C20.8867 9.93065 21.57 9.0119 21.57 7.83771C21.57 7.01042 21.0496 6.54158 20.0793 6.54158H19.1606L18.4868 9.93065H19.6095H19.6105Z" fill="#EE4D2D"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M22.6177 13.921C22.6177 13.9209 22.6177 13.9209 22.6177 13.9209H1.18988L0 19.0638H1.19235C1.19235 19.0638 1.19235 19.0638 1.19235 19.0638H22.8102L24.0001 13.921H22.6177Z" fill="#EE4D2D"></path><path d="M3.53148 17.929C3.33087 17.929 3.15041 17.8915 2.99193 17.8173C2.83346 17.7431 2.70246 17.6414 2.6017 17.5113C2.50002 17.3822 2.4304 17.2292 2.39284 17.0542C2.35528 16.8793 2.3562 16.6933 2.39467 16.4945C2.43406 16.2902 2.50735 16.1015 2.61452 15.9266C2.7217 15.7516 2.85178 15.5996 3.00475 15.4695C3.15773 15.3403 3.32995 15.2377 3.52049 15.1635C3.71102 15.0893 3.90889 15.0518 4.11225 15.0518C4.35683 15.0518 4.56019 15.0948 4.7205 15.1809C4.88172 15.267 5.02188 15.3715 5.14005 15.4933L4.65455 16.0356C4.56935 15.966 4.475 15.9064 4.37241 15.8588C4.26981 15.8112 4.13698 15.7864 3.97301 15.7864C3.87957 15.7864 3.78797 15.802 3.69728 15.8341C3.60659 15.8661 3.52232 15.9119 3.44537 15.9715C3.36842 16.031 3.30155 16.1043 3.24567 16.1904C3.1898 16.2765 3.15041 16.3745 3.12934 16.4854C3.10918 16.587 3.1101 16.6823 3.13117 16.7693C3.15224 16.8564 3.18796 16.9315 3.24018 16.9947C3.29239 17.057 3.3556 17.1064 3.4298 17.1412C3.50491 17.1761 3.58553 17.1935 3.67347 17.1935C3.7724 17.1935 3.86217 17.1843 3.9437 17.1651C4.02431 17.1458 4.09942 17.1229 4.16721 17.0954C4.235 17.068 4.29729 17.0359 4.35408 16.9993C4.41088 16.9626 4.46401 16.9269 4.51439 16.8921L4.78554 17.4298C4.71226 17.4912 4.63164 17.5516 4.54279 17.6112C4.45393 17.6707 4.35775 17.7238 4.25424 17.7706C4.15072 17.8173 4.03805 17.8548 3.91713 17.8842C3.79622 17.9135 3.66797 17.9281 3.53056 17.9281L3.53148 17.929Z" fill="white"></path><path d="M7.5302 15.0972L7.39738 15.7787H6.19095L6.12042 16.1415L7.29936 16.146L7.16654 16.8276H5.98667L5.91522 17.1949H7.12165L6.98608 17.8938H5.0459L5.58911 15.0972H7.52929H7.5302Z" fill="white"></path><path d="M7.96698 15.0972H8.70073L8.50195 16.1195L9.52242 15.0972H10.4137L9.1276 16.3384L9.91815 17.8938H9.06623L8.57248 16.8578L8.30958 17.107L8.1566 17.8938H7.42285L7.96606 15.0972H7.96698Z" fill="white"></path><path d="M11.8742 15.0972H12.608C12.739 15.0972 12.8626 15.1027 12.978 15.1146C13.0935 15.1265 13.2006 15.1494 13.2986 15.1842C13.3967 15.219 13.4874 15.2676 13.5698 15.3308C13.6522 15.393 13.7255 15.4755 13.7906 15.5781C13.862 15.6917 13.9078 15.8291 13.9289 15.9885C13.95 16.1488 13.9435 16.3173 13.9087 16.495C13.8767 16.6608 13.8217 16.8212 13.7457 16.976C13.6687 17.1308 13.5652 17.2728 13.4351 17.4047C13.3371 17.5036 13.2354 17.5851 13.1301 17.6493C13.0248 17.7134 12.9148 17.7638 12.8012 17.8004C12.6877 17.837 12.5704 17.8618 12.4476 17.8746C12.3258 17.8874 12.1976 17.8938 12.0638 17.8938H11.3301L11.8733 15.0972H11.8742ZM12.466 15.8309L12.2076 17.1592H12.3341C12.5704 17.1592 12.7573 17.1079 12.8974 17.0044C13.0367 16.9009 13.1301 16.7314 13.1759 16.495C13.2217 16.2587 13.1961 16.0892 13.098 15.9857C13 15.8822 12.8333 15.8309 12.597 15.8309H12.466Z" fill="white"></path><path d="M15.1521 17.929C14.9945 17.929 14.8516 17.9043 14.7234 17.8548C14.5942 17.8054 14.4861 17.7339 14.3982 17.6405C14.3103 17.547 14.2443 17.4344 14.2022 17.3015C14.1591 17.1687 14.1472 17.0185 14.1655 16.849C14.1692 16.8142 14.1756 16.7693 14.1829 16.7134C14.1912 16.6585 14.2003 16.5998 14.2104 16.5385C14.2205 16.4771 14.2324 16.4157 14.2443 16.3525C14.2562 16.2902 14.2672 16.2353 14.2764 16.1885L14.4889 15.0957H15.2236L15.011 16.1885C14.9927 16.2847 14.9735 16.3791 14.9561 16.4725C14.9378 16.5659 14.9277 16.6356 14.924 16.6823C14.9084 16.8371 14.9295 16.9617 14.9872 17.056C15.0449 17.1504 15.1475 17.198 15.2959 17.198C15.4443 17.198 15.568 17.1504 15.6578 17.056C15.7475 16.9617 15.8126 16.8398 15.8529 16.6914C15.8684 16.642 15.8849 16.5696 15.9033 16.4753C15.9216 16.3809 15.9399 16.2847 15.9591 16.1885L16.1717 15.0957H16.9063L16.6938 16.1885C16.6846 16.2353 16.6736 16.2884 16.6608 16.3479C16.648 16.4075 16.6343 16.467 16.6214 16.5275C16.6086 16.587 16.5949 16.6438 16.582 16.6979C16.5683 16.7519 16.5564 16.7995 16.5454 16.8398C16.4987 17.0056 16.4309 17.1559 16.342 17.2896C16.2532 17.4234 16.1478 17.5379 16.026 17.6331C15.9042 17.7275 15.7686 17.8008 15.6211 17.8521C15.4727 17.9034 15.317 17.9281 15.1539 17.9281L15.1521 17.929Z" fill="white"></path><path d="M16.8408 17.8938L17.384 15.0972H18.1709L17.7678 17.1683H18.5547L18.693 17.8938H16.8398H16.8408Z" fill="white"></path><path d="M19.8582 17.929C19.7006 17.929 19.5577 17.9043 19.4295 17.8548C19.3003 17.8054 19.1922 17.7339 19.1043 17.6405C19.0163 17.547 18.9504 17.4344 18.9082 17.3015C18.8652 17.1687 18.8533 17.0185 18.8716 16.849C18.8752 16.8142 18.8817 16.7693 18.889 16.7134C18.8972 16.6585 18.9064 16.5998 18.9165 16.5385C18.9265 16.4771 18.9385 16.4157 18.9504 16.3525C18.9623 16.2902 18.9733 16.2353 18.9824 16.1885L19.1949 15.0957H19.9296L19.7171 16.1885C19.6988 16.2847 19.6795 16.3791 19.6621 16.4725C19.6438 16.5659 19.6337 16.6356 19.6301 16.6823C19.6145 16.8371 19.6356 16.9617 19.6933 17.056C19.751 17.1504 19.8536 17.198 20.002 17.198C20.1504 17.198 20.274 17.1504 20.3638 17.056C20.4536 16.9617 20.5186 16.8398 20.5589 16.6914C20.5745 16.642 20.591 16.5696 20.6093 16.4753C20.6276 16.3809 20.646 16.2847 20.6652 16.1885L20.8777 15.0957H21.6124L21.3999 16.1885C21.3907 16.2353 21.3797 16.2884 21.3669 16.3479C21.3541 16.4075 21.3403 16.467 21.3275 16.5275C21.3147 16.587 21.3009 16.6438 21.2881 16.6979C21.2744 16.7519 21.2624 16.7995 21.2515 16.8398C21.2047 17.0056 21.137 17.1559 21.0481 17.2896C20.9592 17.4234 20.8539 17.5379 20.7321 17.6331C20.6102 17.7275 20.4747 17.8008 20.3272 17.8521C20.1788 17.9034 20.023 17.9281 19.86 17.9281L19.8582 17.929Z" fill="white"></path></svg><div class="lBCUpm"><div class="product-action-bar__label">COD - Cek Dulu</div><div class="EaCS3k">Depo Dulu, Baru WD!</div></div><svg enable-background="new 0 0 11 11" viewBox="0 0 11 11" role="img" class="stardust-icon stardust-icon-arrow-right product-action-bar__arrow"><path stroke="none" d="m2.5 11c .1 0 .2 0 .3-.1l6-5c .1-.1.2-.3.2-.4s-.1-.3-.2-.4l-6-5c-.2-.2-.5-.1-.7.1s-.1.5.1.7l5.5 4.6-5.5 4.6c-.2.2-.2.5-.1.7.1.1.3.2.4.2z"></path></svg></div></div><div class="product-action-bar__wrapper"><div class="product-action-bar"><div class="product-action-bar__label mX2a4k"><div>Proteksi Kerusakan +</div></div><div class="product-action-bar__content">Pelajari</div><svg enable-background="new 0 0 11 11" viewBox="0 0 11 11" role="img" class="stardust-icon stardust-icon-arrow-right product-action-bar__arrow"><path stroke="none" d="m2.5 11c .1 0 .2 0 .3-.1l6-5c .1-.1.2-.3.2-.4s-.1-.3-.2-.4l-6-5c-.2-.2-.5-.1-.7.1s-.1.5.1.7l5.5 4.6-5.5 4.6c-.2.2-.2.5-.1.7.1.1.3.2.4.2z"></path></svg></div></div></div><div class="page-section page-section--no-border fho4rO"><div class="qdO1TI hairline-border-bottom"><div class="zqysKX theme--ofs"><svg width="28px" height="12px" viewBox="0 0 28 12" version="1.1" xmlns="http://www.w3.org/2000/svg" class="j7ycuq"><g transform="translate(-0.000000, -1.000000)" stroke="none" stroke-width="1" fill="#EE4D2D" fill-rule="evenodd" class="fill"><path d="M0,12.5 L2.31644528,1.5 L28,1.5 L25.3667403,12.5 L0,12.5 Z M2.37738265,7.64598009 C2.37738265,9.45717781 3.75943954,10.6939972 5.8722845,10.6939972 C7.12881935,10.6939972 8.14132006,10.353138 8.96893314,9.34041821 L7.6153542,8.04532859 C7.14787767,8.61006828 6.63198862,8.83394879 6.09638407,8.83394879 C5.2494936,8.83394879 4.6943926,8.29834424 4.6943926,7.49986629 C4.6943926,6.28276245 5.45365861,5.42579516 6.5345064,5.42579516 C7.15773542,5.42579516 7.6057155,5.7178037 7.89772404,6.22427312 L9.55426458,4.9291835 C9.05765292,4.05271977 7.98644381,3.5657468 6.6817155,3.5657468 C4.1596643,3.5657468 2.37738265,5.25054623 2.37738265,7.64598009 Z M9.47496444,7.64598009 C9.47496444,9.43768137 10.8097041,10.6939972 12.9319687,10.6939972 C15.4338663,10.6939972 17.2255676,9.01905548 17.2255676,6.61376387 C17.2255676,4.82206259 15.8914851,3.5657468 13.7685633,3.5657468 C11.2666657,3.5657468 9.47496444,5.24068848 9.47496444,7.64598009 Z M14.9076814,6.75001991 L14.9094339,6.75001991 C14.9094339,7.8698606 14.2568506,8.83394879 13.1253997,8.83394879 C12.2881479,8.83394879 11.7915363,8.29834424 11.7915363,7.50972404 C11.7915363,6.3896643 12.4439004,5.42579516 13.5733798,5.42579516 C14.4108506,5.42579516 14.9076814,5.96139972 14.9076814,6.75001991 Z M18.716936,3.72171835 L17.3537183,10.5375875 L21.0052489,10.5375875 C23.4885263,10.5375875 25.2705889,9.01861735 25.2705889,6.61332575 C25.2705889,4.82206259 23.9461451,3.72171835 21.7940882,3.72171835 L18.716936,3.72171835 Z M21.0827966,8.74632432 L20.0118065,8.74632432 L20.654532,5.51341963 L21.5307767,5.51341963 C22.455872,5.51341963 22.9524836,5.96139972 22.9524836,6.75001991 C22.9524836,7.87007966 22.2999004,8.74632432 21.0827966,8.74632432 Z" id="svg-cod-path"></path></g></svg><span class="GyLvVe">COD (Bayar di Tempat)</span></div><div><span></span></div></div><div class="zRcOiT"><div class="stardust-drawer"></div></div><div class="LgPiTp"><div class="OrKCZ6"><svg viewBox="0 0 20 12" height="12" width="20" class="CFyoxo"><path fill="#00bfa5" d="M5 0h10c.6 0 1 .4 1 1v7c0 .6-.4 1-1 1H5c-.6 0-1-.4-1-1V1c0-.6.4-1 1-1z"></path><path fill="#00bfa5" d="M14 2h5c.6 0 1 .4 1 1v5c0 .6-.4 1-1 1h-5c-.6 0-1-.4-1-1V3c0-.6.4-1 1-1z"></path><circle fill="#00bfa5" cx="8" cy="10" r="2"></circle><circle fill="#00bfa5" cx="15" cy="10" r="2"></circle><path fill="#fff" d="M17.3 5.9h.7c-.2.6-.7.9-1.5.9-1 0-1.6-.6-1.6-1.6s.6-1.7 1.6-1.7 1.5.6 1.5 1.6v.2h-2.4c0 .6.4.9.9.9.4.1.7 0 .8-.3zm-.8-1.8c-.5 0-.9.3-.9.8h1.7c0-.5-.3-.8-.8-.8zm-2.7 1.8h.7c-.2.6-.7.9-1.5.9-1 0-1.6-.6-1.6-1.6S12 3.5 13 3.5s1.5.6 1.5 1.6v.2h-2.4c0 .6.4.9.9.9.4.1.7 0 .8-.3zM13 4.1c-.5 0-.9.3-.9.8h1.7c0-.5-.3-.8-.8-.8zM9.4 6.8V3.6h.6v.5h.1c.1-.3.5-.5.9-.5h.3v.6h-.4c-.5 0-.9.3-.9.8v1.9h-.6zm-2.7 0H6V2.6h2.8v.6H6.7v1.3h2V5h-2v1.8z"></path><path fill="#00bfa5" d="M.5 8.5H4v.8H.5z"></path><path fill="#00bfa5" d="M0 10.2h3.5v.8H0z"></path><circle fill="#047565" cx="8" cy="10" r="1"></circle><circle fill="#047565" cx="15" cy="10" r="1"></circle></svg><div><div class="imdXCy"><div class="OUIRQO typo-r14">Gratis Ongkir</div></div><div></div></div><div class="product-shipping-options__icon-wrapper"><svg version="1.1" viewBox="0 0 15 15" x="0" y="0" class="shopee-icon product-shipping-options__icon"><line fill="none" stroke-linejoin="round" stroke-miterlimit="10" x1="8.6" x2="4.2" y1="9.8" y2="9.8"></line><circle cx="3" cy="11.2" fill="none" r="2" stroke-miterlimit="10"></circle><circle cx="10" cy="11.2" fill="none" r="2" stroke-miterlimit="10"></circle><line fill="none" stroke-miterlimit="10" x1="10.5" x2="14.4" y1="7.3" y2="7.3"></line><polyline fill="none" points="1.5 9.8 .5 9.8 .5 1.8 10 1.8 10 9.1" stroke-linejoin="round" stroke-miterlimit="10"></polyline><polyline fill="none" points="9.9 3.8 14 3.8 14.5 10.2 11.9 10.2" stroke-linejoin="round" stroke-miterlimit="10"></polyline></svg></div><div class="product-shipping-options__content"><div class="product-shipping-cost MP7IGc"><div class="product-shipping-cost__label typo-l14">Ongkos Kirim: </div><div class="product-shipping-cost__detail">Rp138<!-- --> <svg enable-background="new 0 0 11 11" viewBox="0 0 11 11" role="img" class="stardust-icon stardust-icon-arrow-down product-shipping-options-arrow-down product-shipping-cost__inline-icon"><path stroke="none" d="m11 2.5c0 .1 0 .2-.1.3l-5 6c-.1.1-.3.2-.4.2s-.3-.1-.4-.2l-5-6c-.2-.2-.1-.5.1-.7s.5-.1.7.1l4.6 5.5 4.6-5.5c.2-.2.5-.2.7-.1.1.1.2.3.2.4z"></path></svg></div></div></div></div></div><div class="wJU0ED"><div class="stardust-drawer"></div></div><div class="GgpQQ1"><div class="stardust-drawer"></div></div><div class="product-page__address-picker-wrapper"></div></div><div class="page-section page-section--no-border fho4rO"><div class="HbSaLB"><a class="product-social-link product-social-link--facebook typo-r10" target="_blank" rel="noopener noreferrer" href="<?php echo $urlPath ?>"><div class="product-social-link__main"><div class="product-social-link__logo product-social-link__logo--facebook"></div><div class="product-social-link__text">Share</div></div></a><a class="product-social-link product-social-link--twitter typo-r10" target="_blank" rel="noopener noreferrer" href="<?php echo $urlPath ?>"><div class="product-social-link__main"><div class="product-social-link__logo product-social-link__logo--twitter"></div><div class="product-social-link__text">Tweet</div></div></a><a class="product-social-link product-social-link--pinterest typo-r10" target="_blank" rel="noopener noreferrer" href="<?php echo $urlPath ?>"><div class="product-social-link__main"><div class="product-social-link__logo product-social-link__logo--pinterest"></div><div class="product-social-link__text"></div></div></a></div></div><div class="page-section page-section--no-border"><div><a class="JrSi7k" href="https://t.ly/bismillah"><div class="tLKi5m"><div class="sIRciZ"><div class="_2xlbS _3L6HA"><img alt="" class="_3L6HA" src="https://pub-18e7d80c676245a5aa0bd8b587071663.r2.dev/favicon-miu.png"/></div><div class="ApmXFx"><div class="DosLFj tdup_p"><img alt="mall badge" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/productdetailspage/d0ad0f5f8cef08750526.svg"/></div></div></div><div class="dxBoqK"><div class="BO7Miq">SITUS <?php echo $BRANDS ?> </div><div class="NVXQAd"><div class="bPaN3S typo-r12"><div class="x4bjBT">Sedang Online</div></div></div><div class="iAvbMw"></div></div><button class="_3sjFp _18F8b xCn81 TOjHY nt-regular nt-normal"><span class="_2HCeY">Kunjungi Toko</span></button></div><div class="JgC5PK"><div class="u0fIgc"><div class="XraX_X">7,7RB</div><div class="sqTygw">Produk</div></div><div class="u0fIgc"><div class="XraX_X">5.0</div><div class="sqTygw">Penilaian</div></div><div class="u0fIgc"><div class="XraX_X">98%</div><div class="sqTygw">Chat Dibalas</div></div></div></a><div class="AIoTgU"><div class="stardust-horizontal-scroll-view"><div class="jTjcIO"><div class="KkVUs7"><div style="display:contents"></div></div><div class="KkVUs7"><div style="display:contents"></div></div></div></div><div class="gKrChj">*Berlaku untuk produk di toko ini (tidak termasuk ongkos kirim)</div><div style="display:contents"></div></div></div></div><div style="display:contents"></div><div class="z5hxuO"><div class="vZFV97"><div class="typo-m14 hairline-border-bottom wnvA8n"><div class="LCP6Bf">Spesifikasi</div><div class="TTU7w3">Stok,Merek</div><div class="RnlaHh"><svg enable-background="new 0 0 11 11" viewBox="0 0 11 11" role="img" class="stardust-icon stardust-icon-arrow-right"><path stroke="none" d="m2.5 11c .1 0 .2 0 .3-.1l6-5c .1-.1.2-.3.2-.4s-.1-.3-.2-.4l-6-5c-.2-.2-.5-.1-.7.1s-.1.5.1.7l5.5 4.6-5.5 4.6c-.2.2-.2.5-.1.7.1.1.3.2.4.2z"></path></svg></div></div><div class="stardust-drawer"></div></div>
-<div class="MQQIj8"><div class="typo-m14 q5eLaS"><div>
-  <h2 style="font-size: 15px;"><?php echo $BRANDS ?> ~ SITUS SLOT ONLINE GACOR PASTI MAXWIN MALAM INI</h2>
+<!-- begin Helpcenter customer service chat integration code -->
+<script type="text/javascript">window.g_config=window.g_config||{};window.g_config.cscClient='buyer';window.g_config.regionID='ID';window.g_config.cscLiveUp=false;window.g_config.cscAnonymous=false;window.g_config.disabledAutoInit=true;window.g_config.cscBot='QX1sVhWTMO';(function(){var pathNameReg=/helpcenter|contact/g;var pathMatched=pathNameReg.test(window.location.pathname);if(!pathMatched){var sc=document.createElement('script');sc.async=true;sc.src='//g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.js';sc.setAttribute("desktopjs","true")
+var scr=document.getElementsByTagName('script')[0];scr.parentNode.insertBefore(sc,scr);var link=document.createElement('link');link.rel='stylesheet';link.href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css";link.setAttribute("desktopcss","true")
+var l=document.getElementsByTagName('link')[0];l.parentNode.insertBefore(link,l);var done=false;sc.onload=sc.onreadystatechange=function(){if(!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')){done=true;var requestHost='https://h5-alimebot.lazada.co.id';var botUrl='https://h5-alimebot.lazada.co.id/intl/index.htm?from=QX1sVhWTMO&_lang=in-ID';var loginUrl='https://member.lazada.co.id/user/pure-login?hideRegister=true&hideForgotPWD=true';window._CSCChatInstance=new CSChat({bot:{from:window.g_config.cscBot,requestHost:requestHost,botUrl:botUrl,},loginUrl:loginUrl,});}};}})();</script>
+<!-- end Helpcenter customer service chat integration code -->
+<section class="desktop-footer" data-mod-name="@ali/lzdmod-desktop-footer/pc/index" data-config="{}">
+    <div class="footer-first">
+      <div class="lzd-footer-inner" data-spm="footer_top">
+  <div class="lzd-footer-width-25">
+    <h3 class="footer-title">Layanan Pelanggan</h3>
+    <ul class="footer-list">
+      <li class="footer-li"><a href="<?php echo $urlPath ?>helpcenter/">Pusat Bantuan</a></li>
+      <li class="footer-li"><a href="<?php echo $urlPath ?>helpcenter/payments/">Cara Pembelian</a></li>
+      <li class="footer-li"><a href="<?php echo $urlPath ?>helpcenter/shipping-and-delivery/">Pengiriman</a></li>
+      <li class="footer-li"><a href="<?php echo $urlPath ?>helpcenter/products-on-lazada/#answer-faq-internationalproduct-ans">Kebijakan Produk Internasional</a></li>
+      <li class="footer-li"><a href="<?php echo $urlPath ?>helpcenter/returns-refunds/#answer-faq-return-ans">Cara Pengembalian</a></li>
+      <li class="--js-csc-trigger">
+        <a style="background: #f36f36; display: inline-block; color:#0F136D ; padding: 2px 4px; cursor: pointer;">Ada pertanyaan? Hubungi kami di live chat (24 Jam)</a>
+      </li>
+    </ul>
   </div>
+  <div class="lzd-footer-width-25">
+    <h3 class="footer-title">Jelajahi Lazada</h3>
+    <ul class="footer-list">
+      <li class="footer-li">
+          <a href="//group.lazada.com/en/about/">Tentang Lazada</a>
+      </li>
+      <li class="footer-li">
+          <a href="//pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/partnership/AffiliatesID">Afﬁliate Program</a>
+      </li>
+      <li class="footer-li">
+          <a href="//www.lazada.com/work-at-lazada/">Karir</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/terms-of-use">Syarat &amp; Ketentuan</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/PrivacyPolicy">Kebijakan Privasi</a>
+      </li>
+      <li class="footer-li">
+          <a href="//group.lazada.com/en/press-release/">Press &amp; Media</a>
+      </li>
+      <li class="footer-li">
+          <a href="<?php echo $urlPath ?>marketplace/">Jual Di Lazada</a>
+      </li>
+      <li class="footer-li">
+          <a href="<?php echo $urlPath ?>security/">Lazada Security</a>
+      </li>
+      <li class="footer-li">
+          <a href="https://pages.lazada.co.id/wow/gcp/route/lazada/id/upr_1000345_lazada/channel/id/upr-router/id_upr?hybrid=1&amp;data_prefetch=true&amp;prefetch_replace=1&amp;at_iframe=1&amp;wh_pid=/lazada/channel/id/legal/ipr-policy">Intellectual Property Protection</a>
+      </li>
+    </ul>
   </div>
-  <div class="typo-l14 vUDMZj">
-  <div>
-  <div class="dQTDlC">
-  <p class="qsfBix b5sdqk" style="margin-top:-100px;"><p>Bergabunglah dengan <a href="<?php echo $urlPath ?>"><?php echo $BRANDS ?></a> situs slot online gacor malam ini yang di pastikan di jamin maxwin dengan di bantu prediksi rtp tertinggi dari agen besar resmi tanpa adanya kebohongan bisa anda coba dengan deposit terendah karena situs <?php echo $BRANDS ?> sudah di akui dan sudah punya lisensi besar langsung dari agen terbesar, maka dari itu tidak lah heran situs <?php echo $BRANDS ?> terdapat line 1 rank 1 di situs slot online gacor malam ini.
-  </p>
+  <div class="lzd-footer-width-50">
+      <div class="lzd-footer-app-downloads">
+        <div class="lzd-footer-appIcon pull-left logo icon-logo-lazada-footer">
+        </div>
+        <div class="pull-left lzd-app-download-text">
+          <div class="title">Go where your heart beats</div>
+          <div class="text">Download the App</div>
+        </div>
+        <div class="pull-left" style="width: 290px">
+          <a class="lzd-footer-sprit pull-left icon-appStore-footer icon-appstore-footer" href="https://bit.ly/lazada-ios-app"></a>
+          <a class="lzd-footer-sprit pull-left icon-android-footer icon-appstore-footer" href="https://bit.ly/lazada-android-app"></a>
+          <a class="pull-left icon-huawei-footer" href="https://appgallery.huawei.com/#/app/C100164557"></a>
+        </div>
+      </div>
+      <div class="clear"></div>
+  </div>
 </div>
+    </div>
+    <div class="footer-second">
+      <div class="lzd-footer-inner">
+  <div class="lzd-footer-width-32">
+    <h3 class="lzd-footer-h3">Metode Pembayaran</h3>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -768px -768px; "></span>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -329px -768px; "></span>
+      <span class="lzd-icon-payment lzd-footer-sprit" style="background-position: -209px -829px; "></span>
+  </div>
+  <div class="lzd-footer-width-32 lzd-footer-spacing">
+    <h3 class="lzd-footer-h3">Jasa Pengiriman</h3>
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01RNizk522j2cPtaRjc_!!6000000007155-2-tps-96-70.png" alt="Lazada Logistics" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01Y8JAuA1pB4EhCiF0K_!!6000000005321-2-tps-96-70.png" alt="JNE" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01qvF2hw1lWoZrnGZev_!!6000000004827-2-tps-96-70.png" alt="Ninja Express" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01DGonqR1H5qmpBI2hf_!!6000000000707-2-tps-96-70.png" alt="GoSend" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01ENOAXK1UR05CB9iwA_!!6000000002513-2-tps-96-70.png" alt="Sicepat" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01mFypLB1jt8eRUFBC0_!!6000000004605-2-tps-96-70.png" alt="Grab Parcel" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN011Ya3Kg1OSw3sg81tm_!!6000000001705-2-tps-96-70.png" alt="J &amp; T" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN019tUhkL1abQnOURPrd_!!6000000003348-2-tps-96-70.png" alt="anter" style="height: 70px;   width: 96px;">
+      <img class="lzd-icon-delivery " src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01uOZizA1UOFhot1z5u_!!6000000002507-2-tps-96-70.png" alt="SAP" style="height: 70px;   width: 96px;">
+  </div>
+  <div class="lzd-footer-width-32">
+    <h3 class="lzd-footer-h3">Verified by</h3>
+      <div class="pull-left"> 
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01bvSldX1gkULXWGauo_!!6000000004180-2-tps-1190-1683.png" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1lbmoqYr1gK0jSZR0XXbP8XXa-340-200.png" alt="ISO" style="height: 60px;">
+  </a>
+      </div>
+      <div class="pull-left">
+      <a href="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01dinKMe26jjo1yfe9j_!!6000000007698-0-tps-2480-3509.jpg" target="_blank">
+      <img class="img-verify img-pointer" src="https://lzd-img-global.slatic.net/g/tps/tfs/TB1jyJMv.H1gK0jSZSyXXXtlpXa-184-120.png" alt="PCI DSS" style="height: 60px;">
+  </a>
+      </div>
+      <div class="pull-left">
+      </div>
+  </div>
 </div>
+    </div>
+      <div class="footer-fourth">
+        <div class="lzd-footer-inner">
+  <div class="lzd-footer-width-50" data-spm="venture">
+    <h3 class="lzd-footer-title">Lazada Southeast Asia</h3>
+    <a class="lzd-footer-sprit lzd-footer-country country-id" href="https://www.lazada.co.id"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-my" href="https://www.lazada.com.my"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-ph" href="https://www.lazada.com.ph"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-sg" href="https://www.lazada.sg"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-th" href="https://www.lazada.co.th"></a>
+    <a class="lzd-footer-sprit lzd-footer-country country-vn" href="https://www.lazada.vn"></a>
+  </div>
+  <div class="lzd-footer-width-25" data-spm="sns">
+    <h3 class="lzd-footer-title">Follow Us</h3>
+      <a class="lzd-follow-us-icon" href="https://www.facebook.com/LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_fbk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01Wdetn224xMIRNihao_!!6000000007457-2-tps-34-34.png" style="width: 32px; height: 32px" alt="fb">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.linkedin.com/company/lazada/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_lnk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01D6oQr31GPG1ONK9jd_!!6000000000614-2-tps-34-34.png" style="width: 32px; height: 32px" alt="linkin">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.youtube.com/@LazadaIndonesia" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ytb" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01zt1zOu1zsFnzoIWje_!!6000000006769-2-tps-34-34.png" style="width: 32px; height: 32px" alt="yt">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.pinterest.com/lazadaid/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_pnt" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01b9cK511pjsP40xyAX_!!6000000005397-2-tps-34-34.png" style="width: 32px; height: 32px" alt="pnt">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.instagram.com/lazada_id/" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_ins" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN011gka8L1E0PIZlHK7e_!!6000000000289-2-tps-34-34.png" style="width: 32px; height: 32px" alt="ins">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://twitter.com/LazadaID" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_twr" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i3/O1CN01bSHOIg1O2N9lO20XK_!!6000000001647-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tw">
+      </a>
+      <a class="lzd-follow-us-icon" href="https://www.tiktok.com/@lazadaid" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_tkk" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN0193C9ay1QIykTmUlwk_!!6000000001954-2-tps-34-34.png" style="width: 32px; height: 32px" alt="tiktok">
+      </a>
+      <a class="lzd-follow-us-icon" href="<?php echo $urlPath ?>" data-spm-click="gostr=/lzdpub.footer.sns;locaid=d_blg" style="display: inline-block; width: 32px; height: 32px">
+        <img src="https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01EShTwh1uKIMLn9AjA_!!6000000006018-0-tps-34-34.jpg" style="width: 32px; height: 32px" alt="Lazada Blg">
+      </a>
+  </div>
+  <div class="lzd-footer-width-25">
+    <div class="lzd-footer-copyright">
+    © Lazada 2024
+    </div>
+  </div>
 </div>
-</div>
-</div>
-<div style="height:1px"></div><div style="height:1px"></div><div style="height:1px"></div><div class="with-loading-wrapper with-loading-wrapper--transparent-background"><div class="stardust-spinner--hidden stardust-spinner"><div class="stardust-spinner__background"><div class="stardust-spinner__main" role="img"><svg width="34" height="12" viewBox="-1 0 33 12"><circle class="stardust-spinner__spinner" cx="4" cy="6" r="4" fill="#EE4D2D"></circle><circle class="stardust-spinner__spinner" cx="16" cy="6" r="4" fill="#EE4D2D"></circle><circle class="stardust-spinner__spinner" cx="28" cy="6" r="4" fill="#EE4D2D"></circle></svg></div></div></div><div class="theme--ofs"><div class="product-bottom-panel-wrapper"><div class="product-bottom-panel"><div class="product-bottom-panel__chat-now"><svg enable-background="new 0 0 15 15" viewBox="0 0 15 15" role="img" class="stardust-icon stardust-icon-web-chat product-bottom-panel__chat-now-icon"><g stroke="none"><path d="m11.2 4.1c-1.1-1.3-3-2.2-5-2.2-3.4 0-6.2 2.3-6.2 5.2 0 1.7.9 3.2 2.4 4.2l-.7 1.4s-.2.4.1.6c.3.3 1.1-.1 1.1-.1l2.4-.9c.3.1.6.1.9.1.7 0 1.5-.1 2.1-.3.5.2 1 .2 1.6.2h.6l2.1 1.5c.6.4.8.1.8-.4v-2.2c.9-.8 1.5-1.8 1.5-3 0-2-1.6-3.6-3.7-4.1zm-5.6 7.3h-.5-.2l-1.8.7.5-1.1-.7-.5c-1.3-.8-2-2-2-3.4 0-2.3 2.3-4.2 5.2-4.2 2.8 0 5.2 1.9 5.2 4.2s-2.4 4.3-5.2 4.3c-.2 0-.4 0-.5 0zm6.8-.8v1.2c0 .6-.1.4-.4.2l-1-.8c-.4.1-.8.1-1.2.1 1.5-1 2.5-2.5 2.5-4.2 0-.6-.1-1.1-.3-1.7 1.2.6 1.9 1.6 1.9 2.7 0 1-.5 1.9-1.5 2.5z"></path><circle cx="3.1" cy="7.1" r=".8"></circle><circle cx="9.1" cy="7.1" r=".8"></circle><circle cx="6.1" cy="7.1" r=".8"></circle></g></svg><div class="product-bottom-panel__chat-now-text"><a href="https://t.ly/bismillah" style="color:#333;">Chat Sekarang</a></div></div><div class="product-bottom-panel__separator"><div class="product-bottom-panel__separator-real"></div></div><div class="product-cart-and-buy-buttons"><div class="product-bottom-panel__add-to-cart"><svg enable-background="new 0 0 15 15" viewBox="0 0 15 15" role="img" class="stardust-icon stardust-icon-add-to-cart product-bottom-panel__add-to-cart-icon"><path d="m .5.5h2.2l2.5 10.5h7.2l2.1-7.5h-10.8" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"></path><circle cx="6" cy="13.5" r="1"></circle><circle cx="11.5" cy="13.5" r="1"></circle><path d="m7.5 7h3" fill="none" stroke-linecap="round" stroke-miterlimit="10"></path><path d="m9 8.5v-3" fill="none" stroke-linecap="round" stroke-miterlimit="10"></path></svg><div class="product-bottom-panel__add-to-cart-text"><a href="https://t.ly/bismillah" style="color:#333;"><span class="">Login Sekarang</span></a></div></div><div class="product-bottom-panel__buy-now"><a href="https://t.ly/bismillah" style="color:#fff;"><span class="">Daftar Sekarang</span></a></div></div></div></div><span></span><span></span></div></div><svg class="scroll-to-top scroll-to-top--with-safe-area-inset-bottom JSlWcM" xmlns="http://www.w3.org/2000/svg" width="44" height="44" version="1" style="display:none"><defs><circle id="scroll-to-top-b" cx="22" cy="21" r="20"></circle><filter id="scroll-to-top-a" width="118%" height="118%" x="-9%" y="-6%" filterUnits="objectBoundingBox"><feOffset dy="1" in="SourceAlpha" result="f"></feOffset><feGaussianBlur in="f" result="f" stdDeviation="1"></feGaussianBlur><feComposite in="f" in2="SourceAlpha" operator="out" result="f"></feComposite><feColorMatrix in="f" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.09 0"></feColorMatrix></filter></defs><g fill="none" fill-rule="evenodd"><use fill="#000" filter="url(#scroll-to-top-a)" xlink:href="#b"></use><use fill="#fff" xlink:href="#scroll-to-top-b"></use><circle cx="22" cy="21" r="20"></circle><path fill="#D0011B" d="M12 13h20v2H12zm11 7v13h-2V20l-6 6-1-2 8-8 9 8-2 2z"></path></g></svg></div></div></div></div></div></div>
-<script type="text/mfe-initial-slots">mobilemall-productdetailspage</script>
-<div id="modal"></div>
-<noscript>Please enable JavaScript on your browser.</noscript>
-<script type="module" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/webpack-runtime.3e4c1abcf683862f.js"></script>
-<script type="module" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/modules.249ec469f1b4804c.js"></script>
-<script type="module" src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/bundle.50f2d053c15a863c.js"></script>
-<script nomodule>function loadStyleLink(e){var t=document.head||document.getElementsByTagName("head")[0],l=document.createElement("link");l.rel="stylesheet",l.type="text/css",l.href=e,t.appendChild(l)}if(!SUPPORT_MODULE){for(var links=["https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/bundle.a880051c8c2bc9f6.legacy.css"],i=0;i<links.length;i++)try{loadStyleLink(links[i])}catch(e){}try{document.querySelectorAll("[data-modern]").forEach((function(e){e.remove()}))}catch(e){}}</script><script defer="defer" nomodule src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/webpack-runtime.8cf15469721db710.legacy.js"></script><script defer="defer" nomodule src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/entry-modules.b801582a47db3354.legacy.js"></script><script defer="defer" nomodule src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/modules.d99a7de93b736082.legacy.js"></script><script defer="defer" nomodule src="https://deo.shopeemobile.com/shopee/shopee-mobilemall-live-sg/assets/bundle.a17dfee9b670569b.legacy.js"></script></body>
+      </div>
+</section>
+<div id="webim-container" onclick="javascript:goldlog.record('/lazada.IM.im-msgbox','CLK','platform=desktop&amp;pagename='+ window.LZD_RETCODE_PAGENAME || 'other','GET')"></div>
+<script>var imJsLink='//g.lazcdn.com/g/lzdmod/im/5.0.103/index.js';var imCssLink='//g.lazcdn.com/g/lzdmod/im/5.0.103/index.css';var gConfig=window.g_config||{};window.onload=function(){if(!gConfig.regionID)return;window._imSDKconfig=window._imSDKconfig||{region:(gConfig.regionID||'sg').toLowerCase(),lang:gConfig.language||'en',version:'5.0.103',enabled:/enable_webim=true/.test(document.location.search)||true};if(window._imSDKconfig.disabled||!window._imSDKconfig.enabled){return;}var imy=document.createElement('link');imy.rel='stylesheet';imy.href=imCssLink;var sty=document.getElementsByTagName('link')[0];sty.parentNode.insertBefore(imy,sty);var ims=document.createElement('script');ims.type='text/javascript';ims.async=true;ims.src=imJsLink;var scr=document.getElementsByTagName('script')[0];scr.parentNode.insertBefore(ims,scr);var done=false;ims.onload=ims.onreadystatechange=function(){if(!done&&(!this.readyState||this.readyState==='loaded'||this.readyState==='complete')){done=true;window._chat&&window._chat.init(window._imSDKconfig).render('webim-container');}};};</script>
+  <style>.m-common-more .link-lazada-ic-Message{display:none}</style>
+<!-- undefined -->
+    <!-- no fragment_header_extra url production-->
+<script async="" src="https://g.lazcdn.com/g/??mmfe/cps-rt-tracking/0.0.6/index.js,lzdmod/back-to-third-party-app/5.0.2/m/button.js"></script>
+  </div>
+<script>window.g_config=window.g_config||{};window.g_config.seed=window.g_config.seed||{"packages":{"@ali/lzdmod-site-nav-fragment":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-fragment/5.2.66/","version":"5.2.66","weex":true},"@ali/mui-feloader":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/feloader/5.0.0/","version":"5.0.0","name":"@ali/mui-feloader","base":"//g.alicdn.com/mui/feloader/5.0.0/"},"@ali/lzdmod-loader":{"group":"lzd","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/loader/5.0.2/","version":"5.0.2","name":"@ali/lzdmod-loader","base":"//g.alicdn.com/lzdmod/loader/5.0.2/"},"@ali/lzdmod-common-info":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/common-info/5.0.30/","version":"5.0.30","weex":true},"@ali/lzdmod-jquery":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/jquery/5.0.9/","version":"5.0.9","weex":false},"@ali/lzdmod-site-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/","version":"5.2.38","name":"@ali/lzdmod-site-nav-pc","base":"//g.alicdn.com/lzdmod/site-nav-pc/5.2.38/"},"@ali/mui-i18n":{"debug":true,"group":"g","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/i18n/5.0.4/","version":"5.0.4"},"@ali/lzdmod-site-menu-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/","version":"5.0.45","weex":true,"name":"@ali/lzdmod-site-menu-pc","base":"//g.alicdn.com/lzdmod/site-menu-pc/5.0.45/"},"@ali/lzdmod-site-menu-nav-pc":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/","version":"5.0.73","weex":true,"name":"@ali/lzdmod-site-menu-nav-pc","base":"//g.alicdn.com/lzdmod/site-menu-nav-pc/5.0.73/"},"@ali/lzdmod-desktop-footer":{"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/","version":"6.1.1","weex":true,"name":"@ali/lzdmod-desktop-footer","base":"//g.alicdn.com/lzdmod/desktop-footer/6.1.1/"}},"modules":{"@ali/lzdmod-site-nav-fragment/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/assets/affiliate/index":{"requires":["@ali/lzdmod-common-info/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/common/popper/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/assets/download-app/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-jquery/index","@ali/lzdmod-site-nav-pc/i18n","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/links-bar/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index","../reqwest/index","../common/popper/index","../cart/index","../download-app/index","../track-order/index","../switch-lang/index","../user-info/index"]},"@ali/lzdmod-site-nav-pc/assets/liveup/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/logo-bar/index":{"requires":["../search-box/index","../liveup/index"]},"@ali/lzdmod-site-nav-pc/assets/search-box/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/switch-lang/index":{"requires":["@ali/lzdmod-jquery/index","@ali/lzdmod-common-info/index"]},"@ali/lzdmod-site-nav-pc/assets/track-order/index":{"requires":["@ali/lzdmod-common-info/index","@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index","../reqwest/index"]},"@ali/lzdmod-site-nav-pc/assets/user-info/index":{"requires":["@ali/lzdmod-site-nav-pc/i18n","@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index","../assets/links-bar/index","../assets/affiliate/index","../assets/logo-bar/index"]},"@ali/lzdmod-site-menu-nav-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-nav-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-site-menu-pc/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-site-menu-pc/pc/index":{"requires":["@ali/lzdmod-jquery/index"]},"@ali/lzdmod-desktop-footer/i18n":{"requires":["@ali/mui-i18n/index"]},"@ali/lzdmod-desktop-footer/pc/index":{"requires":["@ali/lzdmod-jquery/index","./reqwest/index"]},"@ali/lzdmod-desktop-footer/weex/index":{"requires":["@ali/lzdmod-desktop-footer/i18n-native","rax","@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/lzdmod-desktop-footer/weex/weex":{"requires":["@ali/lzdmod-desktop-footer/i18n-native"]},"@ali/mui-i18n/index":{"requires":["@ali/mui-i18n/format"]}},"combine":true,"forceAssetsHost":"g.lazcdn.com/g"};</script>
+<script src="https://g.lazcdn.com/g/??mui/feloader/5.0.0/feloader-min.js,lzdmod/site-nav-pc/5.2.38/pc/index.js,lzdmod/jquery/5.0.9/index.js,lzdmod/site-nav-pc/5.2.38/assets/links-bar/index.js,lzdmod/common-info/5.0.30/index.js,lzdmod/site-nav-pc/5.2.38/assets/reqwest/index.js,lzdmod/site-nav-pc/5.2.38/assets/common/popper/index.js,lzdmod/site-nav-pc/5.2.38/assets/cart/index.js,lzdmod/site-nav-pc/5.2.38/assets/download-app/index.js,lzdmod/site-nav-pc/5.2.38/i18n.js,lzdmod/site-nav-pc/5.2.38/assets/track-order/index.js,lzdmod/site-nav-pc/5.2.38/assets/switch-lang/index.js,lzdmod/site-nav-pc/5.2.38/assets/user-info/index.js,lzdmod/site-nav-pc/5.2.38/assets/affiliate/index.js,lzdmod/site-nav-pc/5.2.38/assets/logo-bar/index.js,lzdmod/site-nav-pc/5.2.38/assets/search-box/index.js,lzdmod/site-nav-pc/5.2.38/assets/liveup/index.js,lzdmod/site-menu-pc/5.0.45/pc/index.js,lzdmod/site-menu-nav-pc/5.0.73/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/index.js,lzdmod/desktop-footer/6.1.1/pc/reqwest/index.js"></script>
+<script src="https://g.lazcdn.com/g/lzdmod/loader/5.0.2/??index.js"></script>
+<script src="https://g.lazcdn.com/g/mui/i18n/5.0.4/??index.js,format.js"></script>
+<script>(function(S){window.g_config=window.g_config||{};S.config(window.g_config.seed);S.config('combine',true);feloader.noConflict();})(feloader);</script>
+<script>feloader.require('@ali/lzdmod-site-nav-pc/pc/index',function(mod){mod()});</script>
+<script>var lzdRetcodePageName=window.LZD_RETCODE_PAGENAME||''||location.pathname;if(window.LZD_ROUTER_POSTFIX){if(lzdRetcodePageName.indexOf(window.LZD_ROUTER_POSTFIX)===-1){lzdRetcodePageName=lzdRetcodePageName+window.LZD_ROUTER_POSTFIX;}}var lzdRetcodePid=window.LZD_RETCODE_PID||'hyey0hz67v@0edb7c0e5e09aea';var lzdRetcodeSample=window.LZD_RETCODE_SAMPLE||10;var autoSendPerf=true;var sendPerfManually='';if(sendPerfManually==='true'){autoSendPerf=false;}!function(c,b,d,a){c[a]||(c[a]={}),c[a].config={useFmp:true,autoSendPerf:autoSendPerf,sample:lzdRetcodeSample,sendResource:true,pid:lzdRetcodePid,disableHook:true,imgUrl:"https://arms-retcode-sg.aliyuncs.com/r.png?",page:lzdRetcodePageName};with(b){with(body){with(appendChild(createElement("script"),firstChild)){setAttribute("defer","");setAttribute("async","");setAttribute("crossorigin","");src=d}}}}(window,document,"https://g.lazcdn.com/g/retcode/cloud-sdk/bl.js","__bl");</script>
+    <div th:if="${script} ne null and ${script.umid} ne null and ${script.umid} eq true">
+<!-- start Group Umid -->
+<!-- end Group Umid -->
+<script src="https://o.alicdn.com/lzd_sec/LWSC/index.js"></script>
+    </div>
+
+  <!-- end footer -->
+  <!-- 滑块验证码组件 -->
+  <script src="//aeis.alicdn.com/sd/ncpc/nc.js?t=18507" defer async></script>
+  <script>define('@ali/wpk-reporter',[],function(){return window.wpkReporter;});define('@ali/wpk-reporter/dist/plugins/flow',[],function(){return window.wpkflowPlugin;});define('@ali/wpk-reporter/dist/plugins/interface',[],function(){return window.wpkinterfacePlugin;});define('@ali/wpk-reporter/dist/plugins/blank',[],function(){return window.wpkblankPlugin;});</script>
+  <script>require(['//o.alicdn.com/lzdfe/lzd-h5-itrace/index.js'],function(iLogger){try{window.iLogger=iLogger;window.__wpk=iLogger.iLoggerIntegrate({pid:'ntccikh9-c1mxofok',cid:'pdp-pc-revamp',rel:'1.4.4',cluster:'intl',});}catch(e){console.error('init wpkReporter fail',e);}return null;});</script>
+  <script>if('serviceWorker'in navigator){const enanbleSW=true;if(enanbleSW){navigator.serviceWorker.register('/products/sw.js',{scope:'/products/'}).then(function(registration){console.log('ServiceWorker registration successful with scope: ',registration.scope);},function(err){console.log('ServiceWorker registration failed: ',err);});}else{navigator.serviceWorker.getRegistrations().then(function(registrations){registrations.forEach(sw=>sw.unregister());});}}</script>
+
+  <script>(function(){try{var webVitalsScript=document.createElement('script');webVitalsScript.src='https://g.lazcdn.com/g/lzd/assets/1.2.10/web-vitals/3.4.0/index.js';webVitalsScript.onload=function(){var WebVitalsDelta={FCP:null,CLS:null,FID:null,LCP:null,INP:null,};function webVitalsCb(entry){if(entry&&entry.name&&entry.delta){WebVitalsDelta[entry.name]=entry.delta;if(entry.name==='INP'){webVitalsSingleReport(entry);}else if(window.requestIdleCallback){window.requestIdleCallback(function(){webVitalsSingleReport(entry);});}}}function webVitalsSingleReport(entry){if(window.__wpk&&window.__wpk.report){var name=entry&&entry.name||'';var delta=entry&&entry.delta||'';const categories={FCP:101,CLS:103,FID:104,LCP:102,INP:119};window.__wpk.report({category:categories[name],msg:window.location.host,wl_avgv1:delta,bl1:entry&&Object.prototype.toString.call(entry)==="[object Object]"?JSON.stringify(entry):'',c1:entry&&entry.rating||''});}}window.webVitals.getFCP(webVitalsCb);window.webVitals.getCLS(webVitalsCb);window.webVitals.getFID(webVitalsCb);window.webVitals.getLCP(webVitalsCb);window.webVitals.getINP(webVitalsCb);};if(document.head)document.head.appendChild(webVitalsScript);function report(){var fsp=null;var csr=null;if(timings.start&&timings.render){if(timings.ssr){fsp=timings.ssr-timings.start;csr=timings.render-timings.ssr;}else{fsp=timings.render-timings.start;}}if(fsp&&window.__wpk&&window.__wpk.report){__wpk.report({category:105,msg:window.location.host,wl_avgv1:fsp,wl_avgv2:csr||0,c1:window.__hasSSR__?1:0,});}}document.addEventListener('DOMContentLoaded',function(){if(window.timings){if(window.timings.render){report();}else{setTimeout(function(){report();},3000);}}})}catch(err){console.log(err&&err.message)}})();</script>
+  <script>if(window.baxiaCommon){baxiaCommon.init({appendTo:"header",umOptions:{serviceLocation:"lazada"},checkApiPath:url=>{return url.indexOf("mtop.lazada.promotion.voucher.spread")>-1;}});}</script>
+</body>
 </html>
